@@ -1,0 +1,1 @@
+The [[Upper City]] central park where all the gossip is spread around

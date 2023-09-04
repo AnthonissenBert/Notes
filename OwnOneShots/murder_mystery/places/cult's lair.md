@@ -1,0 +1,1 @@
+The party finds themselves in a dimly lit chamber within the cult's lair. Hooded figures stand in a circle, chanting and performing arcane rituals. A sense of foreboding hangs in the air as the party prepares to confront the cult and uncover their motives.

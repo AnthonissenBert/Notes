@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "0a01b7a512ec17ed",
+    "id": "be29865aeb2198f8",
     "type": "split",
     "children": [
       {
-        "id": "3b4824e142f1b3fa",
+        "id": "b37683b059d8677a",
         "type": "tabs",
         "children": [
           {
-            "id": "d00997c921ce0395",
+            "id": "257d6de9497c9bd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "date_night/Plot.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0e5e032df3f3f284",
+    "id": "3a3b1c31d5d7d93d",
     "type": "split",
     "children": [
       {
-        "id": "52d25d27be0f7ea7",
+        "id": "f3d2d7aafa973ffd",
         "type": "tabs",
         "children": [
           {
-            "id": "14976e19dc1323eb",
+            "id": "57aa3398857fa552",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "d8bc08c29dfd1df3",
+            "id": "c9bba6071d808f64",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "1302786eed769868",
+            "id": "04ce0bfb1e230067",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ab87f9c7a51b3748",
+    "id": "ee22703c0a51dd1e",
     "type": "split",
     "children": [
       {
-        "id": "5beda5e95f1e292c",
+        "id": "b40ec2a1962d02a5",
         "type": "tabs",
         "children": [
           {
-            "id": "2da9b914df861018",
+            "id": "3b977c04bcaa859b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "date_night/Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "477eba206ec4a876",
+            "id": "4e7ac310100d4a7d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "date_night/Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a28114401d2d09a4",
+            "id": "fd87abf5cc7a1f3e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "80ac3803039fc456",
+            "id": "7ff9d2adf8b90a93",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "date_night/Plot.md"
+              }
             }
           }
         ]
@@ -138,10 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "57aa3398857fa552",
   "lastOpenFiles": [
-    "Templates/session.template.md",
-    "TheRoleplayCampaign/Sessions/2023-09-04.md",
-    "TheRoleplayCampaign/Pipper.md"
+    "date_night/npc's/spirit of the cursed.md",
+    "date_night/Plot.md",
+    "globals/the Tear of Lysandra.md",
+    "date_night/npc's/the spirit of Lysandra.md",
+    "date_night/npc's/Gideon.md",
+    "date_night/npc's/cursed guardian.md",
+    "date_night/places/Raven's Rest Inn.md",
+    "date_night/places/Ravenwood Estate.md",
+    "murder_mystery/npc's/Otto Ravenswood.md",
+    "date_night/places/Ebonreach.md",
+    "globals",
+    "date_night/places",
+    "date_night/Untitled.md",
+    "date_night/npc's",
+    "globals/Aldercrest Kingdom.md",
+    "murder_mystery/places/Varinthia.md",
+    "murder_mystery/Plot.md",
+    "date_night",
+    "murder_mystery/npc's/Seraphina Valerius.md",
+    "murder_mystery/npc's/Kalan Valerius.md",
+    "murder_mystery/combats/first cult combat.md",
+    "murder_mystery/combats/bbeg combat.md",
+    "murder_mystery/enemies/Brother Malakar.md",
+    "murder_mystery/enemies/Emyrson Firehell.md",
+    "murder_mystery/enemies/Valeria Schadowcastra.md",
+    "murder_mystery/enemies/Sister Malakesh.md",
+    "murder_mystery/enemies/Firstborn Malaketh.md",
+    "murder_mystery/enemies/Aelar Vorenthar.md",
+    "murder_mystery/enemies/Umbral Emissary.md",
+    "murder_mystery/enemies/Noctis.md",
+    "murder_mystery/enemies",
+    "murder_mystery/combats",
+    "murder_mystery/factions",
+    "templates",
+    "murder_mystery/places",
+    "murder_mystery/npc's"
   ]
 }

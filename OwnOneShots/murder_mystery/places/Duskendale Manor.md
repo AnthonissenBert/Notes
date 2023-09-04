@@ -1,0 +1,1 @@
+manor of one of the other prominent noble houses in [[Upper City]] [[Varinthia]]
