@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3b4824e142f1b3fa",
+        "id": "d72ebdfc5acf98e1",
         "type": "tabs",
         "children": [
           {
-            "id": "d00997c921ce0395",
+            "id": "8416d9cceba0ed30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TheRoleplayCampaign/Sessions/2023-09-04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TheRoleplayCampaign/Sessions/2023-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TheRoleplayCampaign/Sessions/2023-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TheRoleplayCampaign/Sessions/2023-09-04.md"
+              }
             }
           }
         ]
@@ -138,13 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d00997c921ce0395",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Npc's/farawan.md",
+    "TheRoleplayCampaign/Sessions/2023-09-04.md",
+    "BeyondTheMournlords/Sessions/2021-06-19.md",
+    "TheRoleplayCampaign/Sessions/2022-09-11.md",
+    "TheRoleplayCampaign/Npc's/Pipper.md",
+    "TheRoleplayCampaign/Npc's/Wedo.md",
+    "TheRoleplayCampaign/Players/Elowyn.md",
+    "TheRoleplayCampaign/Places/The old Chariot.md",
+    "TheRoleplayCampaign/MagicalArtifacts/old hammer.md",
+    "TheRoleplayCampaign/Places/golden rose.md",
+    "TheRoleplayCampaign/Factions",
+    "TheRoleplayCampaign/Npc's/staring woman.md",
     "gitignore",
     "gitignore.txt",
     "New Text Document.txt",
-    "Templates/session.template.md",
-    "TheRoleplayCampaign/Sessions/2023-09-04.md",
-    "TheRoleplayCampaign/Pipper.md"
+    "Templates/session.template.md"
   ]
 }

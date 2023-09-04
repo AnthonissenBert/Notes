@@ -1,1 +1,1 @@
-goblin in [[the inn next door]]
+goblin in [[The old Chariot]]
