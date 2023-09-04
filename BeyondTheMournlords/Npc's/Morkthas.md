@@ -1,0 +1,1 @@
+had a moon sickle but [[Bargolag]] stole it

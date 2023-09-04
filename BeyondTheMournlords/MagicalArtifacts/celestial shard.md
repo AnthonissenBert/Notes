@@ -1,0 +1,1 @@
+a magical artifact in the world

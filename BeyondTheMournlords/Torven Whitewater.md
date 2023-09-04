@@ -1,0 +1,1 @@
+guard that escorted [[Vanaroth]] to the keep when he was arrested

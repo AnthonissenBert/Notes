@@ -1,0 +1,1 @@
+goblin in [[the inn next door]]

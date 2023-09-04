@@ -1,0 +1,3 @@
+- Brother to [[Njall]]
+- Wielding greatsword
+- Redhead

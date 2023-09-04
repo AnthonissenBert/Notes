@@ -1,0 +1,1 @@
+place north of the city of [[Bastion]]

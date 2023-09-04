@@ -1,0 +1,4 @@
+- Capital
+- Doesn’t look or act it
+- Shifty
+- Black hair

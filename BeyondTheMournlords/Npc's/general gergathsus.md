@@ -1,0 +1,1 @@
+General who is going to lay siege on [[Bastion]]

@@ -1,0 +1,1 @@
+demon we fought at the central place in [[Bastion]] with [[Ameth]]'s funeral

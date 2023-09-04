@@ -1,0 +1,1 @@
+creature that spawned from [[Ameth]]'s moom sickle

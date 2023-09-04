@@ -1,0 +1,1 @@
+Deity of light and right

@@ -1,0 +1,6 @@
+- Elf
+- Robed
+- Mage
+- Came from Argus
+- Black hair
+- Reading tomes
