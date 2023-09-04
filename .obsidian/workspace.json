@@ -138,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "d00997c921ce0395",
   "lastOpenFiles": [
+    "gitignore",
+    "gitignore.txt",
+    "New Text Document.txt",
     "Templates/session.template.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
     "TheRoleplayCampaign/Pipper.md"
