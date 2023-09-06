@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-09-04.md",
+                "file": "SlingshotDnD/Synopsis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-09-04.md",
+                "file": "SlingshotDnD/Synopsis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-09-04.md",
+                "file": "SlingshotDnD/Synopsis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-09-04.md"
+                "file": "SlingshotDnD/Synopsis.md"
               }
             }
           }
@@ -148,8 +148,21 @@
   },
   "active": "8416d9cceba0ed30",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Npc's/farawan.md",
+    "SlingshotDnD/Places/Mountains/Copper Tops.md",
+    "SlingshotDnD/Players",
+    "SlingshotDnD/Groups",
+    "SlingshotDnD/Places/Mountains",
+    "SlingshotDnD/templates/Session template.md",
+    "SlingshotDnD/templates/PC template.md",
+    "SlingshotDnD/templates/Party template.md",
+    "SlingshotDnD/templates/NPC template.md",
+    "SlingshotDnD/templates/Location template.md",
+    "SlingshotDnD/Places/small towns/Blackbow.md",
+    "SlingshotDnD/Places/small towns/Untitled.md",
+    "SlingshotDnD/Places/small towns/Brem.md",
+    "SlingshotDnD/Npc's/Vakonijnzir Shurnin.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
+    "TheRoleplayCampaign/Npc's/farawan.md",
     "BeyondTheMournlords/Sessions/2021-06-19.md",
     "TheRoleplayCampaign/Sessions/2022-09-11.md",
     "TheRoleplayCampaign/Npc's/Pipper.md",
