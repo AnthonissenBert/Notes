@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Synopsis.md",
+                "file": "SlingshotDnD/Quests/Flatten the flock.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Synopsis.md",
+                "file": "SlingshotDnD/Quests/Flatten the flock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Synopsis.md",
+                "file": "SlingshotDnD/Quests/Flatten the flock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Synopsis.md"
+                "file": "SlingshotDnD/Quests/Flatten the flock.md"
               }
             }
           }
@@ -148,6 +148,20 @@
   },
   "active": "8416d9cceba0ed30",
   "lastOpenFiles": [
+    "SlingshotDnD/Quests/The Liberation of Fisherman's Bay.md",
+    "SlingshotDnD/Quests/The plague.md",
+    "SlingshotDnD/Quests/Flatten the flock.md",
+    "SlingshotDnD/Players/Vaurulak Valune.md",
+    "SlingshotDnD/Players/Sudo.md",
+    "SlingshotDnD/Players/Monom.md",
+    "SlingshotDnD/Players/Fluffy.md",
+    "SlingshotDnD/Players/Mardai Sorrow.md",
+    "SlingshotDnD/Places/small towns/Brem.md",
+    "SlingshotDnD/Places/small towns/Untitled.md",
+    "SlingshotDnD/Places/small towns/Blackbow.md",
+    "SlingshotDnD/Places/big towns/Dashingvale.md",
+    "SlingshotDnD/Places/big towns/Astoria.md",
+    "SlingshotDnD/Synopsis.md",
     "SlingshotDnD/Places/Mountains/Copper Tops.md",
     "SlingshotDnD/Players",
     "SlingshotDnD/Groups",
@@ -157,25 +171,15 @@
     "SlingshotDnD/templates/Party template.md",
     "SlingshotDnD/templates/NPC template.md",
     "SlingshotDnD/templates/Location template.md",
-    "SlingshotDnD/Places/small towns/Blackbow.md",
-    "SlingshotDnD/Places/small towns/Untitled.md",
-    "SlingshotDnD/Places/small towns/Brem.md",
     "SlingshotDnD/Npc's/Vakonijnzir Shurnin.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
     "TheRoleplayCampaign/Npc's/farawan.md",
     "BeyondTheMournlords/Sessions/2021-06-19.md",
     "TheRoleplayCampaign/Sessions/2022-09-11.md",
     "TheRoleplayCampaign/Npc's/Pipper.md",
-    "TheRoleplayCampaign/Npc's/Wedo.md",
-    "TheRoleplayCampaign/Players/Elowyn.md",
-    "TheRoleplayCampaign/Places/The old Chariot.md",
-    "TheRoleplayCampaign/MagicalArtifacts/old hammer.md",
-    "TheRoleplayCampaign/Places/golden rose.md",
     "TheRoleplayCampaign/Factions",
-    "TheRoleplayCampaign/Npc's/staring woman.md",
     "gitignore",
     "gitignore.txt",
-    "New Text Document.txt",
-    "Templates/session.template.md"
+    "New Text Document.txt"
   ]
 }
