@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Quests/Flatten the flock.md",
+                "file": "SlingshotDnD/Quests/Copperhollow/miners gone missing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/Flatten the flock.md",
+                "file": "SlingshotDnD/Quests/Copperhollow/miners gone missing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/Flatten the flock.md",
+                "file": "SlingshotDnD/Quests/Copperhollow/miners gone missing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/Flatten the flock.md"
+                "file": "SlingshotDnD/Quests/Copperhollow/miners gone missing.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "8416d9cceba0ed30",
   "lastOpenFiles": [
+    "SlingshotDnD/Quests/Copperhollow/Burned house haunting.md",
+    "SlingshotDnD/Quests/Copperhollow/miners gone missing.md",
+    "SlingshotDnD/Quests/Flatten the flock.md",
+    "SlingshotDnD/Synopsis.md",
+    "SlingshotDnD/Sessions/Session 4.md",
     "SlingshotDnD/Quests/The Liberation of Fisherman's Bay.md",
     "SlingshotDnD/Quests/The plague.md",
-    "SlingshotDnD/Quests/Flatten the flock.md",
     "SlingshotDnD/Players/Vaurulak Valune.md",
     "SlingshotDnD/Players/Sudo.md",
     "SlingshotDnD/Players/Monom.md",
@@ -161,7 +165,6 @@
     "SlingshotDnD/Places/small towns/Blackbow.md",
     "SlingshotDnD/Places/big towns/Dashingvale.md",
     "SlingshotDnD/Places/big towns/Astoria.md",
-    "SlingshotDnD/Synopsis.md",
     "SlingshotDnD/Places/Mountains/Copper Tops.md",
     "SlingshotDnD/Players",
     "SlingshotDnD/Groups",
@@ -174,9 +177,6 @@
     "SlingshotDnD/Npc's/Vakonijnzir Shurnin.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
     "TheRoleplayCampaign/Npc's/farawan.md",
-    "BeyondTheMournlords/Sessions/2021-06-19.md",
-    "TheRoleplayCampaign/Sessions/2022-09-11.md",
-    "TheRoleplayCampaign/Npc's/Pipper.md",
     "TheRoleplayCampaign/Factions",
     "gitignore",
     "gitignore.txt",

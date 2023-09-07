@@ -1,3 +1,6 @@
+**already done**
+
+---
 # in short
 ## description
 1. one of the male slaves has escaped the grasp of the whale hunters and found refuge in a nearby village
