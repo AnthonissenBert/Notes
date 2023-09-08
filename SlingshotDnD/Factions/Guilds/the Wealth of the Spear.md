@@ -22,10 +22,12 @@ short description
 - [[Osmund Briarmane]]
 
 **Goals and Ambitions**
-...
+
 
 **Methods and Strategies:** 
-...
+- by word of mouth
+- by message boards
+- by bullet boards
 
 **Enemies and Opposition:** 
-...
+None
