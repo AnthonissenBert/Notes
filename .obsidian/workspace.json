@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Npc's/Clank.md",
+                "file": "SlingshotDnD/Npc's/Father Petroika.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Clank.md",
+                "file": "SlingshotDnD/Npc's/Father Petroika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Clank.md",
+                "file": "SlingshotDnD/Npc's/Father Petroika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Clank.md"
+                "file": "SlingshotDnD/Npc's/Father Petroika.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "00c86917e7cd18f7",
   "lastOpenFiles": [
+    "SlingshotDnD/Npc's/Ezum Non.md",
+    "SlingshotDnD/Npc's/Don.md",
+    "SlingshotDnD/Npc's/Clank.md",
     "SlingshotDnD/Npc's/Chetov Lervas.md",
     "SlingshotDnD/Npc's/Gruuk.md",
     "SlingshotDnD/Factions/Emerald knights.md",
@@ -202,9 +205,6 @@
     "SlingshotDnD/Places/big towns/Dashingvale.md",
     "SlingshotDnD/Places/big towns/Astoria.md",
     "SlingshotDnD/Npc's/Monsters/Wolf.md",
-    "SlingshotDnD/Npc's/Monsters/Spawned Critter.md",
-    "SlingshotDnD/Npc's/Monsters/Hobgoblin.md",
-    "SlingshotDnD/Npc's/Monsters/goblin.md",
     "SlingshotDnD/_Assets/Tokens",
     "SlingshotDnD/_Assets/pdf"
   ]
