@@ -1,4 +1,4 @@
-status: 
+status: General
 race
 in charge of:
 

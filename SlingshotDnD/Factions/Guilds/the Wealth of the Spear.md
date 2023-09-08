@@ -14,7 +14,7 @@ short description
 **Leader**:
 - [[Garrick Lance]]
 
-**Officers**:
+**Lieutenant**:
 - [[Gruuk]]
 - ...
 
