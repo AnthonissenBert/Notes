@@ -10,6 +10,6 @@ description
 
 ## family
 
-married to:
+married to: [[]]
 x amount of children:
 - 
