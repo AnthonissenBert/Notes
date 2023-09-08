@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "215daa2e7af5b886",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The court.md",
+                "file": "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The court.md",
+                "file": "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/The court.md"
+                "file": "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md"
               }
             }
           }
@@ -176,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8416d9cceba0ed30",
+  "active": "b6490f7d02e952a8",
   "lastOpenFiles": [
     "Templates/faction.template.md",
     "SlingshotDnD/Factions/The court.md",
