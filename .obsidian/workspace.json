@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lance Garrick.md",
+                "file": "Templates/faction.template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lance Garrick.md",
+                "file": "Templates/faction.template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lance Garrick.md"
+                "file": "Templates/faction.template.md"
               }
             }
           }
@@ -171,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f2276f7c33e5b91",
+  "active": "00c86917e7cd18f7",
   "lastOpenFiles": [
-    "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
     "Lance Garrick.md",
+    "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Gruuk.md",
     "Templates/faction.template.md",
     "SlingshotDnD/Factions/The court.md",

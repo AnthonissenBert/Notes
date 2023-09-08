@@ -1,6 +1,6 @@
-status: General of [[the Wealth of the Spear]]
-race: 
-in charge of:
+status: General
+race: Dragonborn
+in charge of: 
 
 ---
 
