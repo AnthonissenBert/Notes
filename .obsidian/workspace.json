@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b0f475d2839a3f6b",
+        "id": "d72ebdfc5acf98e1",
         "type": "tabs",
         "children": [
           {
-            "id": "3c344212933080dc",
+            "id": "8416d9cceba0ed30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Factions/Emerald knights.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SlingshotDnD/Factions/Emerald knights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SlingshotDnD/Factions/Emerald knights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SlingshotDnD/Factions/Emerald knights.md"
+              }
             }
           }
         ]
@@ -138,41 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c344212933080dc",
+  "active": "8416d9cceba0ed30",
   "lastOpenFiles": [
-    "Leon.md",
-    "Don.md",
-    "Michael.md",
-    "Ralph.md",
-    "SlingshotDnD/Factions/The shadow collective.md",
-    "SlingshotDnD/Factions/The court.md",
-    "Clank.md",
-    "SlingshotDnD/Deities/Magnus.md",
-    "SlingshotDnD/Deities/Vaestus.md",
-    "SlingshotDnD/Deities/Yuria.md",
-    "SlingshotDnD/Factions/Guilds/Wealth of the Spear.md",
-    "SlingshotDnD/Factions/Guilds/Firestone Mining company.md",
-    "SlingshotDnD/Factions/Guilds/Cliffshine Corporation.md",
-    "SlingshotDnD/Deities/Cybele.md",
-    "SlingshotDnD/Sessions/Session 4.md",
-    "Tables/Random encounters.md",
+    "TheRoleplayCampaign/Sessions/2023-09-04.md",
     "Templates/quest.template.md",
+    "Tables/Random encounters.md",
     "Tables",
+    "SlingshotDnD/Places/small towns/mining settements/Copperhollow.md",
+    "SlingshotDnD/Places/small towns/farming settlements/Ravenswatch.md",
+    "SlingshotDnD/_Assets/Tokens/wolf2.png",
+    "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png",
+    "SlingshotDnD/_Assets/Tokens/MerchantHallLeader.png",
+    "SlingshotDnD/_Assets/Tokens/MiningGuildLeader.png",
+    "SlingshotDnD/_Assets/Tokens/innkeepRavenswatch.png",
+    "SlingshotDnD/_Assets/Tokens/LordLurken.png",
+    "SlingshotDnD/_Assets/Tokens/hobgoblin.png",
+    "SlingshotDnD/_Assets/Tokens/goblin.png",
+    "SlingshotDnD/_Assets/Tokens/FrivolousBard.png",
+    "SlingshotDnD/_Assets/Tokens/FireElemental.png",
+    "SlingshotDnD/_Assets/pdf/vauralok.pdf",
+    "SlingshotDnD/_Assets/pdf/sudo_Bram.pdf",
+    "SlingshotDnD/_Assets/pdf/Monom.pdf",
+    "SlingshotDnD/_Assets/pdf/Mardai_Sorrow_lvl3.pdf",
+    "SlingshotDnD/_Assets/pdf/Gruuk.pdf",
+    "SlingshotDnD/Quests/Silverbark forest/Spectral Ruins.md",
+    "SlingshotDnD/Quests/Silverbark forest/Bringing down the alpha.md",
+    "SlingshotDnD/Quests/Copperhollow/wooing the mayor's daughter.md",
+    "SlingshotDnD/Quests/Copperhollow/Smuggling a diamond.md",
     "SlingshotDnD/Quests/Copperhollow/miners gone missing.md",
     "SlingshotDnD/Quests/Copperhollow/Burned house haunting.md",
-    "SlingshotDnD/Quests/Flatten the flock.md",
-    "SlingshotDnD/Synopsis.md",
-    "SlingshotDnD/Quests/The Liberation of Fisherman's Bay.md",
-    "SlingshotDnD/Quests/The plague.md",
-    "SlingshotDnD/Players/Vaurulak Valune.md",
-    "SlingshotDnD/Players/Sudo.md",
-    "SlingshotDnD/Players/Monom.md",
-    "SlingshotDnD/Players",
-    "SlingshotDnD/Groups",
-    "SlingshotDnD/Places/Mountains",
-    "TheRoleplayCampaign/Factions",
-    "gitignore",
-    "gitignore.txt",
-    "New Text Document.txt"
+    "SlingshotDnD/Places/small towns/mining settements",
+    "SlingshotDnD/Places/small towns/farming settlements",
+    "SlingshotDnD/Places/Mountains/Copper Tops.md",
+    "SlingshotDnD/Places/small towns/Brem.md",
+    "SlingshotDnD/Places/small towns/Blackbow.md",
+    "SlingshotDnD/Places/Forests/Silverbark forest.md",
+    "SlingshotDnD/Places/Forests/Forest of Nibel.md",
+    "SlingshotDnD/Places/Forests/Emberwood forest.md",
+    "SlingshotDnD/Places/big towns/Dashingvale.md",
+    "SlingshotDnD/Places/big towns/Astoria.md",
+    "SlingshotDnD/Npc's/Monsters/Wolf.md",
+    "SlingshotDnD/Npc's/Monsters/Spawned Critter.md",
+    "SlingshotDnD/Npc's/Monsters/Hobgoblin.md",
+    "SlingshotDnD/Npc's/Monsters/goblin.md",
+    "SlingshotDnD/Npc's/Monsters/Direwolf.md",
+    "SlingshotDnD/Npc's/Monsters/Ghost.md",
+    "SlingshotDnD/Npc's/Monsters/Fire elemental.md",
+    "SlingshotDnD/_Assets/Tokens",
+    "SlingshotDnD/_Assets/pdf"
   ]
 }
