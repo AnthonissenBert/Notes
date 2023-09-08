@@ -22,7 +22,7 @@ short description
 - [[Osmund Briarmane]]
 
 **Goals and Ambitions**
-
+Make the world a better place
 
 **Methods and Strategies:** 
 - by word of mouth
@@ -30,4 +30,4 @@ short description
 - by bullet boards
 
 **Enemies and Opposition:** 
-None
+None yet
