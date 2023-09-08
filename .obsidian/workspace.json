@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/faction.template.md",
+                "file": "SlingshotDnD/Factions/The court.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/faction.template.md",
+                "file": "SlingshotDnD/Factions/The court.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/faction.template.md"
+                "file": "SlingshotDnD/Factions/The court.md"
               }
             }
           }
@@ -176,11 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00c86917e7cd18f7",
+  "active": "8416d9cceba0ed30",
   "lastOpenFiles": [
-    "SlingshotDnD/Places/big towns/Dashingvale.md",
-    "SlingshotDnD/Factions/The court.md",
     "Templates/faction.template.md",
+    "SlingshotDnD/Factions/The court.md",
+    "SlingshotDnD/Places/big towns/Dashingvale.md",
     "SlingshotDnD/Factions/Emerald knights.md",
     "SlingshotDnD/Places/big towns/Astoria.md",
     "SlingshotDnD/_Assets/GM links.md",
