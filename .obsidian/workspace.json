@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12637c078dd9c6aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Garrison.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qibis Garrick.md",
+                "file": "The Garrison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qibis Garrick.md",
+                "file": "The Garrison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qibis Garrick.md"
+                "file": "The Garrison.md"
               }
             }
           }
@@ -183,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f000097d84935a1f",
+  "active": "12637c078dd9c6aa",
   "lastOpenFiles": [
-    "Lance Garrick.md",
     "Qibis Garrick.md",
+    "The Garrison.md",
+    "Lance Garrick.md",
     "Templates/faction.template.md",
     "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Gruuk.md",
@@ -226,7 +239,6 @@
     "SlingshotDnD/Quests/Silverbark forest/Bringing down the alpha.md",
     "SlingshotDnD/Quests/Copperhollow/wooing the mayor's daughter.md",
     "SlingshotDnD/Quests/Copperhollow/Smuggling a diamond.md",
-    "SlingshotDnD/Quests/Copperhollow/miners gone missing.md",
     "SlingshotDnD/Places/small towns/mining settements",
     "SlingshotDnD/Places/small towns/farming settlements",
     "SlingshotDnD/_Assets/Tokens",

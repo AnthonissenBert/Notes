@@ -1,0 +1,1 @@
+central hub of [[the Wealth of the Spear]]

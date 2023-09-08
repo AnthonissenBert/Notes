@@ -1,6 +1,6 @@
 status: Wife
 race: Dragonborn
-in charge of: [[]]
+in charge of: [[The Garrison]]
 
 ---
 
