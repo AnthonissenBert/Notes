@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Places/big towns/Dashingvale.md",
+                "file": "Templates/faction.template.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Places/big towns/Dashingvale.md",
+                "file": "Templates/faction.template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Places/big towns/Dashingvale.md",
+                "file": "Templates/faction.template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Places/big towns/Dashingvale.md"
+                "file": "Templates/faction.template.md"
               }
             }
           }
@@ -178,10 +178,10 @@
   },
   "active": "00c86917e7cd18f7",
   "lastOpenFiles": [
+    "SlingshotDnD/Places/big towns/Dashingvale.md",
     "SlingshotDnD/Factions/The court.md",
     "Templates/faction.template.md",
     "SlingshotDnD/Factions/Emerald knights.md",
-    "SlingshotDnD/Places/big towns/Dashingvale.md",
     "SlingshotDnD/Places/big towns/Astoria.md",
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Npc's/Gruuk.md",
