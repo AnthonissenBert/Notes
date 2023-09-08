@@ -18,7 +18,7 @@ short description
 - [[Gruuk]]
 - ...
 
-**Informants**
+**Sergeant**
 - [[Osmund Briarmane]]
 
 **Goals and Ambitions**
@@ -31,3 +31,4 @@ Make the world a better place
 
 **Enemies and Opposition:** 
 None yet
+
