@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Npc's/Gruuk.md",
+                "file": "SlingshotDnD/_Assets/GM links.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Gruuk.md",
+                "file": "SlingshotDnD/_Assets/GM links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Gruuk.md",
+                "file": "SlingshotDnD/_Assets/GM links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Gruuk.md"
+                "file": "SlingshotDnD/_Assets/GM links.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "00c86917e7cd18f7",
   "lastOpenFiles": [
-    "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Gruuk.md",
+    "SlingshotDnD/_Assets/Tokens/Gruuk.png",
+    "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Githan Shortpick.md",
     "SlingshotDnD/Npc's/Father Petroika.md",
     "SlingshotDnD/Npc's/Ezum Non.md",
@@ -197,7 +198,6 @@
     "SlingshotDnD/_Assets/Tokens/hobgoblin.png",
     "SlingshotDnD/_Assets/Tokens/goblin.png",
     "SlingshotDnD/_Assets/Tokens/FrivolousBard.png",
-    "SlingshotDnD/_Assets/Tokens/FireElemental.png",
     "SlingshotDnD/_Assets/pdf/vauralok.pdf",
     "SlingshotDnD/_Assets/pdf/sudo_Bram.pdf",
     "SlingshotDnD/_Assets/pdf/Monom.pdf",
@@ -216,7 +216,6 @@
     "SlingshotDnD/Places/small towns/Blackbow.md",
     "SlingshotDnD/Places/Forests/Silverbark forest.md",
     "SlingshotDnD/Places/Forests/Forest of Nibel.md",
-    "SlingshotDnD/Places/Forests/Emberwood forest.md",
     "SlingshotDnD/_Assets/Tokens",
     "SlingshotDnD/_Assets/pdf"
   ]
