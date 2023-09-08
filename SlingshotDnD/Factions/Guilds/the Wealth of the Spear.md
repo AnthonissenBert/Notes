@@ -12,7 +12,7 @@ short description
 ---
 
 **General**:
-- [[Garrick Lance]]
+- [[Lance Garrick]]
 
 **Lieutenant**:
 - [[Gruuk]]

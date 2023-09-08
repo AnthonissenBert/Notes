@@ -4,12 +4,12 @@ in charge of:
 
 ---
 
-description
+
 
 ---
 
 ## family
 
-married to: [[]]
+married to: [[Qibis Garrick]]
 x amount of children:
 - 
