@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/_Assets/GM links.md",
+                "file": "SlingshotDnD/Places/big towns/Dashingvale.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/_Assets/GM links.md",
+                "file": "SlingshotDnD/Places/big towns/Dashingvale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/_Assets/GM links.md",
+                "file": "SlingshotDnD/Places/big towns/Dashingvale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/_Assets/GM links.md"
+                "file": "SlingshotDnD/Places/big towns/Dashingvale.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "00c86917e7cd18f7",
   "lastOpenFiles": [
+    "SlingshotDnD/Places/big towns/Astoria.md",
+    "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Npc's/Gruuk.md",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
@@ -215,7 +217,6 @@
     "SlingshotDnD/Places/small towns/Brem.md",
     "SlingshotDnD/Places/small towns/Blackbow.md",
     "SlingshotDnD/Places/Forests/Silverbark forest.md",
-    "SlingshotDnD/Places/Forests/Forest of Nibel.md",
     "SlingshotDnD/_Assets/Tokens",
     "SlingshotDnD/_Assets/pdf"
   ]
