@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6490f7d02e952a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -161,13 +173,14 @@
   },
   "active": "00c86917e7cd18f7",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
+    "SlingshotDnD/Npc's/Gruuk.md",
     "SlingshotDnD/Npc's/Githan Shortpick.md",
     "SlingshotDnD/Npc's/Father Petroika.md",
     "SlingshotDnD/Npc's/Ezum Non.md",
     "SlingshotDnD/Npc's/Don.md",
     "SlingshotDnD/Npc's/Clank.md",
     "SlingshotDnD/Npc's/Chetov Lervas.md",
-    "SlingshotDnD/Npc's/Gruuk.md",
     "SlingshotDnD/Factions/Emerald knights.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
     "Templates/quest.template.md",
@@ -204,7 +217,6 @@
     "SlingshotDnD/Places/Forests/Silverbark forest.md",
     "SlingshotDnD/Places/Forests/Forest of Nibel.md",
     "SlingshotDnD/Places/Forests/Emberwood forest.md",
-    "SlingshotDnD/Places/big towns/Dashingvale.md",
     "SlingshotDnD/_Assets/Tokens",
     "SlingshotDnD/_Assets/pdf"
   ]
