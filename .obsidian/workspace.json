@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "215daa2e7af5b886",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Gruuk.md",
+                "file": "Garrick Lance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Gruuk.md",
+                "file": "Garrick Lance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Gruuk.md"
+                "file": "Garrick Lance.md"
               }
             }
           }
@@ -201,9 +201,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c6dbb75a075235d",
+  "active": "0f2276f7c33e5b91",
   "lastOpenFiles": [
     "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
+    "SlingshotDnD/Npc's/Gruuk.md",
     "Garrick Lance.md",
     "Templates/faction.template.md",
     "SlingshotDnD/Factions/The court.md",
@@ -211,7 +212,6 @@
     "SlingshotDnD/Factions/Emerald knights.md",
     "SlingshotDnD/Places/big towns/Astoria.md",
     "SlingshotDnD/_Assets/GM links.md",
-    "SlingshotDnD/Npc's/Gruuk.md",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "SlingshotDnD/Npc's/Githan Shortpick.md",
     "SlingshotDnD/Npc's/Father Petroika.md",
