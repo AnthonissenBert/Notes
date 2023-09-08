@@ -6,5 +6,5 @@ Big leader:
 leader in [[Copperhollow|Copperhollow]]
 - [[The Fox]]
 
-purpose
-- scheming to infiltrate and control all the local city's government and economy by blackmailing influential figures and disrupting their rivals' operations.
+**purpose**
+Be as rich as possible

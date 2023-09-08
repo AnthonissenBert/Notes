@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d72ebdfc5acf98e1",
+        "id": "b0f475d2839a3f6b",
         "type": "tabs",
         "children": [
           {
-            "id": "8416d9cceba0ed30",
+            "id": "3c344212933080dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Factions/The court.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "befc6b6c64028d09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clank.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The court.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The court.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SlingshotDnD/Factions/The court.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,18 +138,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8416d9cceba0ed30",
+  "active": "3c344212933080dc",
   "lastOpenFiles": [
-    "Clank.md",
+    "Leon.md",
+    "Don.md",
+    "Michael.md",
+    "Ralph.md",
+    "SlingshotDnD/Factions/The shadow collective.md",
     "SlingshotDnD/Factions/The court.md",
+    "Clank.md",
+    "SlingshotDnD/Deities/Magnus.md",
+    "SlingshotDnD/Deities/Vaestus.md",
+    "SlingshotDnD/Deities/Yuria.md",
     "SlingshotDnD/Factions/Guilds/Wealth of the Spear.md",
     "SlingshotDnD/Factions/Guilds/Firestone Mining company.md",
     "SlingshotDnD/Factions/Guilds/Cliffshine Corporation.md",
     "SlingshotDnD/Deities/Cybele.md",
     "SlingshotDnD/Sessions/Session 4.md",
-    "SlingshotDnD/Deities/Magnus.md",
-    "SlingshotDnD/Deities/Vaestus.md",
-    "SlingshotDnD/Deities/Yuria.md",
     "Tables/Random encounters.md",
     "Templates/quest.template.md",
     "Tables",
@@ -182,11 +167,6 @@
     "SlingshotDnD/Players/Vaurulak Valune.md",
     "SlingshotDnD/Players/Sudo.md",
     "SlingshotDnD/Players/Monom.md",
-    "SlingshotDnD/Players/Fluffy.md",
-    "SlingshotDnD/Players/Mardai Sorrow.md",
-    "SlingshotDnD/Places/small towns/Brem.md",
-    "SlingshotDnD/Places/small towns/Untitled.md",
-    "SlingshotDnD/Places/small towns/Blackbow.md",
     "SlingshotDnD/Players",
     "SlingshotDnD/Groups",
     "SlingshotDnD/Places/Mountains",
