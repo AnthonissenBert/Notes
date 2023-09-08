@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8416d9cceba0ed30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Factions/Emerald knights.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "00c86917e7cd18f7",
             "type": "leaf",
             "state": {
@@ -43,8 +31,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "215daa2e7af5b886",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8416d9cceba0ed30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Factions/The court.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,6 +178,10 @@
   },
   "active": "00c86917e7cd18f7",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/The court.md",
+    "Templates/faction.template.md",
+    "SlingshotDnD/Factions/Emerald knights.md",
+    "SlingshotDnD/Places/big towns/Dashingvale.md",
     "SlingshotDnD/Places/big towns/Astoria.md",
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Npc's/Gruuk.md",
@@ -184,7 +193,6 @@
     "SlingshotDnD/Npc's/Don.md",
     "SlingshotDnD/Npc's/Clank.md",
     "SlingshotDnD/Npc's/Chetov Lervas.md",
-    "SlingshotDnD/Factions/Emerald knights.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
     "Templates/quest.template.md",
     "Tables/Random encounters.md",
@@ -214,9 +222,6 @@
     "SlingshotDnD/Places/small towns/mining settements",
     "SlingshotDnD/Places/small towns/farming settlements",
     "SlingshotDnD/Places/Mountains/Copper Tops.md",
-    "SlingshotDnD/Places/small towns/Brem.md",
-    "SlingshotDnD/Places/small towns/Blackbow.md",
-    "SlingshotDnD/Places/Forests/Silverbark forest.md",
     "SlingshotDnD/_Assets/Tokens",
     "SlingshotDnD/_Assets/pdf"
   ]
