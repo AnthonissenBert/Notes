@@ -11,7 +11,7 @@ short description
 
 ---
 
-**Leader**:
+**General**:
 - [[Garrick Lance]]
 
 **Lieutenant**:

@@ -1,5 +1,5 @@
-status: General
-race
+status: General of [[the Wealth of the Spear]]
+race: 
 in charge of:
 
 ---
