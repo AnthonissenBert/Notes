@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c6dbb75a075235d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Npc's/Gruuk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f2276f7c33e5b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garrick Lance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "215daa2e7af5b886",
@@ -116,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
+                "file": "SlingshotDnD/Npc's/Gruuk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
+                "file": "SlingshotDnD/Npc's/Gruuk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md"
+                "file": "SlingshotDnD/Npc's/Gruuk.md"
               }
             }
           }
@@ -177,8 +201,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6490f7d02e952a8",
+  "active": "9c6dbb75a075235d",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
+    "Garrick Lance.md",
     "Templates/faction.template.md",
     "SlingshotDnD/Factions/The court.md",
     "SlingshotDnD/Places/big towns/Dashingvale.md",
@@ -187,7 +213,6 @@
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Npc's/Gruuk.md",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
-    "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Githan Shortpick.md",
     "SlingshotDnD/Npc's/Father Petroika.md",
     "SlingshotDnD/Npc's/Ezum Non.md",
@@ -222,7 +247,6 @@
     "SlingshotDnD/Quests/Copperhollow/Burned house haunting.md",
     "SlingshotDnD/Places/small towns/mining settements",
     "SlingshotDnD/Places/small towns/farming settlements",
-    "SlingshotDnD/Places/Mountains/Copper Tops.md",
     "SlingshotDnD/_Assets/Tokens",
     "SlingshotDnD/_Assets/pdf"
   ]
