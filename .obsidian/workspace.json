@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Factions/The court.md",
+                "file": "SlingshotDnD/Factions/Emerald knights.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The court.md",
+                "file": "SlingshotDnD/Factions/Emerald knights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The court.md",
+                "file": "SlingshotDnD/Factions/Emerald knights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/The court.md"
+                "file": "SlingshotDnD/Factions/Emerald knights.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "de5e18df369eb1ef",
   "lastOpenFiles": [
-    "SlingshotDnD/Npc's/Clank.md",
     "SlingshotDnD/Factions/The court.md",
+    "SlingshotDnD/Npc's/Clank.md",
     "SlingshotDnD/Factions/Emerald knights.md",
     "SlingshotDnD/Factions/Bouldermanes.md",
     "Templates/faction.template.md",
