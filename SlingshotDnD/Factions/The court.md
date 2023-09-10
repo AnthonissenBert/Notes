@@ -24,3 +24,4 @@ The Court is a shadowy and insidious faction, with each member playing a crucial
 #### Flaws
 
 Pure Evil, They will endoctorinate all the weak minded people
+#### Symbol and Insignia
