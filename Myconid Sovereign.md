@@ -1,16 +1,16 @@
 ### key information
 
-Armor Class: 12
-Hit Points: 22 (4d8 + 4)
-Speed 20 ft.
+Armor Class: 13
+Hit Points: 60 (8d10 + 16)
+Speed 30 ft.
 
 ---
 
 ### ability scores
 
-STR: 10 (+0) 
+STR: 12 (+0) 
 DEX: 10 (+0)
-CON: 12 (+1)
+CON: 14 (+1)
 INT: 13 (+1)
 WIS: 10 (+0)
 CHA: 7 (+0)
