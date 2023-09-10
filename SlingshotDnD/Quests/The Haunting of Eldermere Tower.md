@@ -115,9 +115,9 @@ The party ascends to the fifth and final level of the tower, entering a chamber 
 
 # Conclusion:
 
-- After defeating the hag, the party finds the artifact they sought, a [[crystal of purification]].
+- After defeating the hag, the party finds the artifact they sought, a [[Crystal of Purification]].
 - Returning to the village, they use the crystal to cleanse the tower, dispelling its malevolent influence.
-- The grateful villagers reward the party with riches, and they are hailed as heroes of Millhaven.
+- The grateful villagers reward the party with riches, and they are hailed as heroes of [[Millhaven]].
 
 Optional Hooks and Expansions:
 
