@@ -36,8 +36,25 @@ What am I?"
 
 # Level 2: The Haunting Library
 
-- The second level is a grand library filled with floating books, animated quills, and spectral librarians.
-- Ghostly apparitions challenge the players to a battle of wits, requiring them to solve riddles, locate hidden tomes, and decipher a cryptic spell to unlock the way up.
+1. **The Whispering Tomes:** As the party explores the library, they encounter a series of floating books that seem to be trying to communicate with them. These spectral tomes contain fragments of knowledge about the tower's history and the curse that plagues it. The players must decipher the cryptic messages hidden within the whispers of the books to learn more about their quest.
+
+2. **Spectral Librarians:** Ghostly librarians haunt the library, seeking to protect its secrets. The librarians manifest as semi-transparent figures in old-fashioned attire, and they don't take kindly to intruders. The party can choose to avoid them or engage in combat. Defeating the librarians may yield valuable clues or items.
+
+3. **The Riddle of the Lost Tome:** To proceed further into the tower, the party must locate a specific book hidden among the countless volumes. A riddle hints at its location:
+
+    "In realms of knowledge vast and wide, Seek the tome where secrets hide. A shadowed corner, dusty and dim, Where wisdom's light has grown quite dim. In crimson leather, with pages thin, Find the tale where our journey begins."
+    
+    The book they seek is titled "Chronicles of Eldermere," and finding it will reveal critical information about the tower's history and the curse they must overcome.
+
+4. **The Cryptic Spell:** The way forward is blocked by a magical barrier. In the library's margins, the party finds notes and diagrams left by a former resident who was attempting to decipher the tower's secrets. These clues lead the players to a hidden chamber where they can cast a spell to dispel the barrier. The spell requires them to collect specific reagents found throughout the library.
+
+**Rewards:**
+
+1. **The Tome of Eldermere:** Successfully solving the riddle and locating the "Chronicles of Eldermere" provides valuable insights into the tower's past, including information about the curse and its origins. This knowledge will prove essential in confronting the tower's malevolent force.
+    
+2. **Magical Tomes:** In their exploration, the party may discover other enchanted books that grant temporary magical benefits or knowledge applicable to their adventures.
+    
+3. **Reagents for the Spell:** Collecting the required reagents allows the party to dispel the magical barrier and continue their ascent through the tower.
 
 # Level 3: The Ethereal Gallery
 
