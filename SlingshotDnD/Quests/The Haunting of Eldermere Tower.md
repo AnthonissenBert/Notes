@@ -39,8 +39,10 @@ What am I?"
 1. **The Whispering Tomes:** As the party explores the library, they encounter a series of floating books that seem to be trying to communicate with them. These spectral tomes contain fragments of knowledge about the tower's history and the curse that plagues it. The players must decipher the cryptic messages hidden within the whispers of the books to learn more about their quest.
 
 2. **Elemental Librarians:** Elemental librarians roam the library, seeking to protect its secrets. The librarians manifest as elemental figures with no attire, and they don't take kindly to intruders. The party can choose to avoid them or engage in combat. Defeating the librarians may yield valuable clues or items.
+	- [[earth elemental]]
+	- [[air elemental]]
 
-3. **The Riddle of the Lost Tome:** To proceed further into the tower, the party must locate a specific book hidden among the countless volumes. A riddle hints at its location:
+4. **The Riddle of the Lost Tome:** To proceed further into the tower, the party must locate a specific book hidden among the countless volumes. A riddle hints at its location:
 
     "In realms of knowledge vast and wide, Seek the tome where secrets hide. A shadowed corner, dusty and dim, Where wisdom's light has grown quite dim. In crimson leather, with pages thin, Find the tale where our journey begins."
     

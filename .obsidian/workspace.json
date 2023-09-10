@@ -20,54 +20,19 @@
             }
           },
           {
-            "id": "63ffbe1351c73f09",
+            "id": "ecc50200955870b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myconid adult.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a490276dbf85940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myconid Sovereign.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a2ad2c772a809a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aeliana.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af311deef2fce636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aeliana.md",
+                "file": "earth elemental.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "earth elemental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "earth elemental.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
+                "file": "earth elemental.md"
               }
             }
           }
@@ -194,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23a2bffe82487265",
+  "active": "ecc50200955870b7",
   "lastOpenFiles": [
     "Myconid adult.md",
+    "earth elemental.md",
     "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "Myconid Sovereign.md",
     "Aeliana.md",
@@ -226,7 +192,6 @@
     "Templates/faction.template.md",
     "SlingshotDnD/Npc's/Kazunori.md",
     "SlingshotDnD/Npc's/Zara.md",
-    "SlingshotDnD/Npc's/Takashi.md",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",
