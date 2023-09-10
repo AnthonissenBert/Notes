@@ -10,24 +10,24 @@ Act 1: The Tower's Entrance
 
 - The party approaches the towering, ivy-covered structure. It appears to have five distinct levels, each with a different appearance.
 - As they enter, the door slams shut behind them and a steel gate magically locks, leaving only one way forward: up the tower.
-- At the entrance, the party encounters a ghostly guardian who warns them about the tower's dangers. They must answer a riddle or provide a gift (an item of value) to proceed.
-- the riddle being:
+- At the entrance, the party encounters a ghostly guardian who warns them about the tower's dangers. They must answer a riddle or provide a blood sacrifice.
 ``` Riddle
-_"My challenge has made men throughout time stumble,
-_I have defeated kings and left wise men humble
+"My challenge has made men throughout time stumble,
+I have defeated kings and left wise men humble,
 
-_You see me now, but I am most often heard,_  
-_and have killed men when with bullets paired,_
+You see me now, but I am most often heard,
+and have killed men when with bullets paired,
 
-_You might break a sweat when fighting with me,_  
-_but I'll exert no pressure on your body,_
+You might break a sweat when fighting with me,
+but I'll exert no pressure on your body,
 
-_a with a direct approach you can never find victory,  
-work laterally rather than literally._
+a with a direct approach you can never find victory,  
+work laterally rather than literally.
 
-_What am I?"_
+What am I?"
 ```
 
+if they find the answer pretty quickly they see the room before 
 Level 1: The Fungus Infested Chamber
 
 - The first level is shrouded in an eerie mist with eerie glowing mushrooms.
