@@ -5,12 +5,4 @@ in charge of: a section of [[The Emerald Knights]]
 
 ---
 
-description
-
----
-
-## family
-
-married to:
-x amount of children:
-- 
+Zara is a half-orc samurai with an indomitable spirit. Leading her troops into battle, she inspires unwavering loyalty with her charisma and relentless commitment to victory.

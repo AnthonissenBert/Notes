@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b05f23d04937dab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kazunori.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b677a2bd5ea74790",
             "type": "leaf",
             "state": {
@@ -160,6 +172,7 @@
   },
   "active": "015bd202e706458e",
   "lastOpenFiles": [
+    "Kazunori.md",
     "Zara.md",
     "SlingshotDnD/Factions/The Emerald Knights.md",
     "Takashi.md",
@@ -186,7 +199,6 @@
     "SlingshotDnD/Npc's/Qibis Garrick.md",
     "SlingshotDnD/Npc's/Gruuk.md",
     "SlingshotDnD/Locations/Towns/Dashingvale.md",
-    "SlingshotDnD/Locations/Towns/Astoria.md",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",
     "SlingshotDnD/_Assets/Tokens/wolf2.png",
