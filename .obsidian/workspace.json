@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Npc's/Enemies/Leon.md",
+                "file": "SlingshotDnD/Npc's/Vakonijnzir Shurnin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Enemies/Leon.md",
+                "file": "SlingshotDnD/Npc's/Vakonijnzir Shurnin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Enemies/Leon.md",
+                "file": "SlingshotDnD/Npc's/Vakonijnzir Shurnin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Enemies/Leon.md"
+                "file": "SlingshotDnD/Npc's/Vakonijnzir Shurnin.md"
               }
             }
           }
@@ -146,11 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "500b50cc993796cb",
   "lastOpenFiles": [
+    "SlingshotDnD/Npc's/Neutrals/Tryktor Windwhisper.md",
+    "SlingshotDnD/Npc's/Neutrals/Takashi.md",
+    "SlingshotDnD/Npc's/Neutrals/Sora.md",
+    "SlingshotDnD/Npc's/Friendlies/Shmirma.md",
+    "SlingshotDnD/Npc's/Enemies/Selkath.md",
+    "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
+    "SlingshotDnD/Npc's/Neutrals/Rom Pinan.md",
+    "SlingshotDnD/Npc's/Friendlies/Robin the bard.md",
+    "SlingshotDnD/Npc's/Neutrals/Roark.md",
+    "SlingshotDnD/Npc's/Neutrals/Qibis Garrick.md",
+    "SlingshotDnD/Npc's/Neutrals/Prythos Keenweaver.md",
+    "SlingshotDnD/Npc's/Neutrals/Peter Strudon.md",
+    "SlingshotDnD/Npc's/Friendlies/Osmund Briarmane.md",
+    "SlingshotDnD/Npc's/Neutrals/Okrun Glowrest.md",
+    "SlingshotDnD/Npc's/Enemies/Ralph.md",
+    "SlingshotDnD/Npc's/Enemies/Leon.md",
     "SlingshotDnD/Npc's/Friendlies/Mathias.md",
     "SlingshotDnD/Npc's/Neutrals/Lord Lurken.md",
-    "SlingshotDnD/Npc's/Enemies/Leon.md",
     "SlingshotDnD/Npc's/Neutrals/Lance Garrick.md",
     "SlingshotDnD/Npc's/Neutrals/Kurog.md",
     "SlingshotDnD/Npc's/Neutrals/Kigo Primecaller.md",
@@ -159,23 +174,8 @@
     "SlingshotDnD/Npc's/Neutrals/Imnele Emberforce.md",
     "SlingshotDnD/Npc's/Friendlies/Gyrthun Bouldermane.md",
     "SlingshotDnD/Npc's/Neutrals/Gygtis Bouldermane.md",
-    "SlingshotDnD/Npc's/Neutrals/Gruuk.md",
-    "SlingshotDnD/Npc's/Neutrals/Grimmok.md",
     "SlingshotDnD/Npc's/Neutrals",
-    "SlingshotDnD/Npc's/Enemies/Don.md",
-    "SlingshotDnD/Npc's/Animals/Raven.md",
-    "SlingshotDnD/Npc's/Friendlies/Chetov Lervas.md",
-    "SlingshotDnD/Npc's/Enemies/Clank.md",
-    "SlingshotDnD/Deities/Yuria.md",
     "SlingshotDnD/Npc's/Friendlies",
-    "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
-    "SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
-    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
-    "SlingshotDnD/_Assets/GM links.md",
-    "SlingshotDnD/Npc's/Monsters/ettercap.md",
-    "SlingshotDnD/Npc's/Monsters/giant scorpion.md",
-    "SlingshotDnD/Npc's/Monsters/Night hag.md",
-    "SlingshotDnD/Npc's/Myconid adult.md",
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",
     "SlingshotDnD/_Assets/token_2.png",
