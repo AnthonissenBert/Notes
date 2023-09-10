@@ -4,10 +4,10 @@ short description
 ---
 
 **Leader**:
-- strong leonin
+- strong leonin barbarian
 
 **Officers**:
-- ...
+- all leonins
 
 **Goals and Ambitions**
 Making the world a better place. Making sure that every person in the world 
