@@ -32,7 +32,7 @@ What am I?"
 
 - The first level is shrouded in an eerie mist with eerie glowing mushrooms.
 - The players must navigate through a maze of giant mushrooms and face off against 3 [[Myconid Sovereign]] and 3 [[Myconid adult]]s guarding the way.
-- They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arro to open the path further up.
+- They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arrow to open the path further up.
 
 Level 2: The Haunting Library
 
