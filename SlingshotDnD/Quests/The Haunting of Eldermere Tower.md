@@ -38,7 +38,7 @@ What am I?"
 
 1. **The Whispering Tomes:** As the party explores the library, they encounter a series of floating books that seem to be trying to communicate with them. These spectral tomes contain fragments of knowledge about the tower's history and the curse that plagues it. The players must decipher the cryptic messages hidden within the whispers of the books to learn more about their quest.
 
-2. **Spectral Librarians:** Ghostly librarians haunt the library, seeking to protect its secrets. The librarians manifest as semi-transparent figures in old-fashioned attire, and they don't take kindly to intruders. The party can choose to avoid them or engage in combat. Defeating the librarians may yield valuable clues or items.
+2. **Elemental Librarians:** Elemental librarians roam the library, seeking to protect its secrets. The librarians manifest as semi-transparent figures in old-fashioned attire, and they don't take kindly to intruders. The party can choose to avoid them or engage in combat. Defeating the librarians may yield valuable clues or items.
 
 3. **The Riddle of the Lost Tome:** To proceed further into the tower, the party must locate a specific book hidden among the countless volumes. A riddle hints at its location:
 
