@@ -65,8 +65,6 @@ As the party ascends to the third level of the tower, they find themselves in a 
 
 3. **The Hidden Secrets:** Scattered throughout the gallery are hidden clues in the form of scrolls, letters, and fragments of a journal written by a former inhabitant of the tower. These documents reveal insights into the tower's curse, the purpose of the gallery, and the artist responsible for the enchanted paintings. Players can piece together this information to understand the gallery's mysteries.
 
-4. **The Mirror Trick:** At one point in the gallery, players encounter a large, ornate mirror with an inscription that reads, "Reflect upon your choices." When a character approaches the mirror, their reflection steps out and comes to life. The reflection engages the character in a philosophical debate or moral dilemma, testing their judgment and decision-making. The party must navigate these challenges to pass through the mirror, which serves as a portal to the next part of the gallery.
-
 **Rewards:**
 
 1. **Artistic Insights:** Successfully navigating the gallery and solving its puzzles grants the party a deeper understanding of the tower's history, the curse's origins, and the artist who created the animated paintings. This knowledge will be invaluable as they confront the tower's malevolent presence.
@@ -84,9 +82,9 @@ Upon ascending to the fourth level of the tower, the party finds themselves in a
 1. **Malfunctioning Constructs:** The clockwork laboratory is guarded by a series of malfunctioning clockwork constructs, including clockwork spiders, guardians, and golems. These constructs attack intruders on sight, and the party must defeat them or find ways to deactivate them to proceed.
 	- [[helmed horror]] and [[animated armor]]
 
-3. **The Harmonic Puzzle:** In a corner of the laboratory, the party encounters a massive, intricate contraption of gears and chimes. To proceed further into the tower, they must solve a harmonic puzzle. The party must adjust the gears to create a specific musical sequence by aligning the chimes correctly. Clues for the puzzle can be found in the form of sheet music scattered throughout the laboratory.
+2. **The Harmonic Puzzle:** In a corner of the laboratory, the party encounters a massive, intricate contraption of gears and chimes. To proceed further into the tower, they must solve a harmonic puzzle. The party must adjust the gears to create a specific musical sequence by aligning the chimes correctly. Clues for the puzzle can be found in the form of sheet music scattered throughout the laboratory.
 
-4. **The Control Mechanism:** At the heart of the laboratory, the party discovers a massive control panel that appears to be responsible for the malfunction of the constructs and the maze's operation. They must decipher a series of levers, buttons, and dials to disable the machinery. This requires careful observation and trial-and-error.
+3. **The Control Mechanism:** At the heart of the laboratory, the party discovers a massive control panel that appears to be responsible for the malfunction of the constructs and the maze's operation. They must decipher a series of levers, buttons, and dials to disable the machinery. This requires careful observation and trial-and-error.
 
 **Rewards:**
 
