@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "b26f49dd2e8ea125",
+            "id": "af666ff5fd60d46a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b26f49dd2e8ea125",
+  "active": "af666ff5fd60d46a",
   "lastOpenFiles": [
     "SlingshotDnD/Factions/The Shadow Collective.md",
+    "Templates/npc.template.md",
     "SlingshotDnD/Npc's/BadGuys/Black Haron.md",
     "SlingshotDnD/Factions/The Emerald Knights.md",
     "SlingshotDnD/Factions/The Bouldermanes.md",
@@ -186,7 +187,6 @@
     "SlingshotDnD/Npc's/Imnele Emberforce.md",
     "SlingshotDnD/Npc's/Zirne Bouldermane.md",
     "SlingshotDnD/Npc's/Gyrthun Bouldermane.md",
-    "SlingshotDnD/Factions/Guilds/Cliffshine Corporation.md",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",

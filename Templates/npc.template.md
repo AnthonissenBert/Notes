@@ -1,6 +1,6 @@
-status
-race
-in charge of:
+Status: 
+Race:
+In charge of:
 
 ---
 
