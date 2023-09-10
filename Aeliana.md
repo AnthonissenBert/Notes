@@ -1,6 +1,6 @@
 Status: Village elder
 Race: Human
-In charge of: [[]]
+In charge of: [[Millhaven]]
 
 ---
 
@@ -10,6 +10,6 @@ description
 
 ## family
 
-married to:
+married to: [[Ronaash]]
 x amount of children:
 - 
