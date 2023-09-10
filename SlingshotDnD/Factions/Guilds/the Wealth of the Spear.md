@@ -1,8 +1,8 @@
 Adventuring guild acros the world
 active quests:
-- go kill goblins
-- go kill bandits
-- go fetch the head of a griffin
+- go clear out a cave
+- bring in a bandit leader
+- go fetch the head of a monster in town
 
 ---
 #### Leader
