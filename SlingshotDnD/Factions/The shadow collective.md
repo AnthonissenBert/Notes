@@ -8,3 +8,24 @@ leader in [[Copperhollow|Copperhollow]]
 
 **purpose**
 Be as rich as possible
+
+short description
+
+---
+#### Leader
+
+[[Black Haron]]
+#### Officers
+
+- in [[Copperhollow]]
+	- [[The Fox]]
+#### Goals and Ambitions
+
+Weal
+#### Methods and Strategies 
+
+...
+#### Enemies and Opposition 
+
+...
+#### Flaws
