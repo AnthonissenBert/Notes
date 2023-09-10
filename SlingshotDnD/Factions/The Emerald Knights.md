@@ -28,3 +28,24 @@ None yet. They're neutral but who ever pays the most gets the battalion with the
 
 **Flaw**
 They only accept half orcs, so they're pretty racist
+
+short description
+
+---
+#### Leader
+
+...
+#### Officers
+
+...
+#### Goals and Ambitions
+
+...
+#### Methods and Strategies 
+
+...
+#### Enemies and Opposition 
+
+...
+
+#### Flaws

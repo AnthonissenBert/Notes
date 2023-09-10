@@ -7,11 +7,14 @@ short description
 #### Officers
 
 ...
-#### Goals and Ambitions**
+#### Goals and Ambitions
+
+...
+#### Methods and Strategies 
+
+...
+#### Enemies and Opposition 
+
 ...
 
-**Methods and Strategies:** 
-...
-
-**Enemies and Opposition:** 
-...
+#### Flaws
