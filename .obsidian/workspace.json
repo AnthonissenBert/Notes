@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myconid adult.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myconid adult.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myconid adult.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
               }
             }
           }
@@ -195,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63ffbe1351c73f09",
+  "active": "23a2bffe82487265",
   "lastOpenFiles": [
-    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "Myconid adult.md",
+    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "Myconid Sovereign.md",
     "Aeliana.md",
     "Ronaash.md",
