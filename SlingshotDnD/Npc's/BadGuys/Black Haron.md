@@ -5,7 +5,7 @@ level: 15
 
 status: Grand leader
 race: Aarakocra
-class: Artificer Alchemist - Rogue
+class: Artificer Alchemist (9) - Rogue
 in charge of: [[The Shadow Collective]]
 
 ---
