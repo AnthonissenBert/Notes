@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5a8dcd14cc60146b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myconid adult.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "196fc4f7ec1d634d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myconid Sovereign.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba790583149ed2fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "helmed horror.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f58dc44f18b84e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "air elemental.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myconid Sovereign.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myconid Sovereign.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myconid Sovereign.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
               }
             }
           }
@@ -195,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "196fc4f7ec1d634d",
+  "active": "23a2bffe82487265",
   "lastOpenFiles": [
     "Myconid adult.md",
-    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "Myconid Sovereign.md",
+    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "animated armor.md",
     "helmed horror.md",
     "air elemental.md",
