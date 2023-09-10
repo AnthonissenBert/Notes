@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ee96e6fe5f4ed9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gygtis Bouldermane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tryktor Windwhisper.md",
+                "file": "Prythos Keenweaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tryktor Windwhisper.md",
+                "file": "Prythos Keenweaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tryktor Windwhisper.md"
+                "file": "Prythos Keenweaver.md"
               }
             }
           }
@@ -183,13 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1807881b8a809164",
+  "active": "ee92db85a6f9012c",
   "lastOpenFiles": [
-    "SlingshotDnD/Factions/Bouldermanes.md",
-    "Tryktor Windwhisper.md",
-    "Kigo Primecaller.md",
-    "Prythos Keenweaver.md",
     "Gygtis Bouldermane.md",
+    "SlingshotDnD/Factions/Bouldermanes.md",
+    "Kigo Primecaller.md",
+    "Tryktor Windwhisper.md",
+    "Prythos Keenweaver.md",
     "Imnele Emberforce.md",
     "Zirne Bouldermane.md",
     "Gyrthun Bouldermane.md",
