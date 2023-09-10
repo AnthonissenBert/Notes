@@ -1,18 +1,18 @@
 ### key information
 
-Armor Class: 
-Hit Points: 
-Speed ... ft.
+**Armor Class** 18 (natural armor)  
+**Hit Points** 33 (6d8 + 6)  
+**Speed** 25 ft.
 
 ---
 ### ability scores
 
-STR: 10 (+0) 
-DEX: 10 (+0)
-CON: 10 (+0)
-INT: 10 (+0)
-WIS: 10 (+0)
-CHA: 10 (+0)
+STR: 14 (+2) 
+DEX: 11 (+0)
+CON: 13 (+1)
+INT: 1 (-5)
+WIS: 3 (-4)
+CHA: 1 (-5)
 
 ---
 ### proficiencies / languages / saving throws / skills
