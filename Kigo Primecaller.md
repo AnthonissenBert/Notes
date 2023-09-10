@@ -1,6 +1,6 @@
 status: Subcontractor
 race: Leonin
-in charge of: a section of [[Bouldermanes]]
+in charge of: a section of [[The Bouldermanes]]
 
 ---
 

@@ -1,6 +1,6 @@
 status: Master Carpenter
 race: Leonin
-in charge of: [[Bouldermanes]]
+in charge of: [[The Bouldermanes]]
 
 ---
 
