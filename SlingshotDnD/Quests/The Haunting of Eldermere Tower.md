@@ -6,7 +6,7 @@ Setup:
 - The party arrives at [[Millhaven]], where terrified villagers share stories of strange occurrences since the tower's reappearance.
 - The village elder, [[Aeliana]], offers a reward if the party can cleanse the tower and recover an artifact that can save the village from its plight.
 
-Act 1: The Tower's Entrance
+# Act 1: The Tower's Entrance
 
 - The party approaches the towering, ivy-covered structure. It appears to have five distinct levels, each with a different appearance.
 - As they enter, the door slams shut behind them and a steel gate magically locks, leaving only one way forward: up the tower.
@@ -27,7 +27,8 @@ work laterally rather than literally.
 What am I?"
 ```
 
-if they find the answer pretty quickly they see the room before 
+if they find the answer pretty quickly they see the room before them and a spiraling staircase leading up. In this room they find a grand desk and living quarters. If they don't spring for
+
 Level 1: The Fungus Infested Chamber
 
 - The first level is shrouded in an eerie mist with eerie glowing mushrooms.
