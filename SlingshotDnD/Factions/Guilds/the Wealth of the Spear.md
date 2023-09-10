@@ -1,35 +1,8 @@
 Adventuring guild acros the world
-
----
-
 active quests:
 - go kill goblins
 - go kill bandits
 - go fetch the head of a griffin
-
-initiates are adopted into the guild after ...
-
----
-
-**General**:
-- 
-
-**Lieutenant**:
-- 
-
-**Sergeant**
-- 
-
-**Goals and Ambitions**
-
-
-**Methods and Strategies:** 
-
-
-**Enemies and Opposition:** 
-
-
-short description
 
 ---
 #### Leader
@@ -38,9 +11,9 @@ short description
 #### Officers
 
 - [[Gruuk]]
-- ...
+#### Sergeants
 
-#### Sea
+- [[Osmund Briarmane]]
 #### Goals and Ambitions
 
 - Make the world a better place
@@ -54,3 +27,5 @@ short description
 - [[The Court]]
 - [[The shadow collective]]
 #### Flaws
+
+They are good willed, a little bit naive
