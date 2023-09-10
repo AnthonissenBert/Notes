@@ -11,6 +11,7 @@ Act 1: The Tower's Entrance
 - The party approaches the towering, ivy-covered structure. It appears to have five distinct levels, each with a different appearance.
 - As they enter, the door slams shut behind them and a steel gate magically locks, leaving only one way forward: up the tower.
 - At the entrance, the party encounters a ghostly guardian who warns them about the tower's dangers. They must answer a riddle or provide a gift (an item of value) to proceed.
+- If they 
 
 Level 1: The Fungus Infested Chamber
 
