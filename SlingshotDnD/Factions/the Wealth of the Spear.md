@@ -1,4 +1,4 @@
-Adventuring guild acros the world
+Adventuring guild across the world
 active quests:
 - go clear out a cave
 - bring in a bandit leader
