@@ -21,11 +21,12 @@ short description
 	- [[The Fox]]
 #### Goals and Ambitions
 
-Weal
+Wealth, Money
 #### Methods and Strategies 
 
-...
+Steal from all people of all walks of life, rich, poor, doesn't matter
+extortion
 #### Enemies and Opposition 
 
-...
+rebellions, 
 #### Flaws
