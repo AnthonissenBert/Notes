@@ -10,10 +10,10 @@ Speed 30 ft.
 
 STR: 12 (+0) 
 DEX: 10 (+0)
-CON: 14 (+1)
+CON: 14 (+2)
 INT: 13 (+1)
-WIS: 10 (+0)
-CHA: 7 (+0)
+WIS: 15 (+2)
+CHA: 10 (+0)
 
 ---
 
@@ -21,9 +21,9 @@ CHA: 7 (+0)
 
 **Saving Throws**
 **Skills** 
-**Senses**
+**Senses** darkvision 120 ft., passive Perception 12
 **Languages** 
-**Challenge**
+**Challenge** 2 (450 XP)
 
 ---
 
