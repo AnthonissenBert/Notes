@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f9d8e56df4b23420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ettercap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d02552f667e0986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "giant scorpion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ettercap.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ettercap.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ettercap.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
               }
             }
           }
@@ -171,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9d8e56df4b23420",
+  "active": "23a2bffe82487265",
   "lastOpenFiles": [
-    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+    "SlingshotDnD/_Assets/GM links.md",
     "ettercap.md",
+    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "giant scorpion.md",
     "Night hag.md",
     "Myconid adult.md",
@@ -203,7 +179,6 @@
     "SlingshotDnD/_Assets/token_3.png",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/Npc's/BadGuys/Black Haron.md",
-    "Templates/npc.template.md",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",
