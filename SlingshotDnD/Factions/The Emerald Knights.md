@@ -26,5 +26,5 @@ With a reputation for unwavering loyalty to their clients and a willingness to t
 **Enemies and Opposition:** 
 None yet. They're neutral but who ever pays the most gets the battalion with the designated officer. So they're bound to make some enemies that couldn't pay up.
 
-
-Flaw
+**Flaw**
+They only accept half orcs, so they're pretty racist
