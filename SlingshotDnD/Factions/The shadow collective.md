@@ -28,5 +28,7 @@ Steal from all people of all walks of life, rich, poor, doesn't matter
 extortion
 #### Enemies and Opposition 
 
-rebellions, 
+rebellions, good people who hire an adventuring party
 #### Flaws
+
+Greed often makes each other blind
