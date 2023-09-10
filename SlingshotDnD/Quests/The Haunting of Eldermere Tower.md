@@ -70,9 +70,9 @@ As the party ascends to the third level of the tower, they find themselves in a 
 **Rewards:**
 
 1. **Artistic Insights:** Successfully navigating the gallery and solving its puzzles grants the party a deeper understanding of the tower's history, the curse's origins, and the artist who created the animated paintings. This knowledge will be invaluable as they confront the tower's malevolent presence.
-    
+
 2. **Musical Knowledge:** Mastering the harp puzzle not only opens the way forward but also grants the party a magical melody that can be used in future encounters or as a tool for solving other puzzles.
-    
+
 3. **Reflection Wisdom:** Engaging with the mirror challenge imparts a valuable lesson or wisdom to each character, providing them with a temporary bonus or insight they can use later in their journey.
 
 # Level 4: The Clockwork Laboratory
