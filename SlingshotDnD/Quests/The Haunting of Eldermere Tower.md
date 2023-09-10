@@ -107,7 +107,7 @@ The party ascends to the fifth and final level of the tower, entering a chamber 
 
 **Rewards:**
 
-1. **The Crystal of Purification:** Upon defeating the guardian and dispelling the malevolent presence, the party obtains the Crystal of Purification. This artifact has the power to cleanse the tower of its curse and save the village of Millhaven.
+1. **The Crystal of Purification:** Upon defeating the guardian and dispelling the malevolent presence, the party obtains the [[Crystal of Purification]]. This artifact has the power to cleanse the tower of its curse and save the village of [[Millhaven]].
 
 2. **The Guardian's Insight:** The party gains knowledge from the guardian's cryptic revelations, which may prove invaluable in future campaigns or when facing other shadowy threats.
 
@@ -115,7 +115,7 @@ The party ascends to the fifth and final level of the tower, entering a chamber 
 
 # Conclusion:
 
-- After defeating the shadow creature, the party finds the artifact they sought, a crystal of purification.
+- After defeating the hag, the party finds the artifact they sought, a [[crystal of purification]].
 - Returning to the village, they use the crystal to cleanse the tower, dispelling its malevolent influence.
 - The grateful villagers reward the party with riches, and they are hailed as heroes of Millhaven.
 
