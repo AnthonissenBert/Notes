@@ -10,20 +10,20 @@ Speed ... ft.
 
 STR: 10 (+0) 
 DEX: 10 (+0)
-CON: 10 (+0)
+CON: 12 (+1)
 INT: 10 (+0)
-WIS: 10 (+0)
-CHA: 10 (+0)
+WIS: 13 (+1)
+CHA: 7 (-2)
 
 ---
 
 ### proficiencies / languages / saving throws / skills
 
-**Saving Throws**
-**Skills** 
-**Senses**
-**Languages** 
-**Challenge**
+**Saving Throws** /
+**Skills** /
+**Senses** darkvision 120 ft.
+**Languages** /
+**Challenge** 1/2 (100 XP)
 
 ---
 
@@ -37,7 +37,9 @@ CHA: 10 (+0)
 
 ### Traits
 
-**...**
+**_Distress Spores._** When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.
+
+**_Sun Sickness._** While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight.
 
 ---
 
