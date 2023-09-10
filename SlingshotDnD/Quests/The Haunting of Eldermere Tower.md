@@ -77,7 +77,7 @@ As the party ascends to the third level of the tower, they find themselves in a 
 
 # Level 4: The Clockwork Laboratory
 
-Upon ascending to the fourth level of Eldermere Tower, the party finds themselves in a chamber filled with the intricate machinery of a clockwork laboratory. Cogs, gears, and steam-powered contraptions dominate the space. The room is dimly lit by flickering gas lamps, and the air is heavy with the scent of oil and metal.
+Upon ascending to the fourth level of the tower, the party finds themselves in a chamber filled with the intricate machinery of a clockwork laboratory. Cogs, gears, and steam-powered contraptions dominate the space. The room is dimly lit by flickering gas lamps, and the air is heavy with the scent of oil and metal.
 
 **Encounters and Puzzles:**
 
