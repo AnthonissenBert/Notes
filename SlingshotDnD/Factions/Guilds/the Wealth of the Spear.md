@@ -18,18 +18,16 @@ initiates are adopted into the guild after ...
 - 
 
 **Sergeant**
-- [[Osmund Briarmane]]
+- 
 
 **Goals and Ambitions**
-Make the world a better place
+
 
 **Methods and Strategies:** 
-- by word of mouth
-- by message boards
-- by bullet boards
+
 
 **Enemies and Opposition:** 
-None yet
+
 
 short description
 
@@ -41,13 +39,18 @@ short description
 
 - [[Gruuk]]
 - ...
+
+#### Sea
 #### Goals and Ambitions
 
-...
+- Make the world a better place
 #### Methods and Strategies 
 
-...
+- by word of mouth
+- by message boards
+- by bullet boards
 #### Enemies and Opposition 
 
-...
+- [[The Court]]
+- [[The shadow collective]]
 #### Flaws
