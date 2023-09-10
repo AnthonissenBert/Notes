@@ -26,13 +26,12 @@ work laterally rather than literally.
 
 What am I?"
 ```
-
-if they find the answer pretty quickly they see the room before them and a spiraling staircase leading up. In this room they see living quarters. If they don't check for traps 5 random thing will turn in to a mimic and attack the party
+- If they find the answer pretty quickly they see the room before them and a spiraling staircase leading up. In this room they see living quarters. If they don't check for traps 5 random thing will turn in to a mimic and attack the party
 
 # Level 1: The Fungus Infested Chamber
 
 - The first level is shrouded in an eerie mist with eerie glowing mushrooms.
-- The players must navigate through a maze of giant mushrooms and face off against Myconids guarding the way.
+- The players must navigate through a maze of giant mushrooms and face off against [[Myconids]] guarding the way.
 - They also discover a puzzle involving mushroom spores that must be rearranged to open the path further up.
 
 Level 2: The Haunting Library

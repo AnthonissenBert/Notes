@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3a490276dbf85940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myconids.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5a2ad2c772a809a1",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "Myconids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "Myconids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
+                "file": "Myconids.md"
               }
             }
           }
@@ -170,13 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23a2bffe82487265",
+  "active": "3a490276dbf85940",
   "lastOpenFiles": [
+    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+    "Myconids.md",
     "Aeliana.md",
     "Ronaash.md",
     "Roark.md",
     "Millhaven.md",
-    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "Ardentia.md",
     "SlingshotDnD/Synopsis.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
@@ -202,7 +216,6 @@
     "SlingshotDnD/Npc's/Zara.md",
     "SlingshotDnD/Npc's/Takashi.md",
     "SlingshotDnD/Npc's/Grimmok.md",
-    "SlingshotDnD/Npc's/Sora.md",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",
