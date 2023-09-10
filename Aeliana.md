@@ -1,6 +1,6 @@
 Status: Village elder
 Race: Human
-In charge of: [[Ardentia]]
+In charge of: [[]]
 
 ---
 
