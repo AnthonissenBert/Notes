@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96ecc2988bb995d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Imnele Emberforce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gygtis Bouldermane.md",
+                "file": "Imnele Emberforce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gygtis Bouldermane.md",
+                "file": "Imnele Emberforce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gygtis Bouldermane.md"
+                "file": "Imnele Emberforce.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b34b9767e3a63785",
+  "active": "96ecc2988bb995d3",
   "lastOpenFiles": [
-    "SlingshotDnD/Factions/Bouldermanes.md",
     "Gygtis Bouldermane.md",
+    "Imnele Emberforce.md",
+    "SlingshotDnD/Factions/Bouldermanes.md",
     "SlingshotDnD/Factions/Guilds/Cliffshine Corporation.md",
     "SlingshotDnD/Locations/The Garrison.md",
     "SlingshotDnD/Locations/Cities",
@@ -203,7 +216,6 @@
     "SlingshotDnD/_Assets/pdf/Monom.pdf",
     "SlingshotDnD/_Assets/pdf/Mardai_Sorrow_lvl3.pdf",
     "SlingshotDnD/_Assets/pdf/Gruuk.pdf",
-    "SlingshotDnD/Quests/Silverbark forest/Spectral Ruins.md",
     "SlingshotDnD/Locations/small towns/mining settements",
     "SlingshotDnD/Locations/small towns/farming settlements",
     "SlingshotDnD/_Assets/Tokens"
