@@ -3,7 +3,6 @@ These are stonemacons
 ---
 
 **Leader**:
-- strong old leonin barbarian
 - [[Gygtis Bouldermane]]
 
 **Officers**:
