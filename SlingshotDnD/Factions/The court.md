@@ -2,7 +2,9 @@ The Court, a malevolent and clandestine organization, is a force to be reckoned 
 
 ---
 
-**Leader**: [[Clank]]
+**Leader**: 
+- [[Clank]]
+
 **Generals:** 
 1. [[Leon]] 
 2. [[Don]]

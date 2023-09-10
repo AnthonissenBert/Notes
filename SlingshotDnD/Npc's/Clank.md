@@ -1,7 +1,7 @@
 status: leader
 title: The malevolent Mastermind
 race: Devil
-in charge of: [[The court]]
+in charge of: [[The Court]]
 
 ---
 

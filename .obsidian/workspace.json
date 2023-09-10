@@ -13,55 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "SlingshotDnD/Factions/The Court.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "015bd202e706458e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "SlingshotDnD/Factions/The Bouldermanes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3bf20fa7684f6d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tryktor Windwhisper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c5d16269985955b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kigo Primecaller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "279be6c3d6a007b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prythos Keenweaver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ee96e6fe5f4ed9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gygtis Bouldermane.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bouldermanes.md",
+                "file": "SlingshotDnD/Factions/The Court.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bouldermanes.md",
+                "file": "SlingshotDnD/Factions/The Court.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bouldermanes.md"
+                "file": "SlingshotDnD/Factions/The Court.md"
               }
             }
           }
@@ -196,10 +160,12 @@
   },
   "active": "5e1ad2f59ac9e406",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/The Bouldermanes.md",
+    "SlingshotDnD/Factions/The Court.md",
+    "Okrun Glowrest.md",
     "Tryktor Windwhisper.md",
     "Kigo Primecaller.md",
     "Prythos Keenweaver.md",
-    "SlingshotDnD/Factions/The Bouldermanes.md",
     "Gygtis Bouldermane.md",
     "Imnele Emberforce.md",
     "Zirne Bouldermane.md",
@@ -207,7 +173,6 @@
     "SlingshotDnD/Factions/Guilds/Cliffshine Corporation.md",
     "SlingshotDnD/Locations/The Garrison.md",
     "SlingshotDnD/Locations/Cities",
-    "SlingshotDnD/Factions/The court.md",
     "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
     "SlingshotDnD/Factions/Emerald knights.md",
     "SlingshotDnD/Npc's/Clank.md",
@@ -223,7 +188,6 @@
     "SlingshotDnD/Npc's/Father Petroika.md",
     "SlingshotDnD/Npc's/Ezum Non.md",
     "SlingshotDnD/Npc's/Don.md",
-    "SlingshotDnD/Npc's/Chetov Lervas.md",
     "Tables",
     "SlingshotDnD/_Assets/Tokens/wolf2.png",
     "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png",
