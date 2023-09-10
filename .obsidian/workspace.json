@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Gyrthun Bouldermane.md",
+                "file": "SlingshotDnD/Npc's/Enemies/Leon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Gyrthun Bouldermane.md",
+                "file": "SlingshotDnD/Npc's/Enemies/Leon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Gyrthun Bouldermane.md",
+                "file": "SlingshotDnD/Npc's/Enemies/Leon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Gyrthun Bouldermane.md"
+                "file": "SlingshotDnD/Npc's/Enemies/Leon.md"
               }
             }
           }
@@ -148,6 +148,16 @@
   },
   "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "SlingshotDnD/Npc's/Friendlies/Mathias.md",
+    "SlingshotDnD/Npc's/Neutrals/Lord Lurken.md",
+    "SlingshotDnD/Npc's/Enemies/Leon.md",
+    "SlingshotDnD/Npc's/Neutrals/Lance Garrick.md",
+    "SlingshotDnD/Npc's/Neutrals/Kurog.md",
+    "SlingshotDnD/Npc's/Neutrals/Kigo Primecaller.md",
+    "SlingshotDnD/Npc's/Neutrals/Kazunori.md",
+    "SlingshotDnD/Npc's/Friendlies/Jim Rosebend.md",
+    "SlingshotDnD/Npc's/Neutrals/Imnele Emberforce.md",
+    "SlingshotDnD/Npc's/Friendlies/Gyrthun Bouldermane.md",
     "SlingshotDnD/Npc's/Neutrals/Gygtis Bouldermane.md",
     "SlingshotDnD/Npc's/Neutrals/Gruuk.md",
     "SlingshotDnD/Npc's/Neutrals/Grimmok.md",
@@ -164,18 +174,8 @@
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Npc's/Monsters/ettercap.md",
     "SlingshotDnD/Npc's/Monsters/giant scorpion.md",
-    "SlingshotDnD/Npc's/Night hag.md",
+    "SlingshotDnD/Npc's/Monsters/Night hag.md",
     "SlingshotDnD/Npc's/Myconid adult.md",
-    "SlingshotDnD/Npc's/Myconid Sovereign.md",
-    "SlingshotDnD/Npc's/Monsters/animated armor.md",
-    "SlingshotDnD/Npc's/helmed horror.md",
-    "SlingshotDnD/Npc's/Monsters/air elemental.md",
-    "SlingshotDnD/Npc's/Monsters/earth elemental.md",
-    "Templates/character-sheet-combat.template.md",
-    "SlingshotDnD/Npc's/Ronaash.md",
-    "SlingshotDnD/Npc's/Roark.md",
-    "SlingshotDnD/Locations/Millhaven.md",
-    "SlingshotDnD/Locations/Ardentia.md",
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",
     "SlingshotDnD/_Assets/token_2.png",
