@@ -1,7 +1,7 @@
 ### key information
 
-Armor Class: 
-Hit Points: 
+Armor Class: 12 (natural armor)
+Hit Points: 22 (4d8+4)
 Speed 20 ft.
 
 ---
