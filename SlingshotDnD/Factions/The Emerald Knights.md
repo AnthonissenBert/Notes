@@ -14,10 +14,10 @@ A group of knights for hire solely existing out of orcs.
 - [[Kazunori]]
 
 **Goals and Ambitions**
-...
+Money and greed
 
 **Methods and Strategies:** 
-...
+
 
 **Enemies and Opposition:** 
 ...
