@@ -15,7 +15,8 @@ A group of knights for hire solely existing out of orcs.
 
 **Goals and Ambitions**
 - Mercenary Excellence: Their primary ambition could be to become the most renowned and sought-after mercenary group in the land. They continually seek out challenging and high-paying contracts to showcase their combat prowess and tactical skill.
-- 
+- Legacy and Recognition: The company may aspire to leave a lasting legacy, with their name etched into the annals of history as a symbol of half-orc achievement and resilience. Achieving legendary status could be a driving ambition.
+- Money: 
 
 **Methods and Strategies:** 
 
