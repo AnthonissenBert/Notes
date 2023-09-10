@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Factions/The Emerald Knights.md",
+                "file": "Templates/faction.template.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The Emerald Knights.md",
+                "file": "Templates/faction.template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The Emerald Knights.md",
+                "file": "Templates/faction.template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/The Emerald Knights.md"
+                "file": "Templates/faction.template.md"
               }
             }
           }
@@ -172,9 +172,10 @@
   },
   "active": "015bd202e706458e",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/The Emerald Knights.md",
+    "SlingshotDnD/Factions/The shadow collective.md",
     "Kazunori.md",
     "Zara.md",
-    "SlingshotDnD/Factions/The Emerald Knights.md",
     "Takashi.md",
     "Grimmok.md",
     "Sora.md",
@@ -198,7 +199,6 @@
     "SlingshotDnD/Npc's/Lance Garrick.md",
     "SlingshotDnD/Npc's/Qibis Garrick.md",
     "SlingshotDnD/Npc's/Gruuk.md",
-    "SlingshotDnD/Locations/Towns/Dashingvale.md",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",
     "SlingshotDnD/_Assets/Tokens/wolf2.png",

@@ -1,14 +1,13 @@
 short description
 
 ---
+#### Leader
 
-**Leader**:
-- 
+...
+#### Officers
 
-**Officers**:
-- ...
-
-**Goals and Ambitions**
+...
+#### Goals and Ambitions**
 ...
 
 **Methods and Strategies:** 
