@@ -93,9 +93,9 @@ Upon ascending to the fourth level of the tower, the party finds themselves in a
 **Rewards:**
 
 1. **Clockwork Knowledge:** Successfully navigating the clockwork laboratory grants the party valuable insights into clockwork machinery and constructs, which may prove useful in future encounters or for crafting items.
-    
+
 2. **Musical Talents:** Solving the harmonic puzzle not only opens the way forward but also bestows the party with a magical tune that can be used in future encounters or as a means of charming or communicating with clockwork beings.
-    
+
 3. **Control Over Machinery:** Disabling the control mechanism grants the party temporary control over some of the clockwork constructs in the laboratory. They can use these constructs as allies or distractions in future battles.
 
 # Level 5: The Shadowy Sanctum
