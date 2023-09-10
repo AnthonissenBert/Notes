@@ -19,35 +19,28 @@ CHA: 5 (-3)
 
 ### proficiencies / languages / saving throws / skills
 
-**Saving Throws**
-**Skills** 
-**Senses**
-**Languages** 
-**Challenge**
+**Damage Vulnerabilities** thunder
+**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks  
+**Damage Immunities** poison  
+**Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious  
+**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10  
+**Languages** Terran  
+**Challenge** 5 (1800 XP)
 
 ---
-
-### Equipment
-
-- ...
-
----
-
 ### Special Abilities
 
-- ...
+**_Earth Glide_**. The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
 
----
-
-### Traits
-
-**...**
+**_Siege Monster_**. The elemental deals double damage to objects and structures.
 
 ---
 
 ### Actions
 
-**...**
+**_Multiattack_**. The elemental makes two slam attacks.
+
+**_Slam_**. _Melee Weapon Attack_: +8 to hit, reach 10 ft., one target. _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 ---
 
