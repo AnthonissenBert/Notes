@@ -1,4 +1,4 @@
-Introduction: In the land of Eldermere, a long-forgotten tower has reemerged from the depths of history, casting a sinister shadow over the nearby village. Rumors speak of treasures hidden within its haunted halls, and brave adventurers have been drawn to its eerie presence. As the party of five, each of you finds yourselves in the rustic village of Millhaven, where the townsfolk beg for your help in putting an end to the tower's malevolent influence.
+Introduction: In the land of [[Ardentia]], a tall tower has reemerged from the depths of history, casting a sinister shadow over the nearby village of [[millhaven]]. Rumors speak of treasures hidden within its haunted halls, and brave adventurers have been drawn to its eerie presence. As the party of five, each of you finds yourselves in the rustic village of Millhaven, where the townsfolk beg for your help in putting an end to the tower's malevolent influence.
 
 Setup:
 
