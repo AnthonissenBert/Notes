@@ -101,7 +101,7 @@ The party ascends to the fifth and final level of the tower, entering a chamber 
 **Encounters and Puzzles:**
 
 1. **The Shadow Guardian:** The figure reveals itself as the guardian of the sanctum. It taunts the party with cryptic riddles and dark prophecies. To confront the guardian, the party must answer its riddles, gradually weakening its power. The riddles could include questions like, "I follow you in the day, but I'm lost without a trace at night. What am I?" (Answer: A shadow).
-	- [[Night hag]]
+	- [[Night hag]] and [[giant scorpion]]s
 
 3. **The Curse's Origin:** During the confrontation with the guardian, players may have opportunities to learn about the origin of the curse, its connection to the tower's past, and the sacrifices made by its creators. This information can provide a deeper understanding of the tower's history and the consequences of wielding dark magic.
 

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f89d89f23673feee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Night hag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "Night hag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "Night hag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
+                "file": "Night hag.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23a2bffe82487265",
+  "active": "f89d89f23673feee",
   "lastOpenFiles": [
+    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+    "Night hag.md",
     "Myconid adult.md",
     "Myconid Sovereign.md",
-    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "animated armor.md",
     "helmed horror.md",
     "air elemental.md",
@@ -178,7 +192,6 @@
     "Templates/npc.template.md",
     "Tables/Random encounters.md",
     "SlingshotDnD/Npc's/Kurog.md",
-    "SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",
