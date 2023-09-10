@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f9d8e56df4b23420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ettercap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5d02552f667e0986",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "giant scorpion.md",
+                "file": "ettercap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "giant scorpion.md",
+                "file": "ettercap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "giant scorpion.md"
+                "file": "ettercap.md"
               }
             }
           }
@@ -159,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d02552f667e0986",
+  "active": "f9d8e56df4b23420",
   "lastOpenFiles": [
-    "Night hag.md",
-    "giant scorpion.md",
     "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+    "ettercap.md",
+    "giant scorpion.md",
+    "Night hag.md",
     "Myconid adult.md",
     "Myconid Sovereign.md",
     "animated armor.md",
@@ -191,7 +204,6 @@
     "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/Npc's/BadGuys/Black Haron.md",
     "Templates/npc.template.md",
-    "Tables/Random encounters.md",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",
