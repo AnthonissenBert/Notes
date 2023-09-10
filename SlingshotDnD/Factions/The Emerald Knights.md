@@ -14,7 +14,8 @@ A group of knights for hire solely existing out of orcs.
 - [[Kazunori]]
 
 **Goals and Ambitions**
-Money and greed
+- Mercenary Excellence: Their primary ambition could be to become the most renowned and sought-after mercenary group in the land. They continually seek out challenging and high-paying contracts to showcase their combat prowess and tactical skill.
+- 
 
 **Methods and Strategies:** 
 
