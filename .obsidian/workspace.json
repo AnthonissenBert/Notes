@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "34b3d6a5ee20d596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Takashi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7aef9c3e35021741",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grimmok.md",
+                "file": "Kurog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grimmok.md",
+                "file": "Kurog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grimmok.md"
+                "file": "Kurog.md"
               }
             }
           }
@@ -183,11 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7aef9c3e35021741",
+  "active": "399026aa1dfed265",
   "lastOpenFiles": [
-    "SlingshotDnD/Factions/The Emerald Knights.md",
-    "Grimmok.md",
     "Sora.md",
+    "Grimmok.md",
+    "Takashi.md",
+    "SlingshotDnD/Factions/The Emerald Knights.md",
     "Kurog.md",
     "SlingshotDnD/Factions/The Bouldermanes.md",
     "SlingshotDnD/Factions/The Court.md",
@@ -212,7 +225,6 @@
     "SlingshotDnD/Locations/Towns/Astoria.md",
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
-    "SlingshotDnD/Npc's/Githan Shortpick.md",
     "Tables",
     "SlingshotDnD/_Assets/Tokens/wolf2.png",
     "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png",
