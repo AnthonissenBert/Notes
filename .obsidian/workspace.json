@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md",
+                "file": "SlingshotDnD/Synopsis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md",
+                "file": "SlingshotDnD/Synopsis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md",
+                "file": "SlingshotDnD/Synopsis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md"
+                "file": "SlingshotDnD/Synopsis.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "23a2bffe82487265",
   "lastOpenFiles": [
-    "SlingshotDnD/Npc's/Gruuk.md",
+    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
+    "SlingshotDnD/Npc's/Gruuk.md",
     "SlingshotDnD/Npc's/Lance Garrick.md",
     "SlingshotDnD/Factions/The Shadow Collective.md",
     "SlingshotDnD/Factions/The Court.md",
@@ -178,7 +179,6 @@
     "SlingshotDnD/Npc's/Prythos Keenweaver.md",
     "SlingshotDnD/Npc's/Gygtis Bouldermane.md",
     "SlingshotDnD/Npc's/Imnele Emberforce.md",
-    "SlingshotDnD/Npc's/Zirne Bouldermane.md",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",
