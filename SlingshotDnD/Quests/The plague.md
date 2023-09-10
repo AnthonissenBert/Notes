@@ -8,7 +8,7 @@ symptoms
 
 
 who made it:
-- the leader of [[The shadow collective]] 
+- the leader of [[The Shadow Collective]] 
 
 why did they made it:
 - As a biological weapon to control the population. 

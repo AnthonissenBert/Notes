@@ -25,7 +25,7 @@ active quests:
 #### Enemies and Opposition 
 
 - [[The Court]]
-- [[The shadow collective]]
+- [[The Shadow Collective]]
 #### Flaws
 
 They are good willed, a little bit naive
