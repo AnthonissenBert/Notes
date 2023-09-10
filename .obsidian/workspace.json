@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1807881b8a809164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tryktor Windwhisper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a38076642643f5d2",
             "type": "leaf",
             "state": {
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kigo Primecaller.md",
+                "file": "Tryktor Windwhisper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kigo Primecaller.md",
+                "file": "Tryktor Windwhisper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kigo Primecaller.md"
+                "file": "Tryktor Windwhisper.md"
               }
             }
           }
@@ -171,9 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a38076642643f5d2",
+  "active": "1807881b8a809164",
   "lastOpenFiles": [
     "SlingshotDnD/Factions/Bouldermanes.md",
+    "Tryktor Windwhisper.md",
     "Kigo Primecaller.md",
     "Prythos Keenweaver.md",
     "Gygtis Bouldermane.md",
@@ -200,7 +213,6 @@
     "SlingshotDnD/Npc's/Ezum Non.md",
     "SlingshotDnD/Npc's/Don.md",
     "SlingshotDnD/Npc's/Chetov Lervas.md",
-    "TheRoleplayCampaign/Sessions/2023-09-04.md",
     "Tables",
     "SlingshotDnD/_Assets/Tokens/wolf2.png",
     "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png",
