@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grimmok the Stoic Sentinel.md",
+                "file": "Grimmok.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grimmok the Stoic Sentinel.md",
+                "file": "Grimmok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grimmok the Stoic Sentinel.md",
+                "file": "Grimmok.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grimmok the Stoic Sentinel.md"
+                "file": "Grimmok.md"
               }
             }
           }
@@ -186,7 +186,7 @@
   "active": "7aef9c3e35021741",
   "lastOpenFiles": [
     "SlingshotDnD/Factions/The Emerald Knights.md",
-    "Grimmok the Stoic Sentinel.md",
+    "Grimmok.md",
     "Sora.md",
     "Kurog.md",
     "SlingshotDnD/Factions/The Bouldermanes.md",
