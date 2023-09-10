@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Factions/Emerald knights.md",
+                "file": "SlingshotDnD/Factions/The Emerald Knights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "399026aa1dfed265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurog.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/Emerald knights.md",
+                "file": "Kurog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/Emerald knights.md",
+                "file": "Kurog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/Emerald knights.md"
+                "file": "Kurog.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "015bd202e706458e",
+  "active": "399026aa1dfed265",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/The Emerald Knights.md",
+    "Kurog.md",
     "SlingshotDnD/Factions/The Bouldermanes.md",
     "SlingshotDnD/Factions/The Court.md",
     "Okrun Glowrest.md",
@@ -162,7 +177,6 @@
     "SlingshotDnD/Locations/The Garrison.md",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
-    "SlingshotDnD/Factions/Emerald knights.md",
     "SlingshotDnD/Npc's/Clank.md",
     "Templates/faction.template.md",
     "SlingshotDnD/Npc's/Lance Garrick.md",
@@ -175,7 +189,6 @@
     "SlingshotDnD/Npc's/Githan Shortpick.md",
     "SlingshotDnD/Npc's/Father Petroika.md",
     "SlingshotDnD/Npc's/Ezum Non.md",
-    "SlingshotDnD/Npc's/Don.md",
     "Tables",
     "SlingshotDnD/_Assets/Tokens/wolf2.png",
     "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png",
