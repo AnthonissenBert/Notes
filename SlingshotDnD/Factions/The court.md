@@ -21,3 +21,24 @@ The Court employs a diverse range of sinister methods to achieve their goals, in
 The Court is a formidable adversary, feared and opposed by various factions, secret societies, and brave individuals who strive to thwart their malevolent schemes. Their power, however, is growing, and the world teeters on the precipice of darkness as Clank and his generals continue to expand their reach and influence.
 
 The Court is a shadowy and insidious faction, with each member playing a crucial role in the pursuit of their wicked ambitions. Only time will tell if the forces of light can unite to withstand the looming threat they pose.
+
+short description
+
+---
+#### Leader
+
+...
+#### Officers
+
+...
+#### Goals and Ambitions
+
+...
+#### Methods and Strategies 
+
+...
+#### Enemies and Opposition 
+
+...
+
+#### Flaws
