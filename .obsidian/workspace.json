@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "air elemental.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "air elemental.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "air elemental.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
               }
             }
           }
@@ -159,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f58dc44f18b84e7",
+  "active": "23a2bffe82487265",
   "lastOpenFiles": [
-    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "air elemental.md",
+    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "earth elemental.md",
     "Templates/character-sheet-combat.template.md",
     "Myconid adult.md",
