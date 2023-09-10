@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
+                "file": "SlingshotDnD/Factions/Bouldermanes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
+                "file": "SlingshotDnD/Factions/Bouldermanes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
+                "file": "SlingshotDnD/Factions/Bouldermanes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md"
+                "file": "SlingshotDnD/Factions/Bouldermanes.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "de5e18df369eb1ef",
   "lastOpenFiles": [
-    "SlingshotDnD/Factions/Emerald knights.md",
     "SlingshotDnD/Factions/The court.md",
+    "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
+    "SlingshotDnD/Factions/Emerald knights.md",
     "SlingshotDnD/Npc's/Clank.md",
     "SlingshotDnD/Factions/Bouldermanes.md",
     "Templates/faction.template.md",
-    "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Lance Garrick.md",
     "SlingshotDnD/Npc's/Qibis Garrick.md",
     "SlingshotDnD/Places/The Garrison.md",
