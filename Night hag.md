@@ -7,12 +7,12 @@
 ---
 ### ability scores
 
-STR: 10 (+0) 
-DEX: 10 (+0)
-CON: 10 (+0)
-INT: 10 (+0)
-WIS: 10 (+0)
-CHA: 10 (+0)
+STR: 18 (+4) 
+DEX: 15 (+2)
+CON: 16 (+3)
+INT: 16 (+3)
+WIS: 14 (+2)
+CHA: 16 (+3)
 
 ---
 ### proficiencies / languages / saving throws / skills
@@ -25,19 +25,14 @@ CHA: 10 (+0)
 **Challenge** 5 (1800 XP)
 
 ---
-### Equipment
-
-- ...
-
----
-### Special Abilities
-
-- ...
-
----
 ### Traits
 
-**...**
+**_Innate Spellcasting_**. The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
+
+At will: _[detect magic](https://www.aidedd.org/dnd/sorts.php?vo=detect-magic), [magic missile](https://www.aidedd.org/dnd/sorts.php?vo=magic-missile)_  
+2/day each: _[plane shift](https://www.aidedd.org/dnd/sorts.php?vo=plane-shift)_ (self only), _[ray of enfeeblement](https://www.aidedd.org/dnd/sorts.php?vo=ray-of-enfeeblement), [sleep](https://www.aidedd.org/dnd/sorts.php?vo=sleep)_  
+
+**_Magic Resistance_**. The hag has advantage on saving throws against spells and other magical effects.
 
 ---
 ### Actions
