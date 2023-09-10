@@ -12,11 +12,10 @@ initiates are adopted into the guild after ...
 ---
 
 **General**:
-- [[Lance Garrick]]
+- 
 
 **Lieutenant**:
-- [[Gruuk]]
-- ...
+- 
 
 **Sergeant**
 - [[Osmund Briarmane]]
@@ -32,3 +31,23 @@ Make the world a better place
 **Enemies and Opposition:** 
 None yet
 
+short description
+
+---
+#### Leader
+
+[[Lance Garrick]]
+#### Officers
+
+- [[Gruuk]]
+- ...
+#### Goals and Ambitions
+
+...
+#### Methods and Strategies 
+
+...
+#### Enemies and Opposition 
+
+...
+#### Flaws

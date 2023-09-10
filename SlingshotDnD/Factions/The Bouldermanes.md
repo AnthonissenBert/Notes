@@ -24,4 +24,4 @@ These are stonemacons
 None yet
 #### Flaws
 
-They want their work to matter so they often will spend more time than necessary to 
+They want their work to matter so they often will spend more time than necessary to complete a job
