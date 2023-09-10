@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "63ffbe1351c73f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myconid adult.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3a490276dbf85940",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "Myconid adult.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "Myconid adult.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
+                "file": "Myconid adult.md"
               }
             }
           }
@@ -182,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23a2bffe82487265",
+  "active": "63ffbe1351c73f09",
   "lastOpenFiles": [
-    "Myconid Sovereign.md",
     "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+    "Myconid adult.md",
+    "Myconid Sovereign.md",
     "Aeliana.md",
     "Ronaash.md",
     "Roark.md",
@@ -214,7 +228,6 @@
     "SlingshotDnD/Npc's/Kazunori.md",
     "SlingshotDnD/Npc's/Zara.md",
     "SlingshotDnD/Npc's/Takashi.md",
-    "SlingshotDnD/Npc's/Grimmok.md",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",
