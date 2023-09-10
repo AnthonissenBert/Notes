@@ -57,7 +57,7 @@ What am I?"
 
 # Level 3: The Ethereal Gallery
 
-Here the 
+Here the party will be able to short rest and level up
 
 As the party ascends to the third level of the tower, they find themselves in a grand hall adorned with magnificent paintings, each depicting scenes of ancient battles, mythical creatures, and lost civilizations. The room is dimly lit by ethereal torches that cast an eerie, shifting light upon the artwork. However, something about these paintings seems unsettling.
 
