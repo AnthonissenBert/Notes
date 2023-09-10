@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b34b9767e3a63785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gygtis Hazeltooth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/Bouldermanes.md",
+                "file": "Gygtis Hazeltooth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/Bouldermanes.md",
+                "file": "Gygtis Hazeltooth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/Bouldermanes.md"
+                "file": "Gygtis Hazeltooth.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e1ad2f59ac9e406",
+  "active": "b34b9767e3a63785",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/Bouldermanes.md",
+    "Gygtis Hazeltooth.md",
     "SlingshotDnD/Factions/Guilds/Cliffshine Corporation.md",
     "SlingshotDnD/Locations/The Garrison.md",
     "SlingshotDnD/Locations/Cities",
-    "SlingshotDnD/Factions/Bouldermanes.md",
     "SlingshotDnD/Factions/The court.md",
     "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
     "SlingshotDnD/Factions/Emerald knights.md",
@@ -190,7 +204,6 @@
     "SlingshotDnD/_Assets/pdf/Mardai_Sorrow_lvl3.pdf",
     "SlingshotDnD/_Assets/pdf/Gruuk.pdf",
     "SlingshotDnD/Quests/Silverbark forest/Spectral Ruins.md",
-    "SlingshotDnD/Quests/Silverbark forest/Bringing down the alpha.md",
     "SlingshotDnD/Locations/small towns/mining settements",
     "SlingshotDnD/Locations/small towns/farming settlements",
     "SlingshotDnD/_Assets/Tokens"
