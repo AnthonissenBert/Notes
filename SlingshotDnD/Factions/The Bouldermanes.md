@@ -1,26 +1,7 @@
 These are stonemacons 
 
 ---
-
-**General Contractor**:
-- 
-
-**Subcontractors**:
-
-
-**Goals and Ambitions**
-
-
-**Methods and Strategies:** 
--
--
-**Enemies and Opposition:** 
-
-
-short description
-
----
-#### Leader
+#### General Contractor
 
 [[Gygtis Bouldermane]]
 #### Subcontractors
@@ -42,3 +23,5 @@ short description
 
 None yet
 #### Flaws
+
+They want their work to matter so they often will spend more time than necessary to 
