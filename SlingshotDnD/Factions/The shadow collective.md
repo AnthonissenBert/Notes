@@ -1,4 +1,4 @@
-thieves guild who is active all over the world
+The Ebon Talon, a secretive and ruthless thieves' guild, is a sinister force that lurks in the shadows of the city, its reach extending like dark fingers into every corner of the criminal underworld.
 
 ---
 #### Leader
@@ -21,3 +21,6 @@ rebellions, good people who hire an adventuring party
 #### Flaws
 
 Greed often makes each other blind
+#### Symbol and Insignia
+
+The guild's symbol is a stylized talon, rendered in an eerie, iridescent black that seems to shift in the light. The talon is often depicted clutching a dagger or a stolen jewel, signifying their expertise in theft and cunning.
