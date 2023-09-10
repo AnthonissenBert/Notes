@@ -1,4 +1,4 @@
-status: Leader
+status: Master Carpenter
 race: Leonin
 in charge of: [[Bouldermanes]]
 

@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "96ecc2988bb995d3",
+            "id": "9552e469350a6401",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imnele Emberforce.md",
+                "file": "Gygtis Bouldermane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imnele Emberforce.md",
+                "file": "Gygtis Bouldermane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imnele Emberforce.md"
+                "file": "Gygtis Bouldermane.md"
               }
             }
           }
@@ -171,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96ecc2988bb995d3",
+  "active": "b34b9767e3a63785",
   "lastOpenFiles": [
-    "Gygtis Bouldermane.md",
     "Imnele Emberforce.md",
+    "Gygtis Bouldermane.md",
+    "Zirne Bouldermane.md",
+    "Gyrthun Bouldermane.md",
     "SlingshotDnD/Factions/Bouldermanes.md",
     "SlingshotDnD/Factions/Guilds/Cliffshine Corporation.md",
     "SlingshotDnD/Locations/The Garrison.md",
@@ -200,8 +202,6 @@
     "Templates/quest.template.md",
     "Tables/Random encounters.md",
     "Tables",
-    "SlingshotDnD/Locations/Towns/Copperhollow.md",
-    "SlingshotDnD/Locations/Towns/Ravenswatch.md",
     "SlingshotDnD/_Assets/Tokens/wolf2.png",
     "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png",
     "SlingshotDnD/_Assets/Tokens/MerchantHallLeader.png",
