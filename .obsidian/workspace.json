@@ -42,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4e7659f67938ab13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ronaash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aeliana.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aeliana.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aeliana.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
               }
             }
           }
@@ -183,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a2ad2c772a809a1",
+  "active": "23a2bffe82487265",
   "lastOpenFiles": [
-    "Ronaash.md",
     "Aeliana.md",
+    "Ronaash.md",
+    "Roark.md",
     "Millhaven.md",
     "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "Ardentia.md",
@@ -215,7 +203,6 @@
     "SlingshotDnD/Npc's/Takashi.md",
     "SlingshotDnD/Npc's/Grimmok.md",
     "SlingshotDnD/Npc's/Sora.md",
-    "SlingshotDnD/Npc's/Okrun Glowrest.md",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",
