@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/Bouldermanes.md",
+                "file": "Prythos Keenweaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/Bouldermanes.md",
+                "file": "Prythos Keenweaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/Bouldermanes.md"
+                "file": "Prythos Keenweaver.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e1ad2f59ac9e406",
+  "active": "ee92db85a6f9012c",
   "lastOpenFiles": [
-    "Prythos Keenweaver.md",
     "SlingshotDnD/Factions/Bouldermanes.md",
+    "Prythos Keenweaver.md",
     "Gygtis Bouldermane.md",
     "Imnele Emberforce.md",
     "Zirne Bouldermane.md",
