@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Factions/Bouldermanes.md",
+                "file": "SlingshotDnD/Locations/The Garrison.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/Bouldermanes.md",
+                "file": "SlingshotDnD/Locations/The Garrison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/Bouldermanes.md",
+                "file": "SlingshotDnD/Locations/The Garrison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/Bouldermanes.md"
+                "file": "SlingshotDnD/Locations/The Garrison.md"
               }
             }
           }
@@ -146,20 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de5e18df369eb1ef",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/Bouldermanes.md",
     "SlingshotDnD/Factions/The court.md",
     "SlingshotDnD/Factions/Guilds/the Wealth of the Spear.md",
     "SlingshotDnD/Factions/Emerald knights.md",
     "SlingshotDnD/Npc's/Clank.md",
-    "SlingshotDnD/Factions/Bouldermanes.md",
     "Templates/faction.template.md",
     "SlingshotDnD/Npc's/Lance Garrick.md",
     "SlingshotDnD/Npc's/Qibis Garrick.md",
-    "SlingshotDnD/Places/The Garrison.md",
+    "SlingshotDnD/Locations/The Garrison.md",
     "SlingshotDnD/Npc's/Gruuk.md",
-    "SlingshotDnD/Places/big towns/Dashingvale.md",
-    "SlingshotDnD/Places/big towns/Astoria.md",
+    "SlingshotDnD/Locations/big towns/Dashingvale.md",
+    "SlingshotDnD/Locations/big towns/Astoria.md",
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "SlingshotDnD/Npc's/Githan Shortpick.md",
@@ -171,8 +171,8 @@
     "Templates/quest.template.md",
     "Tables/Random encounters.md",
     "Tables",
-    "SlingshotDnD/Places/small towns/mining settements/Copperhollow.md",
-    "SlingshotDnD/Places/small towns/farming settlements/Ravenswatch.md",
+    "SlingshotDnD/Locations/small towns/mining settements/Copperhollow.md",
+    "SlingshotDnD/Locations/small towns/farming settlements/Ravenswatch.md",
     "SlingshotDnD/_Assets/Tokens/wolf2.png",
     "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png",
     "SlingshotDnD/_Assets/Tokens/MerchantHallLeader.png",
@@ -190,8 +190,8 @@
     "SlingshotDnD/Quests/Silverbark forest/Spectral Ruins.md",
     "SlingshotDnD/Quests/Silverbark forest/Bringing down the alpha.md",
     "SlingshotDnD/Quests/Copperhollow/wooing the mayor's daughter.md",
-    "SlingshotDnD/Places/small towns/mining settements",
-    "SlingshotDnD/Places/small towns/farming settlements",
+    "SlingshotDnD/Locations/small towns/mining settements",
+    "SlingshotDnD/Locations/small towns/farming settlements",
     "SlingshotDnD/_Assets/Tokens",
     "SlingshotDnD/_Assets/pdf"
   ]
