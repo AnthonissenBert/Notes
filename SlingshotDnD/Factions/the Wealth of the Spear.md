@@ -29,3 +29,6 @@ active quests:
 #### Flaws
 
 They are good willed, a little bit naive
+#### Symbol and Insignia
+
+![[token_5.png]]
