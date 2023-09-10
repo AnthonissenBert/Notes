@@ -83,13 +83,12 @@ Upon ascending to the fourth level of the tower, the party finds themselves in a
 
 1. **Malfunctioning Constructs:** The clockwork laboratory is guarded by a series of malfunctioning clockwork constructs, including clockwork spiders, guardians, and golems. These constructs attack intruders on sight, and the party must defeat them or find ways to deactivate them to proceed.
 	- [[helmed horror]] and [[animated armor]]
-    
+
 2. **The Gear Maze:** The central part of the laboratory is a maze of interlocking gears and rotating platforms. The party must navigate this complex mechanical puzzle, avoiding crushing hazards and traps. They can use their knowledge of machinery or guidance from documents found in the laboratory to solve the maze.
-    
+
 3. **The Harmonic Puzzle:** In a corner of the laboratory, the party encounters a massive, intricate contraption of gears and chimes. To proceed further into the tower, they must solve a harmonic puzzle. The party must adjust the gears to create a specific musical sequence by aligning the chimes correctly. Clues for the puzzle can be found in the form of sheet music scattered throughout the laboratory.
-    
+
 4. **The Control Mechanism:** At the heart of the laboratory, the party discovers a massive control panel that appears to be responsible for the malfunction of the constructs and the maze's operation. They must decipher a series of levers, buttons, and dials to disable the machinery. This requires careful observation and trial-and-error.
-    
 
 **Rewards:**
 
