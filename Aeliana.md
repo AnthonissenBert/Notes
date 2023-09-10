@@ -1,6 +1,6 @@
-Status: V
-Race:
-In charge of:
+Status: Village elder
+Race: Human
+In charge of: [[Ardentia]]
 
 ---
 
