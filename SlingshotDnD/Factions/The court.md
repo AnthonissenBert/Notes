@@ -22,3 +22,5 @@ The Court is a formidable adversary, feared and opposed by various factions, sec
 
 The Court is a shadowy and insidious faction, with each member playing a crucial role in the pursuit of their wicked ambitions. Only time will tell if the forces of light can unite to withstand the looming threat they pose.
 #### Flaws
+
+Pure Evil, They will endoctorinate all the weak minded people
