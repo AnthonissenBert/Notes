@@ -8,12 +8,12 @@ Speed 30 ft., burrow 30 ft.
 
 ### ability scores
 
-STR: 10 (+0) 
-DEX: 10 (+0)
-CON: 10 (+0)
-INT: 10 (+0)
+STR: 20 (+5) 
+DEX: 8 (-1)
+CON: 20 (+5)
+INT: 5 (-3)
 WIS: 10 (+0)
-CHA: 10 (+0)
+CHA: 5 (-3)
 
 ---
 
