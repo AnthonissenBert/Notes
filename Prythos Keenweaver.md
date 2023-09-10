@@ -1,4 +1,4 @@
-status: Subcontractor
+status: Contractor
 race: Leonin
 in charge of: section of [[Bouldermanes]]
 

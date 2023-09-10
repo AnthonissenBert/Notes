@@ -2,10 +2,10 @@ These are stonemacons
 
 ---
 
-**Leader**:
+**General Contractor**:
 - [[Gygtis Bouldermane]]
 
-**Officers**:
+**Subcontractors**:
 - [[Prythos Keenweaver]]
 - [[Kigo Primecaller]]  
 - [[Tryktor Windwhisper]]  
