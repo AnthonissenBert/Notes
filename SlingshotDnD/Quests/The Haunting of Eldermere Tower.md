@@ -82,6 +82,7 @@ Upon ascending to the fourth level of the tower, the party finds themselves in a
 **Encounters and Puzzles:**
 
 1. **Malfunctioning Constructs:** The clockwork laboratory is guarded by a series of malfunctioning clockwork constructs, including clockwork spiders, guardians, and golems. These constructs attack intruders on sight, and the party must defeat them or find ways to deactivate them to proceed.
+	- [[helmed horror]] and [[]]
     
 2. **The Gear Maze:** The central part of the laboratory is a maze of interlocking gears and rotating platforms. The party must navigate this complex mechanical puzzle, avoiding crushing hazards and traps. They can use their knowledge of machinery or guidance from documents found in the laboratory to solve the maze.
     
