@@ -57,6 +57,8 @@ What am I?"
 
 # Level 3: The Ethereal Gallery
 
+Here the 
+
 As the party ascends to the third level of the tower, they find themselves in a grand hall adorned with magnificent paintings, each depicting scenes of ancient battles, mythical creatures, and lost civilizations. The room is dimly lit by ethereal torches that cast an eerie, shifting light upon the artwork. However, something about these paintings seems unsettling.
 
 1. **Animated Paintings:** Upon entering the gallery, the party notices that some of the paintings come to life as they approach. These animated paintings depict fearsome creatures and warriors, and they attack the party. To proceed through the gallery, the party must find a way to pacify or bypass these aggressive images.
