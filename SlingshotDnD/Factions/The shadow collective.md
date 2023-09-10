@@ -11,6 +11,8 @@ The Ebon Talon, a secretive and ruthless thieves' guild, is a sinister force tha
 #### Goals and Ambitions
 
 Wealth, Money
+
+The Ebon Talon's ultimate ambition is to control the city's criminal underworld entirely, exerting influence over all aspects of its operations. They seek not only wealth and power but also to sow discord and chaos within the city, ensuring that their reign of darkness remains unchallenged.
 #### Methods and Strategies 
 
 Steal from all people of all walks of life, rich, poor, doesn't matter
