@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "5a8dcd14cc60146b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myconid adult.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "196fc4f7ec1d634d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myconid Sovereign.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ba790583149ed2fd",
             "type": "leaf",
             "state": {
@@ -43,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "Myconid Sovereign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "Myconid Sovereign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
+                "file": "Myconid Sovereign.md"
               }
             }
           }
@@ -170,16 +195,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23a2bffe82487265",
+  "active": "196fc4f7ec1d634d",
   "lastOpenFiles": [
-    "animated armor.md",
+    "Myconid adult.md",
     "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+    "Myconid Sovereign.md",
+    "animated armor.md",
     "helmed horror.md",
     "air elemental.md",
     "earth elemental.md",
     "Templates/character-sheet-combat.template.md",
-    "Myconid adult.md",
-    "Myconid Sovereign.md",
     "Aeliana.md",
     "Ronaash.md",
     "Roark.md",

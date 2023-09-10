@@ -6,7 +6,7 @@ Setup:
 - The party arrives at [[Millhaven]], where terrified villagers share stories of strange occurrences since the tower's reappearance.
 - The village elder, [[Aeliana]], offers a reward if the party can cleanse the tower and recover an artifact that can save the village from its plight.
 
-# Act 1: The Tower's Entrance
+# Level 0: The Tower's Entrance
 
 - The party approaches the towering, ivy-covered structure. It appears to have five distinct levels, each with a different appearance.
 - As they enter, the door slams shut behind them and a steel gate magically locks, leaving only one way forward: up the tower.
