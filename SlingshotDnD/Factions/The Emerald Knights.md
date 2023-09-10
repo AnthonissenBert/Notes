@@ -22,7 +22,7 @@ A group of knights for hire solely existing out of orcs.
 These half-orc mercenaries have forged a tight-knit brotherhood, bound not only by their shared heritage but also by a strict code of honor that governs their actions on and off the battlefield. Their distinctive ribbon in the top knotted hair, often with intricate symbols, serve as both a badge of honor and a testament to their lineage.
 
 **Enemies and Opposition:** 
-None yet. They're neutral but 
+None yet. They're neutral but who ever pays the most gets the battalion with the designated officer. So they're bound to make some enemies that couldn't pay up.
 
 
 The Iron Tusk Company is a formidable faction of mercenaries that stands apart from the rest due to its unique composition—every member is a battle-hardened half-orc. Founded by a charismatic half-orc leader named Gragnok Ironfist, the company prides itself on its unmatched strength, unwavering loyalty, and reputation for getting the job done, no matter how dangerous or challenging.
