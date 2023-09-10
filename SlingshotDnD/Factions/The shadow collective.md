@@ -26,3 +26,5 @@ Greed often makes each other blind
 #### Symbol and Insignia
 
 The guild's symbol is a stylized talon, rendered in an eerie, iridescent black that seems to shift in the light. The talon is often depicted clutching a dagger or a stolen jewel, signifying their expertise in theft and cunning.
+
+![[token_1.png]]
