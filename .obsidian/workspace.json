@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Deities/Yuria.md",
+                "file": "SlingshotDnD/Npc's/Friendlies/Chetov Lervas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Deities/Yuria.md",
+                "file": "SlingshotDnD/Npc's/Friendlies/Chetov Lervas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Deities/Yuria.md",
+                "file": "SlingshotDnD/Npc's/Friendlies/Chetov Lervas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Deities/Yuria.md"
+                "file": "SlingshotDnD/Npc's/Friendlies/Chetov Lervas.md"
               }
             }
           }
@@ -148,7 +148,11 @@
   },
   "active": "14976e19dc1323eb",
   "lastOpenFiles": [
-    "SlingshotDnD/Npc's/Aeliana.md",
+    "SlingshotDnD/Npc's/Enemies/Clank.md",
+    "SlingshotDnD/Npc's/Friendlies/Chetov Lervas.md",
+    "SlingshotDnD/Deities/Yuria.md",
+    "SlingshotDnD/Npc's/Friendlies",
+    "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
     "SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
     "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "SlingshotDnD/_Assets/GM links.md",
@@ -157,9 +161,9 @@
     "SlingshotDnD/Npc's/Night hag.md",
     "SlingshotDnD/Npc's/Myconid adult.md",
     "SlingshotDnD/Npc's/Myconid Sovereign.md",
-    "SlingshotDnD/Npc's/animated armor.md",
+    "SlingshotDnD/Npc's/Friendlies/Monsters/animated armor.md",
     "SlingshotDnD/Npc's/helmed horror.md",
-    "SlingshotDnD/Npc's/air elemental.md",
+    "SlingshotDnD/Npc's/Friendlies/Monsters/air elemental.md",
     "SlingshotDnD/Npc's/earth elemental.md",
     "Templates/character-sheet-combat.template.md",
     "SlingshotDnD/Npc's/Ronaash.md",
@@ -171,9 +175,6 @@
     "SlingshotDnD/Npc's/Gruuk.md",
     "SlingshotDnD/Npc's/Lance Garrick.md",
     "SlingshotDnD/Factions/The Shadow Collective.md",
-    "SlingshotDnD/Factions/The Court.md",
-    "SlingshotDnD/Factions/The Bouldermanes.md",
-    "SlingshotDnD/Factions/The Emerald Knights.md",
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",
     "SlingshotDnD/_Assets/token_2.png",
@@ -192,7 +193,6 @@
     "SlingshotDnD/_Assets/pdf/Mardai_Sorrow_lvl3.pdf",
     "SlingshotDnD/_Assets/pdf/Gruuk.pdf",
     "SlingshotDnD/Locations/small towns/mining settements",
-    "SlingshotDnD/Locations/small towns/farming settlements",
-    "SlingshotDnD/_Assets/Tokens"
+    "SlingshotDnD/Locations/small towns/farming settlements"
   ]
 }
