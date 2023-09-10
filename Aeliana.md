@@ -11,5 +11,5 @@ a wise and compassionate woman in her late sixties. She has a commanding presenc
 ## family
 
 married to: [[Ronaash]]
-x amount of children:
+1 child:
 - [[Roark]]
