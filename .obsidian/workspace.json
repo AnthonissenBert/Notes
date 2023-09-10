@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ba790583149ed2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "helmed horror.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6f58dc44f18b84e7",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "helmed horror.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "helmed horror.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
+                "file": "helmed horror.md"
               }
             }
           }
@@ -158,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23a2bffe82487265",
+  "active": "ba790583149ed2fd",
   "lastOpenFiles": [
-    "air elemental.md",
     "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+    "helmed horror.md",
+    "air elemental.md",
     "earth elemental.md",
     "Templates/character-sheet-combat.template.md",
     "Myconid adult.md",
@@ -190,7 +204,6 @@
     "SlingshotDnD/Npc's/Kurog.md",
     "SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
     "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
-    "Templates/faction.template.md",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",
