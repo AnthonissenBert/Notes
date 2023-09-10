@@ -16,5 +16,4 @@ short description
 #### Enemies and Opposition 
 
 ...
-
 #### Flaws
