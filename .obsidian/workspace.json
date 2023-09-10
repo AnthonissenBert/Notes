@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab504fd2fbe07590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Factions/The Bouldermanes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The Shadow Collective.md",
+                "file": "SlingshotDnD/Factions/The Bouldermanes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The Shadow Collective.md",
+                "file": "SlingshotDnD/Factions/The Bouldermanes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/The Shadow Collective.md"
+                "file": "SlingshotDnD/Factions/The Bouldermanes.md"
               }
             }
           }
@@ -146,15 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45a64ce47c5f30a2",
+  "active": "ab504fd2fbe07590",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/The Shadow Collective.md",
+    "SlingshotDnD/Factions/The Emerald Knights.md",
+    "token_3.png",
     "SlingshotDnD/Factions/The Bouldermanes.md",
     "token_2.png",
-    "SlingshotDnD/Factions/The Shadow Collective.md",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/Npc's/BadGuys/Black Haron.md",
     "Templates/npc.template.md",
-    "SlingshotDnD/Factions/The Emerald Knights.md",
     "SlingshotDnD/Factions/The Court.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "Tables/Random encounters.md",
@@ -184,7 +198,6 @@
     "SlingshotDnD/_Assets/Tokens/MiningGuildLeader.png",
     "SlingshotDnD/_Assets/Tokens/innkeepRavenswatch.png",
     "SlingshotDnD/_Assets/Tokens/LordLurken.png",
-    "SlingshotDnD/_Assets/Tokens/hobgoblin.png",
     "SlingshotDnD/_Assets/pdf/vauralok.pdf",
     "SlingshotDnD/_Assets/pdf/sudo_Bram.pdf",
     "SlingshotDnD/_Assets/pdf/Monom.pdf",

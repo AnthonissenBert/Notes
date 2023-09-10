@@ -31,3 +31,6 @@ None yet. They're neutral but who ever pays the most gets the battalion with the
 #### Flaws
 
 They only accept half orcs, so they're pretty racist
+#### Symbol and Insignia
+
+![[token_3.png]]
