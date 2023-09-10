@@ -96,7 +96,7 @@ Upon ascending to the fourth level of the tower, the party finds themselves in a
 
 # Level 5: The Shadowy Sanctum
 
-The party ascends to the fifth and final level of Eldermere Tower, entering a chamber shrouded in darkness. The air feels heavy with foreboding, and the only illumination comes from faint, pulsating shadows that dance along the walls. At the center of the room stands a menacing, shadowy figure, its eyes blazing with malevolence. This is the heart of the tower's curse.
+The party ascends to the fifth and final level of the tower, entering a chamber shrouded in darkness. The air feels heavy with foreboding, and the only illumination comes from faint, pulsating shadows that dance along the walls. At the center of the room stands a menacing, shadowy figure, its eyes blazing with malevolence. This is the heart of the tower's curse.
 
 **Encounters and Puzzles:**
 
@@ -107,14 +107,14 @@ The party ascends to the fifth and final level of Eldermere Tower, entering a ch
 3. **The Crystal of Purification:** The artifact the party seeks is held within a crystal pedestal at the far end of the sanctum. To reach it, they must dispel the guardian's last defenses. This involves engaging in a magical battle of wills with the guardian, using the knowledge and insights gained from previous levels to weaken and ultimately banish the malevolent presence.
 
 4. **The Curse's Origin:** During the confrontation with the guardian, players may have opportunities to learn about the origin of the curse, its connection to the tower's past, and the sacrifices made by its creators. This information can provide a deeper understanding of the tower's history and the consequences of wielding dark magic.
-    
+
 
 **Rewards:**
 
 1. **The Crystal of Purification:** Upon defeating the guardian and dispelling the malevolent presence, the party obtains the Crystal of Purification. This artifact has the power to cleanse the tower of its curse and save the village of Millhaven.
-    
+
 2. **The Guardian's Insight:** The party gains knowledge from the guardian's cryptic revelations, which may prove invaluable in future campaigns or when facing other shadowy threats.
-    
+
 3. **The Tower's Redemption:** With the curse broken and the tower purified, the party witnesses a transformation in the tower itself. It begins to emit a warm, inviting light, and the villagers of Millhaven can safely return to the once-dreaded structure, using it for protection and knowledge.
 
 # Conclusion:
