@@ -1,2 +1,19 @@
-Stonemacens for excavating caves and masters in explosives
+Stonemacens over 
+short description
 
+---
+
+**Leader**:
+- 
+
+**Officers**:
+- ...
+
+**Goals and Ambitions**
+...
+
+**Methods and Strategies:** 
+...
+
+**Enemies and Opposition:** 
+...
