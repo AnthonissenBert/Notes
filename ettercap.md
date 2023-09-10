@@ -7,8 +7,8 @@
 ---
 ### ability scores
 
-STR: 10 (+0) 
-DEX: 10 (+0)
+STR: 14 (+0) 
+DEX: 15 (+0)
 CON: 10 (+0)
 INT: 10 (+0)
 WIS: 10 (+0)
