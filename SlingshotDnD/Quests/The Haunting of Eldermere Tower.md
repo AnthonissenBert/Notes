@@ -39,7 +39,7 @@ What am I?"
 - The second level is a grand library filled with floating books, animated quills, and spectral librarians.
 - Ghostly apparitions challenge the players to a battle of wits, requiring them to solve riddles, locate hidden tomes, and decipher a cryptic spell to unlock the way up.
 
-Level 3: The Ethereal Gallery
+# Level 3: The Ethereal Gallery
 
 - The third level is an art gallery adorned with paintings that come to life as hostile creatures when disturbed.
 - Players must find the correct sequence to pass through the gallery without alerting the animated paintings.
