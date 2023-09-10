@@ -57,7 +57,7 @@ What am I?"
 
 # Level 3: The Ethereal Gallery
 
-Here the party will be able to short rest and level up
+**Here the party will be able to short rest and level up**
 
 As the party ascends to the third level of the tower, they find themselves in a grand hall adorned with magnificent paintings, each depicting scenes of ancient battles, mythical creatures, and lost civilizations. The room is dimly lit by ethereal torches that cast an eerie, shifting light upon the artwork. However, something about these paintings seems unsettling.
 
@@ -117,11 +117,10 @@ The party ascends to the fifth and final level of the tower, entering a chamber 
 
 # Conclusion:
 
-- After defeating the hag, the party finds the artifact they sought, a [[Crystal of Purification]].
+- After defeating the hag and her minions, the party finds the artifact they sought, a [[Crystal of Purification]].
 - Returning to the village, they use the crystal to cleanse the tower, dispelling its malevolent influence.
 - The grateful villagers reward the party with riches, and they are hailed as heroes of [[Millhaven]].
-
-Optional Hooks and Expansions:
+# Optional Hooks and Expansions:
 
 - Introduce an NPC who joins the party temporarily, seeking redemption or treasure.
 - Incorporate moral choices in the tower's challenges, affecting the story's outcome.
