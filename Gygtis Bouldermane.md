@@ -11,5 +11,6 @@ an old Leonin barbarian who settled down to spend his pension days with fixing t
 ## family
 
 married to: [[Imnele Emberforce]]
-x amount of children:
-- 
+children:
+- [[Gyrthun Bouldermane]]
+- [[Zirne Bouldermane]]

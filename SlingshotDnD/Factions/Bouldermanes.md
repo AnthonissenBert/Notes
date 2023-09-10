@@ -6,7 +6,10 @@ These are stonemacons
 - [[Gygtis Bouldermane]]
 
 **Officers**:
-- all leonins
+- [[Prythos Keenweaver]]
+- [[Kigo Primecaller]]  
+- [[Tryktor Windwhisper]]  
+- [[Okrun Glowrest]]
 
 **Goals and Ambitions**
 - Making the world a better place. 
