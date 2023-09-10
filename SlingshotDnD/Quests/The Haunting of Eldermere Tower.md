@@ -1,6 +1,7 @@
-Introduction: In the land of [[Ardentia]], a tall tower has reemerged from the depths of history, casting a sinister shadow over the nearby village of [[Millhaven]]. Rumors speak of treasures hidden within its haunted halls, and brave adventurers have been drawn to its eerie presence. As the party of five, each of you finds yourselves trotting in the rustic village of [[Millhaven]], where the townsfolk beg for your help in putting an end to the tower's malevolent influence.
+# Introduction
 
-Setup:
+In the land of [[Ardentia]], a tall tower has reemerged from the depths of history, casting a sinister shadow over the nearby village of [[Millhaven]]. Rumors speak of treasures hidden within its haunted halls, and brave adventurers have been drawn to its eerie presence. As the party of five, each of you finds yourselves trotting in the rustic village of [[Millhaven]], where the townsfolk beg for your help in putting an end to the tower's malevolent influence.
+# Setup
 
 - The party consists of five 5th-level characters. Ensure a balanced party composition with a mix of classes such as Fighter, Wizard, Rogue, Cleric, and Druid.
 - The party arrives at [[Millhaven]], where terrified villagers share stories of strange occurrences since the tower's reappearance.

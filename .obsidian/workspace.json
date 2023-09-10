@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Npc's/Vakonijnzir Shurnin.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Vakonijnzir Shurnin.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Vakonijnzir Shurnin.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Vakonijnzir Shurnin.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "500b50cc993796cb",
   "lastOpenFiles": [
+    "SlingshotDnD/Players/Monom.md",
+    "SlingshotDnD/Players/Sudo.md",
+    "SlingshotDnD/Players/Vaurulak Valune.md",
+    "SlingshotDnD/Npc's/Friendlies/Zia Cheim.md",
+    "SlingshotDnD/Npc's/Neutrals/Zara.md",
+    "SlingshotDnD/Npc's/Neutrals/Vakonijnzir Shurnin.md",
     "SlingshotDnD/Npc's/Neutrals/Zirne Bouldermane.md",
-    "SlingshotDnD/Npc's/Zara.md",
     "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md",
-    "SlingshotDnD/Npc's/Vakonijnzir Shurnin.md",
     "SlingshotDnD/Npc's/Neutrals/Tryktor Windwhisper.md",
     "SlingshotDnD/Npc's/Neutrals/Takashi.md",
     "SlingshotDnD/Npc's/Neutrals/Sora.md",
@@ -170,10 +174,6 @@
     "SlingshotDnD/Npc's/Enemies/Leon.md",
     "SlingshotDnD/Npc's/Friendlies/Mathias.md",
     "SlingshotDnD/Npc's/Neutrals/Lord Lurken.md",
-    "SlingshotDnD/Npc's/Neutrals/Lance Garrick.md",
-    "SlingshotDnD/Npc's/Neutrals/Kurog.md",
-    "SlingshotDnD/Npc's/Neutrals/Kigo Primecaller.md",
-    "SlingshotDnD/Npc's/Neutrals/Kazunori.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_4.png",
