@@ -100,13 +100,9 @@ The party ascends to the fifth and final level of the tower, entering a chamber 
 
 **Encounters and Puzzles:**
 
-1. **The Shadow Guardian:** The shadowy figure reveals itself as the guardian of the sanctum. It taunts the party with cryptic riddles and dark prophecies. To confront the guardian, the party must answer its riddles, gradually weakening its power. The riddles could include questions like, "I follow you in the day, but I'm lost without a trace at night. What am I?" (Answer: A shadow).
+1. **The Shadow Guardian:** The figure reveals itself as the guardian of the sanctum. It taunts the party with cryptic riddles and dark prophecies. To confront the guardian, the party must answer its riddles, gradually weakening its power. The riddles could include questions like, "I follow you in the day, but I'm lost without a trace at night. What am I?" (Answer: A shadow).
 
-2. **Shadow Puppets:** As the party engages with the guardian, the room comes alive with shadowy illusions that manifest as twisted, shadowy versions of themselves. These shadow puppets mimic the party's actions, and defeating them requires clever tactics. Once defeated, the room darkens, and the guardian becomes vulnerable.
-
-3. **The Crystal of Purification:** The artifact the party seeks is held within a crystal pedestal at the far end of the sanctum. To reach it, they must dispel the guardian's last defenses. This involves engaging in a magical battle of wills with the guardian, using the knowledge and insights gained from previous levels to weaken and ultimately banish the malevolent presence.
-
-4. **The Curse's Origin:** During the confrontation with the guardian, players may have opportunities to learn about the origin of the curse, its connection to the tower's past, and the sacrifices made by its creators. This information can provide a deeper understanding of the tower's history and the consequences of wielding dark magic.
+2. **The Curse's Origin:** During the confrontation with the guardian, players may have opportunities to learn about the origin of the curse, its connection to the tower's past, and the sacrifices made by its creators. This information can provide a deeper understanding of the tower's history and the consequences of wielding dark magic.
 
 
 **Rewards:**
