@@ -1,11 +1,6 @@
-Grand Leader of [[The Shadow Collective]]
-
-class: Artificer - Alchemist
-level: 15
-
 status: Grand leader
 race: Aarakocra
-class: Artificer Alchemist (9) - Rogue
+class: Artificer Alchemist (9) - Rogue Assassin (9)
 in charge of: [[The Shadow Collective]]
 
 ---
