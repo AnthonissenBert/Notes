@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b26f49dd2e8ea125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Npc's/BadGuys/Black Haron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The shadow collective.md",
+                "file": "SlingshotDnD/Npc's/BadGuys/Black Haron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The shadow collective.md",
+                "file": "SlingshotDnD/Npc's/BadGuys/Black Haron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/The shadow collective.md"
+                "file": "SlingshotDnD/Npc's/BadGuys/Black Haron.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45a64ce47c5f30a2",
+  "active": "b26f49dd2e8ea125",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/The shadow collective.md",
+    "SlingshotDnD/Npc's/BadGuys/Black Haron.md",
     "SlingshotDnD/Factions/The Emerald Knights.md",
     "SlingshotDnD/Factions/The Bouldermanes.md",
     "SlingshotDnD/Factions/The Court.md",
@@ -156,7 +171,6 @@
     "SlingshotDnD/Npc's/Kurog.md",
     "SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
     "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
-    "SlingshotDnD/Factions/The shadow collective.md",
     "SlingshotDnD/Npc's/Gruuk.md",
     "Templates/faction.template.md",
     "SlingshotDnD/Npc's/Kazunori.md",
@@ -173,7 +187,6 @@
     "SlingshotDnD/Npc's/Zirne Bouldermane.md",
     "SlingshotDnD/Npc's/Gyrthun Bouldermane.md",
     "SlingshotDnD/Factions/Guilds/Cliffshine Corporation.md",
-    "SlingshotDnD/Locations/The Garrison.md",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "Tables",
