@@ -1,21 +1,13 @@
-### general
-
-Name:
-Race: 
-Class: 
-Alignment: 
-
----
 ### key information
 
-Armor Class: 
-Hit Points: 
-Speed ... ft.
+**Armor Class** 15  
+**Hit Points** 90 (12d10 + 24)  
+**Speed** 0 ft., fly 90 ft. (hover)
 
 ---
 ### ability scores
 
-STR: 10 (+0) 
+STR: 14(+0) 
 DEX: 10 (+0)
 CON: 10 (+0)
 INT: 10 (+0)

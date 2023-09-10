@@ -5,7 +5,6 @@ Hit Points: 126 (12d10 + 60)
 Speed 30 ft., burrow 30 ft.
 
 ---
-
 ### ability scores
 
 STR: 20 (+5) 
@@ -16,7 +15,6 @@ WIS: 10 (+0)
 CHA: 5 (-3)
 
 ---
-
 ### proficiencies / languages / saving throws / skills
 
 **Damage Vulnerabilities** thunder
