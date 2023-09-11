@@ -4,7 +4,7 @@ In the land of [[Ardentia]], a tall tower has reemerged from the depths of histo
 # Setup
 
 - The party consists of five 5th-level characters. Ensure a balanced party composition with a mix of classes such as Fighter, Wizard, Rogue, Cleric, and Druid.
-- [[Millhaven]] has sent for [[the Wealth of the Spear]] and they answeredof adventures called the [[cronos guard]] to investigate
+- [[Millhaven]] has sent for [[the Wealth of the Spear]] and they answered with a group of adventures called the [[cronos guard]].
 - The party arrives at [[Millhaven]], where terrified villagers share stories of strange occurrences since the tower's reappearance.
 - The village elder, [[Aeliana]], offers a reward if the party can cleanse the tower and recover an artifact that can save the village from its plight.
 
