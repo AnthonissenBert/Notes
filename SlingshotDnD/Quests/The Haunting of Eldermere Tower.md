@@ -35,6 +35,8 @@ What am I?"
 - The players must navigate through a maze of giant mushrooms and face off against 3 [[Myconid Sovereign]] and 3 [[Myconid adult]]s guarding the way.
 - They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arrow to open the path further up.
 
+
+
 # Level 2: The Library of the elements
 
 1. **The Whispering Tomes:** As the party explores the library, they encounter a series of floating books that seem to be trying to communicate with them. These spectral tomes contain fragments of knowledge about the tower's history and the curse that plagues it. The players must decipher the cryptic messages hidden within the whispers of the books to learn more about their quest.
