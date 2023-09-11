@@ -10,12 +10,11 @@ Longsword, Rare (requires attunement)
 
 # table
 
-| test | test | test |
+| d6 | Color | Effect |
 | ---- | ---- | ---- |
-| 1 | ---- | ---- |
-| 2 | ---- | ---- |
-| 3 | ---- | ---- |
-| 4 | ---- | ---- |
-| 5 | ---- | ---- |
-| 6 | ---- | ---- |
-| ---- | ---- | ---- |
+| 1 | Yellow | The target is blinded until the start of its next turn. |
+| 2 | Green | The target is poisoned until the end of their next turn |
+| 3 | Red |  |
+| 4 | Purple | ---- |
+| 5 | Blue | ---- |
+| 6 | Cyan | ---- |
