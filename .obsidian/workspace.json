@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/MagicalArtifacts/Prismblade.md",
+                "file": "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/MagicalArtifacts/Prismblade.md",
+                "file": "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/MagicalArtifacts/Prismblade.md",
+                "file": "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/MagicalArtifacts/Prismblade.md"
+                "file": "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md"
               }
             }
           }
@@ -185,8 +185,8 @@
   },
   "active": "0c5cf33770407ae6",
   "lastOpenFiles": [
-    "SlingshotDnD/Quests/The Unforged Blade.md",
     "SlingshotDnD/MagicalArtifacts/Prismblade.md",
+    "SlingshotDnD/Quests/The Unforged Blade.md",
     "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
     "SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
     "SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
