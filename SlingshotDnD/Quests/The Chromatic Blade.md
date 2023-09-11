@@ -13,7 +13,7 @@ Key Encounters:
 
 2. The Ancient Dungeon: Inside the dungeon, the players will face numerous traps, guardians, and puzzles. They must decipher the clues and riddles left behind by the dungeon's creators to progress deeper. At one point, they might need to arrange ancient runes to unlock a hidden chamber, and in another, they could face a guardian who demands a test of honor rather than combat.
 
-3. Guild Rivalry: As the players draw closer to the [[Prismblade]], they encounter a rival adventuring guild sent to claim the sword for their own glory. The party must decide whether to engage in a tense negotiation, outwit them, or engage in a thrilling battle. If engaged, t
+3. Guild Rivalry: As the players draw closer to the [[Prismblade]], they encounter a rival adventuring guild sent to claim the sword for their own glory. The party must decide whether to engage in a tense negotiation, outwit them, or engage in a thrilling battle. If engaged by the party, the party will completely obliterate the opposition (these are level 3 fighters agains the parties level 6)
 
 4. Kaelin's Dilemma: Upon reaching Kaelin's secluded forge, they discover him torn between the desire to stay independent and the potential for his craftsmanship to make a difference in the world. The players must persuade him to make the right choice, emphasizing the sword's importance for justice and righteousness.
     
