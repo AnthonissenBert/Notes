@@ -13,8 +13,8 @@ Longsword, Rare (requires attunement)
 | d6 | Color | Effect |
 | ---- | ---- | ---- |
 | 1 | Yellow | The target is blinded until the start of its next turn. |
-| 2 | Green | The target is poisoned until the end of their next turn |
-| 3 | Red |  |
-| 4 | Purple | ---- |
-| 5 | Blue | ---- |
-| 6 | Cyan | ---- |
+| 2 | Green | The target is poisoned until the end of their next turn. |
+| 3 | Red | The target has their movement halved until the end of their next turn. |
+| 4 | Purple | The target takes a -2 penalty to their AC until the start of its next turn. |
+| 5 | Blue | You can make an additional attack on the target. |
+| 6 | Cyan | The target takes an additional 2d6 force damage on this attack |
