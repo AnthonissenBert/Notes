@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b918665ee8578113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Half red dragon veteran.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bf44e7124b608f7d",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Chromatic Blade.md",
+                "file": "Half red dragon veteran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Chromatic Blade.md",
+                "file": "Half red dragon veteran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Chromatic Blade.md"
+                "file": "Half red dragon veteran.md"
               }
             }
           }
@@ -158,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "500b50cc993796cb",
+  "active": "b918665ee8578113",
   "lastOpenFiles": [
-    "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Quests/The Chromatic Blade.md",
+    "Half red dragon veteran.md",
+    "SlingshotDnD/_Assets/GM links.md",
     "Roderic Toll.md",
     "Pamela Toll.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
@@ -185,7 +199,6 @@
     "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md",
     "SlingshotDnD/Npc's/Neutrals/Tryktor Windwhisper.md",
     "SlingshotDnD/Npc's/Neutrals/Takashi.md",
-    "SlingshotDnD/Npc's/Neutrals/Sora.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_4.png",
