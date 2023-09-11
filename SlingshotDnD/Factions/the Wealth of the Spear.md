@@ -11,10 +11,10 @@ active quests:
 #### Officers
 
 - [[Gruuk]]
+- [[Roderic Toll]]
 #### Sergeants
 
 - [[Osmund Briarmane]]
-- [[Roderic]]
 #### Goals and Ambitions
 
 - Make the world a better place
