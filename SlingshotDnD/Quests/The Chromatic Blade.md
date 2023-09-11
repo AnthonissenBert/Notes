@@ -5,7 +5,7 @@ In a bustling city of [[Dashingvale]], nestled between towering mountains and lu
 
 The players are sent to the bureau and are sent straight to the office of the chief known as [[Roderic Toll]], who shares a tale of the [[Prismblade]] and [Kaelin's]([[Kaelin Stormforged]]) desire to remain independent. [[Roderic Toll]], an old friend of [Kaelin's]([[Kaelin Stormforged]]), believes that the swordsmith's skills should not be wasted on the puny local adventuring guilds. Instead, that [Kaelin]([[Kaelin Stormforged]]) should join [[the Wealth of the Spear]] for a righteous cause. for a glorious cause
 
-[[Roderic Toll]] offers the players a map that leads to the dungeon where the [[Prismblade]] is rumored to be hidden. The party's goal is to retrieve the sword before any local adventuring guild does and deliver it to [[Kaelin]], allowing him to decide its fate. Along the way, they'll encounter various challenges and puzzles, all designed to test their wits and abilities.
+[[Roderic Toll]] offers the players a map that leads to the dungeon where the [[Prismblade]] is rumored to be hidden. The party's goal is to retrieve the sword before any local adventuring guild does and deliver it to [Kaelin]([[Kaelin Stormforged]]), allowing you to bribe him into joining [[the Wealth of the Spear]]. Along the way, they'll encounter various challenges and puzzles, all designed to test their wits and abilities.
 
 Key Encounters:
 
