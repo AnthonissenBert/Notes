@@ -14,6 +14,7 @@ active quests:
 #### Sergeants
 
 - [[Osmund Briarmane]]
+- [[Roderic]]
 #### Goals and Ambitions
 
 - Make the world a better place

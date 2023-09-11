@@ -3,7 +3,7 @@
 In a bustling city of [[Dashingvale]], nestled between towering mountains and lush forests, lies an outpost for [[the Wealth of the Spear]]. The outpost created to search for the renowned swordsmith named [[Kaelin Stormforged]]. Known for his exquisite craftsmanship, [Kaelin's]([[Kaelin Stormforged]]) reputation has drawn the attention of several adventuring guilds, all vying for his allegiance. However, [Kaelin]([[Kaelin Stormforged]]) has no desire to be indoctrinated into any guild especially not of the adventuring kind, preferring to create his masterpieces in peace. Unbeknownst to him, rumors of a legendary sword, the "[[Prismblade]]," hidden deep within a perilous dungeon, have begun to circulate.
 # Plot
 
-The players are approached by known as Alaric, who shares a tale of the Unforged Blade and Kaelin's desire to remain independent. Alaric, an old friend of Kaelin's, believes that the swordsmith's skills should not be wasted on the adventuring guilds' petty wars. Instead, the Unforged Blade should be forged by Kaelin for a righteous cause.
+The players are approached by known as [[Roderic]], who shares a tale of the Unforged Blade and Kaelin's desire to remain independent. Alaric, an old friend of Kaelin's, believes that the swordsmith's skills should not be wasted on the adventuring guilds' petty wars. Instead, the Unforged Blade should be forged by Kaelin for a righteous cause.
 
 Alaric offers the players a map that leads to the dungeon where the Unforged Blade is rumored to be hidden. The party's goal is to retrieve the sword before any adventuring guild does and deliver it to Kaelin, allowing him to decide its fate. Along the way, they'll encounter various challenges and puzzles, all designed to test their wits and abilities.
 
