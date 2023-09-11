@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "SlingshotDnD/Quests/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "SlingshotDnD/Quests/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+                "file": "SlingshotDnD/Quests/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md"
+                "file": "SlingshotDnD/Quests/Untitled.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "500b50cc993796cb",
   "lastOpenFiles": [
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "SlingshotDnD/Quests/Untitled.md",
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
-    "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
     "cronos guard.md",
     "SlingshotDnD/Players/Monom.md",
@@ -173,7 +174,6 @@
     "SlingshotDnD/Npc's/Neutrals/Prythos Keenweaver.md",
     "SlingshotDnD/Npc's/Neutrals/Peter Strudon.md",
     "SlingshotDnD/Npc's/Friendlies/Osmund Briarmane.md",
-    "SlingshotDnD/Npc's/Neutrals/Okrun Glowrest.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_4.png",
