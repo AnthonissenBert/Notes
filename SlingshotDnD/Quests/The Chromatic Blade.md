@@ -1,3 +1,7 @@
+# General
+
+**party level** 6
+
 # Introduction
 
 In a bustling city of [[Dashingvale]], nestled between towering mountains and lush forests, lies an outpost for [[the Wealth of the Spear]]. The outpost created to search for the renowned swordsmith named [[Kaelin Stormforged]]. Known for his exquisite craftsmanship, [Kaelin's]([[Kaelin Stormforged]]) reputation has drawn the attention of several adventuring guilds, all vying for his allegiance. However, [Kaelin]([[Kaelin Stormforged]]) has no desire to be indoctrinated into any guild especially not of the adventuring kind, preferring to create his masterpieces in peace. Unbeknownst to him, rumors of a legendary sword, the "[[Prismblade]]," hidden deep within a perilous dungeon, have begun to circulate.
@@ -11,7 +15,7 @@ The players are sent to the bureau and are sent straight to the office of the ch
 
 **1. Magical Traps:** Hidden throughout the forest are magical traps designed to challenge the adventurers' problem-solving abilities rather than pose a direct threat. For instance, they might encounter an illusionary bridge that disappears beneath their feet or a doorway that can only be unlocked by answering a riddle posed by a sentient tree guardian.
 
-**2. Whispering Trees:** Among the forest's ancient trees, a few possess sentience and the ability to communicate through whispered secrets. These trees may hold knowledge about the dungeon, Kaelin, or the Unforged Blade but will only share it if the players prove their respect for nature and the forest's mystical harmony.
+**2. Whispering Trees:** Among the forest's ancient trees, a few possess sentience and the ability to communicate through whispered secrets. These trees may hold knowledge about the dungeon, [Kaelin]([[Kaelin Stormforged]]), or the [[Prismblade]] but will only share it if the players prove their respect for nature and the forest's mystical harmony.
 # The Ancient Dungeon
 
 **1. Weathered Stone Architecture:** The entrance of the dungeon is carved from ancient, weathered stone and adorned with intricate runes and symbols that hint at its magical origins. Inside, they find themselves in a dimly lit corridor with walls of the same aged stone. Flickering torches along the walls provide the only source of illumination, casting eerie shadows.
