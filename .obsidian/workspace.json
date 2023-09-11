@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
+                "file": "SlingshotDnD/MagicalArtifacts/Prismblade.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
+                "file": "SlingshotDnD/MagicalArtifacts/Prismblade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
+                "file": "SlingshotDnD/MagicalArtifacts/Prismblade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md"
+                "file": "SlingshotDnD/MagicalArtifacts/Prismblade.md"
               }
             }
           }
@@ -183,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "0c5cf33770407ae6",
   "lastOpenFiles": [
+    "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
     "SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
     "SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
-    "SlingshotDnD/MagicalArtifacts/Unforged Blade.md",
+    "SlingshotDnD/MagicalArtifacts/Prismblade.md",
     "SlingshotDnD/Quests/The Unforged Blade.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Neutrals/Kaelin Stormforged.md",
@@ -210,7 +211,6 @@
     "SlingshotDnD/Npc's/Friendlies/Shmirma.md",
     "SlingshotDnD/Npc's/Enemies/Selkath.md",
     "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
-    "SlingshotDnD/Npc's/Neutrals/Rom Pinan.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_4.png",
