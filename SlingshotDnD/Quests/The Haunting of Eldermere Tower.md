@@ -29,15 +29,15 @@ What am I?"
 ```
 - If they find the answer pretty quickly they see the room before them and a spiraling staircase leading up. In this room they see living quarters. If they don't check for traps 5 random thing will turn in to a mimic and attack the party
 
-# Level 1: The Fungus Infested Chamber
+# Level 1: The Fungal Forest
 
 - The first level is shrouded in an eerie mist with eerie glowing mushrooms.
 
 - They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arrow to open the path further up.
 
-1. **The Mushroom Puzzle**: As the party enters, they see a couple of mushrooms piled onto one another.
+1. **The Mushroom Puzzle**: As the party enters, they see a couple of mushrooms piled onto one another. These have different colors than the others around. 
 
-1. **The Myconid Guardians:** As the party enters, they encounter Myconids, humanoid mushroom creatures that guard the chamber. The Myconids are not inherently hostile but are under the influence of the tower's curse, causing them to attack intruders. The party can choose to combat them or find a way to communicate with them to avoid conflict.
+2. **The Myconid Guardians:** As the party enters, they encounter Myconids, humanoid mushroom creatures that guard the chamber. The Myconids are not inherently hostile but are under the influence of the tower's curse, causing them to attack intruders. The party can choose to combat them or find a way to communicate with them to avoid conflict.
 	- 3 [[Myconid adult]]s and 3 [[Myconid Sovereign]]s
 
 4. **Mysterious Water Source:** The chamber contains a small pool of water surrounded by bioluminescent mushrooms. The water has unique properties, and it can be collected for potential later use. It may heal wounds, remove curses, or provide some other beneficial effect. However, players must figure out how to safely extract the water without disturbing the pool's inhabitants.
