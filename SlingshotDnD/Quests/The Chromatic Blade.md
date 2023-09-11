@@ -17,6 +17,7 @@ The players are sent to the bureau and are sent straight to the office of the ch
 **1. Weathered Stone Architecture:** The entrance of the dungeon is carved from ancient, weathered stone and adorned with intricate runes and symbols that hint at its magical origins. Inside, they find themselves in a dimly lit corridor with walls of the same aged stone. Flickering torches along the walls provide the only source of illumination, casting eerie shadows.
 
 **2. Guardians of the Past:** The dungeon is guarded by enchanted stone constructs that were created centuries ago to protect its secrets. These guardians are formidable adversaries and must be outwitted or defeated to progress deeper into the dungeon. To bypass them, the players may need to decipher ancient inscriptions, offering clues about their weaknesses and the dungeon's history.
+	- Half red dragon 
 
 **3. Guild Rivalry**: As the players draw closer to the [[Prismblade]], they encounter a rival adventuring guild sent to claim the sword for their own glory. The party must decide whether to engage in a tense negotiation, outwit them, or engage in a thrilling battle. If engaged by the party, the party will completely obliterate the opposition (these are level 3 fighters agains the parties level 6)
 
