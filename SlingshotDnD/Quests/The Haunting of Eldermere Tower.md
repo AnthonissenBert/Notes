@@ -35,18 +35,19 @@ What am I?"
 
 - They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arrow to open the path further up.
 
+1. **The Mushroom Puzzle**: As the party enters, they see a couple of mushrooms piled onto one another.
+
 1. **The Myconid Guardians:** As the party enters, they encounter Myconids, humanoid mushroom creatures that guard the chamber. The Myconids are not inherently hostile but are under the influence of the tower's curse, causing them to attack intruders. The party can choose to combat them or find a way to communicate with them to avoid conflict.
 	- 3 [[Myconid adult]]s and 3 [[Myconid Sovereign]]s
 
 4. **Mysterious Water Source:** The chamber contains a small pool of water surrounded by bioluminescent mushrooms. The water has unique properties, and it can be collected for potential later use. It may heal wounds, remove curses, or provide some other beneficial effect. However, players must figure out how to safely extract the water without disturbing the pool's inhabitants.
-    
 
 **Rewards:**
 
 1. **Mushroom Knowledge:** Successfully navigating the fungal chamber and solving its puzzles grants the party knowledge of Myconids, fungi, and their properties, which can be useful in future encounters or for crafting potions and remedies.
-    
+
 2. **Spore Manipulation:** Mastering the mushroom maze puzzle provides the party with a temporary ability to control mushroom spores, allowing them to create distractions, obscure vision, or influence Myconids in future encounters.
-    
+
 3. **Mysterious Water:** Collecting the unique water from the pool can prove invaluable later in their quest, offering them healing or purification benefits when needed.
 
 # Level 2: The Library of the elements
