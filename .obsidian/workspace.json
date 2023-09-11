@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invisible Stalker.md",
+                "file": "SlingshotDnD/Quests/The Chromatic Blade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invisible Stalker.md",
+                "file": "SlingshotDnD/Quests/The Chromatic Blade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invisible Stalker.md"
+                "file": "SlingshotDnD/Quests/The Chromatic Blade.md"
               }
             }
           }
@@ -183,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b30037f8b885f65",
+  "active": "500b50cc993796cb",
   "lastOpenFiles": [
-    "SlingshotDnD/Quests/The Chromatic Blade.md",
     "Invisible Stalker.md",
+    "SlingshotDnD/Quests/The Chromatic Blade.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Quests/Bringing down the alpha.md",
     "SlingshotDnD/Quests/Burned house haunting.md",
