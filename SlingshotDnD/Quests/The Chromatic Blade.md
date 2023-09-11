@@ -12,9 +12,13 @@ The players are sent to the bureau and are sent straight to the office of the ch
 **1. Magical Traps:** Hidden throughout the forest are magical traps designed to challenge the adventurers' problem-solving abilities rather than pose a direct threat. For instance, they might encounter an illusionary bridge that disappears beneath their feet or a doorway that can only be unlocked by answering a riddle posed by a sentient tree guardian.
 
 **2. Whispering Trees:** Among the forest's ancient trees, a few possess sentience and the ability to communicate through whispered secrets. These trees may hold knowledge about the dungeon, Kaelin, or the Unforged Blade but will only share it if the players prove their respect for nature and the forest's mystical harmony.
+# The Ancient Dungeon
 
+**1. Weathered Stone Architecture:** The entrance of the dungeon is carved from ancient, weathered stone and adorned with intricate runes and symbols that hint at its magical origins. Inside, they find themselves in a dimly lit corridor with walls of the same aged stone. Flickering torches along the walls provide the only source of illumination, casting eerie shadows.
 
-# The Ancient Dungeon: Inside the dungeon, the players will face numerous traps, guardians, and puzzles. They must decipher the clues and riddles left behind by the dungeon's creators to progress deeper. At one point, they might need to arrange ancient runes to unlock a hidden chamber, and in another, they could face a guardian who demands a test of honor rather than combat.
+**2. Guardians of the Past:** The dungeon is guarded by enchanted stone constructs that were created centuries ago to protect its secrets. These guardians are formidable adversaries and must be outwitted or defeated to progress deeper into the dungeon. To bypass them, the players may need to decipher ancient inscriptions, offering clues about their weaknesses and the dungeon's history.
+
+Inside the dungeon, the players will face numerous traps, guardians, and puzzles. They must decipher the clues and riddles left behind by the dungeon's creators to progress deeper. At one point, they might need to arrange ancient runes to unlock a hidden chamber, and in another, they could face a guardian who demands a test of honor rather than combat.
 
 3. Guild Rivalry: As the players draw closer to the [[Prismblade]], they encounter a rival adventuring guild sent to claim the sword for their own glory. The party must decide whether to engage in a tense negotiation, outwit them, or engage in a thrilling battle. If engaged by the party, the party will completely obliterate the opposition (these are level 3 fighters agains the parties level 6)
 
