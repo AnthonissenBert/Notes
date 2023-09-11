@@ -22,13 +22,11 @@ The players are sent to the bureau and are sent straight to the office of the ch
 
 **4. Puzzle Chambers:** The heart of the dungeon is a series of interconnected chambers filled with intricate puzzles. These puzzles test the players' logic, observation skills, and problem-solving abilities. For example, they might encounter a room with a shifting floor puzzle where they must step on pressure plates in a specific sequence to unlock a door or a room with a mysterious celestial clock that reveals the way forward when deciphered.
 
-**5. The Forge's Chamber:** The climax of the dungeon reveals the forge where the Unforged Blade was intended to be crafted. Here, the players find a massive, mystical anvil and a collection of rare, magical materials. They must figure out how to unlock the forge's secrets and potentially use its power to their advantage.
+**5. Ethereal Guardians:** In the deepest chamber, they encounter ethereal guardians who determine whether the adventurers are worthy of claiming the Unforged Blade. These guardians may challenge the players with moral dilemmas, forcing them to confront their true intentions and the greater purpose of the sword.
 
-**6. Ethereal Guardians:** In the deepest chamber, they encounter ethereal guardians who determine whether the adventurers are worthy of claiming the Unforged Blade. These guardians may challenge the players with moral dilemmas, forcing them to confront their true intentions and the greater purpose of the sword.
+**6. The Forge's Chamber:** The climax of the dungeon reveals the forge where the Unforged Blade was intended to be crafted. Here, the players find a massive, mystical anvil and a collection of rare, magical materials. They must figure out how to unlock the forge's secrets and potentially use its power to their advantage.
 
+**7. Kaelin's Dilemma**: Upon reaching Kaelin's secluded forge, they discover him torn between the desire to stay independent and the potential for his craftsmanship to make a difference in the world. The players must persuade him to make the right choice, emphasizing the sword's importance for justice and righteousness.
+# Conclusion
 
-
-4. Kaelin's Dilemma: Upon reaching Kaelin's secluded forge, they discover him torn between the desire to stay independent and the potential for his craftsmanship to make a difference in the world. The players must persuade him to make the right choice, emphasizing the sword's importance for justice and righteousness.
-    
-
-Conclusion: The players' choices throughout the one-shot will ultimately determine the fate of the Unforged Blade and Kaelin's future. Will they successfully retrieve the sword and convince Kaelin to forge it for a noble cause, or will they be tempted by the power it holds and use it for their own ends? The outcome rests in their hands, and the story concludes with their decision shaping the destiny of both the sword and the master swordsmith.
+The players' choices throughout the one-shot will ultimately determine the fate of the Unforged Blade and Kaelin's future. Will they successfully retrieve the sword and convince Kaelin to forge it for a noble cause, or will they be tempted by the power it holds and use it for their own ends? The outcome rests in their hands, and the story concludes with their decision shaping the destiny of both the sword and the master swordsmith.
