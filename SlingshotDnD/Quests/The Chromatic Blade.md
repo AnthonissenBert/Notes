@@ -18,9 +18,15 @@ The players are sent to the bureau and are sent straight to the office of the ch
 
 **2. Guardians of the Past:** The dungeon is guarded by enchanted stone constructs that were created centuries ago to protect its secrets. These guardians are formidable adversaries and must be outwitted or defeated to progress deeper into the dungeon. To bypass them, the players may need to decipher ancient inscriptions, offering clues about their weaknesses and the dungeon's history.
 
-Inside the dungeon, the players will face numerous traps, guardians, and puzzles. They must decipher the clues and riddles left behind by the dungeon's creators to progress deeper. At one point, they might need to arrange ancient runes to unlock a hidden chamber, and in another, they could face a guardian who demands a test of honor rather than combat.
+**3. Guild Rivalry**: As the players draw closer to the [[Prismblade]], they encounter a rival adventuring guild sent to claim the sword for their own glory. The party must decide whether to engage in a tense negotiation, outwit them, or engage in a thrilling battle. If engaged by the party, the party will completely obliterate the opposition (these are level 3 fighters agains the parties level 6)
 
-3. Guild Rivalry: As the players draw closer to the [[Prismblade]], they encounter a rival adventuring guild sent to claim the sword for their own glory. The party must decide whether to engage in a tense negotiation, outwit them, or engage in a thrilling battle. If engaged by the party, the party will completely obliterate the opposition (these are level 3 fighters agains the parties level 6)
+**4. Puzzle Chambers:** The heart of the dungeon is a series of interconnected chambers filled with intricate puzzles. These puzzles test the players' logic, observation skills, and problem-solving abilities. For example, they might encounter a room with a shifting floor puzzle where they must step on pressure plates in a specific sequence to unlock a door or a room with a mysterious celestial clock that reveals the way forward when deciphered.
+
+**5. The Forge's Chamber:** The climax of the dungeon reveals the forge where the Unforged Blade was intended to be crafted. Here, the players find a massive, mystical anvil and a collection of rare, magical materials. They must figure out how to unlock the forge's secrets and potentially use its power to their advantage.
+
+**6. Ethereal Guardians:** In the deepest chamber, they encounter ethereal guardians who determine whether the adventurers are worthy of claiming the Unforged Blade. These guardians may challenge the players with moral dilemmas, forcing them to confront their true intentions and the greater purpose of the sword.
+
+
 
 4. Kaelin's Dilemma: Upon reaching Kaelin's secluded forge, they discover him torn between the desire to stay independent and the potential for his craftsmanship to make a difference in the world. The players must persuade him to make the right choice, emphasizing the sword's importance for justice and righteousness.
     
