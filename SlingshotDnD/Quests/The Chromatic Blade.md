@@ -7,11 +7,14 @@ The players are sent to the bureau and are sent straight to the office of the ch
 
 [[Roderic Toll]] offers the players a map that leads to the dungeon where the [[Prismblade]] is rumored to be hidden. The party's goal is to retrieve the sword before any local adventuring guild does and deliver it to [Kaelin]([[Kaelin Stormforged]]), allowing you to bribe him into joining [[the Wealth of the Spear]]. Along the way, they'll encounter various challenges and puzzles, all designed to test their wits and abilities.
 
-Key Encounters:
+# The Enchanted Forest
 
-1. The Enchanted Forest: As the party journeys towards the dungeon, they must navigate through an enchanted forest filled with mischievous creatures and magical traps. They might have to convince a wise old treant to grant them safe passage or solve riddles posed by elusive sprites guarding the path.
+**1. Magical Traps:** Hidden throughout the forest are magical traps designed to challenge the adventurers' problem-solving abilities rather than pose a direct threat. For instance, they might encounter an illusionary bridge that disappears beneath their feet or a doorway that can only be unlocked by answering a riddle posed by a sentient tree guardian.
 
-2. The Ancient Dungeon: Inside the dungeon, the players will face numerous traps, guardians, and puzzles. They must decipher the clues and riddles left behind by the dungeon's creators to progress deeper. At one point, they might need to arrange ancient runes to unlock a hidden chamber, and in another, they could face a guardian who demands a test of honor rather than combat.
+**2. Whispering Trees:** Among the forest's ancient trees, a few possess sentience and the ability to communicate through whispered secrets. These trees may hold knowledge about the dungeon, Kaelin, or the Unforged Blade but will only share it if the players prove their respect for nature and the forest's mystical harmony.
+
+
+# The Ancient Dungeon: Inside the dungeon, the players will face numerous traps, guardians, and puzzles. They must decipher the clues and riddles left behind by the dungeon's creators to progress deeper. At one point, they might need to arrange ancient runes to unlock a hidden chamber, and in another, they could face a guardian who demands a test of honor rather than combat.
 
 3. Guild Rivalry: As the players draw closer to the [[Prismblade]], they encounter a rival adventuring guild sent to claim the sword for their own glory. The party must decide whether to engage in a tense negotiation, outwit them, or engage in a thrilling battle. If engaged by the party, the party will completely obliterate the opposition (these are level 3 fighters agains the parties level 6)
 
