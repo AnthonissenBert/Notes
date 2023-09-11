@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unforged Blade.md",
+                "file": "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kaelin Stormforged.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/Kaelin Stormforged.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unforged Blade.md",
+                "file": "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unforged Blade.md",
+                "file": "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unforged Blade.md"
+                "file": "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md"
               }
             }
           }
@@ -183,17 +183,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c5cf33770407ae6",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
+    "SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
+    "SlingshotDnD/MagicalArtifacts/Unforged Blade.md",
     "SlingshotDnD/Quests/The Unforged Blade.md",
-    "Unforged Blade.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
-    "Kaelin Stormforged.md",
+    "SlingshotDnD/Npc's/Neutrals/Kaelin Stormforged.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Quests/The Liberation of Fisherman's Bay.md",
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
-    "cronos guard.md",
+    "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Players/Monom.md",
     "SlingshotDnD/Players/Sudo.md",
     "SlingshotDnD/Players/Vaurulak Valune.md",
@@ -209,8 +211,6 @@
     "SlingshotDnD/Npc's/Enemies/Selkath.md",
     "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
     "SlingshotDnD/Npc's/Neutrals/Rom Pinan.md",
-    "SlingshotDnD/Npc's/Friendlies/Robin the bard.md",
-    "SlingshotDnD/Npc's/Neutrals/Roark.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_4.png",
