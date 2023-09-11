@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "fdd4e1698e9f6700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "773306328e9c30da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9dd0a171c402a4b8",
             "type": "leaf",
             "state": {
@@ -160,8 +184,10 @@
   },
   "active": "500b50cc993796cb",
   "lastOpenFiles": [
-    "cronos guard.md",
+    "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
+    "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "SlingshotDnD/Quests/The Haunting of Eldermere Tower.md",
+    "cronos guard.md",
     "SlingshotDnD/Players/Monom.md",
     "SlingshotDnD/Players/Sudo.md",
     "SlingshotDnD/Players/Vaurulak Valune.md",
@@ -184,8 +210,6 @@
     "SlingshotDnD/Npc's/Neutrals/Peter Strudon.md",
     "SlingshotDnD/Npc's/Friendlies/Osmund Briarmane.md",
     "SlingshotDnD/Npc's/Neutrals/Okrun Glowrest.md",
-    "SlingshotDnD/Npc's/Enemies/Ralph.md",
-    "SlingshotDnD/Npc's/Enemies/Leon.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_4.png",

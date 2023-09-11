@@ -36,7 +36,7 @@ What am I?"
 - They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arrow to open the path further up.
 
 1. **The Myconid Guardians:** As the party enters, they encounter Myconids, humanoid mushroom creatures that guard the chamber. The Myconids are not inherently hostile but are under the influence of the tower's curse, causing them to attack intruders. The party can choose to combat them or find a way to communicate with them to avoid conflict.
-	- 3 [[Myconid adult]]s and 3
+	- 3 [[Myconid adult]]s and 3 [[Myconid Sovereign]]s
 
 3. **Mushroom Maze:** The chamber is filled with a maze of giant mushrooms that block the party's path. To navigate through the fungal labyrinth, players must solve a puzzle involving glowing mushroom spores. Each mushroom releases a different colored spore, and players must arrange the mushrooms to create a specific pattern or sequence that opens a passage deeper into the tower.
     
