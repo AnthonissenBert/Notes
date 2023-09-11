@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d8b30d3c308cbfc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roderic Toll.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a18b1f0a2aa66a9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pamela Toll.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49d95b24cbbfd830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pamela Toll.md",
+                "file": "SlingshotDnD/Quests/The Chromatic Blade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pamela Toll.md",
+                "file": "SlingshotDnD/Quests/The Chromatic Blade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pamela Toll.md"
+                "file": "SlingshotDnD/Quests/The Chromatic Blade.md"
               }
             }
           }
@@ -183,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a18b1f0a2aa66a9e",
+  "active": "500b50cc993796cb",
   "lastOpenFiles": [
     "Roderic Toll.md",
     "Pamela Toll.md",
