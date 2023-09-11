@@ -28,7 +28,7 @@ The players are sent to the bureau and are sent straight to the office of the ch
 **4. Puzzle Chambers:** The heart of the dungeon is a series of interconnected chambers filled with intricate puzzles. These puzzles test the players' logic, observation skills, and problem-solving abilities. For example, they might encounter a room with a shifting floor puzzle where they must step on pressure plates in a specific sequence to unlock a door or a room with a mysterious celestial clock that reveals the way forward when deciphered.
 
 **5. Ethereal Guardians:** In the deepest chamber, they encounter ethereal guardians who determine whether the adventurers are worthy of claiming the Unforged Blade. These guardians may challenge the players with moral dilemmas, forcing them to confront their true intentions and the greater purpose of the sword.
-	- 
+	- [[Invisible Stalker]]
 
 **6. The Forge's Chamber:** The climax of the dungeon reveals the forge where the Unforged Blade was intended to be crafted. Here, the players find a massive, mystical anvil and a collection of rare, magical materials. They must figure out how to unlock the forge's secrets and potentially use its power to their advantage.
 
