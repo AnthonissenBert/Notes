@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kaelin Stormforged.md",
+                "file": "SlingshotDnD/Quests/The Unforged Blade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kaelin Stormforged.md",
+                "file": "SlingshotDnD/Quests/The Unforged Blade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kaelin Stormforged.md"
+                "file": "SlingshotDnD/Quests/The Unforged Blade.md"
               }
             }
           }
@@ -159,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5593cf25c6c6b96",
+  "active": "500b50cc993796cb",
   "lastOpenFiles": [
-    "SlingshotDnD/Quests/The Unforged Blade.md",
     "Kaelin Stormforged.md",
+    "SlingshotDnD/Quests/The Unforged Blade.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Quests/The Liberation of Fisherman's Bay.md",
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
