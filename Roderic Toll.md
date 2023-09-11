@@ -10,6 +10,5 @@ Roderic is a towering human with a commanding presence. Standing at nearly 6 fee
 
 ## family
 
-married to:
-x amount of children:
-- 
+married to: [[Pamela Toll]]
+1 child on its way out of the womb (no name yet)
