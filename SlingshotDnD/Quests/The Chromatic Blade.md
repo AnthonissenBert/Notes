@@ -1,7 +1,7 @@
 # General
 
 **party level** 6
-
+**type** goose chase
 # Introduction
 
 In a bustling city of [[Dashingvale]], nestled between towering mountains and lush forests, lies an outpost for [[the Wealth of the Spear]]. The outpost created to search for the renowned swordsmith named [[Kaelin Stormforged]]. Known for his exquisite craftsmanship, [Kaelin's]([[Kaelin Stormforged]]) reputation has drawn the attention of several adventuring guilds, all vying for his allegiance. However, [Kaelin]([[Kaelin Stormforged]]) has no desire to be indoctrinated into any guild especially not of the adventuring kind, preferring to create his masterpieces in peace. Unbeknownst to him, rumors of a legendary sword, the "[[Prismblade]]," hidden deep within a perilous dungeon, have begun to circulate.
