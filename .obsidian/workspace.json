@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/_Assets/GM links.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/_Assets/GM links.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/_Assets/GM links.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/_Assets/GM links.md"
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md"
               }
             }
           }
@@ -160,12 +160,14 @@
   },
   "active": "553f107660c1791d",
   "lastOpenFiles": [
-    "SlingshotDnD/Deities/Hircine.md",
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
+    "SlingshotDnD/Locations/Outposts/Kharakul.md",
+    "SlingshotDnD/_Assets/GM links.md",
+    "SlingshotDnD/Locations/Outposts",
+    "SlingshotDnD/Deities/Hircine.md",
     "Vilettia's Square.md",
     "Heather.md",
     "Vilettia Kirk.md",
-    "SlingshotDnD/_Assets/GM links.md",
     "Pony and Crossbow.md",
     "The Markets.md",
     "SlingshotDnD/Locations/FactionHalls/The Garrison.md",
@@ -188,7 +190,6 @@
     "SlingshotDnD/MagicalArtifacts/Myska Sympeth.md",
     "SlingshotDnD/MagicalArtifacts/Prismblade.md",
     "SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
-    "SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_4.png",
@@ -204,7 +205,6 @@
     "SlingshotDnD/_Assets/Tokens/MerchantHallLeader.png",
     "SlingshotDnD/_Assets/Tokens/MiningGuildLeader.png",
     "SlingshotDnD/_Assets/pdf/vauralok.pdf",
-    "SlingshotDnD/_Assets/pdf/sudo_Bram.pdf",
-    "SlingshotDnD/_Assets/pdf/Monom.pdf"
+    "SlingshotDnD/_Assets/pdf/sudo_Bram.pdf"
   ]
 }
