@@ -14,7 +14,7 @@ A lively tavern within Kharakul, where miners, travelers, and dwarves come to un
 
 A natural cavern transformed into a beautiful subterranean garden. It's filled with vibrant fungi and luminescent moss, offering a serene place for meditation and relaxation.
 
-### the [[Hunters]] guild
+### the [[Deserted Robin]] guild
 
 Near the entrance next to a guard tower is a small entrance that says guild with a boar logo. More inside 
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunters.md",
+                "file": "Deserted Robin.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunters.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hunters.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hunters.md"
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md"
               }
             }
           }
@@ -207,10 +206,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9187a8b3ea0dd2c9",
+  "active": "5362fe39d96f945c",
   "lastOpenFiles": [
+    "Deserted Robin.md",
+    "Vatmuk Beastcoat.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
-    "Hunters.md",
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "Thustoc Kegdigger.md",
     "SlingshotDnD/Npc's/Neutrals/Borin Platebraid.md",
@@ -238,7 +238,6 @@
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Locations/Mountains/Copper Tops.md",
     "SlingshotDnD/Locations/Outposts",
-    "SlingshotDnD/Deities/Hircine.md",
     "SlingshotDnD/Locations/FactionHalls",
     "SlingshotDnD/Locations/Markets",
     "SlingshotDnD/Locations/Taverns",
