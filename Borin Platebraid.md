@@ -1,6 +1,6 @@
 Status: Captain
 Race: Dwarf
-In charge of: garrison at[[Borrealis garrison]]
+In charge of: [[Borrealis garrison]]
 
 ---
 

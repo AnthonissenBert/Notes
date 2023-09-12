@@ -1,1 +1,1 @@
-the name of the troops stationed ad [[Kharakul]]
+the name of the troops stationed at [[Kharakul]]
