@@ -1,0 +1,1 @@
+A marketplace that's large enough to service an entire kingdom. It is surprisingly tidy, and is known for having trinkets from every corner of the world

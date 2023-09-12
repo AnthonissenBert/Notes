@@ -1,7 +1,7 @@
 [[Vilettia's Square]] houses The Town Square
 
   
-The lane [[Common Square]] comes to an abrupt end, terminating in The Markets
+The lane Common Square comes to an abrupt end, terminating in [[The Markets]]
 
   
 Over on [[Jocelyne's Way]] is The [[Pony and Crossbow]]
