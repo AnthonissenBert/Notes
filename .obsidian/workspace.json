@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/Cities/Bugwicke.md",
+                "file": "SlingshotDnD/Locations/The Garrison.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Cities/Bugwicke.md",
+                "file": "SlingshotDnD/Locations/The Garrison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Cities/Bugwicke.md",
+                "file": "SlingshotDnD/Locations/The Garrison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Cities/Bugwicke.md"
+                "file": "SlingshotDnD/Locations/The Garrison.md"
               }
             }
           }
@@ -146,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "500b50cc993796cb",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
-    "SlingshotDnD/Quests/The Chromatic Blade.md",
+    "SlingshotDnD/Locations/FactionHalls",
+    "SlingshotDnD/Locations/Ardentia.md",
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
+    "SlingshotDnD/Locations/Markets",
+    "SlingshotDnD/Locations/Taverns",
+    "SlingshotDnD/Quests/The Chromatic Blade.md",
     "Invisible Stalker.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Quests/Bringing down the alpha.md",
@@ -171,9 +176,6 @@
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
     "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Players/Monom.md",
-    "SlingshotDnD/Players/Sudo.md",
-    "SlingshotDnD/Players/Vaurulak Valune.md",
-    "SlingshotDnD/Npc's/Friendlies/Zia Cheim.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_4.png",
@@ -191,8 +193,6 @@
     "SlingshotDnD/_Assets/pdf/vauralok.pdf",
     "SlingshotDnD/_Assets/pdf/sudo_Bram.pdf",
     "SlingshotDnD/_Assets/pdf/Monom.pdf",
-    "SlingshotDnD/_Assets/pdf/Mardai_Sorrow_lvl3.pdf",
-    "SlingshotDnD/_Assets/pdf/Gruuk.pdf",
-    "SlingshotDnD/Locations/small towns/mining settements"
+    "SlingshotDnD/_Assets/pdf/Mardai_Sorrow_lvl3.pdf"
   ]
 }
