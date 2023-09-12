@@ -4,7 +4,7 @@ In charge of: garrison at [[Kharakul]]
 
 ---
 
-description
+also the elected ruler of [[Kharakul]]
 
 ---
 
