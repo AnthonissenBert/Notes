@@ -1,16 +1,18 @@
-# General
+# **General**
 
 on the  the rugged [[Copper Tops]] mountain range, the dwarven outpost of Kharakul stands as a testament to the resilience and craftsmanship of the dwarves. Carved into the very cloak of the mountains, this outpost serves as both a formidable military stronghold and a welcoming haven for weary travelers and miners. The outpost is constructed primarily of stone and adorned with intricate copper engravings, a tribute to the rich mineral deposits that surround it.
 
 ---
-# Key locations
+# **Key locations**
+### **The Copper Keep:** 
 
-**The Copper Keep:** At the center of Kharakul, this well-fortified keep houses the garrison and their commander. The fortress boasts stout stone walls and impressive copper-clad gates.
-   
-**The Copperforge Tavern:** A lively tavern within Kharakul, where miners, travelers, and dwarves come to unwind. It's known for its hearty meals, potent dwarven brews, and a roaring fireplace.
-   
-**The Gemstone Grotto:** A natural cavern transformed into a beautiful subterranean garden. It's filled with vibrant fungi and luminescent moss, offering a serene place for meditation and relaxation.
+At the center of Kharakul, this well-fortified keep houses the garrison and their commander. The fortress boasts stout stone walls and impressive copper-clad gates.
+### **The Copperforge Tavern:** 
 
+A lively tavern within Kharakul, where miners, travelers, and dwarves come to unwind. It's known for its hearty meals, potent dwarven brews, and a roaring fireplace.   
+### **The Gemstone Grotto:** 
+
+A natural cavern transformed into a beautiful subterranean garden. It's filled with vibrant fungi and luminescent moss, offering a serene place for meditation and relaxation.
 # **Quests for Level 4 Adventurers:**
 
 1. **The Missing Prospector** _Quest Giver: Foreman Grimbuckle in the Copperforge Tavern_ An elderly dwarf prospector named Thrain Stonebreaker ventured into the nearby copper mines but hasn't returned. Foreman Grimbuckle seeks brave adventurers to find him. The mines are known to be perilous, with treacherous tunnels and the possibility of encountering dangerous creatures. Can the adventurers rescue Thrain and uncover the source of the disturbances in the mine?
