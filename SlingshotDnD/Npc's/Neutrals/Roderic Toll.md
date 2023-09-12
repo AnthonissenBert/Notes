@@ -1,6 +1,6 @@
 Status: Officer
 Race: Human (possibly half goliath)
-In charge of: an outpost for the [[the Wealth of the Spear]]
+In charge of: an outpost for the [[the Wealth of the Spear]] in [[Dashingvale]]
 
 ---
 
