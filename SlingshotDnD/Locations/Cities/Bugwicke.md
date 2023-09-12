@@ -1,22 +1,22 @@
 [[Vilettia's Square]] houses The Town Square
 
   
-The lane Common Square comes to an abrupt end, terminating in The Markets
+The lane [[Common Square]] comes to an abrupt end, terminating in The Markets
 
   
 Over on [[Jocelyne's Way]] is The [[Pony and Crossbow]]
 
   
-At the bottom of a hill is the cul-de-sac Fisher Row. Perhaps twenty paces from the end of it is The Glass Juice Bar
+At the bottom of a hill is the cul-de-sac [[Fisher Row]]. Perhaps twenty paces from the end of it is [[The Glass Juice Bar]]
 
   
-At the bottom of a hill is Aelisabeth's Street. Nearby is Abigayl's Incomparable Goods
+At the bottom of a hill is Aelisabeth's Street. Nearby is [[Abigayl's Incomparable Goods]]
 
   
-Nearby is High Crescent. Along it is St. Euphamia's Boneyard
+Nearby is [[High Crescent]]. Along it is [[St. Euphamia's Boneyard]]
 
   
-At the top of a small hill is the street Lork Row, and nearby is The Oubliette of Heather
+At the top of a small hill is the street Lork Row, and nearby is[[ The Oubliette]] of [[Heather]]
 
   
 Nearby is the street Fisher Square. Along it is The Heated Anvil

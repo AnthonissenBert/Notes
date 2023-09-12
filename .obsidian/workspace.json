@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/The Garrison.md",
+                "file": "SlingshotDnD/Locations/Cities/Bugwicke.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16818162f898454f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heather.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/The Garrison.md",
+                "file": "Heather.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/The Garrison.md",
+                "file": "Heather.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/The Garrison.md"
+                "file": "Heather.md"
               }
             }
           }
@@ -146,12 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "16818162f898454f",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Cities/Bugwicke.md",
+    "Heather.md",
+    "SlingshotDnD/Locations/FactionHalls/The Garrison.md",
     "SlingshotDnD/Locations/FactionHalls",
     "SlingshotDnD/Locations/Ardentia.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
-    "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/Locations/Markets",
     "SlingshotDnD/Locations/Taverns",
     "SlingshotDnD/Quests/The Chromatic Blade.md",
@@ -175,7 +190,6 @@
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
     "SlingshotDnD/Players/cronos guard.md",
-    "SlingshotDnD/Players/Monom.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_4.png",
@@ -192,7 +206,6 @@
     "SlingshotDnD/_Assets/Tokens/MiningGuildLeader.png",
     "SlingshotDnD/_Assets/pdf/vauralok.pdf",
     "SlingshotDnD/_Assets/pdf/sudo_Bram.pdf",
-    "SlingshotDnD/_Assets/pdf/Monom.pdf",
-    "SlingshotDnD/_Assets/pdf/Mardai_Sorrow_lvl3.pdf"
+    "SlingshotDnD/_Assets/pdf/Monom.pdf"
   ]
 }
