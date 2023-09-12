@@ -16,7 +16,7 @@ At the bottom of a hill is Aelisabeth's Street. Nearby is [[Abigayl's Incompar
 Nearby is [[High Crescent]]. Along it is [[St. Euphamia's Boneyard]]
 
   
-At the top of a small hill is the street Lork Row, and nearby is[[ The Oubliette]] of [[Heather]]
+At the top of a small hill is the street Lork Row, and nearby is[[ The Oubliette of Heather]]
 
   
 Nearby is the street Fisher Square. Along it is The Heated Anvil
