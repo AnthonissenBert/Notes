@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "27630b1130bca943",
+            "id": "553f107660c1791d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Markets.md",
+                "file": "Pony and Crossbow.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Markets.md",
+                "file": "Pony and Crossbow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Markets.md",
+                "file": "Pony and Crossbow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Markets.md"
+                "file": "Pony and Crossbow.md"
               }
             }
           }
@@ -195,9 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27630b1130bca943",
+  "active": "553f107660c1791d",
   "lastOpenFiles": [
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
+    "Pony and Crossbow.md",
     "The Markets.md",
     "Vilettia Kirk.md",
     "Vilettia's Square.md",
@@ -225,7 +226,6 @@
     "SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
     "SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
     "SlingshotDnD/Npc's/Neutrals/Kaelin Stormforged.md",
-    "SlingshotDnD/Quests/The Liberation of Fisherman's Bay.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_4.png",

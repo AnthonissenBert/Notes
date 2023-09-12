@@ -4,7 +4,7 @@
 The lane Common Square comes to an abrupt end, terminating in [[The Markets]]
 
   
-Over on [[Jocelyne's Way]] is The [[Pony and Crossbow]]
+Over on Jocelyne's Way is The [[Pony and Crossbow]]
 
   
 At the bottom of a hill is the cul-de-sac [[Fisher Row]]. Perhaps twenty paces from the end of it is [[The Glass Juice Bar]]
