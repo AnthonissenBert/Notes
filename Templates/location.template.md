@@ -1,9 +1,3 @@
-military place in [[Kharakul]]
-
-Type:
-
-
-
 Type: 
 Location
 

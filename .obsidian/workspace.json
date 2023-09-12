@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf4d6fa71055bf71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bronze Barrack.md",
+                "file": "Roderic Toll.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bronze Barrack.md",
+                "file": "Roderic Toll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bronze Barrack.md",
+                "file": "Roderic Toll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bronze Barrack.md"
+                "file": "Roderic Toll.md"
               }
             }
           }
@@ -159,13 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf4d6fa71055bf71",
+  "active": "553f107660c1791d",
   "lastOpenFiles": [
+    "Thathoc Icearm.md",
+    "The Markets.md",
+    "Vilettia Kirk.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
+    "Templates/location.template.md",
     "Bronze Barrack.md",
     "Borin Platebraid.md",
     "Borrealis garrison.md",
-    "Thathoc Icearm.md",
     "Copperforge.md",
     "Korga Boulderjaw.md",
     "Gemstone Grotto.md",
@@ -179,9 +169,7 @@
     "SlingshotDnD/Locations/Outposts",
     "SlingshotDnD/Deities/Hircine.md",
     "Heather.md",
-    "Vilettia Kirk.md",
     "Pony and Crossbow.md",
-    "The Markets.md",
     "SlingshotDnD/Locations/FactionHalls/The Garrison.md",
     "SlingshotDnD/Locations/FactionHalls",
     "SlingshotDnD/Locations/Ardentia.md",
@@ -192,7 +180,6 @@
     "Invisible Stalker.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Quests/Bringing down the alpha.md",
-    "SlingshotDnD/Quests/Burned house haunting.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_2.png",
