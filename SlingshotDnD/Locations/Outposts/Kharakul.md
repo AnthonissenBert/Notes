@@ -1,6 +1,6 @@
 # **General**
 
-on the  the rugged [[Copper Tops]] mountain range, the dwarven outpost of Kharakul stands as a testament to the resilience and craftsmanship of the dwarves. Carved into the very cloak of the mountains, this outpost serves as both a formidable military stronghold and a welcoming haven for weary travelers and miners. The outpost is constructed primarily of stone and adorned with intricate copper engravings, a tribute to the rich mineral deposits that surround it. This however is an entry point into the mines. With hallways with giant tall ceilings
+on the  the rugged [[Copper Tops]] mountain range, the dwarven outpost of Kharakul stands as a testament to the resilience and craftsmanship of the dwarves. Carved into the very cloak of the mountains, this outpost serves as both a formidable military stronghold and a welcoming haven for weary travelers and miners. The outpost is constructed primarily of stone and adorned with intricate copper engravings, a tribute to the rich mineral deposits that surround it. This however is an entry point into the mines. With hallways with giant tall ceilings, enormous side caverns and intricate little passageways where many a wee traveler can get lost. Be sure to always have someone know your last location, and have a guide in the form of the luminous mushrooms, or an exca
 
 ---
 # **Key locations**
