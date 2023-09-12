@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
+                "file": "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
+                "file": "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
+                "file": "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md"
+                "file": "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md"
               }
             }
           }
@@ -173,9 +173,10 @@
   },
   "active": "0c6d8f76bf168315",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Guildhalls/Bronze Barrack.md",
+    "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "SlingshotDnD/Locations/Ardentia.md",
     "SlingshotDnD/Npc's/Monsters/Ettin.md",
-    "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "SlingshotDnD/Npc's/Neutrals/Gistrubelle Heavygut.md",
@@ -189,7 +190,6 @@
     "SlingshotDnD/Npc's/Neutrals/Thustoc Kegdigger.md",
     "SlingshotDnD/Npc's/Neutrals/Borin Platebraid.md",
     "Templates/location.template.md",
-    "SlingshotDnD/Locations/Guildhalls/Bronze Barrack.md",
     "SlingshotDnD/Npc's/Neutrals/Vilettia Kirk.md",
     "SlingshotDnD/Locations/Squares/Vilettia's Square.md",
     "SlingshotDnD/Locations/Squares",
