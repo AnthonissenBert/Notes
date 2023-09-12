@@ -25,6 +25,6 @@ The garrison has received reports of dangerous activity in the mountain pass lea
 
 Quest Giver: Korga Gemcutter 
 Where: in the Gemstone Grotto 
-Korga Gemcutter, a talented dwarven artisan, has had a prized gem collection stolen from her workshop within the Gemstone Grotto. She suspects a rival gem merchant in a nearby human town, but she needs a group of adventurers to investigate discreetly and retrieve her stolen gems. The adventurers must navigate the complexities of dwarven-human relations and uncover the truth behind the theft.
+Korga Gemcutter, a talented dwarven artisan, has had a prized gem collection stolen from her workshop within the [[Gemstone Grotto]]. She suspects a rival gem merchant from a town nearby, but she needs a group of adventurers to investigate discreetly and retrieve her stolen gems. The adventurers must navigate the complexities of dwarven-human relations and uncover the truth behind the theft.
 
 ---
