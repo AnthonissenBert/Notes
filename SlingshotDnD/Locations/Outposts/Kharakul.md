@@ -19,7 +19,7 @@ Near the entrance next to a guard tower is a small entrance that says guild with
 
 ---
 # **Quests for Level 4 Adventurers:**
-### **The Ettin Attack** 
+### **The [[Ettin]] Attack** 
 
 Quest Giver: Captain [[Borin Platebraid]]
 Where: in the [[Bronze Barrack]]
