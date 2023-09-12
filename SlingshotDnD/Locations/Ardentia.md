@@ -1,1 +1,1 @@
-The main continent
+THE MAIN CONTINENT
