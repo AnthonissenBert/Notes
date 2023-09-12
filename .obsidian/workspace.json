@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
+                "file": "Borin Ironhelm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
+                "file": "Borin Ironhelm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md"
+                "file": "Borin Ironhelm.md"
               }
             }
           }
@@ -194,12 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "553f107660c1791d",
+  "active": "0f2c2bc9881987f7",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "Bronze Barrack.md",
     "Borin Ironhelm.md",
     "Borrealis garrison.md",
-    "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "Vilettia's Square.md",
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/_Assets/token_4.png",
