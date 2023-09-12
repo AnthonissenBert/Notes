@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "16322b2990301663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sarruik Runehood.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9187a8b3ea0dd2c9",
             "type": "leaf",
             "state": {
@@ -103,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deserted Robin.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deserted Robin.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deserted Robin.md"
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md"
               }
             }
           }
@@ -231,12 +218,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04e4f039de94187e",
+  "active": "5362fe39d96f945c",
   "lastOpenFiles": [
-    "SlingshotDnD/Locations/Outposts/Kharakul.md",
-    "Sarruik Runehood.md",
     "Deserted Robin.md",
     "Vatmuk Beastcoat.md",
+    "Sarruik Runehood.md",
+    "Undrurim Goldenspine.md",
+    "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "Thustoc Kegdigger.md",
     "SlingshotDnD/Npc's/Neutrals/Borin Platebraid.md",
@@ -261,7 +249,6 @@
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",
     "SlingshotDnD/MagicalArtifacts/Prismblade.md",
-    "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Locations/Outposts",
     "SlingshotDnD/Locations/FactionHalls",
     "SlingshotDnD/Locations/Markets",

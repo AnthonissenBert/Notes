@@ -3,7 +3,7 @@ Race: Human
 
 ---
 
-description
+is employed in [[Deserted Robin|The Deserted Robin]]
 
 ---
 

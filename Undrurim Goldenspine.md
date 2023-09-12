@@ -1,6 +1,6 @@
-Status: Guild leader
-Race: Dwarf
-In charge of: [[Deserted Robin]]
+Status: Hunter
+Race: Halfling
+
 
 ---
 
