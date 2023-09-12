@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "f404015f959fac37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bronze Barrack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c47924206456deb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copperforge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9263bb9eefd9d937",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
+                "file": "Bronze Barrack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
+                "file": "Bronze Barrack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md"
+                "file": "Bronze Barrack.md"
               }
             }
           }
@@ -158,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "553f107660c1791d",
+  "active": "f404015f959fac37",
   "lastOpenFiles": [
-    "Gemstone Grotto.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
+    "Korga Boulderjaw.md",
+    "Copperforge.md",
+    "Gemstone Grotto.md",
     "Borin Platebraid.md",
-    "Korga Gemcutter.md",
     "Bronze Barrack.md",
     "Borrealis garrison.md",
     "Vilettia's Square.md",
@@ -191,7 +217,6 @@
     "SlingshotDnD/Quests/Bringing down the alpha.md",
     "SlingshotDnD/Quests/Burned house haunting.md",
     "SlingshotDnD/Quests/wooing the mayor's daughter.md",
-    "SlingshotDnD/Quests/The plague.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_2.png",
