@@ -9,3 +9,4 @@ This is a hollowed up cave in the sense of a hollowed out cave. One big red stic
 
 ## who is here
 
+[[Korga Boulderjaw]]

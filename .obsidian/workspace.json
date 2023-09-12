@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
+                "file": "Deserted Robin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
+                "file": "Deserted Robin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Markets/Gemstone Grotto.md"
+                "file": "Deserted Robin.md"
               }
             }
           }
@@ -231,8 +231,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "049fb4ae7d055570",
+  "active": "9187a8b3ea0dd2c9",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
+    "SlingshotDnD/Npc's/Neutrals/Korga Boulderjaw.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "Deserted Robin.md",
     "Vatmuk Beastcoat.md",
@@ -256,8 +258,6 @@
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Neutrals/Pamela Toll.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
-    "SlingshotDnD/Npc's/Neutrals/Korga Boulderjaw.md",
-    "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",

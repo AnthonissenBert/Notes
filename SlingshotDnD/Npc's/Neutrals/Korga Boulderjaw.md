@@ -4,7 +4,7 @@ In charge of: marketstall at the [[Gemstone Grotto]]
 
 ---
 
-description
+she seems distressed. If asked by the party. She will say one of her gemstones is missing
 
 ---
 
