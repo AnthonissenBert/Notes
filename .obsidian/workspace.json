@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roderic Toll.md",
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00b317772e982de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roderic Toll.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roderic Toll.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roderic Toll.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "553f107660c1791d",
+  "active": "00b317772e982de6",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "SlingshotDnD/Npc's/Neutrals/Roderic Toll.md",
     "Thathoc Icearm.md",
     "The Markets.md",
     "Vilettia Kirk.md",
@@ -173,13 +188,11 @@
     "SlingshotDnD/Locations/FactionHalls/The Garrison.md",
     "SlingshotDnD/Locations/FactionHalls",
     "SlingshotDnD/Locations/Ardentia.md",
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Locations/Markets",
     "SlingshotDnD/Locations/Taverns",
     "SlingshotDnD/Quests/The Chromatic Blade.md",
     "Invisible Stalker.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
-    "SlingshotDnD/Quests/Bringing down the alpha.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_2.png",
