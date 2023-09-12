@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "877d79281d028df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Locations/Taverns/Copperforge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a8078f8a9a504e99",
             "type": "leaf",
             "state": {
@@ -185,8 +197,8 @@
   "active": "5362fe39d96f945c",
   "lastOpenFiles": [
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
-    "Thustoc Kegdigger.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
+    "Thustoc Kegdigger.md",
     "SlingshotDnD/Npc's/Neutrals/Borin Platebraid.md",
     "Templates/location.template.md",
     "SlingshotDnD/Locations/Bronze Barrack.md",

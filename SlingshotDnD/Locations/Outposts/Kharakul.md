@@ -14,6 +14,10 @@ A lively tavern within Kharakul, where miners, travelers, and dwarves come to un
 
 A natural cavern transformed into a beautiful subterranean garden. It's filled with vibrant fungi and luminescent moss, offering a serene place for meditation and relaxation.
 
+### the [[Hunters]] guild
+
+Near the entrance next to a guard tower is a small entrance that 
+
 ---
 # **Quests for Level 4 Adventurers:**
 ### **The Ettin Attack** 
