@@ -16,7 +16,7 @@ A natural cavern transformed into a beautiful subterranean garden. It's filled w
 
 ---
 # **Quests for Level 4 Adventurers:**
-### **The Goblin Ambush** 
+### **The Ettin Attack** 
 
 _Quest Giver: Captain Borin Ironhelm in the Copper Keep_ The garrison has received reports of increased goblin activity in the mountain pass leading to Kharakul. Captain Borin Ironhelm tasks the adventurers with patrolling the pass and dealing with the goblin threat. However, things may not be as straightforward as they seem, and the adventurers might uncover a deeper plot involving a goblin chieftain and his allies.
 ### **The Glimmering Cavern Heist** 
