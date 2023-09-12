@@ -6,7 +6,7 @@ encounters:
 available loot:
 - hides and other parts if they roll high enough on survival
 - a precious gem in the stone the alpha sat on if they roll high enough investigation
-- a connection to [[Cybele]] if they roll high enough charisma checks
+- a connection to [[Hircine]] if they roll high enough charisma checks
 
 
 in short:

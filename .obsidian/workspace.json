@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/Cities/Bugwicke.md",
+                "file": "SlingshotDnD/Deities/Hircine.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Cities/Bugwicke.md",
+                "file": "SlingshotDnD/Deities/Hircine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Cities/Bugwicke.md",
+                "file": "SlingshotDnD/Deities/Hircine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Cities/Bugwicke.md"
+                "file": "SlingshotDnD/Deities/Hircine.md"
               }
             }
           }
@@ -172,10 +172,10 @@
   },
   "active": "500b50cc993796cb",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "Vilettia's Square.md",
     "Heather.md",
     "Vilettia Kirk.md",
-    "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/_Assets/GM links.md",
     "Pony and Crossbow.md",
     "The Markets.md",
