@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/Roderic Toll.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/Roderic Toll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/Roderic Toll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "SlingshotDnD/Npc's/Neutrals/Roderic Toll.md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "00b317772e982de6",
   "lastOpenFiles": [
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Neutrals/Roderic Toll.md",
+    "Pamela Toll.md",
+    "SlingshotDnD/Quests/The Chromatic Blade.md",
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "Thathoc Icearm.md",
     "The Markets.md",
     "Vilettia Kirk.md",
@@ -187,12 +191,8 @@
     "Pony and Crossbow.md",
     "SlingshotDnD/Locations/FactionHalls/The Garrison.md",
     "SlingshotDnD/Locations/FactionHalls",
-    "SlingshotDnD/Locations/Ardentia.md",
     "SlingshotDnD/Locations/Markets",
     "SlingshotDnD/Locations/Taverns",
-    "SlingshotDnD/Quests/The Chromatic Blade.md",
-    "Invisible Stalker.md",
-    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_2.png",
