@@ -1,10 +1,10 @@
 Status: Captain
 Race: Dwarf
-In charge of: [[Borrealis garrison]]
+In charge of: garrison at[[Borrealis garrison]]
 
 ---
 
-
+ansers to [[Thathoc Icearm]]
 
 ---
 

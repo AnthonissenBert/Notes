@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "f8d17236b77ed976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thathoc Icearm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c47924206456deb8",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bronze Barrack.md",
+                "file": "Borin Platebraid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bronze Barrack.md",
+                "file": "Borin Platebraid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bronze Barrack.md"
+                "file": "Borin Platebraid.md"
               }
             }
           }
@@ -195,12 +207,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf4d6fa71055bf71",
+  "active": "c363e0f815dcba42",
   "lastOpenFiles": [
-    "SlingshotDnD/Locations/Outposts/Kharakul.md",
-    "Borin Platebraid.md",
-    "Copperforge.md",
     "Bronze Barrack.md",
+    "Thathoc Icearm.md",
+    "Borin Platebraid.md",
+    "SlingshotDnD/Locations/Outposts/Kharakul.md",
+    "Copperforge.md",
     "Korga Boulderjaw.md",
     "Gemstone Grotto.md",
     "Borrealis garrison.md",
@@ -228,7 +241,6 @@
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Quests/Bringing down the alpha.md",
     "SlingshotDnD/Quests/Burned house haunting.md",
-    "SlingshotDnD/Quests/wooing the mayor's daughter.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_2.png",
