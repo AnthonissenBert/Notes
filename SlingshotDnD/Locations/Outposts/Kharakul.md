@@ -20,7 +20,7 @@ A natural cavern transformed into a beautiful subterranean garden. It's filled w
 
 Quest Giver: Captain Borin Ironhelm 
 Where: in the Copper Keep 
-The garrison has received reports of dangerous activity in the mountain pass leading away from Kharakul. Captain [[Borin Ironhelm]] tasks the adventurers with patrolling the pass and dealing with the threat. However, things may not be as straightforward as they seem, and the adventurers might uncover a deeper plot involving a goblin chieftain and his allies*.
+The garrison has received reports of dangerous activity in the mountain pass leading away from Kharakul. Captain [[Borin Ironhelm]] tasks the adventurers with patrolling the pass and dealing with the threat. However, things may not be as straightforward as they seem, and the adventurers might uncover a deeper plot involving a plot to  chieftain and his allies*.
 ### **The Glimmering Cavern Heist** 
 
 _Quest Giver: Korga Gemcutter in the Gemstone Grotto_ Korga Gemcutter, a talented dwarven artisan, has had a prized gem collection stolen from her workshop within the Gemstone Grotto. She suspects a rival gem merchant in a nearby human town, but she needs a group of adventurers to investigate discreetly and retrieve her stolen gems. The adventurers must navigate the complexities of dwarven-human relations and uncover the truth behind the theft.
