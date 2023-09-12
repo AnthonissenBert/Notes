@@ -20,12 +20,48 @@
             }
           },
           {
-            "id": "f81d4722b8349d12",
+            "id": "7859b7ccbdfb0666",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SlingshotDnD/Locations/Taverns/Copperforge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cab9b5a4597ae71d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gistrubelle Heavygut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9403fbbcfd93e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deserted Robin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e71b6e2ca49edf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elghalydd Beasttoe.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Taverns/Copperforge.md",
+                "file": "Gistrubelle Heavygut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Taverns/Copperforge.md",
+                "file": "Gistrubelle Heavygut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Taverns/Copperforge.md"
+                "file": "Gistrubelle Heavygut.md"
               }
             }
           }
@@ -255,17 +291,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f81d4722b8349d12",
+  "active": "cab9b5a4597ae71d",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "Elghalydd Beasttoe.md",
     "Deserted Robin.md",
+    "Gistrubelle Heavygut.md",
     "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
     "SlingshotDnD/Npc's/Neutrals/Korga Boulderjaw.md",
     "Vatmuk Beastcoat.md",
     "Sarruik Runehood.md",
     "Undrurim Goldenspine.md",
-    "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "Thustoc Kegdigger.md",
     "SlingshotDnD/Npc's/Neutrals/Borin Platebraid.md",
     "Templates/location.template.md",
@@ -283,7 +320,6 @@
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Neutrals/Pamela Toll.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
-    "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",
     "SlingshotDnD/Locations/Outposts",

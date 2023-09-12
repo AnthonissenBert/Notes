@@ -1,6 +1,6 @@
 Status: Cook
 Race: Human
-In charge of:
+In charge of: kitchen at [[Deserted Robin]]
 
 ---
 
