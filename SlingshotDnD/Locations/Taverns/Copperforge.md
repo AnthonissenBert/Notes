@@ -1,12 +1,12 @@
-tavern / inn of [[Kharakul]]
-
-Type: Inn
+Type: Tavern/Inn
 Location: [[Kharakul]]
 
 ---
 
-Holled out from a cave is a rus
+Holled out from a cave is a rustic looking tavern. Don't let the stone decieve you, it's warm and cozy inside
 
 ---
 
-## who is stationed here
+## who is here
+
+1. 

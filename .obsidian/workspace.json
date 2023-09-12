@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/Bronze Barrack.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Taverns/Copperforge.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Taverns/Copperforge.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Taverns/Copperforge.md"
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md"
               }
             }
           }
@@ -183,11 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72f0ea3a767de144",
+  "active": "5362fe39d96f945c",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
-    "SlingshotDnD/Locations/Bronze Barrack.md",
     "SlingshotDnD/Npc's/Neutrals/Borin Platebraid.md",
+    "Templates/location.template.md",
+    "SlingshotDnD/Locations/Bronze Barrack.md",
     "SlingshotDnD/Locations/Ardentia.md",
     "SlingshotDnD/Npc's/Neutrals/Vilettia Kirk.md",
     "SlingshotDnD/Locations/Squares/Vilettia's Square.md",
@@ -201,8 +202,6 @@
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Neutrals/Pamela Toll.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
-    "Templates/location.template.md",
-    "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "SlingshotDnD/Npc's/Neutrals/Korga Boulderjaw.md",
     "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
