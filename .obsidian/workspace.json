@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f81d4722b8349d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Locations/Taverns/Copperforge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "049fb4ae7d055570",
             "type": "leaf",
             "state": {
@@ -50,6 +62,18 @@
               "type": "markdown",
               "state": {
                 "file": "Deserted Robin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c2236bdb529c0e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elghalydd Beasttoe.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deserted Robin.md",
+                "file": "SlingshotDnD/Locations/Taverns/Copperforge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deserted Robin.md",
+                "file": "SlingshotDnD/Locations/Taverns/Copperforge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deserted Robin.md"
+                "file": "SlingshotDnD/Locations/Taverns/Copperforge.md"
               }
             }
           }
@@ -231,12 +255,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9187a8b3ea0dd2c9",
+  "active": "f81d4722b8349d12",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Outposts/Kharakul.md",
+    "Elghalydd Beasttoe.md",
+    "Deserted Robin.md",
     "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
     "SlingshotDnD/Npc's/Neutrals/Korga Boulderjaw.md",
-    "SlingshotDnD/Locations/Outposts/Kharakul.md",
-    "Deserted Robin.md",
     "Vatmuk Beastcoat.md",
     "Sarruik Runehood.md",
     "Undrurim Goldenspine.md",
@@ -261,7 +286,6 @@
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",
-    "SlingshotDnD/MagicalArtifacts/Prismblade.md",
     "SlingshotDnD/Locations/Outposts",
     "SlingshotDnD/Locations/FactionHalls",
     "SlingshotDnD/Locations/Markets",
