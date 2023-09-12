@@ -1,1 +1,1 @@
-military place in [[Kharakul]]\
+military place in [[Kharakul]]
