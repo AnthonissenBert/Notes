@@ -16,7 +16,7 @@ A natural cavern transformed into a beautiful subterranean garden. It's filled w
 
 ### the [[Hunters]] guild
 
-Near the entrance next to a guard tower is a small entrance that 
+Near the entrance next to a guard tower is a small entrance that says guild with a boar logo. More inside 
 
 ---
 # **Quests for Level 4 Adventurers:**
