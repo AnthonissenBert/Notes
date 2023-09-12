@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5362fe39d96f945c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7859b7ccbdfb0666",
             "type": "leaf",
             "state": {
@@ -32,115 +20,7 @@
             }
           },
           {
-            "id": "cab9b5a4597ae71d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gistrubelle Heavygut.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9403fbbcfd93e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deserted Robin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e71b6e2ca49edf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elghalydd Beasttoe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "049fb4ae7d055570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04e4f039de94187e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deserted Robin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9187a8b3ea0dd2c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deserted Robin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c2236bdb529c0e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elghalydd Beasttoe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "877d79281d028df8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Locations/Taverns/Copperforge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8078f8a9a504e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thustoc Kegdigger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7da14b06e474e71e",
+            "id": "0c6d8f76bf168315",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "302e04b006d2202d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Neutrals/Borin Platebraid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gistrubelle Heavygut.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gistrubelle Heavygut.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gistrubelle Heavygut.md"
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md"
               }
             }
           }
@@ -291,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cab9b5a4597ae71d",
+  "active": "0c6d8f76bf168315",
   "lastOpenFiles": [
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
+    "Gistrubelle Heavygut.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "Elghalydd Beasttoe.md",
     "Deserted Robin.md",
-    "Gistrubelle Heavygut.md",
     "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
     "SlingshotDnD/Npc's/Neutrals/Korga Boulderjaw.md",
     "Vatmuk Beastcoat.md",
