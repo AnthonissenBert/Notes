@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pony and Crossbow.md",
+                "file": "SlingshotDnD/_Assets/GM links.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pony and Crossbow.md",
+                "file": "SlingshotDnD/Locations/Cities/Bugwicke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pony and Crossbow.md",
+                "file": "SlingshotDnD/Locations/Cities/Bugwicke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pony and Crossbow.md"
+                "file": "SlingshotDnD/Locations/Cities/Bugwicke.md"
               }
             }
           }
@@ -195,13 +194,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "553f107660c1791d",
+  "active": "500b50cc993796cb",
   "lastOpenFiles": [
-    "SlingshotDnD/Locations/Cities/Bugwicke.md",
+    "Vilettia's Square.md",
+    "SlingshotDnD/_Assets/GM links.md",
     "Pony and Crossbow.md",
+    "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "The Markets.md",
     "Vilettia Kirk.md",
-    "Vilettia's Square.md",
     "Heather.md",
     "SlingshotDnD/Locations/FactionHalls/The Garrison.md",
     "SlingshotDnD/Locations/FactionHalls",
@@ -217,7 +217,6 @@
     "SlingshotDnD/Quests/wooing the mayor's daughter.md",
     "SlingshotDnD/Quests/The plague.md",
     "Half red dragon veteran.md",
-    "SlingshotDnD/_Assets/GM links.md",
     "Roderic Toll.md",
     "Pamela Toll.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
