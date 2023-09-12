@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/Squares/Vilettia's Square.md",
+                "file": "SlingshotDnD/Locations/Bronze Barrack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Squares/Vilettia's Square.md",
+                "file": "SlingshotDnD/Locations/Bronze Barrack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Squares/Vilettia's Square.md",
+                "file": "SlingshotDnD/Locations/Bronze Barrack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Squares/Vilettia's Square.md"
+                "file": "SlingshotDnD/Locations/Bronze Barrack.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "5362fe39d96f945c",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Outposts/Kharakul.md",
+    "SlingshotDnD/Npc's/Neutrals/Vilettia Kirk.md",
+    "SlingshotDnD/Locations/Squares/Vilettia's Square.md",
     "SlingshotDnD/Locations/Squares",
-    "SlingshotDnD/Npc's/Vilettia Kirk.md",
-    "The Markets.md",
+    "SlingshotDnD/Locations/Markets/The Markets.md",
     "SlingshotDnD/Npc's/Neutrals/Thathoc Icearm.md",
     "SlingshotDnD/Locations/Bronze Barrack.md",
     "Borrealis garrison.md",
@@ -160,13 +162,11 @@
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Neutrals/Pamela Toll.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
-    "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "Templates/location.template.md",
     "SlingshotDnD/Npc's/Neutrals/Borin Platebraid.md",
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "SlingshotDnD/Npc's/Neutrals/Korga Boulderjaw.md",
     "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
-    "SlingshotDnD/Locations/Squares/Vilettia's Square.md",
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",
@@ -192,7 +192,6 @@
     "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png",
     "SlingshotDnD/_Assets/Tokens/MerchantHallLeader.png",
     "SlingshotDnD/_Assets/Tokens/MiningGuildLeader.png",
-    "SlingshotDnD/_Assets/pdf/vauralok.pdf",
-    "SlingshotDnD/_Assets/pdf/sudo_Bram.pdf"
+    "SlingshotDnD/_Assets/pdf/vauralok.pdf"
   ]
 }

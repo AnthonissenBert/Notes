@@ -1,16 +1,12 @@
-military place in [[Kharakul]]
-
-Type:
-
-
-
-Type: 
-Location
+Type: Barrack
+Location: [[Kharakul]]
 
 ---
 
-description
+military place in [[Kharakul]]
 
 ---
 
 ## who is stationed here
+
+1. 
