@@ -1,1 +1,0 @@
-the name of the troops stationed at [[Kharakul]]
