@@ -1,0 +1,1 @@
+Vilettia's Square is a wide, multi-lane paved rock square. It is made of polished marble, intricately paved to form repeating geometric pattern. There are the occasional street sellers hawking their goods in the square. It was named after Vilettia Kirk, who was a well respected local who was killed in war.

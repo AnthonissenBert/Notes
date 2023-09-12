@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "dbe4e327ff594378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vilettia's Square.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "16818162f898454f",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heather.md",
+                "file": "Vilettia's Square.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heather.md",
+                "file": "Vilettia's Square.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heather.md"
+                "file": "Vilettia's Square.md"
               }
             }
           }
@@ -159,9 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16818162f898454f",
+  "active": "dbe4e327ff594378",
   "lastOpenFiles": [
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
+    "Vilettia's Square.md",
     "Heather.md",
     "SlingshotDnD/Locations/FactionHalls/The Garrison.md",
     "SlingshotDnD/Locations/FactionHalls",
@@ -189,7 +202,6 @@
     "SlingshotDnD/Quests/The Liberation of Fisherman's Bay.md",
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
-    "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/token_4.png",
