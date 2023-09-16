@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/Forests/Emberwood forest.md",
+                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Forests/Emberwood forest.md",
+                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Forests/Emberwood forest.md",
+                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Forests/Emberwood forest.md"
+                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md"
               }
             }
           },
@@ -158,13 +158,14 @@
   },
   "active": "145eef1004a99b34",
   "lastOpenFiles": [
-    "SlingshotDnD/Locations/Forests/Silverbark forest.md",
-    "SlingshotDnD/Locations/Forests/Forest of Nibel.md",
+    "SlingshotDnD/Factions/The Emerald Knights.md",
     "SlingshotDnD/Factions/The Bouldermanes.md",
     "SlingshotDnD/Factions/The Court.md",
-    "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Factions/The Shadow Collective.md",
-    "SlingshotDnD/Factions/The Emerald Knights.md",
+    "SlingshotDnD/Locations/Forests/Emberwood forest.md",
+    "SlingshotDnD/Locations/Forests/Silverbark forest.md",
+    "SlingshotDnD/Locations/Forests/Forest of Nibel.md",
+    "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md",
     "SlingshotDnD/Locations/Guildhalls/Bronze Barrack.md",
     "BeyondTheMournlords/Npc's/terrance reeves.md",
@@ -184,7 +185,6 @@
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Npc's/Neutrals/Gistrubelle Heavygut.md",
     "SlingshotDnD/Npc's/Neutrals/Elghalydd Beasttoe.md",
-    "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",
