@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7c8411751541dd03",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c8411751541dd03",
+  "active": "0e1ca4677368645a",
   "lastOpenFiles": [
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "SlingshotDnD/Locations/Ardentia.md",
