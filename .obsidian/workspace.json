@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c8411751541dd03",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,6 +139,16 @@
                 "file": "SlingshotDnD/Synopsis.md"
               }
             }
+          },
+          {
+            "id": "fd10b7ea32454c4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -146,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e1ca4677368645a",
+  "active": "7c8411751541dd03",
   "lastOpenFiles": [
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "SlingshotDnD/Locations/Ardentia.md",
