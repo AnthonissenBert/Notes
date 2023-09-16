@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Deities/Yuria.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Deities/Yuria.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Deities/Yuria.md",
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Deities/Yuria.md"
+                "file": "SlingshotDnD/Locations/Outposts/Kharakul.md"
               }
             }
           },
@@ -156,12 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "0e1ca4677368645a",
   "lastOpenFiles": [
+    "SlingshotDnD/Deities/Yuria.md",
     "SlingshotDnD/Deities/Hircine.md",
     "SlingshotDnD/Deities/Magnus.md",
     "SlingshotDnD/Deities/Vaestus.md",
-    "SlingshotDnD/Deities/Yuria.md",
     "SlingshotDnD/Synopsis.md",
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "SlingshotDnD/Locations/Ardentia.md",
