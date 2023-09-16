@@ -18,7 +18,7 @@ active quests:
 - [[Osmund Briarmane]]
 #### Main Location
 
-
+[[Altenmere]]
 #### Goals and Ambitions
 
 - Make the world a better place
