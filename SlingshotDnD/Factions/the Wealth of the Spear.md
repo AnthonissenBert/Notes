@@ -5,16 +5,18 @@ active quests:
 - go fetch the head of a monster in town
 
 ---
-#### Leader
+#### Structure
+##### Leader
 
 [[Lance Garrick]]
-#### Officers
+##### Officers
 
 - [[Gruuk]]
 - [[Roderic Toll]]
-#### Sergeants
+##### Sergeants
 
 - [[Osmund Briarmane]]
+####
 #### Goals and Ambitions
 
 - Make the world a better place
