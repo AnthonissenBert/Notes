@@ -1,4 +1,4 @@
-In Ardentia, a dangerous disease is spreading from the south and causing widespread fear and panic among the people. While the origins of the disease are still unknown, its impact is clear, as it has killed many and left many others debilitated. Governments are struggling to find a cure or containment methods, and the outbreak has significantly affected the economy of the world.
+In [[Ardentia]], a dangerous disease is spreading from the south and causing widespread fear and panic among the people. While the origins of the disease are still unknown, its impact is clear, as it has killed many and left many others debilitated. Governments are struggling to find a cure or containment methods, and the outbreak has significantly affected the economy of the world.
 
 Humans and orcs live among each other, but tension is rising between the orcish tribes. Some orcish leaders are seeking to gain more power and control, which is leading to infighting and conflict. This power struggle is affecting trade routes and making commerce more dangerous, as banditry and piracy become more common. It's also causing some orcs to side with humans to avoid the conflict.
 
