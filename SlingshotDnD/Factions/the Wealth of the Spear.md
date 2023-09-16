@@ -16,7 +16,9 @@ active quests:
 ##### Sergeants
 
 - [[Osmund Briarmane]]
-####
+#### Main Location
+
+
 #### Goals and Ambitions
 
 - Make the world a better place
