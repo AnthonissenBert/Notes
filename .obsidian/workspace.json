@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md",
+                "file": "SlingshotDnD/Factions/The Bouldermanes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md",
+                "file": "SlingshotDnD/Factions/The Bouldermanes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md",
+                "file": "SlingshotDnD/Factions/The Bouldermanes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md"
+                "file": "SlingshotDnD/Factions/The Bouldermanes.md"
               }
             }
           },
@@ -156,8 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "145eef1004a99b34",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/The Court.md",
+    "SlingshotDnD/Factions/the Wealth of the Spear.md",
+    "SlingshotDnD/Factions/The Shadow Collective.md",
+    "SlingshotDnD/Factions/The Emerald Knights.md",
+    "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md",
     "SlingshotDnD/Locations/Guildhalls/Bronze Barrack.md",
     "BeyondTheMournlords/Npc's/terrance reeves.md",
     "BeyondTheMournlords/Npc's/Baylor.md",
@@ -174,17 +179,12 @@
     "SlingshotDnD/Locations/FactionHalls/The Garrison.md",
     "SlingshotDnD/Locations/Forests/Silverbark forest.md",
     "SlingshotDnD/Locations/Forests/Forest of Nibel.md",
-    "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md",
     "SlingshotDnD/Npc's/Monsters/Ettin.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Npc's/Neutrals/Gistrubelle Heavygut.md",
     "SlingshotDnD/Npc's/Neutrals/Elghalydd Beasttoe.md",
     "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
     "SlingshotDnD/Npc's/Neutrals/Korga Boulderjaw.md",
-    "SlingshotDnD/Npc's/Neutrals/Vatmuk Beastcoat.md",
-    "SlingshotDnD/Npc's/Neutrals/Sarruik Runehood.md",
-    "SlingshotDnD/Npc's/Neutrals/Undrurim Goldenspine.md",
-    "SlingshotDnD/Npc's/Neutrals/Thustoc Kegdigger.md",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",
