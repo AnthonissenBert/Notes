@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/Ardentia.md",
+                "file": "SlingshotDnD/Locations/Forests/Emberwood forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Ardentia.md",
+                "file": "SlingshotDnD/Locations/Forests/Emberwood forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Ardentia.md",
+                "file": "SlingshotDnD/Locations/Forests/Emberwood forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Ardentia.md"
+                "file": "SlingshotDnD/Locations/Forests/Emberwood forest.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "0e1ca4677368645a",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Ardentia.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "SlingshotDnD/Deities/Yuria.md",
     "SlingshotDnD/Deities/Hircine.md",
@@ -165,7 +166,6 @@
     "SlingshotDnD/Deities/Vaestus.md",
     "SlingshotDnD/Synopsis.md",
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
-    "SlingshotDnD/Locations/Ardentia.md",
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/Locations/FactionHalls/The Garrison.md",
     "SlingshotDnD/Locations/Forests/Silverbark forest.md",
