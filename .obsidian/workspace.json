@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bouldermanes.md",
+                "file": "SlingshotDnD/Locations/Forests/Silverbark forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bouldermanes.md",
+                "file": "SlingshotDnD/Locations/Forests/Silverbark forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bouldermanes.md",
+                "file": "SlingshotDnD/Locations/Forests/Silverbark forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bouldermanes.md"
+                "file": "SlingshotDnD/Locations/Forests/Silverbark forest.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "145eef1004a99b34",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Forests/Forest of Nibel.md",
+    "SlingshotDnD/Factions/The Bouldermanes.md",
     "SlingshotDnD/Factions/The Court.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Factions/The Shadow Collective.md",
@@ -178,13 +180,11 @@
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/Locations/FactionHalls/The Garrison.md",
     "SlingshotDnD/Locations/Forests/Silverbark forest.md",
-    "SlingshotDnD/Locations/Forests/Forest of Nibel.md",
     "SlingshotDnD/Npc's/Monsters/Ettin.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Npc's/Neutrals/Gistrubelle Heavygut.md",
     "SlingshotDnD/Npc's/Neutrals/Elghalydd Beasttoe.md",
     "SlingshotDnD/Locations/Markets/Gemstone Grotto.md",
-    "SlingshotDnD/Npc's/Neutrals/Korga Boulderjaw.md",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",
