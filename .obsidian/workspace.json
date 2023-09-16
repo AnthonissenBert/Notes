@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Synopsis.md",
+                "file": "SlingshotDnD/Deities/Yuria.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Synopsis.md",
+                "file": "SlingshotDnD/Deities/Yuria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Synopsis.md",
+                "file": "SlingshotDnD/Deities/Yuria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Synopsis.md"
+                "file": "SlingshotDnD/Deities/Yuria.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "0e1ca4677368645a",
   "lastOpenFiles": [
+    "SlingshotDnD/Deities/Magnus.md",
+    "SlingshotDnD/Deities/Yuria.md",
+    "SlingshotDnD/Synopsis.md",
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "SlingshotDnD/Locations/Ardentia.md",
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
@@ -183,9 +186,6 @@
     "SlingshotDnD/Locations/Squares/Vilettia's Square.md",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/Locations/Markets/The Markets.md",
-    "SlingshotDnD/Npc's/Neutrals/Thathoc Icearm.md",
-    "Borrealis garrison.md",
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",
     "SlingshotDnD/Locations/Outposts",
