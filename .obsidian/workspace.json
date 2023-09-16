@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/Forests/Silverbark forest.md",
+                "file": "SlingshotDnD/Locations/Forests/Emberwood forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Forests/Silverbark forest.md",
+                "file": "SlingshotDnD/Locations/Forests/Emberwood forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Forests/Silverbark forest.md",
+                "file": "SlingshotDnD/Locations/Forests/Emberwood forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Forests/Silverbark forest.md"
+                "file": "SlingshotDnD/Locations/Forests/Emberwood forest.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "145eef1004a99b34",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Forests/Silverbark forest.md",
     "SlingshotDnD/Locations/Forests/Forest of Nibel.md",
     "SlingshotDnD/Factions/The Bouldermanes.md",
     "SlingshotDnD/Factions/The Court.md",
@@ -179,7 +180,6 @@
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/Locations/FactionHalls/The Garrison.md",
-    "SlingshotDnD/Locations/Forests/Silverbark forest.md",
     "SlingshotDnD/Npc's/Monsters/Ettin.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Npc's/Neutrals/Gistrubelle Heavygut.md",
