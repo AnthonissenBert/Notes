@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md",
+                "file": "SlingshotDnD/Factions/The Bards of Yonder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0da9e9f9bb6cdbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bago.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md",
+                "file": "Bago.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md",
+                "file": "Bago.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md"
+                "file": "Bago.md"
               }
             }
           },
@@ -169,13 +181,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4f1560d000a9b1c",
+  "active": "a0da9e9f9bb6cdbb",
   "lastOpenFiles": [
+    "herangon_leader_of_bard_college.pdf",
+    "SlingshotDnD/Factions/The Bards of Yonder.md",
+    "Bago.md",
+    "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Factions/The Shadow Collective.md",
     "SlingshotDnD/Factions/The Emerald Knights.md",
     "SlingshotDnD/Factions/The Bouldermanes.md",
     "Altenmere.md",
-    "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Factions/The Court.md",
     "SlingshotDnD/Locations/Forests/Emberwood forest.md",
     "SlingshotDnD/Locations/Forests/Silverbark forest.md",
@@ -194,10 +209,7 @@
     "SlingshotDnD/Synopsis.md",
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
-    "SlingshotDnD/Locations/FactionHalls/The Garrison.md",
-    "SlingshotDnD/Npc's/Monsters/Ettin.md",
     "SlingshotDnD/Locations/Guildhalls",
-    "SlingshotDnD/Npc's/Neutrals/Gistrubelle Heavygut.md",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/_Assets/token_4.png",
     "SlingshotDnD/_Assets/token_5.png",
