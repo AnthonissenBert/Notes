@@ -35,11 +35,9 @@
             "id": "a0da9e9f9bb6cdbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Bago.md",
-                "mode": "source",
-                "source": false
+                "file": "SlingshotDnD/_Assets/Tokens/token_1.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bago.md",
+                "file": "SlingshotDnD/_Assets/Tokens/token_1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bago.md",
+                "file": "SlingshotDnD/_Assets/Tokens/token_1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bago.md"
+                "file": "SlingshotDnD/_Assets/Tokens/token_1.png"
               }
             }
           },
@@ -183,14 +181,15 @@
   },
   "active": "a0da9e9f9bb6cdbb",
   "lastOpenFiles": [
-    "herangon_leader_of_bard_college.pdf",
+    "SlingshotDnD/_Assets/GM links.md",
+    "SlingshotDnD/Locations/Cities/Altenmere.md",
+    "SlingshotDnD/Npc's/Neutrals/Bago.md",
+    "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/Factions/The Bards of Yonder.md",
-    "Bago.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Factions/The Shadow Collective.md",
     "SlingshotDnD/Factions/The Emerald Knights.md",
     "SlingshotDnD/Factions/The Bouldermanes.md",
-    "Altenmere.md",
     "SlingshotDnD/Factions/The Court.md",
     "SlingshotDnD/Locations/Forests/Emberwood forest.md",
     "SlingshotDnD/Locations/Forests/Silverbark forest.md",
@@ -211,20 +210,19 @@
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Locations/Squares",
-    "SlingshotDnD/_Assets/token_4.png",
-    "SlingshotDnD/_Assets/token_5.png",
+    "SlingshotDnD/_Assets/Tokens/token_4.png",
+    "SlingshotDnD/_Assets/Tokens/token_5.png",
     "SlingshotDnD/Locations/Outposts",
     "SlingshotDnD/Locations/FactionHalls",
     "SlingshotDnD/Locations/Markets",
     "SlingshotDnD/Locations/Taverns",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
-    "SlingshotDnD/_Assets/token_2.png",
-    "SlingshotDnD/_Assets/token_3.png",
+    "SlingshotDnD/_Assets/Tokens/token_2.png",
+    "SlingshotDnD/_Assets/Tokens/token_3.png",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
-    "Tables",
     "SlingshotDnD/_Assets/Tokens/wolf2.png",
     "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png",
     "SlingshotDnD/_Assets/Tokens/MerchantHallLeader.png",
