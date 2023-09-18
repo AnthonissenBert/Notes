@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "145eef1004a99b34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a4f1560d000a9b1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9d949a51b4de1d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Karamos.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karamos.md",
+                "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Karamos.md",
+                "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Karamos.md"
+                "file": "SlingshotDnD/Factions/The Bards of Julliard.md"
               }
             }
           },
@@ -193,9 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9d949a51b4de1d8",
+  "active": "a4f1560d000a9b1c",
   "lastOpenFiles": [
+    "Ynos.md",
     "SlingshotDnD/Factions/The Bards of Julliard.md",
+    "Iliamos.md",
     "Karamos.md",
     "SlingshotDnD/Npc's/Neutrals/Bago.md",
     "SlingshotDnD/Factions/The Emerald Knights.md",
@@ -204,8 +181,6 @@
     "SlingshotDnD/Factions/The Shadow Collective.md",
     "SlingshotDnD/Factions/The Court.md",
     "SlingshotDnD/Factions/The Bouldermanes.md",
-    "Ynos.md",
-    "Iliamos.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_1.png",

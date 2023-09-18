@@ -1,4 +1,4 @@
-Status: The Brass
+Status: The Brass Dirigent
 Race: Aasimar
 In charge of: a section of [[The Bards of Julliard]]
 
