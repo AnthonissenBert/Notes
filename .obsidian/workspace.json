@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "bcb777c67f66f19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Factions/the Wealth of the Spear.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bcc22d48c36e75cf",
             "type": "leaf",
             "state": {
@@ -170,8 +182,9 @@
   },
   "active": "a4f1560d000a9b1c",
   "lastOpenFiles": [
-    "Ynos.md",
+    "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Factions/The Bards of Julliard.md",
+    "Ynos.md",
     "Iliamos.md",
     "Karamos.md",
     "SlingshotDnD/Npc's/Neutrals/Bago.md",
@@ -186,7 +199,6 @@
     "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
-    "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Locations/Forests/Emberwood forest.md",
     "SlingshotDnD/Locations/Forests/Silverbark forest.md",
     "SlingshotDnD/Locations/Forests/Forest of Nibel.md",
