@@ -13,6 +13,7 @@ Julliard is the founder of this music school of arts. After he completed his dre
 #### Notable
 
 [[Lirael]]
+[[Sirion]]
 #### Goals and Ambitions
 
 - **Artistry and Adventure:** The Bards of Julliard believe that the magic of artistry and the thrill of adventure are intertwined. They strive to tell epic tales through their performances and support the endeavors of adventurers through their talents.
