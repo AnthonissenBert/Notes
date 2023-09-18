@@ -1,6 +1,6 @@
 Status: Barkeep
 Race: Bugbear
-In charge of: the hall of [[The Bards of Julliard]]
+In charge of: the bar of [[The Bards of Julliard]]
 
 ---
 

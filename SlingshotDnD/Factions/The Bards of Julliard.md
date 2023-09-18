@@ -10,7 +10,7 @@ Julliard is the founder of this music school of arts. After he completed his dre
 [[Iliamos]]  
 [[Ynos]]
 
-#### Notable
+#### Notable npc's
 
 [[Lirael]]
 [[Sirion]]
