@@ -9,6 +9,7 @@ King
 Advisor 1
 Advisor 2
 Prime minister
+Court
 
 # faction guild halls
 
