@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5db5b6fb093e685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Npc's/Neutrals/Bago.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Yonder.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/Bago.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Yonder.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/Bago.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Yonder.md"
+                "file": "SlingshotDnD/Npc's/Neutrals/Bago.md"
               }
             }
           },
@@ -169,14 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4f1560d000a9b1c",
+  "active": "d5db5b6fb093e685",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/The Bards of Yonder.md",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
     "SlingshotDnD/Npc's/Neutrals/Bago.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
-    "SlingshotDnD/Factions/The Bards of Yonder.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Factions/The Shadow Collective.md",
     "SlingshotDnD/Factions/The Emerald Knights.md",

@@ -1,4 +1,4 @@
-Status: Leader 
+Status: Bunny
 Race: Herangon
 In charge of: [[The Bards of Yonder]]
 
