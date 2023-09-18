@@ -8,4 +8,11 @@
 # taverns
 
 ...
-# merchant
+# merchant halls
+
+...
+# Frivolous activities
+
+...
+# Upper class buildings
+
