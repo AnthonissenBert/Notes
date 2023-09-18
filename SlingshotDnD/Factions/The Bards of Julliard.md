@@ -11,7 +11,11 @@ Julliard is the founder of this music school of arts. After he completed his dre
 [[Ynos]]
 #### Goals and Ambitions
 
-...
+**Artistry and Adventure:** The Bards of Yonder believe that the magic of artistry and the thrill of adventure are intertwined. They strive to tell epic tales through their performances and support the endeavors of adventurers through their talents.
+    
+2. **Mastery of Multiple Disciplines:** Bards of this college excel in various forms of art, including music, storytelling, acting, and poetry. They are versatile performers capable of captivating any audience.
+    
+3. **Inspiration and Motivation:** They view their performances not just as entertainment but as a means to inspire and motivate those around them, boosting the courage and abilities of their allies.
 #### Methods and Strategies 
 
 ...

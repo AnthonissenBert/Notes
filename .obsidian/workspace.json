@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Factions/The Emerald Knights.md",
+                "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The Emerald Knights.md",
+                "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The Emerald Knights.md",
+                "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/The Emerald Knights.md"
+                "file": "SlingshotDnD/Factions/The Bards of Julliard.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "a4f1560d000a9b1c",
   "lastOpenFiles": [
-    "SlingshotDnD/Npc's/Neutrals/Grimmok.md",
     "SlingshotDnD/Factions/The Emerald Knights.md",
+    "SlingshotDnD/Npc's/Neutrals/Grimmok.md",
     "SlingshotDnD/Npc's/Neutrals/Kazunori.md",
     "SlingshotDnD/Factions/The Shadow Collective.md",
     "SlingshotDnD/Factions/The Court.md",
