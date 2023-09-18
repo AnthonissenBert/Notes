@@ -6,7 +6,7 @@ short description
 [[Bago]]
 #### Officers
 
-...
+
 #### Goals and Ambitions
 
 ...

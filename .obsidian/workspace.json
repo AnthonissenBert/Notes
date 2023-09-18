@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a0da9e9f9bb6cdbb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SlingshotDnD/_Assets/Tokens/token_1.png"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/_Assets/Tokens/token_1.png",
+                "file": "SlingshotDnD/Factions/The Bards of Yonder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/_Assets/Tokens/token_1.png",
+                "file": "SlingshotDnD/Factions/The Bards of Yonder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/_Assets/Tokens/token_1.png"
+                "file": "SlingshotDnD/Factions/The Bards of Yonder.md"
               }
             }
           },
@@ -179,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0da9e9f9bb6cdbb",
+  "active": "a4f1560d000a9b1c",
   "lastOpenFiles": [
+    "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
     "SlingshotDnD/Npc's/Neutrals/Bago.md",
@@ -207,7 +198,6 @@
     "SlingshotDnD/Deities/Vaestus.md",
     "SlingshotDnD/Synopsis.md",
     "SlingshotDnD/Locations/Taverns/Copperforge.md",
-    "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/_Assets/Tokens/token_4.png",
@@ -220,7 +210,6 @@
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/Tokens/token_2.png",
     "SlingshotDnD/_Assets/Tokens/token_3.png",
-    "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "SlingshotDnD/_Assets/Tokens/wolf2.png",
