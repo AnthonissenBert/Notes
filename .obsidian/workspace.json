@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Locations/Cities/Altenmere.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Locations/Cities/Altenmere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Locations/Cities/Altenmere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "SlingshotDnD/Locations/Cities/Altenmere.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "2c8de544204eb215",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Outposts/Kharakul.md",
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Quests/Bringing down the alpha.md",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
@@ -185,8 +187,6 @@
     "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md",
     "SlingshotDnD/Locations/Guildhalls/Bronze Barrack.md",
     "BeyondTheMournlords/Npc's/terrance reeves.md",
-    "BeyondTheMournlords/Npc's/Baylor.md",
-    "BeyondTheMournlords/Sessions/2023-09-03.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/_Assets/Tokens/token_4.png",
