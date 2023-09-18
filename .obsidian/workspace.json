@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "516b2722f6ab8cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Npc's/Neutrals/Bago.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4117d0bd44f7499b",
             "type": "leaf",
             "state": {
@@ -42,33 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aa551cf0bbb4cc7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iliamos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb8222a5a980735f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Karamos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iliamos.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/Bago.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iliamos.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/Bago.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iliamos.md"
+                "file": "SlingshotDnD/Npc's/Neutrals/Bago.md"
               }
             }
           },
@@ -205,10 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa551cf0bbb4cc7c",
+  "active": "516b2722f6ab8cd9",
   "lastOpenFiles": [
-    "Ynos.md",
     "SlingshotDnD/Factions/The Bards of Julliard.md",
+    "Ynos.md",
     "Iliamos.md",
     "Karamos.md",
     "SlingshotDnD/Npc's/Neutrals/Bago.md",

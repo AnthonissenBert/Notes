@@ -1,4 +1,4 @@
-Status: Brave Bunny
+Status: Brave Bunny 
 Race: Herangon
 In charge of: [[The Bards of Julliard]]
 

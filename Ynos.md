@@ -1,6 +1,6 @@
 Status: The Brass
-Race: 
-In charge of:
+Race: Aasimar
+In charge of: a section of [[The Bards of Julliard]]
 
 ---
 
