@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d5db5b6fb093e685",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
+                "file": "SlingshotDnD/Factions/The Bards of Yonder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
+                "file": "SlingshotDnD/Factions/The Bards of Yonder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf"
+                "file": "SlingshotDnD/Factions/The Bards of Yonder.md"
               }
             }
           },
@@ -179,14 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5db5b6fb093e685",
+  "active": "a4f1560d000a9b1c",
   "lastOpenFiles": [
     "SlingshotDnD/Npc's/Neutrals/Bago.md",
+    "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
+    "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/Factions/The Bards of Yonder.md",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
-    "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Factions/The Shadow Collective.md",
     "SlingshotDnD/Factions/The Emerald Knights.md",
@@ -220,7 +211,6 @@
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/_Assets/Tokens/token_2.png",
     "SlingshotDnD/_Assets/Tokens/token_3.png",
-    "SlingshotDnD/Locations/Cities",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "SlingshotDnD/_Assets/Tokens/wolf2.png",
     "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png",
