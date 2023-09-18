@@ -1,4 +1,4 @@
-Status: Brave Bunny / Director
+Status: Brave Bunny / Director / Maestro
 Race: Herangon
 In charge of: [[The Bards of Julliard]]
 

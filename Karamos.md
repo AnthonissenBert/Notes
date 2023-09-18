@@ -1,4 +1,4 @@
-Status: The Copper
+Status: The Copper 
 Race: Satyr
 In charge of: a section of [[The Bards of Julliard]]
 

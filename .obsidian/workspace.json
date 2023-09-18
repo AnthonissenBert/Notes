@@ -32,19 +32,31 @@
             }
           },
           {
-            "id": "516b2722f6ab8cd9",
+            "id": "a9d949a51b4de1d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Npc's/Neutrals/Bago.md",
+                "file": "Karamos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcc22d48c36e75cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karamos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
+                "file": "Karamos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
+                "file": "Karamos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Julliard.md"
+                "file": "Karamos.md"
               }
             }
           },
@@ -181,19 +193,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4f1560d000a9b1c",
+  "active": "a9d949a51b4de1d8",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/The Bards of Julliard.md",
+    "Karamos.md",
+    "SlingshotDnD/Npc's/Neutrals/Bago.md",
     "SlingshotDnD/Factions/The Emerald Knights.md",
     "SlingshotDnD/Npc's/Neutrals/Grimmok.md",
     "SlingshotDnD/Npc's/Neutrals/Kazunori.md",
     "SlingshotDnD/Factions/The Shadow Collective.md",
     "SlingshotDnD/Factions/The Court.md",
     "SlingshotDnD/Factions/The Bouldermanes.md",
-    "SlingshotDnD/Factions/The Bards of Julliard.md",
-    "SlingshotDnD/Npc's/Neutrals/Bago.md",
     "Ynos.md",
     "Iliamos.md",
-    "Karamos.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
