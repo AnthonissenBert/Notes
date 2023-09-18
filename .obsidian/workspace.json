@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2381d9f4d4128c74",
+        "id": "73b54457376a292f",
         "type": "tabs",
         "children": [
           {
-            "id": "a4f1560d000a9b1c",
+            "id": "2c8de544204eb215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
+                "file": "SlingshotDnD/Locations/Cities/Altenmere.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
+                "file": "SlingshotDnD/Locations/Cities/Altenmere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
+                "file": "SlingshotDnD/Locations/Cities/Altenmere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Julliard.md"
+                "file": "SlingshotDnD/Locations/Cities/Altenmere.md"
               }
             }
           },
@@ -156,12 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4f1560d000a9b1c",
+  "active": "2c8de544204eb215",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Cities/Bugwicke.md",
+    "SlingshotDnD/Locations/Cities/Altenmere.md",
+    "SlingshotDnD/Factions/The Bards of Julliard.md",
     "SlingshotDnD/Npc's/Neutrals/Sirion.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Neutrals/Karamos.md",
-    "SlingshotDnD/Factions/The Bards of Julliard.md",
     "SlingshotDnD/Npc's/Neutrals/Lirael.md",
     "SlingshotDnD/Npc's/Neutrals/Ynos.md",
     "SlingshotDnD/Npc's/Neutrals/Iliamos.md",
@@ -176,7 +178,6 @@
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/_Assets/GM links.md",
-    "SlingshotDnD/Locations/Cities/Altenmere.md",
     "SlingshotDnD/Locations/Forests/Emberwood forest.md",
     "SlingshotDnD/Locations/Forests/Silverbark forest.md",
     "SlingshotDnD/Locations/Forests/Forest of Nibel.md",
@@ -186,7 +187,6 @@
     "BeyondTheMournlords/Npc's/Baylor.md",
     "BeyondTheMournlords/Sessions/2023-09-03.md",
     "SlingshotDnD/Locations/Ardentia.md",
-    "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/_Assets/Tokens/token_4.png",

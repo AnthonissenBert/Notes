@@ -1,5 +1,5 @@
 Status: Frivoler
-Race: Human
+Race: Halfling
 In charge of: pooltabels at [[The Bards of Julliard]]
 
 ---
