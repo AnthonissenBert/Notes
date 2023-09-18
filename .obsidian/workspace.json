@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "73b54457376a292f",
+        "id": "f142d167b0f70288",
         "type": "tabs",
         "children": [
           {
-            "id": "2c8de544204eb215",
+            "id": "0cc277b92af4249a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OwnOneShots/murder_mystery/places/Varinthia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OwnOneShots/murder_mystery/places/Varinthia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OwnOneShots/murder_mystery/places/Varinthia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OwnOneShots/murder_mystery/places/Varinthia.md"
+              }
             }
           },
           {
@@ -148,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c8de544204eb215",
+  "active": "0cc277b92af4249a",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Ardentia.md",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
@@ -178,7 +187,6 @@
     "SlingshotDnD/Locations/Forests/Forest of Nibel.md",
     "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md",
     "SlingshotDnD/Locations/Guildhalls/Bronze Barrack.md",
-    "BeyondTheMournlords/Npc's/terrance reeves.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/_Assets/Tokens/token_4.png",
