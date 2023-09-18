@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "aa551cf0bbb4cc7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iliamos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fb8222a5a980735f",
             "type": "leaf",
             "state": {
@@ -183,8 +195,9 @@
   },
   "active": "a4f1560d000a9b1c",
   "lastOpenFiles": [
-    "Karamos.md",
+    "Iliamos.md",
     "SlingshotDnD/Factions/The Bards of Julliard.md",
+    "Karamos.md",
     "SlingshotDnD/Npc's/Neutrals/Bago.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
@@ -211,7 +224,6 @@
     "SlingshotDnD/Deities/Magnus.md",
     "SlingshotDnD/Deities/Vaestus.md",
     "SlingshotDnD/Synopsis.md",
-    "SlingshotDnD/Locations/Taverns/Copperforge.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/_Assets/Tokens/token_4.png",

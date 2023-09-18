@@ -7,8 +7,8 @@ Julliard is the founder of this music school of arts. After he completed his dre
 #### Officers
 
 [[Karamos]]  
-Iliamos  
-Ynos
+[[Iliamos]]  
+[[Ynos]]
 #### Goals and Ambitions
 
 ...

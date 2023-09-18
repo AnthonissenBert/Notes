@@ -1,5 +1,5 @@
-Status: The Copper
-Race: Satyr
+Status: The Wood
+Race: Elf
 In charge of: a section of [[The Bards of Julliard]]
 
 ---
