@@ -6,7 +6,9 @@ Julliard is the founder of this music school of arts. After he completed his dre
 [[Bago]]
 #### Officers
 
-
+[[Karamos]]  
+Iliamos  
+Ynos
 #### Goals and Ambitions
 
 ...

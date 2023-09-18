@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb8222a5a980735f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karamos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -171,10 +183,11 @@
   },
   "active": "a4f1560d000a9b1c",
   "lastOpenFiles": [
+    "Karamos.md",
+    "SlingshotDnD/Factions/The Bards of Julliard.md",
     "SlingshotDnD/Npc's/Neutrals/Bago.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
-    "SlingshotDnD/Factions/The Bards of Julliard.md",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
