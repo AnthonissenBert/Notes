@@ -1,5 +1,5 @@
 Status: The Wood
-Race: Elf
+Race: Half elfElf
 In charge of: a section of [[The Bards of Julliard]]
 
 ---

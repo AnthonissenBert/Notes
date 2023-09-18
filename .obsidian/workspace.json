@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "4117d0bd44f7499b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ynos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aa551cf0bbb4cc7c",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
+                "file": "Iliamos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Julliard.md",
+                "file": "Iliamos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/The Bards of Julliard.md"
+                "file": "Iliamos.md"
               }
             }
           },
@@ -193,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4f1560d000a9b1c",
+  "active": "aa551cf0bbb4cc7c",
   "lastOpenFiles": [
-    "Iliamos.md",
+    "Ynos.md",
     "SlingshotDnD/Factions/The Bards of Julliard.md",
+    "Iliamos.md",
     "Karamos.md",
     "SlingshotDnD/Npc's/Neutrals/Bago.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
@@ -223,7 +236,6 @@
     "SlingshotDnD/Deities/Hircine.md",
     "SlingshotDnD/Deities/Magnus.md",
     "SlingshotDnD/Deities/Vaestus.md",
-    "SlingshotDnD/Synopsis.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/_Assets/Tokens/token_4.png",
