@@ -1,6 +1,6 @@
 Status: Brave Bunny
 Race: Herangon
-In charge of: [[The Bards of Yonder]]
+In charge of: [[The Bards of Julliard]]
 
 ---
 

@@ -1,4 +1,4 @@
-short description
+Julliard is the founder of this music school of arts. After he completed his dream of makin
 
 ---
 #### Leader
