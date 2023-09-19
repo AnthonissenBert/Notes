@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f142d167b0f70288",
+        "id": "a731821eec5abe11",
         "type": "tabs",
         "children": [
           {
-            "id": "0cc277b92af4249a",
+            "id": "3c871f803ab312e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OwnOneShots/murder_mystery/places/Varinthia.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OwnOneShots/murder_mystery/places/Varinthia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OwnOneShots/murder_mystery/places/Varinthia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OwnOneShots/murder_mystery/places/Varinthia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cc277b92af4249a",
+  "active": "3c871f803ab312e3",
   "lastOpenFiles": [
+    "OwnOneShots/murder_mystery/places/Varinthia.md",
+    "OwnOneShots/globals/Aldercrest Kingdom.md",
     "SlingshotDnD/Locations/Ardentia.md",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
@@ -185,8 +179,6 @@
     "SlingshotDnD/Locations/Forests/Emberwood forest.md",
     "SlingshotDnD/Locations/Forests/Silverbark forest.md",
     "SlingshotDnD/Locations/Forests/Forest of Nibel.md",
-    "SlingshotDnD/Locations/Guildhalls/Deserted Robin.md",
-    "SlingshotDnD/Locations/Guildhalls/Bronze Barrack.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/_Assets/Tokens/token_4.png",
