@@ -78,7 +78,8 @@ What am I?"
 		- If the party is not able to decipher the riddle hidden within the books an elemental guardian based on the party will come out and attack them
 			- if the party is strength based: [[earth elemental]]
 			- if the party is dex based: [[air elemental]]
-	- If the party succeeds in defeating this foe the dm will set a timer of around 30 minutes. if the party has not completed the riddle they will be sent to the start of
+	- If the party succeeds in defeating this foe the DM will set a timer of around 30 minutes. if the party has not completed the riddle they will be sent to the start of the level with their stats as they enter
+	- 
 
 4. **The Riddle of the Lost Tome:** 
 	- To proceed further into the tower, the party must locate a specific book hidden among the countless volumes. A riddle hints at its location:
