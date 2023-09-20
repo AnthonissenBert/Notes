@@ -18,9 +18,13 @@ linked to the quest: [[The Haunting of Windmill Tower]]
 [[The Hot Ticket]]
 [[Grain administry]]
 [[Pleasure doin' business]]
-[[Sewery]]
+[[The Corner Craft]]
 
 ## Activities
+
+Tavern dice
+tending fields
+[[the haun]]
 
 ## Noteworthy Characters
 

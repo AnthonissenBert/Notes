@@ -1,6 +1,6 @@
 Status: seemstress
 Race: Human
-In charge of: [[Sewery]]
+In charge of: [[The Corner Craft]]
 
 ---
 
