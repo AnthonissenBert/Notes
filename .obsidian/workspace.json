@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca6b2f5fa375c87a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tiarshus Torthtan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "8e5924dc618ea059",
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Faded Apple Bar.md",
+                "file": "Tiarshus Torthtan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Faded Apple Bar.md",
+                "file": "Tiarshus Torthtan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Faded Apple Bar.md"
+                "file": "Tiarshus Torthtan.md"
               }
             }
           },
@@ -235,10 +247,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40fc1425eb8d2c0b",
+  "active": "ca6b2f5fa375c87a",
   "lastOpenFiles": [
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "The Faded Apple Bar.md",
+    "Tiarshus Torthtan.md",
+    "Odo Ostgood.md",
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
     "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
@@ -263,8 +277,6 @@
     "SlingshotDnD/Quests/Bringing down the alpha.md",
     "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/Factions/The Bards of Julliard.md",
-    "SlingshotDnD/Npc's/Neutrals/Sirion.md",
-    "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
