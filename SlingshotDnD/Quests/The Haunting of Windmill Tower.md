@@ -43,6 +43,7 @@ What am I?"
 
 4. **Mysterious Water Source:** The chamber contains a small pool of water surrounded by bioluminescent mushrooms. The water has unique properties, and it can be collected for potential later use. It may heal wounds, remove curses, or provide some other beneficial effect. However, players must figure out how to safely extract the water without disturbing the pool's inhabitants.
 	- 2 [[frog]]s
+	- Note: one of them shall have a white mushroom growing on their back. This ca
 
 **Rewards:**
 
