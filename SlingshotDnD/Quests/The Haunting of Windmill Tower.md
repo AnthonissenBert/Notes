@@ -78,12 +78,14 @@ What am I?"
 	- If the party is not able to decipher the riddle hidden within the books an elemental guardian based on the party will come out and attack them
 		- if the party is strength based: [[earth elemental]]
 		- if the party is dex based: [[air elemental]]
+	- If the party succeeds in defeating this foe the dm will set a timer of around 20 minutes
 
 3. **Elemental Librarians:** Elemental librarians roam the library, seeking to protect its secrets. The librarians manifest as elemental figures with no attire, and they don't take kindly to intruders. The party can choose to avoid them or engage in combat. Defeating the librarians may yield valuable clues or items.
 	- [[earth elemental]] or [[air elemental]]
 
-4. **The Riddle of the Lost Tome:** To proceed further into the tower, the party must locate a specific book hidden among the countless volumes. A riddle hints at its location:
-	-`` In realms of knowledge vast and wide, Seek the tome where secrets hide. A shadowed corner, dusty and dim, Where wisdom's light has grown quite dim. In crimson leather, with pages thin, Find the tale where our journey begins.`
+4. **The Riddle of the Lost Tome:** 
+	- To proceed further into the tower, the party must locate a specific book hidden among the countless volumes. A riddle hints at its location:
+	- `In realms of knowledge vast and wide, Seek the tome where secrets hide. A shadowed corner, dusty and dim, Where wisdom's light has grown quite dim. In crimson leather, with pages thin, Find the tale where our journey begins.`
     
     The book they seek is titled "Chronicles of [[Ardentia]]," and finding it will reveal critical information about the tower's history and the curse they must overcome.
 
