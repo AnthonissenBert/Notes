@@ -13,6 +13,6 @@ As you approach, you notice the tavern has a serene atmosphere. A musician is
 
 - [[Odo Ostgood]]
 - [[Tiarshus Torthtan]]
-- [[Jesmyn Woodfoot]] A mature female human is sitting in a booth towards the back, sharpening a longsword.
-- [[Payten Fenn]]: A thin male human is sitting near the fireplace, making notes on something in the tavern.
-- [[Ganin Duskchin]]: A powerful male dwarf is standing by the bar, talking with the innkeeper.
+- [[Jesmyn Woodfoot]] 
+- [[Payten Fenn]]
+- [[Ganin Duskchin]]

@@ -78,18 +78,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "84383670456e419a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jesmyn Woodfoot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 5
@@ -249,8 +237,10 @@
   },
   "active": "40fc1425eb8d2c0b",
   "lastOpenFiles": [
-    "Jesmyn Woodfoot.md",
+    "Ganin Duskchin.md",
     "The Faded Apple Bar.md",
+    "Jesmyn Woodfoot.md",
+    "Payten Fenn.md",
     "Tiarshus Torthtan.md",
     "Odo Ostgood.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
@@ -275,8 +265,6 @@
     "OwnOneShots/murder_mystery/places/Varinthia.md",
     "OwnOneShots/globals/Aldercrest Kingdom.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
-    "SlingshotDnD/Quests/Bringing down the alpha.md",
-    "SlingshotDnD/Locations/Cities/Bugwicke.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_1.png",

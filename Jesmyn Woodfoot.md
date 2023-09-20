@@ -1,5 +1,5 @@
 Status: 
-Race: Female Human
+Race: Human
 In charge of: fields
 
 ---
