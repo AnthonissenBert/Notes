@@ -31,25 +31,6 @@
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8e5924dc618ea059",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "92a74d6ac9693dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Locations/Cities/Altenmere.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
         ]
       }
     ],
@@ -116,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           },
@@ -187,23 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "f6cd9c7aab2e8570",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "SlingshotDnD/Locations/Whorehouses",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
     "SlingshotDnD/Locations/Seemsters",
     "SlingshotDnD/Locations/Blacksmiths",
     "SlingshotDnD/Locations/Administries",
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Npc's/Animals/frog.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "Templates/village.template.md",
-    "SlingshotDnD/Locations/The Corner Craft.md",
+    "SlingshotDnD/Locations/Seemsters/The Corner Craft.md",
     "SlingshotDnD/Npc's/Neutrals/Juleen.md",
     "SlingshotDnD/Npc's/Neutrals/Robertina.md",
     "SlingshotDnD/Npc's/Neutrals/Rayna.md",
-    "SlingshotDnD/Locations/Pleasure doin' business.md",
+    "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
     "SlingshotDnD/Npc's/Neutrals/Halie.md",
     "SlingshotDnD/Npc's/Neutrals/Florence.md",
     "SlingshotDnD/Npc's/Neutrals/Allyson.md",
@@ -211,13 +193,12 @@
     "SlingshotDnD/Npc's/Neutrals/Nalra.md",
     "SlingshotDnD/Npc's/Neutrals/Malnom.md",
     "SlingshotDnD/Npc's/Neutrals/Irodove.md",
-    "SlingshotDnD/Locations/The Hot Ticket.md",
+    "SlingshotDnD/Locations/Blacksmiths/The Hot Ticket.md",
     "SlingshotDnD/Npc's/Neutrals/Olin.md",
     "SlingshotDnD/Npc's/Neutrals/Morad.md",
-    "SlingshotDnD/Locations/The Faded Apple Bar.md",
+    "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
     "SlingshotDnD/Npc's/Neutrals/Ganin Duskchin.md",
     "SlingshotDnD/Npc's/Neutrals/Grey Duskchin.md",
-    "SlingshotDnD/Npc's/Neutrals/Jesmyn Woodfoot.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
@@ -229,7 +210,6 @@
     "SlingshotDnD/_Assets/Tokens/token_5.png",
     "SlingshotDnD/Locations/Outposts",
     "SlingshotDnD/Locations/FactionHalls",
-    "SlingshotDnD/Locations/Markets",
     "SlingshotDnD/_Assets/Tokens/token_2.png",
     "SlingshotDnD/_Assets/Tokens/token_3.png",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
