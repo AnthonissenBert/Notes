@@ -10,7 +10,7 @@ In the land of [[Ardentia]], a tall tower has reemerged from the depths of histo
 # Level 0: The Tower's Entrance
 
 - The party approaches the towering, ivy-covered structure. It appears to have five distinct levels, each with a different appearance.
-- As they enter, the door slams shut behind them and a steel gate magically locks, leaving only one way forward: up the tower.
+- As they enter, the door slams shut behind them and a steel gate magically locks them in, leaving only one way forward: through the first door and up the tower.
 - At the entrance, the party encounters a ghostly guardian who warns them about the tower's dangers. They must answer a riddle or provide a blood sacrifice.
 ``` Riddle
 "My challenge has made men throughout time stumble,
@@ -56,7 +56,7 @@ What am I?"
 
 3. **Mysterious Water:** Collecting the unique water from the pool can prove invaluable later in their quest, offering them healing or purification benefits when needed.
 
-5. A [[magical artifact]] 
+5. A [[magical artifact]] that benefits one of the party members
 
 # Level 2: The Library of the elements (lvl5)
 
