@@ -73,7 +73,8 @@ What am I?"
 #### Walkthrough
 
 1. **The Whispering Tomes:** 
-	- As the party explores the library, they encounter a series of floating books that seem to be trying to communicate with them. These spectral tomes contain fragments of knowledge about the tower's history and the curse that plagues it. The players must decipher the cryptic messages hidden within the whispers of the books to learn more about their quest.
+	- The second level of this tower is a library. As the party explores the library, they encounter a series of floating books that seem to be trying to communicate with them. These spectral tomes contain fragments of knowledge about the tower's history and the curse that plagues it. The players must decipher the cryptic messages hidden within the whispers of the books to learn more about their quest.
+	- If the party is successful they will gain knowledge 
 
 3. **Elemental Librarians:** Elemental librarians roam the library, seeking to protect its secrets. The librarians manifest as elemental figures with no attire, and they don't take kindly to intruders. The party can choose to avoid them or engage in combat. Defeating the librarians may yield valuable clues or items.
 	- [[earth elemental]] or [[air elemental]]
