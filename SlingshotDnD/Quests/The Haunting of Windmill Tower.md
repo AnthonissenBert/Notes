@@ -10,6 +10,7 @@ In the land of [[Ardentia]], a tall tower has reemerged from the depths of histo
 # Level 0: The Tower's Entrance
 
 ![[Pasted image 20230920214933.jpg]]
+#### Walkthrough
 
 - The party approaches the towering, ivy-covered structure. It appears to have five distinct levels, each with a different appearance.
 - As they enter, the door slams shut behind them and a steel gate magically locks them in, leaving only one way forward: through the first door and up the tower.
@@ -35,7 +36,8 @@ What am I?"
 
 ![[Pasted image 20230920214803.jpg]]
 
-### **Walkthrough**
+#### Walkthrough
+
 1. **The Mushroom Puzzle**: 
 	- As the party enters, they see a mushrooms piled onto one another and holes dug in the ground. The party must arrange these in the correct order to continue to the next room. The party can try to eat a certain mushroom found in the catacomb like room to get a hint of the right answer in the form of flashing lights. 
 	- If they organize it wrong or fail the constitution checks the next part will activate.
@@ -51,7 +53,8 @@ What am I?"
 		- 20 [[frog]]s
 		- Note: one of them shall have a white mushroom growing on their back. This can be used to reveal the key to the puzzle
 
-**Rewards:**
+#### Rewards
+
 1. **Mushroom Knowledge:** 
 	- Successfully navigating the fungal chamber and solving its puzzles grants the party knowledge of Myconids, fungi, and their properties, which can be useful in future encounters or for crafting potions and remedies.
 
