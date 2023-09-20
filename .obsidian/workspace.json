@@ -11,11 +11,9 @@
             "id": "1c813a9221b9fd59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
-                "mode": "source",
-                "source": false
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg"
               }
             }
           },
@@ -156,11 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c813a9221b9fd59",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
-    "Pasted image 20230920225324.jpg",
-    "SlingshotDnD/Npc's/Monsters/air elemental.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "Pasted image 20230920225324.jpg",
+    "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
+    "SlingshotDnD/Npc's/Monsters/air elemental.md",
     "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Npc's/Friendlies/Zia Cheim.md",
     "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md",
@@ -201,8 +200,6 @@
     "SlingshotDnD/Locations/FactionHalls",
     "SlingshotDnD/_Assets/Tokens/token_2.png",
     "SlingshotDnD/_Assets/Tokens/token_3.png",
-    "SlingshotDnD/_Assets/Tokens/Gruuk.png",
-    "SlingshotDnD/_Assets/Tokens/wolf2.png",
-    "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png"
+    "SlingshotDnD/_Assets/Tokens/Gruuk.png"
   ]
 }

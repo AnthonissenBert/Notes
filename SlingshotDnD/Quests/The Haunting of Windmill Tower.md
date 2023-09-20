@@ -69,7 +69,7 @@ What am I?"
 
 # Level 2: The Library of the elements (lvl5)
 
-![[Pasted image 20230920225324.jpg]]
+![[Pasted image 20230920225348.jpg]]
 #### Walkthrough
 
 1. **The Whispering Tomes:** 
