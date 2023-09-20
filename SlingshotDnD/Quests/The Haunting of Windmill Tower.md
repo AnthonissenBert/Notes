@@ -78,10 +78,7 @@ What am I?"
 		- If the party is not able to decipher the riddle hidden within the books an elemental guardian based on the party will come out and attack them
 			- if the party is strength based: [[earth elemental]]
 			- if the party is dex based: [[air elemental]]
-	- If the party succeeds in defeating this foe the dm will set a timer of around 20 minutes
-
-3. **Elemental Librarians:** Elemental librarians roam the library, seeking to protect its secrets. The librarians manifest as elemental figures with no attire, and they don't take kindly to intruders. The party can choose to avoid them or engage in combat. Defeating the librarians may yield valuable clues or items.
-	- [[earth elemental]] or [[air elemental]]
+	- If the party succeeds in defeating this foe the dm will set a timer of around 30 minutes. if the party has not completed the riddle they will be sent to the start of
 
 4. **The Riddle of the Lost Tome:** 
 	- To proceed further into the tower, the party must locate a specific book hidden among the countless volumes. A riddle hints at its location:
