@@ -11,8 +11,12 @@ linked to the quest: [[The Haunting of Windmill Tower]]
 ---
 ## City structure
 
-## 
-## who is here
+[[Aeliana]] with an advisor
+## Noteworthy locations
+
+## Activities
+
+## Noteworthy Characters
 
 - [[Aeliana]]
 
