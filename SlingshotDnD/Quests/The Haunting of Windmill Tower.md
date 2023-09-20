@@ -83,10 +83,10 @@ What am I?"
 2. **The Riddle of the Lost Tome:** 
 	- To proceed further into the tower, the party must locate a specific book hidden among the countless volumes. A riddle hints at its location:
 	- `In realms of knowledge vast and wide, Seek the tome where secrets hide. A shadowed corner, dusty and dim, Where wisdom's light has grown quite dim. In crimson leather, with pages thin, Find the tale where our journey begins.`
-	- The book they seek is titled `Chronicles of Ardentia`, and finding it will reveal critical information about the tower's history and the curse they must overcome.
+	- The book they seek is titled `Chronicles of Ardentia`, and finding it will reveal critical information about the tower's history and the creatures ahead they must overcome.
 
 4. **The Cryptic Spell:** 
-	- The way forward is blocked by a magical barrier. In the library's margins, the party finds notes and diagrams left by a former resident who was attempting to decipher the tower's secrets. These clues lead the players to a hidden chamber where they need to cast a force damage spell to a certain crystal to dispel the barrier.
+	- The way forward is blocked by a magical barrier. In the books the party opens,they find notes and diagrams left by a former adventurer who was attempting to decipher the tower's secrets. These clues lead the players to a hidden chamber where they need to cast a force damage spell to a certain crystal to dispel the barrier.
 #### Rewards
 
 1. **The Tome of [[Ardentia]]:** 
