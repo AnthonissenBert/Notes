@@ -52,11 +52,12 @@ What am I?"
 
 **Rewards:**
 
-1. **Mushroom Knowledge:** Successfully navigating the fungal chamber and solving its puzzles grants the party knowledge of Myconids, fungi, and their properties, which can be useful in future encounters or for crafting potions and remedies.
+1. **Mushroom Knowledge:** 
+	Successfully navigating the fungal chamber and solving its puzzles grants the party knowledge of Myconids, fungi, and their properties, which can be useful in future encounters or for crafting potions and remedies.
 
-2. **Spore Manipulation:** Mastering the mushroom maze puzzle provides the party with a temporary ability to control mushroom spores, allowing them to create distractions, obscure vision, or influence Myconids in future encounters.
+3. **Spore Manipulation:** Mastering the mushroom maze puzzle provides the party with a temporary ability to control mushroom spores, allowing them to create distractions, obscure vision, or influence Myconids in future encounters.
 
-3. **Mysterious Water:** Collecting the unique water from the pool can prove invaluable later in their quest, offering them healing or purification benefits when needed.
+4. **Mysterious Water:** Collecting the unique water from the pool can prove invaluable later in their quest, offering them healing or purification benefits when needed.
 
 5. A [[magical artifact]] that benefits one of the party members
 

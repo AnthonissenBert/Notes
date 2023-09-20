@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6059043907f712d",
+        "id": "3b34221401dae198",
         "type": "tabs",
         "children": [
           {
-            "id": "f6cd9c7aab2e8570",
+            "id": "1c813a9221b9fd59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           },
@@ -156,8 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6cd9c7aab2e8570",
+  "active": "1c813a9221b9fd59",
   "lastOpenFiles": [
+    "SlingshotDnD/Players/cronos guard.md",
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "SlingshotDnD/Npc's/Friendlies/Zia Cheim.md",
+    "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md",
     "SlingshotDnD/Npc's/Friendlies/Shmirma.md",
     "SlingshotDnD/Npc's/Friendlies/Robin the bard.md",
     "SlingshotDnD/Npc's/Friendlies/Osmund Briarmane.md",
@@ -171,7 +175,6 @@
     "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
     "SlingshotDnD/Npc's/Enemies/Selkath.md",
     "SlingshotDnD/Npc's/Enemies/Clank.md",
-    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Locations/Whorehouses",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
@@ -185,9 +188,6 @@
     "SlingshotDnD/Locations/Seemsters/The Corner Craft.md",
     "SlingshotDnD/Npc's/Neutrals/Juleen.md",
     "SlingshotDnD/Npc's/Neutrals/Robertina.md",
-    "SlingshotDnD/Npc's/Neutrals/Rayna.md",
-    "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
-    "SlingshotDnD/Npc's/Neutrals/Halie.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
