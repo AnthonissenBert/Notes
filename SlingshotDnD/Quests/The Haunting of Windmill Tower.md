@@ -38,12 +38,15 @@ What am I?"
 	- If they organize it wrong or fail the constitution checks the next part will activate.
 	- If they order the mushrooms correctly a trap door will become visible, the players can attempt to open it to loot a magical artifact: [[magical artifact]]. After looting [[magical artifact]] the chains on the door in front of them will magically fall to the ground and they can continue to the next level of the tower
 
-2. **The Myconid Guardians:** If the party fails a constitution check, Myconids guards will become alive and attack the party, The Myconids are not inherently hostile but are under the influence of the tower's curse, causing them to attack intruders when the puzzle is entered wrongly.
-	- 4 [[Myconid adult]]s and 2 [[Myconid Sovereign]]s
+2. **The Myconid Guardians:** 
+	- If the party fails a constitution check, Myconids guards will become alive and attack the party, The Myconids are not inherently hostile but are under the influence of the tower's curse, causing them to attack intruders when the puzzle is entered wrongly.
+		- 4 [[Myconid adult]]s 
+		- 2 [[Myconid Sovereign]]s
 
-4. **Mysterious Water Source:** The chamber contains a small pool of water surrounded by bioluminescent mushrooms. The water has unique properties, and it can be collected for potential later use. It may heal wounds, remove curses, or provide some other beneficial effect. However, players must figure out how to safely extract the water without disturbing the pool's inhabitants.
-	- 2 [[frog]]s
-	- Note: one of them shall have a white mushroom growing on their back. This ca
+4. **Mysterious Water Source:** 
+	- The chamber contains a small pool of water surrounded by bioluminescent mushrooms. The water has unique properties, and it can be collected for potential later use. It may heal wounds, remove curses, or provide some other beneficial effect. However, players must figure out how to safely extract the water without disturbing the pool's inhabitants.
+		- 20 [[frog]]s
+		- Note: one of them shall have a white mushroom growing on their back. This can be used to reveal the key to the puzzle
 
 **Rewards:**
 
@@ -52,6 +55,8 @@ What am I?"
 2. **Spore Manipulation:** Mastering the mushroom maze puzzle provides the party with a temporary ability to control mushroom spores, allowing them to create distractions, obscure vision, or influence Myconids in future encounters.
 
 3. **Mysterious Water:** Collecting the unique water from the pool can prove invaluable later in their quest, offering them healing or purification benefits when needed.
+
+5. A [[magical artifact]] 
 
 # Level 2: The Library of the elements (lvl5)
 
