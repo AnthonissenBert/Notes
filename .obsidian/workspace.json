@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40fc1425eb8d2c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tavern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "8e5924dc618ea059",
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
+                "file": "tavern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
+                "file": "tavern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md"
+                "file": "tavern.md"
               }
             }
           },
@@ -223,10 +235,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad97a40de6762b85",
+  "active": "40fc1425eb8d2c0b",
   "lastOpenFiles": [
-    "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "tavern.md",
+    "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
     "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
     "SlingshotDnD/Locations/Ardentia.md",
@@ -252,7 +265,6 @@
     "SlingshotDnD/Factions/The Bards of Julliard.md",
     "SlingshotDnD/Npc's/Neutrals/Sirion.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
-    "SlingshotDnD/Npc's/Neutrals/Karamos.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
