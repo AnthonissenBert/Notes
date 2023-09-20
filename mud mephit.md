@@ -7,11 +7,11 @@
 ---
 ### ability scores
 
-STR: 10 (+0) 
-DEX: 10 (+0)
-CON: 10 (+0)
-INT: 10 (+0)
-WIS: 10 (+0)
+STR: 8 (+0) 
+DEX: 12 (+0)
+CON: 12 (+0)
+INT: 9 (+0)
+WIS: 11 (+0)
 CHA: 10 (+0)
 
 ---
@@ -25,24 +25,15 @@ CHA: 10 (+0)
 **Challenge** 1/4 (50 XP)
 
 ---
-### Equipment
-
-- ...
-
----
 ### Special Abilities
 
-- ...
+**_Death Burst_**. When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be restrained until the end of the creature's next turn.
 
----
-### Traits
-
-**...**
+**_False Appearance_**. While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud.
 
 ---
 ### Actions
 
-**...**
+**_Fists_**. _Melee Weapon Attack_: +3 to hit, reach 5 ft., one creature. _Hit_: 4 (1d6 + 1) bludgeoning damage.
 
----
-### Tactics and Roleplay
+**_Mud Breath (Recharge 6)_**. The mephit belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
