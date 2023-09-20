@@ -16,3 +16,14 @@ As you approach, you notice the tavern has a serene atmosphere. A musician is
 - [[Jesmyn Woodfoot]] 
 - [[Payten Fenn]]
 - [[Ganin Duskchin]]
+- [[Grey Duskchin]]
+
+---
+## menu
+
+**Breakfast:** Honey ham and crispy bacon, with a side of tomatoes.
+
+**Lunch:** Grilled wild rice and yams, with cantaloupe on the side.
+
+**Dinner:** Salted mystery meat and red onions, with sage on the side.
+
