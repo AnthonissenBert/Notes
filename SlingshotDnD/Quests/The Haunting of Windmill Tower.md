@@ -38,7 +38,7 @@ What am I?"
 	- If they organize it wrong or fail the constitution checks the next part will activate.
 	- If they order the mushrooms correctly a trap door will become visible, the players can attempt to open it to loot a magical artifact: [[magical artifact]]. After looting [[magical artifact]] the chains on the door in front of them will magically fall to the ground and they can continue to the next level of the tower
 
-2. **The Myconid Guardians:** If the party fails a constitution check,Myconids, humanoid mushroom creatures that guard the chamber. The Myconids are not inherently hostile but are under the influence of the tower's curse, causing them to attack intruders. The party can choose to combat them or find a way to communicate with them to avoid conflict.
+2. **The Myconid Guardians:** If the party fails a constitution check, Myconids guards will become alive and attack the party, The Myconids are not inherently hostile but are under the influence of the tower's curse, causing them to attack intruders when the puzzle is entered wrongly.
 	- 4 [[Myconid adult]]s and 2 [[Myconid Sovereign]]s
 
 4. **Mysterious Water Source:** The chamber contains a small pool of water surrounded by bioluminescent mushrooms. The water has unique properties, and it can be collected for potential later use. It may heal wounds, remove curses, or provide some other beneficial effect. However, players must figure out how to safely extract the water without disturbing the pool's inhabitants.
