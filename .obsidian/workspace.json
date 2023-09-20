@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "8e5924dc618ea059",
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sewery.md",
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sewery.md",
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sewery.md"
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md"
               }
             }
           },
@@ -235,10 +235,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4960d71e17072a9",
+  "active": "ad97a40de6762b85",
   "lastOpenFiles": [
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "Sewery.md",
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "Juleen.md",
+    "Robertina.md",
+    "Rayna.md",
     "Pleasure doin' business.md",
     "Halie.md",
     "Florence.md",
@@ -260,9 +263,6 @@
     "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
     "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
-    "SlingshotDnD/Locations/Ardentia.md",
-    "SlingshotDnD/Locations/Cities/Astoria.md",
-    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "Pasted image 20230920214933.jpg",
     "Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
