@@ -1,5 +1,5 @@
 Status: Scribe
 Race: Half elf
-In charge of: [[mill administry]]
+In charge of: [[Grain administry]]
 
 ---
