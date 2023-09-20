@@ -10,4 +10,5 @@ A big barn like structure
 ## who is here
 
 [[scribe]]
-[[varmer]]
+[[farmer]]
+[[farmer]]

@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "97fa5105a66a59f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scribe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "629ff5a4a10eb52e",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "8e5924dc618ea059",
@@ -188,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mill administry.md",
+                "file": "scribe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mill administry.md",
+                "file": "scribe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mill administry.md"
+                "file": "scribe.md"
               }
             }
           },
@@ -259,10 +271,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd7937f1713f43c6",
+  "active": "97fa5105a66a59f1",
   "lastOpenFiles": [
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "mill administry.md",
+    "scribe.md",
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "The Hot Ticket.md",
     "Olin.md",
     "Morad.md",
@@ -288,7 +301,6 @@
     "SlingshotDnD/Locations/Towns/Ravenswatch.md",
     "SlingshotDnD/Locations/Towns/Blackbow.md",
     "SlingshotDnD/Locations/Towns/Dashingvale.md",
-    "SlingshotDnD/Quests/The Chromatic Blade.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
