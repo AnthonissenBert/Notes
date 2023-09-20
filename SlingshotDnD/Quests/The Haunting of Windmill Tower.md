@@ -9,6 +9,8 @@ In the land of [[Ardentia]], a tall tower has reemerged from the depths of histo
 - The village elder, [[Aeliana]], offers a reward if the party can cleanse the tower and recover an artifact that can save the village from its plight.
 # Level 0: The Tower's Entrance
 
+![[Pasted image 20230920214933.jpg]]
+
 - The party approaches the towering, ivy-covered structure. It appears to have five distinct levels, each with a different appearance.
 - As they enter, the door slams shut behind them and a steel gate magically locks them in, leaving only one way forward: through the first door and up the tower.
 - At the entrance, the party encounters a ghostly guardian who warns them about the tower's dangers. They must answer a riddle or provide a blood sacrifice.
