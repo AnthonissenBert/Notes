@@ -29,18 +29,16 @@ What am I?"
 ```
 - If they find the answer pretty quickly they see the room before them and a spiraling staircase leading up. In this room they see living quarters. If they don't check for traps 5 random thing will turn in to a mimic and attack the party
 
-# Level 1: The Fungal Forest
+# Level 1: The Fungal Forest (lvl5)
 
-- The first level is shrouded in an eerie mist with eerie glowing mushrooms.
-
-- They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arrow to open the path further up.
+- The first level is shrouded in an eerie mist with eerie glowing mushrooms.They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arrow to open the path further up.
 
 1. **The Mushroom Puzzle**: 
 	- As the party enters, they see a couple of mushrooms piled onto one another. These have different colors than the others around. 
 	- If they organize it wrong or fail the constitution checks the next part will activate.
 	- If they order the mushrooms correctly a trap door will become visible, the players can attempt to open it to loot a magical artifact: 
 
-3. **The Myconid Guardians:** As the party enters, they encounter Myconids, humanoid mushroom creatures that guard the chamber. The Myconids are not inherently hostile but are under the influence of the tower's curse, causing them to attack intruders. The party can choose to combat them or find a way to communicate with them to avoid conflict.
+2. **The Myconid Guardians:** As the party enters, they encounter Myconids, humanoid mushroom creatures that guard the chamber. The Myconids are not inherently hostile but are under the influence of the tower's curse, causing them to attack intruders. The party can choose to combat them or find a way to communicate with them to avoid conflict.
 	- 4 [[Myconid adult]]s and 2 [[Myconid Sovereign]]s
 
 4. **Mysterious Water Source:** The chamber contains a small pool of water surrounded by bioluminescent mushrooms. The water has unique properties, and it can be collected for potential later use. It may heal wounds, remove curses, or provide some other beneficial effect. However, players must figure out how to safely extract the water without disturbing the pool's inhabitants.
@@ -53,7 +51,7 @@ What am I?"
 
 3. **Mysterious Water:** Collecting the unique water from the pool can prove invaluable later in their quest, offering them healing or purification benefits when needed.
 
-# Level 2: The Library of the elements
+# Level 2: The Library of the elements (lvl5)
 
 1. **The Whispering Tomes:** As the party explores the library, they encounter a series of floating books that seem to be trying to communicate with them. These spectral tomes contain fragments of knowledge about the tower's history and the curse that plagues it. The players must decipher the cryptic messages hidden within the whispers of the books to learn more about their quest.
 
@@ -74,7 +72,7 @@ What am I?"
 
 2. **Magical Tomes:** In their exploration, the party may discover other enchanted books that grant temporary magical benefits or knowledge applicable to their adventures.
 
-# Level 3: The Ethereal Gallery
+# Level 3: The Ethereal Gallery (lvl5)
 
 **Here the party will be able to short rest and level up**
 
@@ -94,7 +92,7 @@ As the party ascends to the third level of the tower, they find themselves in a 
 
 3. **Reflection Wisdom:** Engaging with the mirror challenge imparts a valuable lesson or wisdom to each character, providing them with a temporary bonus or insight they can use later in their journey.
 
-# Level 4: The Clockwork Laboratory
+# Level 4: The Clockwork Laboratory (rest)
 
 Upon ascending to the fourth level of the tower, the party finds themselves in a chamber filled with the intricate machinery of a clockwork laboratory. Cogs, gears, and steam-powered contraptions dominate the space. The room is dimly lit by flickering gas lamps, and the air is heavy with the scent of oil and metal.
 
@@ -115,7 +113,7 @@ Upon ascending to the fourth level of the tower, the party finds themselves in a
 
 3. **Control Over Machinery:** Disabling the control mechanism grants the party temporary control over some of the clockwork constructs in the laboratory. They can use these constructs as allies or distractions in future battles.
 
-# Level 5: The Shadowy Sanctum
+# Level 5: The Shadowy Sanctum (lvl6)
 
 The party ascends to the fifth and final level of the tower, entering a chamber shrouded in darkness. The air feels heavy with foreboding, and the only illumination comes from faint, pulsating shadows that dance along the walls. At the center of the room stands a menacing, shadowy figure, its eyes blazing with malevolence. This is the heart of the tower's curse.
 
