@@ -68,24 +68,12 @@
             }
           },
           {
-            "id": "279cd21e039d9566",
+            "id": "fd7937f1713f43c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Hot Ticket.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca31eff0c48134ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apprentice.md",
+                "file": "mill administry.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blacksmith.md",
+                "file": "Morad.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "8e5924dc618ea059",
@@ -200,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apprentice.md",
+                "file": "mill administry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apprentice.md",
+                "file": "mill administry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apprentice.md"
+                "file": "mill administry.md"
               }
             }
           },
@@ -271,12 +259,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca31eff0c48134ae",
+  "active": "fd7937f1713f43c6",
   "lastOpenFiles": [
-    "The Hot Ticket.md",
-    "apprentice.md",
-    "blacksmith.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "mill administry.md",
+    "The Hot Ticket.md",
+    "Olin.md",
+    "Morad.md",
     "The Faded Apple Bar.md",
     "Ganin Duskchin.md",
     "Grey Duskchin.md",
@@ -300,7 +289,6 @@
     "SlingshotDnD/Locations/Towns/Blackbow.md",
     "SlingshotDnD/Locations/Towns/Dashingvale.md",
     "SlingshotDnD/Quests/The Chromatic Blade.md",
-    "SlingshotDnD/Sessions/Session 4.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_1.png",

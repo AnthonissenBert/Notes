@@ -9,5 +9,5 @@ description
 
 ## who is here
 
-[[blacksmith]]
-[[apprentice]]
+[[Morad]]
+[[Olin]]
