@@ -31,7 +31,7 @@ What am I?"
 
 # Level 1: The Fungal Forest (lvl5)
 
-
+![[Pasted image 20230920214803.jpg]]
 
 1. The first level is shrouded in an eerie mist with eerie glowing mushrooms. They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arrow to open the path further up. The party can try to eat a certain mushroom
 
