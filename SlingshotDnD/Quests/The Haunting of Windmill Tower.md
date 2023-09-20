@@ -76,7 +76,7 @@ What am I?"
 	- The second level of this tower is an extensive library. As the party explores the library, they encounter a series of floating books that seem to be trying to communicate with them. These spectral tomes contain fragments of knowledge about the tower's history and the curse that plagues it. The players must decipher the cryptic messages hidden within the whispers of the books to learn more about their quest.
 		- If the party is successful in deciphering the riddle they will gain knowledge on the history of the tower.
 		- If the party is not able to decipher the riddle hidden within the books an elemental guardian based on the party will come out and attack them
-			- if the party is strength based: [[earth elemental]]
+			- if the party is strength based: [[earth elemental]] and [[mud mephit]]
 			- if the party is dex based: [[air elemental]]
 	- If the party succeeds in defeating this foe the DM will set a timer of around 30 minutes. if the party has not completed the riddle they will be sent to the start of the level with their stats as they enter
 

@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "448daea5e8f917da",
+            "id": "c00655eceb2a7942",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/earth elemental.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16ba6cb290b057c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/earth elemental.md",
+                "file": "mud mephit.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/earth elemental.md",
+                "file": "mud mephit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/earth elemental.md",
+                "file": "mud mephit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/earth elemental.md"
+                "file": "mud mephit.md"
               }
             }
           },
@@ -181,9 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "448daea5e8f917da",
+  "active": "c00655eceb2a7942",
   "lastOpenFiles": [
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "mud mephit.md",
     "SlingshotDnD/Npc's/Monsters/earth elemental.md",
     "SlingshotDnD/Npc's/Monsters/air elemental.md",
     "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
@@ -214,7 +203,6 @@
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "Templates/village.template.md",
-    "SlingshotDnD/Locations/Seemsters/The Corner Craft.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
