@@ -96,7 +96,7 @@ What am I?"
 	- In their exploration, the party may discover other enchanted books that grant temporary magical benefits or knowledge applicable to their adventures.
 
 1. **Magical artifact**
-	- choose on
+	- choose one that benefits the party
 
 # Level 3: The Ethereal Gallery (lvl5)
 
