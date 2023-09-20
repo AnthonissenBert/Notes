@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "a8235e5b38878f48",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "b1caf2df9be38c06",
             "type": "leaf",
             "state": {
@@ -63,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+              }
             }
           },
           {
@@ -197,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8235e5b38878f48",
+  "active": "f6cd9c7aab2e8570",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/The Bouldermanes.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
@@ -224,7 +220,6 @@
     "SlingshotDnD/Npc's/Neutrals/Karamos.md",
     "SlingshotDnD/Npc's/Neutrals/Lirael.md",
     "SlingshotDnD/Npc's/Neutrals/Ynos.md",
-    "SlingshotDnD/Npc's/Neutrals/Iliamos.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_1.png",

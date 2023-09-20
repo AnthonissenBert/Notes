@@ -35,7 +35,7 @@ What am I?"
 
 - They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arrow to open the path further up.
 
-1. **The Mushroom Puzzle**: As the party enters, they see a couple of mushrooms piled onto one another. These have different colors than the others around. If they organize it wrong or fail the constitution checks the next part will activate. If they order the mushrooms correctly a door in the 
+1. **The Mushroom Puzzle**: As the party enters, they see a couple of mushrooms piled onto one another. These have different colors than the others around. If they organize it wrong or fail the constitution checks the next part will activate. If they order the mushrooms correctly a trap door will become visible, the players can attempt to open it to loot a ma
 
 2. **The Myconid Guardians:** As the party enters, they encounter Myconids, humanoid mushroom creatures that guard the chamber. The Myconids are not inherently hostile but are under the influence of the tower's curse, causing them to attack intruders. The party can choose to combat them or find a way to communicate with them to avoid conflict.
 	- 4 [[Myconid adult]]s and 2 [[Myconid Sovereign]]s
