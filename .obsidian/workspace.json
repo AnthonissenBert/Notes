@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "793469bf99692f83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b1caf2df9be38c06",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "frog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "frog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "frog.md"
               }
             }
           },
@@ -192,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6cd9c7aab2e8570",
+  "active": "793469bf99692f83",
   "lastOpenFiles": [
-    "SlingshotDnD/Factions/The Bouldermanes.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "frog.md",
+    "SlingshotDnD/Factions/The Bouldermanes.md",
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
@@ -219,7 +233,6 @@
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Neutrals/Karamos.md",
     "SlingshotDnD/Npc's/Neutrals/Lirael.md",
-    "SlingshotDnD/Npc's/Neutrals/Ynos.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
