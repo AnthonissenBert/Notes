@@ -35,7 +35,7 @@ What am I?"
 
 ![[Pasted image 20230920214803.jpg]]
 
-1. The first level is shrouded in an eerie mist with eerie glowing mushrooms. They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arrow to open the path further up. The party can try to eat a certain mushroom
+1. The first level is shrouded in an eerie mist with eerie glowing mushrooms. As the party enters they find a hump of colorful mushrooms on the ground. The party can try to eat a certain mushroom from the 
 
 2. **The Mushroom Puzzle**: 
 	- As the party enters, they see a mushrooms piled onto one another and holes dug in the ground. The party must arrange these in the correct order to continue to the next room. The party can try to eat a certain mushroom found in the catacomb like room to get a hint of the right answer in the form of flashing lights. 
