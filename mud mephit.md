@@ -7,12 +7,12 @@
 ---
 ### ability scores
 
-STR: 8 (+0) 
-DEX: 12 (+0)
-CON: 12 (+0)
-INT: 9 (+0)
-WIS: 11 (+0)
-CHA: 10 (+0)
+STR: 8 (-1) 
+DEX: 12 (+1)
+CON: 12 (+1)
+INT: 9 (-1)
+WIS: 11 (+1)
+CHA: 7 (-2)
 
 ---
 ### proficiencies / languages / saving throws / skills
