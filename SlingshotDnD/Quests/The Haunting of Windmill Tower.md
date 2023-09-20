@@ -85,8 +85,7 @@ What am I?"
     The book they seek is titled "Chronicles of [[Ardentia]]," and finding it will reveal critical information about the tower's history and the curse they must overcome.
 
 4. **The Cryptic Spell:** The way forward is blocked by a magical barrier. In the library's margins, the party finds notes and diagrams left by a former resident who was attempting to decipher the tower's secrets. These clues lead the players to a hidden chamber where they can cast a spell that deals force damage to a certain crystal to dispel the barrier.
-
-**Rewards:**
+#### Rewards
 
 1. **The Tome of [[Ardentia]]:** Successfully solving the riddle and locating the "Chronicles of [[Ardentia]]" provides valuable insights into the tower's past, including information about the curse and its origins. This knowledge will prove essential in confronting the tower's malevolent force.
 

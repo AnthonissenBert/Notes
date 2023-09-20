@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3b34221401dae198",
+        "id": "9c55fb1d7b29fe80",
         "type": "tabs",
         "children": [
           {
-            "id": "1c813a9221b9fd59",
+            "id": "0a781009117f3201",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           },
@@ -154,11 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "0a781009117f3201",
   "lastOpenFiles": [
+    "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "Pasted image 20230920225324.jpg",
-    "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
     "SlingshotDnD/Npc's/Monsters/air elemental.md",
     "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Npc's/Friendlies/Zia Cheim.md",
