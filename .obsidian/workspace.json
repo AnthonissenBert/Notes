@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/earth elemental.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/earth elemental.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/earth elemental.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           },
@@ -169,11 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16ba6cb290b057c0",
+  "active": "0a781009117f3201",
   "lastOpenFiles": [
+    "SlingshotDnD/Npc's/Monsters/earth elemental.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Npc's/Monsters/air elemental.md",
-    "SlingshotDnD/Npc's/Monsters/earth elemental.md",
     "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
     "Pasted image 20230920225324.jpg",
     "SlingshotDnD/Players/cronos guard.md",
