@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a731821eec5abe11",
+        "id": "b6059043907f712d",
         "type": "tabs",
         "children": [
           {
-            "id": "3c871f803ab312e3",
+            "id": "70e9c088f0e64018",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+              }
             }
           },
           {
@@ -148,12 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c871f803ab312e3",
+  "active": "70e9c088f0e64018",
   "lastOpenFiles": [
+    "SlingshotDnD/Sessions/Session 4.md",
+    "SlingshotDnD/Sessions/Session 3.md",
+    "SlingshotDnD/Locations/Cities/Altenmere.md",
     "OwnOneShots/murder_mystery/places/Varinthia.md",
     "OwnOneShots/globals/Aldercrest Kingdom.md",
     "SlingshotDnD/Locations/Ardentia.md",
-    "SlingshotDnD/Locations/Cities/Altenmere.md",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Quests/Bringing down the alpha.md",
@@ -177,8 +187,6 @@
     "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/_Assets/GM links.md",
     "SlingshotDnD/Locations/Forests/Emberwood forest.md",
-    "SlingshotDnD/Locations/Forests/Silverbark forest.md",
-    "SlingshotDnD/Locations/Forests/Forest of Nibel.md",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/_Assets/Tokens/token_4.png",
