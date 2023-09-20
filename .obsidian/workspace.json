@@ -20,43 +20,7 @@
             }
           },
           {
-            "id": "793469bf99692f83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1caf2df9be38c06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25709877770a8950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad97a40de6762b85",
+            "id": "557af4ff5603bf09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "8e5924dc618ea059",
@@ -223,10 +187,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad97a40de6762b85",
+  "active": "557af4ff5603bf09",
   "lastOpenFiles": [
-    "The Corner Craft.md",
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "frog.md",
+    "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
+    "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
+    "Templates/village.template.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "The Corner Craft.md",
     "Juleen.md",
     "Robertina.md",
     "Rayna.md",
@@ -246,11 +215,6 @@
     "Grey Duskchin.md",
     "Jesmyn Woodfoot.md",
     "Payten Fenn.md",
-    "Tiarshus Torthtan.md",
-    "Odo Ostgood.md",
-    "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
-    "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
-    "SlingshotDnD/Locations/Cities/Altenmere.md",
     "Pasted image 20230920214933.jpg",
     "Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",

@@ -9,7 +9,7 @@ Location: Northern side of [[Ardentia]]
 linked to the quest: [[The Haunting of Windmill Tower]]
 
 ---
-## City structure
+## Village structure
 
 [[Aeliana]] with her advisor [[Ronaash]]
 ## Noteworthy locations
@@ -24,7 +24,7 @@ linked to the quest: [[The Haunting of Windmill Tower]]
 
 Tavern dice
 tending fields
-[[the haun]]
+[[The Haunting of Windmill Tower]]
 
 ## Noteworthy Characters
 
