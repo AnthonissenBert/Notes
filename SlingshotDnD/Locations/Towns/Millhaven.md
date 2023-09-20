@@ -17,7 +17,8 @@ linked to the quest: [[The Haunting of Windmill Tower]]
 [[The Faded Apple Bar]]
 [[The Hot Ticket]]
 [[Grain administry]]
-[[Whorehouse]]
+[[Pleasure doin' business]]
+[[Sewery]]
 
 ## Activities
 
