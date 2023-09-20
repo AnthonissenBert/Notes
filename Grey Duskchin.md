@@ -1,15 +1,7 @@
 Status: 
-Race:
-In charge of:
+Race: Dwarf
+In charge of: hunting
 
 ---
 
-description
-
----
-
-## family
-
-married to:
-x amount of children:
-- 
+hunter of [[Millhaven]] 

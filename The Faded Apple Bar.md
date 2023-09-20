@@ -27,3 +27,22 @@ As you approach, you notice the tavern has a serene atmosphere. A musician is
 
 **Dinner:** Salted mystery meat and red onions, with sage on the side.
 
+|Sustenance|Rates|
+|---|---|
+|Breakfast|10 cp|
+|Lunch|20 cp|
+|Dinner|30 cp|
+|Packed Lunch|20 cp|
+|Ale|10 cp|
+|Beer|10 cp|
+|Spirits (Shot)|10 cp|
+|Wine (Glass)|20 cp|
+
+## lodging
+
+|Lodging|Rates|
+|---|---|
+|Common Room|10 sp|
+|Single Room|10 sp|
+|Double Room|20 sp|
+|Large Room|30 sp|
