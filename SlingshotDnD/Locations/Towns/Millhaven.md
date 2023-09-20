@@ -14,7 +14,7 @@ linked to the quest: [[The Haunting of Windmill Tower]]
 [[Aeliana]] with her advisor [[Ronaash]]
 ## Noteworthy locations
 
-[[tavern]]
+[[The Faded Apple Bar]]
 [[smith]]
 [[mill administry]]
 [[]]

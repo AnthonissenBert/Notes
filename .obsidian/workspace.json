@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tavern.md",
+                "file": "The Faded Apple Bar.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tavern.md",
+                "file": "The Faded Apple Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tavern.md",
+                "file": "The Faded Apple Bar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tavern.md"
+                "file": "The Faded Apple Bar.md"
               }
             }
           },
@@ -238,7 +238,7 @@
   "active": "40fc1425eb8d2c0b",
   "lastOpenFiles": [
     "SlingshotDnD/Locations/Towns/Millhaven.md",
-    "tavern.md",
+    "The Faded Apple Bar.md",
     "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
     "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
