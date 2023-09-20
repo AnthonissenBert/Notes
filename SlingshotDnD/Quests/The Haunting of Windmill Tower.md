@@ -31,9 +31,9 @@ What am I?"
 
 # Level 1: The Fungal Forest (lvl5)
 
-- The first level is shrouded in an eerie mist with eerie glowing mushrooms.They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arrow to open the path further up.
+1. The first level is shrouded in an eerie mist with eerie glowing mushrooms. They also discover a puzzle involving mushroom spores that must be rearranged into a pattern of an arrow to open the path further up. The party can try to eat a certain mushroom
 
-1. **The Mushroom Puzzle**: 
+2. **The Mushroom Puzzle**: 
 	- As the party enters, they see a couple of mushrooms piled onto one another. These have different colors than the others around. 
 	- If they organize it wrong or fail the constitution checks the next part will activate.
 	- If they order the mushrooms correctly a trap door will become visible, the players can attempt to open it to loot a magical artifact: 
