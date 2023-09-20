@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md"
               }
             }
           },
@@ -158,8 +158,21 @@
   },
   "active": "f6cd9c7aab2e8570",
   "lastOpenFiles": [
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "SlingshotDnD/Npc's/Friendlies/Shmirma.md",
+    "SlingshotDnD/Npc's/Friendlies/Robin the bard.md",
+    "SlingshotDnD/Npc's/Friendlies/Osmund Briarmane.md",
+    "SlingshotDnD/Npc's/Friendlies/Mathias.md",
+    "SlingshotDnD/Npc's/Neutrals/Jim Rosebend.md",
+    "SlingshotDnD/Npc's/Neutrals/Gyrthun Bouldermane.md",
+    "SlingshotDnD/Npc's/Friendlies/Githan Shortpick.md",
+    "SlingshotDnD/Npc's/Friendlies/Father Petroika.md",
+    "SlingshotDnD/Npc's/Friendlies/Ezum Non.md",
+    "SlingshotDnD/Npc's/Friendlies/Chetov Lervas.md",
+    "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
+    "SlingshotDnD/Npc's/Enemies/Selkath.md",
+    "SlingshotDnD/Npc's/Enemies/Clank.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Locations/Whorehouses",
     "SlingshotDnD/Locations/Cities/Altenmere.md",
     "SlingshotDnD/Locations/Seemsters",
@@ -175,18 +188,6 @@
     "SlingshotDnD/Npc's/Neutrals/Rayna.md",
     "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
     "SlingshotDnD/Npc's/Neutrals/Halie.md",
-    "SlingshotDnD/Npc's/Neutrals/Florence.md",
-    "SlingshotDnD/Npc's/Neutrals/Allyson.md",
-    "SlingshotDnD/Locations/Administries/Grain administry.md",
-    "SlingshotDnD/Npc's/Neutrals/Nalra.md",
-    "SlingshotDnD/Npc's/Neutrals/Malnom.md",
-    "SlingshotDnD/Npc's/Neutrals/Irodove.md",
-    "SlingshotDnD/Locations/Blacksmiths/The Hot Ticket.md",
-    "SlingshotDnD/Npc's/Neutrals/Olin.md",
-    "SlingshotDnD/Npc's/Neutrals/Morad.md",
-    "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
-    "SlingshotDnD/Npc's/Neutrals/Ganin Duskchin.md",
-    "SlingshotDnD/Npc's/Neutrals/Grey Duskchin.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
