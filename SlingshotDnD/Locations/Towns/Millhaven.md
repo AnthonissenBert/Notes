@@ -11,8 +11,13 @@ linked to the quest: [[The Haunting of Windmill Tower]]
 ---
 ## City structure
 
-[[Aeliana]] with an advisor
+[[Aeliana]] with her advisor [[Ronaash]]
 ## Noteworthy locations
+
+[[tavern]]
+[[smith]]
+[[mill administry]]
+[[]]
 
 ## Activities
 
