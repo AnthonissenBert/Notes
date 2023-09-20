@@ -45,7 +45,7 @@ What am I?"
 
 2. **The Myconid Guardians:** 
 	- If the party fails a constitution check, Myconids guards will become alive and attack the party, The Myconids are not inherently hostile but are under the influence of the tower's curse, causing them to attack intruders when the puzzle is entered wrongly.
-		- 4 [[Myconid adult]]s 
+		- 3 [[Myconid adult]]s 
 		- 2 [[Myconid Sovereign]]s
 
 3. **Mysterious Water Source:** 
