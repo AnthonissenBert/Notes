@@ -68,55 +68,19 @@
             }
           },
           {
-            "id": "55e40b5ffc2e94ee",
+            "id": "c4960d71e17072a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pleasure doin' business.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ba54d20fb39a7c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Halie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a2f9acb230cd9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Florence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30f766788f376299",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Allyson.md",
+                "file": "Sewery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "8e5924dc618ea059",
@@ -200,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Halie.md",
+                "file": "Sewery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Halie.md",
+                "file": "Sewery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halie.md"
+                "file": "Sewery.md"
               }
             }
           },
@@ -271,13 +235,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ba54d20fb39a7c4",
+  "active": "c4960d71e17072a9",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "Sewery.md",
     "Pleasure doin' business.md",
     "Halie.md",
     "Florence.md",
     "Allyson.md",
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "Grain administry.md",
     "Nalra.md",
     "Malnom.md",
@@ -300,7 +265,6 @@
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "Pasted image 20230920214933.jpg",
     "Pasted image 20230920214803.jpg",
-    "frog.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_1.png",
