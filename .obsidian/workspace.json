@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60af8da69cc1b520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Npc's/Monsters/air elemental.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Npc's/Monsters/air elemental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Npc's/Monsters/air elemental.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "SlingshotDnD/Npc's/Monsters/air elemental.md"
               }
             }
           },
@@ -156,10 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c813a9221b9fd59",
+  "active": "60af8da69cc1b520",
   "lastOpenFiles": [
-    "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "SlingshotDnD/Npc's/Monsters/air elemental.md",
+    "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Npc's/Friendlies/Zia Cheim.md",
     "SlingshotDnD/Npc's/Friendlies/Vazir Shurnin.md",
     "SlingshotDnD/Npc's/Friendlies/Shmirma.md",
@@ -187,7 +201,6 @@
     "Templates/village.template.md",
     "SlingshotDnD/Locations/Seemsters/The Corner Craft.md",
     "SlingshotDnD/Npc's/Neutrals/Juleen.md",
-    "SlingshotDnD/Npc's/Neutrals/Robertina.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
