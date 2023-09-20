@@ -1,1 +1,1 @@
-A kingdom in the [[The Southern Realms]] that is rumored to have fallen to [[The Plague]].
+A grand city in the [[The Southern Realms]] that is rumored to have fallen to [[The Plague]].
