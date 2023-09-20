@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "smith.md",
+                "file": "The Hot Ticket.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "smith.md",
+                "file": "The Hot Ticket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "smith.md",
+                "file": "The Hot Ticket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "smith.md"
+                "file": "The Hot Ticket.md"
               }
             }
           },
@@ -250,7 +250,7 @@
   "active": "279cd21e039d9566",
   "lastOpenFiles": [
     "SlingshotDnD/Locations/Towns/Millhaven.md",
-    "smith.md",
+    "The Hot Ticket.md",
     "The Faded Apple Bar.md",
     "Ganin Duskchin.md",
     "Grey Duskchin.md",

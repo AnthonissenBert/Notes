@@ -15,7 +15,7 @@ linked to the quest: [[The Haunting of Windmill Tower]]
 ## Noteworthy locations
 
 [[The Faded Apple Bar]]
-[[smith]]
+[[The Hot Ticket]]
 [[mill administry]]
 [[]]
 
