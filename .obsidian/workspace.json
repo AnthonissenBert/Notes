@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md"
               }
             }
           },
@@ -204,25 +205,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6cd9c7aab2e8570",
+  "active": "ad97a40de6762b85",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Cities/Altenmere.md",
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "SlingshotDnD/Locations/Towns/Astoria.md",
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "Pasted image 20230920214933.jpg",
     "Pasted image 20230920214803.jpg",
     "frog.md",
-    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Factions/The Bouldermanes.md",
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
     "SlingshotDnD/Locations/Towns/Ravenswatch.md",
-    "SlingshotDnD/Locations/Towns/Astoria.md",
     "SlingshotDnD/Locations/Towns/Blackbow.md",
     "SlingshotDnD/Locations/Towns/Dashingvale.md",
     "SlingshotDnD/Quests/The Chromatic Blade.md",
     "SlingshotDnD/Sessions/Session 4.md",
     "SlingshotDnD/Sessions/Session 3.md",
-    "SlingshotDnD/Locations/Cities/Altenmere.md",
     "OwnOneShots/murder_mystery/places/Varinthia.md",
     "OwnOneShots/globals/Aldercrest Kingdom.md",
     "SlingshotDnD/Locations/Ardentia.md",
@@ -250,7 +251,6 @@
     "SlingshotDnD/_Assets/Tokens/token_3.png",
     "SlingshotDnD/_Assets/Tokens/Gruuk.png",
     "SlingshotDnD/_Assets/Tokens/wolf2.png",
-    "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png",
-    "SlingshotDnD/_Assets/Tokens/MerchantHallLeader.png"
+    "SlingshotDnD/_Assets/Tokens/SpawnedCritter.png"
   ]
 }
