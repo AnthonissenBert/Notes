@@ -1,5 +1,5 @@
 Status: Barkeep
-Race: Halfling
+Race: Male Halfling
 In charge of: [[The Faded Apple Bar]]
 
 ---

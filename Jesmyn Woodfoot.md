@@ -1,6 +1,6 @@
 Status: 
 Race: Female Human
-In charge of:
+In charge of: fields
 
 ---
 

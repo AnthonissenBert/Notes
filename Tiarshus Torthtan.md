@@ -1,5 +1,5 @@
 Status: 
-Race: Elf
+Race: middle aged male elf
 In charge of: fields
 
 ---
