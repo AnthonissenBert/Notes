@@ -5,10 +5,6 @@
 **Speed** 30 ft., climb 30 ft.
 
 ---
-
-![[Pasted image 20230922000155.jpg]]
-
----
 ### ability scores
 
 STR: 14 (+2) 
@@ -50,4 +46,6 @@ CHA: 8 (-1)
 **_Web (Recharge 5-6)_**. _Ranged Weapon Attack_: +4 to hit, range 30/60 ft., one Large or smaller creature. _Hit_: The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 
 ---
-### Tactics and Roleplay
+### image
+
+![[Pasted image 20230922000155.jpg]]

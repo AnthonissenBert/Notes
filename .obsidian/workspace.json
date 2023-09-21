@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a4a50776134a523b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/Night hag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/Night hag.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/Night hag.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/Night hag.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           },
@@ -169,10 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4a50776134a523b",
+  "active": "d0759a20d2fa1686",
   "lastOpenFiles": [
-    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Npc's/Monsters/ettercap.md",
+    "SlingshotDnD/Npc's/Monsters/Night hag.md",
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "Night_Hag-5e.webp",
     "Pasted image 20230922000155.jpg",
     "mimic.md",
     "specter.md",
@@ -203,7 +192,6 @@
     "SlingshotDnD/Npc's/Enemies/Clank.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Locations/Whorehouses",
-    "SlingshotDnD/Locations/Cities/Altenmere.md",
     "SlingshotDnD/Locations/Seemsters",
     "SlingshotDnD/Locations/Blacksmiths",
     "SlingshotDnD/Locations/Administries",
@@ -214,7 +202,6 @@
     "SlingshotDnD/_Assets/Tokens/token_1.png",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Locations/Squares",
-    "SlingshotDnD/_Assets/Tokens/token_4.png",
     "SlingshotDnD/Locations/Outposts",
     "SlingshotDnD/Locations/FactionHalls"
   ]

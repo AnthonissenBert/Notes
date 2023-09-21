@@ -5,10 +5,6 @@
 **Speed** 30 ft.
 
 ---
-
-
-
----
 ### ability scores
 
 STR: 18 (+4) 
@@ -50,4 +46,6 @@ At will: _[detect magic](https://www.aidedd.org/dnd/sorts.php?vo=detect-magic),
 **_Nightmare Haunting (1/Day)_**. While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A _[protection from evil and good](https://www.aidedd.org/dnd/sorts.php?vo=protection-from-evil-and-good)_ spell cast on the target prevents this contact, as does a _magic circle_. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the _[greater restoration](https://www.aidedd.org/dnd/sorts.php?vo=greater-restoration)_ spell or similar magic.
 
 ---
-### Tactics and Roleplay
+### image
+
+![[Night_Hag-5e.webp]]
