@@ -40,3 +40,9 @@ Challenge 2 (450 XP)
 **Pseudopod.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait
 
 **Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ (1d8 + 3) piercing damage plus (1d8)acid damage.
+
+---
+
+### image
+
+![[Pasted image 20230922000603.jpg]]
