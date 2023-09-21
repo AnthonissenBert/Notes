@@ -128,7 +128,9 @@ As the party ascends to the third level of the tower, they find themselves in a 
 ![[Pasted image 20230922001023.jpg]]
 ![[Pasted image 20230922001100.jpg]]
 
-Upon ascending to the fourth level of the tower, the party finds themselves in a chamber filled with the intricate machinery of a laboratory. Cogs, gears, and steam-powered contraptions dominate the space. The room is dimly lit by flickering gas lamps, and the air is heavy with the scent of oil and metal.
+#### Walktrough
+
+Upon ascending to the fourth level of the tower, the party finds themselves in a chamber filled with the intricate machinery of a laboratory. Cogs, gears, and steam-powered contraptions dominate the space. The room is dimly lit by flickering gas lamps, and the air is heavy with the scent of oil and metal. The space is cluttered all over. like a pile of crates on the left, a telescope tucked away under a blanket.
 
 **Encounters and Puzzles:**
 
@@ -138,8 +140,7 @@ Upon ascending to the fourth level of the tower, the party finds themselves in a
 2. **The Harmonic Puzzle:** In a corner of the laboratory, the party encounters a massive, intricate contraption of gears and chimes. To proceed further into the tower, they must solve a harmonic puzzle. The party must adjust the gears to create a specific musical sequence by aligning the chimes correctly. Clues for the puzzle can be found in the form of sheet music scattered throughout the laboratory.
 
 3. **The Control Mechanism:** At the heart of the laboratory, the party discovers a massive control panel that appears to be responsible for the malfunction of the constructs and the maze's operation. They must decipher a series of levers, buttons, and dials to disable the machinery. This requires careful observation and trial-and-error.
-
-**Rewards:**
+#### Rewards
 
 1. **Clockwork Knowledge:** Successfully navigating the clockwork laboratory grants the party valuable insights into clockwork machinery and constructs, which may prove useful in future encounters or for crafting items.
 
