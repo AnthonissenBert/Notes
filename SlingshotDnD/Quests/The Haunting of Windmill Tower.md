@@ -99,7 +99,7 @@ What am I?"
 1. **Magical artifact**
 	- choose one that benefits the party
 
-# Level 3: The Ethereal Gallery (lvl5)
+# Level 3: The Ethereal Gallery (rest)
 
 ![[Pasted image 20230921234513.png]]
 ![[Pasted image 20230921233952.jpg]]
@@ -123,7 +123,10 @@ As the party ascends to the third level of the tower, they find themselves in a 
 2. magical artifact that will help the party
 
 3. a level. **Here the party will be able to rest up and level up**
-# Level 4: The Clockwork Laboratory (rest)
+# Level 4: The Clockwork Laboratory (lvl6)
+
+![[Pasted image 20230922001023.jpg]]
+![[Pasted image 20230922001100.jpg]]
 
 Upon ascending to the fourth level of the tower, the party finds themselves in a chamber filled with the intricate machinery of a clockwork laboratory. Cogs, gears, and steam-powered contraptions dominate the space. The room is dimly lit by flickering gas lamps, and the air is heavy with the scent of oil and metal.
 
