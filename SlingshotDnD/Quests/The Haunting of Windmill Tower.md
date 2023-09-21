@@ -160,7 +160,8 @@ The party ascends to the fifth and final level of the tower, entering a chamber 
 
 3. **The Curse's Origin:** During the confrontation with the guardian, players may have opportunities to learn about the origin of the curse, its connection to the tower's past, and the sacrifices made by its creators. This information can provide a deeper understanding of the tower's history and the consequences of wielding dark magic.
 
-**Rewards:**
+3. The thing to do here is to set the magical crystal out on the corpse and meditate around it. Protect it well, because the [[Night hag]] might have set 
+#### Rewards
 
 1. **The Crystal of Purification:** Upon defeating the guardian and dispelling the malevolent presence, the party obtains the [[Crystal of Purification]]. This artifact has the power to cleanse the tower of its curse and save the village of [[Millhaven]].
 
