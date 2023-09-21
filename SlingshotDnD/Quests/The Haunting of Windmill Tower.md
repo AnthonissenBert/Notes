@@ -154,8 +154,9 @@ Upon ascending to the fourth level of the tower, the party finds themselves in a
 
 The party ascends to the fifth and final level of the tower, entering a chamber shrouded in darkness. The air feels heavy with foreboding, and the only illumination comes from faint, pulsating shadows that dance along the walls. At the center of the room stands a menacing, shadowy figure, its eyes blazing with malevolence. This is the heart of the tower's curse.
 
-1. **The Shadow Guardian (hag):** The figure reveals itself as the origin of the curse and the reason why the tower is here. It's feeding on the adventurers send by the townspeople. Going on 
+1. **The Shadow Guardian (hag):** The figure reveals itself as the origin of the curse and the reason why the tower is here. It's feeding on the adventurers send by the townspeople. Going on and on
 	- [[Night hag]] and [[ettercap]]s
+	- once the encounter is done the hag will utter final words: "You will never solve the curse. It shall spread even without me. You are doomed"
 
 3. **The Curse's Origin:** During the confrontation with the guardian, players may have opportunities to learn about the origin of the curse, its connection to the tower's past, and the sacrifices made by its creators. This information can provide a deeper understanding of the tower's history and the consequences of wielding dark magic.
 
