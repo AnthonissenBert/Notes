@@ -42,7 +42,6 @@ Challenge 2 (450 XP)
 **Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ (1d8 + 3) piercing damage plus (1d8)acid damage.
 
 ---
-
 ### image
 
 ![[Pasted image 20230922000603.jpg]]

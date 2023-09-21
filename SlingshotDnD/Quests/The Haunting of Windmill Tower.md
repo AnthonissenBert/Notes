@@ -94,6 +94,7 @@ What am I?"
 
 3. **Magical Tomes:** 
 	- In their exploration, the party may discover other enchanted books that grant temporary magical benefits or knowledge applicable to their adventures.
+	- a book on hags and al
 
 1. **Magical artifact**
 	- choose one that benefits the party
@@ -102,7 +103,7 @@ What am I?"
 
 ![[Pasted image 20230921234513.png]]
 ![[Pasted image 20230921233952.jpg]]
-
+#### Walkthrough
 
 As the party ascends to the third level of the tower, they find themselves in a grand hall adorned with magnificent paintings, each depicting scenes of ancient battles, mythical creatures, and lost civilizations. The room is dimly lit by ethereal torches that cast an eerie, shifting light upon the artwork. However, something about these paintings seems unsettling.
 
@@ -115,9 +116,7 @@ As the party ascends to the third level of the tower, they find themselves in a 
 2. **The Hidden Secrets:** 
 	- Scattered throughout the gallery are hidden clues in the form of scrolls, letters, and fragments of a journal written by a former inhabitant of the tower. These documents reveal insights into the tower's curse, the purpose of the gallery, and the artist responsible for the enchanted paintings. Players can piece together this information to understand the gallery's mysteries.
 		- a dairy entry that points to a creature invading
-		- 
-
-**Rewards:**
+#### Rewards
 
 1. **Artistic Insights:** Successfully navigating the gallery and solving its puzzles grants the party a deeper understanding of the tower's history, the curse's origins, and the artist who created the animated paintings. This knowledge will be invaluable as they confront the tower's malevolent presence.
 

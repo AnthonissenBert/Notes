@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8334ed9cf9c2b86d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "specter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "specter.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "specter.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "specter.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           },
@@ -169,12 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8334ed9cf9c2b86d",
+  "active": "d0759a20d2fa1686",
   "lastOpenFiles": [
     "mimic.md",
-    "Pasted image 20230922000603.jpg",
-    "specter.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "specter.md",
+    "Pasted image 20230922000627.jpg",
+    "Pasted image 20230922000603.jpg",
     "SlingshotDnD/Npc's/Monsters/ettercap.md",
     "SlingshotDnD/Npc's/Monsters/Night hag.md",
     "Night_Hag-5e.webp",
@@ -209,7 +197,6 @@
     "SlingshotDnD/Locations/Blacksmiths",
     "SlingshotDnD/Locations/Administries",
     "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
-    "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/Locations/Guildhalls",

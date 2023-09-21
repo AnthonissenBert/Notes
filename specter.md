@@ -37,4 +37,6 @@ CHA: 11 (+0)
 **_Life Drain_**. _Melee Spell Attack_: +4 to hit, reach 5 ft., one creature. _Hit_: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 ---
+### image
 
+![[Pasted image 20230922000627.jpg]]
