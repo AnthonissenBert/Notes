@@ -7,12 +7,12 @@ Speed 15 ft.
 ---
 ### ability scores
 
-STR: 10 (+0) 
-DEX: 10 (+0)
-CON: 10 (+0)
-INT: 10 (+0)
-WIS: 10 (+0)
-CHA: 10 (+0)
+STR: 17 (+0) 
+DEX: 12 (+0)
+CON: 15 (+0)
+INT: 5 (-5)
+WIS: 13 (+1)
+CHA: 8 (-1)
 
 ---
 ### proficiencies / languages / saving throws / skills
@@ -37,8 +37,6 @@ Challenge 2 (450 XP)
 ---
 ### Actions
 
-- Pseudopod. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait
-- Bite. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ (1d8 + 3) piercing damage plus (1d8)acid damage.
+**Pseudopod.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait
 
----
-### Tactics and Roleplay
+**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ (1d8 + 3) piercing damage plus (1d8)acid damage.
