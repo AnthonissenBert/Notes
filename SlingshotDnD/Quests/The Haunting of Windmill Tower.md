@@ -138,8 +138,6 @@ Upon ascending to the fourth level of the tower, the party finds themselves in a
 	- [[helmed horror]] and [[animated armor]]
 
 2. **The Harmonic Puzzle:** In a corner of the laboratory, the party encounters a massive, intricate contraption of gears and chimes. To proceed further into the tower, they must solve a harmonic puzzle. The party must adjust the gears to create a specific musical sequence by aligning the chimes correctly. Clues for the puzzle can be found in the form of sheet music scattered throughout the laboratory.
-
-3. **The Control Mechanism:** At the heart of the laboratory, the party discovers a massive control panel that appears to be responsible for the malfunction of the constructs and the maze's operation. They must decipher a series of levers, buttons, and dials to disable the machinery. This requires careful observation and trial-and-error.
 #### Rewards
 
 1. **Clockwork Knowledge:** Successfully navigating the clockwork laboratory grants the party valuable insights into clockwork machinery and constructs, which may prove useful in future encounters or for crafting items.
@@ -148,6 +146,7 @@ Upon ascending to the fourth level of the tower, the party finds themselves in a
 
 3. **Control Over Machinery:** Disabling the control mechanism grants the party temporary control over some of the clockwork constructs in the laboratory. They can use these constructs as allies or distractions in future battles.
 
+4. a magical artifact that benefits the party 
 # Level 5: The Shadowy Sanctum (lvl6)
 
 The party ascends to the fifth and final level of the tower, entering a chamber shrouded in darkness. The air feels heavy with foreboding, and the only illumination comes from faint, pulsating shadows that dance along the walls. At the center of the room stands a menacing, shadowy figure, its eyes blazing with malevolence. This is the heart of the tower's curse.
