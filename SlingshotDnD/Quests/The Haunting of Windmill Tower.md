@@ -100,7 +100,7 @@ What am I?"
 
 # Level 3: The Ethereal Gallery (lvl5)
 
-
+![[Pasted image 20230921234513.png]]
 ![[Pasted image 20230921233952.jpg]]
 
 
