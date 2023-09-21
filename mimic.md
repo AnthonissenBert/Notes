@@ -7,10 +7,10 @@ Speed 15 ft.
 ---
 ### ability scores
 
-STR: 17 (+0) 
-DEX: 12 (+0)
-CON: 15 (+0)
-INT: 5 (-5)
+STR: 17 (+3) 
+DEX: 12 (+1)
+CON: 15 (+2)
+INT: 5 (-3)
 WIS: 13 (+1)
 CHA: 8 (-1)
 

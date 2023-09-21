@@ -109,7 +109,8 @@ As the party ascends to the third level of the tower, they find themselves in a 
 1. **Animated Paintings:** 
 	- Upon entering the gallery, the party notices that some of the paintings looking at them in a strange way as they approach. These animated paintings depict fearsome creatures and warriors, It's trying to give a false sense of security. To proceed through the gallery, the party must find a way to pacify or bypass these aggressive images.
 		- [[specter]]
-	- Once the [[specter]] is close to dying which it will soon be, it will flee to a chest and turn into a [[mimic]]
+	- Once the [[specter]] is close to dying which it will soon be, it will flee into a painting and turn the painting into a [[mimic]]
+	- once the mimic is destroyed a magical lock on the chest will be life
 
 4. **The Hidden Secrets:** 
 	- Scattered throughout the gallery are hidden clues in the form of scrolls, letters, and fragments of a journal written by a former inhabitant of the tower. These documents reveal insights into the tower's curse, the purpose of the gallery, and the artist responsible for the enchanted paintings. Players can piece together this information to understand the gallery's mysteries.
