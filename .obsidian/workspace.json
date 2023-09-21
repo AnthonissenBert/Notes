@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "176927c34a238c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mimic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2e462c6ce451d3ba",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "mimic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "mimic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "mimic.md"
               }
             }
           },
@@ -168,10 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0759a20d2fa1686",
+  "active": "176927c34a238c52",
   "lastOpenFiles": [
-    "specter.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "mimic.md",
+    "specter.md",
     "Pasted image 20230921234513.png",
     "Pasted image 20230921233952.jpg",
     "Pasted image 20230921233802.png",
@@ -204,7 +218,6 @@
     "SlingshotDnD/Locations/Blacksmiths",
     "SlingshotDnD/Locations/Administries",
     "SlingshotDnD/Npc's/Animals/frog.md",
-    "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
