@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "f9d861f00ece9bc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/animated armor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0348002e388d7bb7",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/animated armor.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/animated armor.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/animated armor.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           },
@@ -181,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9d861f00ece9bc3",
+  "active": "d0759a20d2fa1686",
   "lastOpenFiles": [
-    "SlingshotDnD/Npc's/Monsters/helmed horror.md",
     "SlingshotDnD/Npc's/Monsters/animated armor.md",
+    "Pasted image 20230922000911.png",
+    "SlingshotDnD/Npc's/Monsters/helmed horror.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "mimic.md",
     "specter.md",
@@ -217,12 +205,10 @@
     "SlingshotDnD/Npc's/Friendlies/Ezum Non.md",
     "SlingshotDnD/Npc's/Friendlies/Chetov Lervas.md",
     "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
-    "SlingshotDnD/Npc's/Enemies/Selkath.md",
     "SlingshotDnD/Locations/Whorehouses",
     "SlingshotDnD/Locations/Seemsters",
     "SlingshotDnD/Locations/Blacksmiths",
     "SlingshotDnD/Locations/Administries",
-    "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/Locations/Guildhalls",

@@ -38,4 +38,6 @@ CHA: 1 (-5)
 **_Slam_**. _Melee Weapon Attack_: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) bludgeoning damage.
 
 ---
-### Tactics and Roleplay
+### image
+
+![[Pasted image 20230922000911.png]]
