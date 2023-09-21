@@ -137,7 +137,7 @@ Upon ascending to the fourth level of the tower, the party finds themselves in a
 1. **Malfunctioning Constructs:** The clockwork laboratory is guarded by a series of malfunctioning clockwork constructs, these constructs attack intruders on sight, and the party must defeat them or find ways to deactivate them to proceed.
 	- [[helmed horror]] and [[animated armor]]
 
-2. **The Harmonic Puzzle:** In a corner of the laboratory, the party encounters a massive, intricate contraption of gears and chimes. To proceed further into the tower, they must solve a harmonic puzzle. The party must adjust the gears to create a specific musical sequence by aligning the chimes correctly. Clues for the puzzle can be found in the form of sheet music scattered throughout the laboratory.
+2. **The Harmonic Puzzle:** In a corner of the laboratory, the party encounters a massive, intricate contraption of gears and chimes. To proceed further into the tower, they must solve a harmonic puzzle. The party must adjust the gears to create a specific musical sequence by aligning the chimes correctly. Clues for the puzzle can be found in the form of sheet music scattered throughout the laboratory. Once the puzzle is solved the massive globe next to the bed will open and reveal a magical artifact useful to the party
 #### Rewards
 
 1. **Clockwork Knowledge:** Successfully navigating the clockwork laboratory grants the party valuable insights into clockwork machinery and constructs, which may prove useful in future encounters or for crafting items.
