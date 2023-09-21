@@ -5,6 +5,10 @@
 **Speed** 30 ft., climb 30 ft.
 
 ---
+
+![[Pasted image 20230922000155.jpg]]
+
+---
 ### ability scores
 
 STR: 14 (+2) 
