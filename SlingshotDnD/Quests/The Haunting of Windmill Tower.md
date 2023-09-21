@@ -94,7 +94,7 @@ What am I?"
 
 3. **Magical Tomes:** 
 	- In their exploration, the party may discover other enchanted books that grant temporary magical benefits or knowledge applicable to their adventures.
-	- a book on hags and al
+	- a book on hags and allies
 
 1. **Magical artifact**
 	- choose one that benefits the party
