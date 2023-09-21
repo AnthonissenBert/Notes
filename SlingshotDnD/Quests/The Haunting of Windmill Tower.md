@@ -128,7 +128,7 @@ As the party ascends to the third level of the tower, they find themselves in a 
 ![[Pasted image 20230922001023.jpg]]
 ![[Pasted image 20230922001100.jpg]]
 
-Upon ascending to the fourth level of the tower, the party finds themselves in a chamber filled with the intricate machinery of a clockwork laboratory. Cogs, gears, and steam-powered contraptions dominate the space. The room is dimly lit by flickering gas lamps, and the air is heavy with the scent of oil and metal.
+Upon ascending to the fourth level of the tower, the party finds themselves in a chamber filled with the intricate machinery of a laboratory. Cogs, gears, and steam-powered contraptions dominate the space. The room is dimly lit by flickering gas lamps, and the air is heavy with the scent of oil and metal.
 
 **Encounters and Puzzles:**
 
