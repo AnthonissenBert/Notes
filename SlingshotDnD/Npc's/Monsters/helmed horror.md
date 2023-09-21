@@ -40,4 +40,6 @@ CHA: 10 (+0)
 **_Longsword_**. _Melee Weapon Attack_: +6 to hit, reach 5 ft., one target. _Hit_: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
 
 ---
-### Tactics and Roleplay
+### image
+
+![[Pasted image 20230922000940.jpg]]
