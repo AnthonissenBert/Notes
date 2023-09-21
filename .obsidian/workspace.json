@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9c55fb1d7b29fe80",
+        "id": "a988b2b2d1d8171d",
         "type": "tabs",
         "children": [
           {
-            "id": "0a781009117f3201",
+            "id": "d0759a20d2fa1686",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "d0759a20d2fa1686",
   "lastOpenFiles": [
-    "SlingshotDnD/Npc's/Monsters/smoke mephit.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "SlingshotDnD/Npc's/Monsters/smoke mephit.md",
     "SlingshotDnD/Npc's/Monsters/mud mephit.md",
     "SlingshotDnD/Npc's/Monsters/earth elemental.md",
     "SlingshotDnD/Npc's/Monsters/air elemental.md",
