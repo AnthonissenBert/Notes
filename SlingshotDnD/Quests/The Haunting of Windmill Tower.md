@@ -107,7 +107,7 @@ What am I?"
 As the party ascends to the third level of the tower, they find themselves in a grand hall adorned with magnificent paintings, each depicting scenes of ancient battles, mythical creatures, and lost civilizations. The room is dimly lit by ethereal torches that cast an eerie, shifting light upon the artwork. However, something about these paintings seems unsettling.
 
 1. **Animated Paintings:** 
-	- Upon entering the gallery, the party notices that some of the paintings come to life as they approach. These animated paintings depict fearsome creatures and warriors, and they attack the party. To proceed through the gallery, the party must find a way to pacify or bypass these aggressive images.
+	- Upon entering the gallery, the party notices that some of the paintings looking at them in a strange way as they approach. These animated paintings depict fearsome creatures and warriors, It's trying to give a . To proceed through the gallery, the party must find a way to pacify or bypass these aggressive images.
 	- [[specter]]
 
 3. **The Silent Symphony:** In the center of the gallery, a large, ornate harp stands on a pedestal. It appears to be the key to unlocking the way forward. To activate the harp, the party must decipher a musical puzzle. A series of notes and symbols are inscribed on the harp's base, and the party must play a specific tune to activate it. They can find clues about the correct melody by observing the paintings and deciphering the hidden musical motifs within them.
