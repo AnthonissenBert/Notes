@@ -149,11 +149,12 @@ Upon ascending to the fourth level of the tower, the party finds themselves in a
 4. a magical artifact that benefits the party 
 # Level 5: The Shadowy Sanctum (lvl6)
 
+![[Pasted image 20230922002956.png]]
+#### Walktrough
+
 The party ascends to the fifth and final level of the tower, entering a chamber shrouded in darkness. The air feels heavy with foreboding, and the only illumination comes from faint, pulsating shadows that dance along the walls. At the center of the room stands a menacing, shadowy figure, its eyes blazing with malevolence. This is the heart of the tower's curse.
 
-**Encounters and Puzzles:**
-
-1. **The Shadow Guardian:** The figure reveals itself as the guardian of the sanctum. It taunts the party with cryptic riddles and dark prophecies. To confront the guardian, the party must answer its riddles, gradually weakening its power. The riddles could include questions like, "I follow you in the day, but I'm lost without a trace at night. What am I?" (Answer: A shadow).
+1. **The Shadow Guardian (hag):** The figure reveals itself as the guardian of the sanctum. It taunts the party with cryptic riddles and dark prophecies. To confront the guardian, the party must answer its riddles, gradually weakening its power. The riddles could include questions like, "I follow you in the day, but I'm lost without a trace at night. What am I?" (Answer: A shadow).
 	- [[Night hag]] and [[ettercap]]s
 
 3. **The Curse's Origin:** During the confrontation with the guardian, players may have opportunities to learn about the origin of the curse, its connection to the tower's past, and the sacrifices made by its creators. This information can provide a deeper understanding of the tower's history and the consequences of wielding dark magic.
