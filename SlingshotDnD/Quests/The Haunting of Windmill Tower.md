@@ -121,10 +121,10 @@ As the party ascends to the third level of the tower, they find themselves in a 
 
 1. **Artistic Insights:** Successfully navigating the gallery and solving its puzzles grants the party a deeper understanding of the tower's history, the curse's origins, and the artist who created the animated paintings. This knowledge will be invaluable as they confront the tower's malevolent presence.
 
-3. magical artifact that will help the party
-# Level 4: The Clockwork Laboratory (rest)
+2. magical artifact that will help the party
 
-**Here the party will be able to short rest and level up**
+3. a level. **Here the party will be able to rest up and level up**
+# Level 4: The Clockwork Laboratory (rest)
 
 Upon ascending to the fourth level of the tower, the party finds themselves in a chamber filled with the intricate machinery of a clockwork laboratory. Cogs, gears, and steam-powered contraptions dominate the space. The room is dimly lit by flickering gas lamps, and the air is heavy with the scent of oil and metal.
 
