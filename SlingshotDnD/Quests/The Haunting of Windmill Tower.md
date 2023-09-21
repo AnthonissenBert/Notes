@@ -102,7 +102,7 @@ What am I?"
 
 
 ![[Pasted image 20230921233952.jpg]]
-**Here the party will be able to short rest and level up**
+
 
 As the party ascends to the third level of the tower, they find themselves in a grand hall adorned with magnificent paintings, each depicting scenes of ancient battles, mythical creatures, and lost civilizations. The room is dimly lit by ethereal torches that cast an eerie, shifting light upon the artwork. However, something about these paintings seems unsettling.
 
@@ -121,6 +121,8 @@ As the party ascends to the third level of the tower, they find themselves in a 
 3. **Reflection Wisdom:** Engaging with the mirror challenge imparts a valuable lesson or wisdom to each character, providing them with a temporary bonus or insight they can use later in their journey.
 
 # Level 4: The Clockwork Laboratory (rest)
+
+**Here the party will be able to short rest and level up**
 
 Upon ascending to the fourth level of the tower, the party finds themselves in a chamber filled with the intricate machinery of a clockwork laboratory. Cogs, gears, and steam-powered contraptions dominate the space. The room is dimly lit by flickering gas lamps, and the air is heavy with the scent of oil and metal.
 
