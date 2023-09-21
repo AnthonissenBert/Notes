@@ -110,19 +110,15 @@ As the party ascends to the third level of the tower, they find themselves in a 
 	- Upon entering the gallery, the party notices that some of the paintings looking at them in a strange way as they approach. These animated paintings depict fearsome creatures and warriors, It's trying to give a false sense of security. To proceed through the gallery, the party must find a way to pacify or bypass these aggressive images.
 		- [[specter]]
 	- Once the [[specter]] is close to dying which it will soon be, it will flee into a painting and turn the painting into a [[mimic]]
-	- once the mimic is destroyed a magical lock on the chest will be life
+	- once the mimic is destroyed a magical lock on the chest will be lifted and it will open revealing a magical artifact to help the party
 
-4. **The Hidden Secrets:** 
+2. **The Hidden Secrets:** 
 	- Scattered throughout the gallery are hidden clues in the form of scrolls, letters, and fragments of a journal written by a former inhabitant of the tower. These documents reveal insights into the tower's curse, the purpose of the gallery, and the artist responsible for the enchanted paintings. Players can piece together this information to understand the gallery's mysteries.
 
 **Rewards:**
 
 1. **Artistic Insights:** Successfully navigating the gallery and solving its puzzles grants the party a deeper understanding of the tower's history, the curse's origins, and the artist who created the animated paintings. This knowledge will be invaluable as they confront the tower's malevolent presence.
-
-2. **Musical Knowledge:** Mastering the harp puzzle not only opens the way forward but also grants the party a magical melody that can be used in future encounters or as a tool for solving other puzzles.
-
-3. **Reflection Wisdom:** Engaging with the mirror challenge imparts a valuable lesson or wisdom to each character, providing them with a temporary bonus or insight they can use later in their journey.
-
+2. magical artifact that will 
 # Level 4: The Clockwork Laboratory (rest)
 
 **Here the party will be able to short rest and level up**
