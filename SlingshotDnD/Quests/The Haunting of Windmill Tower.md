@@ -106,11 +106,12 @@ What am I?"
 
 As the party ascends to the third level of the tower, they find themselves in a grand hall adorned with magnificent paintings, each depicting scenes of ancient battles, mythical creatures, and lost civilizations. The room is dimly lit by ethereal torches that cast an eerie, shifting light upon the artwork. However, something about these paintings seems unsettling.
 
-1. **Animated Paintings:** Upon entering the gallery, the party notices that some of the paintings come to life as they approach. These animated paintings depict fearsome creatures and warriors, and they attack the party. To proceed through the gallery, the party must find a way to pacify or bypass these aggressive images.
+1. **Animated Paintings:** 
+	- Upon entering the gallery, the party notices that some of the paintings come to life as they approach. These animated paintings depict fearsome creatures and warriors, and they attack the party. To proceed through the gallery, the party must find a way to pacify or bypass these aggressive images.
 
-2. **The Silent Symphony:** In the center of the gallery, a large, ornate harp stands on a pedestal. It appears to be the key to unlocking the way forward. To activate the harp, the party must decipher a musical puzzle. A series of notes and symbols are inscribed on the harp's base, and the party must play a specific tune to activate it. They can find clues about the correct melody by observing the paintings and deciphering the hidden musical motifs within them.
+3. **The Silent Symphony:** In the center of the gallery, a large, ornate harp stands on a pedestal. It appears to be the key to unlocking the way forward. To activate the harp, the party must decipher a musical puzzle. A series of notes and symbols are inscribed on the harp's base, and the party must play a specific tune to activate it. They can find clues about the correct melody by observing the paintings and deciphering the hidden musical motifs within them.
 
-3. **The Hidden Secrets:** Scattered throughout the gallery are hidden clues in the form of scrolls, letters, and fragments of a journal written by a former inhabitant of the tower. These documents reveal insights into the tower's curse, the purpose of the gallery, and the artist responsible for the enchanted paintings. Players can piece together this information to understand the gallery's mysteries.
+4. **The Hidden Secrets:** Scattered throughout the gallery are hidden clues in the form of scrolls, letters, and fragments of a journal written by a former inhabitant of the tower. These documents reveal insights into the tower's curse, the purpose of the gallery, and the artist responsible for the enchanted paintings. Players can piece together this information to understand the gallery's mysteries.
 
 **Rewards:**
 
