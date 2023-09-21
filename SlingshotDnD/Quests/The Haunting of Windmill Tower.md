@@ -173,9 +173,3 @@ The party ascends to the fifth and final level of the tower, entering a chamber 
 - After defeating the [[Night hag]] and her minions, the party finds the artifact they sought, a [[Crystal of Purification]].
 - Returning to the village, they use the crystal to cleanse the tower, dispelling its malevolent influence.
 - The grateful villagers reward the party with riches, and they are hailed as heroes of [[Millhaven]].
-# Optional Hooks and Expansions:
-
-- Introduce an NPC who joins the party temporarily, seeking redemption or treasure.
-- Incorporate moral choices in the tower's challenges, affecting the story's outcome.
-- Add a time limit or environmental hazards to create tension.
-- Reveal a deeper conspiracy involving the tower's history and purpose for an extended campaign.
