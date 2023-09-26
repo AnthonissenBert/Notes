@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seppe/Players/Shayizur.md",
+                "file": "Seppe/Sessions/2023-09-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seppe/Players/Shayizur.md",
+                "file": "Seppe/Sessions/2023-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seppe/Players/Shayizur.md",
+                "file": "Seppe/Sessions/2023-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seppe/Players/Shayizur.md"
+                "file": "Seppe/Sessions/2023-09-26.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "ba0a1e170bcbb504",
   "lastOpenFiles": [
+    "Seppe/Players/Amaris.md",
     "Seppe/Players/Tunsur.md",
     "Seppe/Players/Shayizur.md",
     "Seppe/Players/Satari.md",
     "Seppe/Players/Loxarion.md",
-    "Seppe/Players/Amaris.md",
     "Seppe/Sessions/2023-09-26.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/Npc's/Monsters/specter.md",
