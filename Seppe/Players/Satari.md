@@ -1,0 +1,1 @@
+son of the royal family in [[Cast]]
