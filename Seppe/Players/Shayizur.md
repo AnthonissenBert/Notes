@@ -1,3 +1,3 @@
 Glenn PC
 
-aaracokra rogue
+aaracokra inquisitive rogue
