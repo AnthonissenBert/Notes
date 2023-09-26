@@ -1,1 +1,3 @@
-son of the royal family in [[Cast]]
+son of the warlord family in [[Cast]]
+
+thiefling
