@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "BeyondTheMournlords/Torven Whitewater.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "BeyondTheMournlords/Torven Whitewater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "BeyondTheMournlords/Torven Whitewater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "BeyondTheMournlords/Torven Whitewater.md"
               }
             }
           },
@@ -158,12 +158,18 @@
   },
   "active": "d0759a20d2fa1686",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/Landon Ringwood.md",
+    "BeyondTheMournlords/MagicalArtifacts/greygull.md",
+    "BeyondTheMournlords/Npc's/Ghadul.md",
+    "BeyondTheMournlords/Npc's/Alden Belford.md",
+    "Seppe/synopsis.md",
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "Seppe",
     "Pasted image 20230922002956.png",
     "Pasted image 20230922001100.jpg",
     "Pasted image 20230922001023.jpg",
     "SlingshotDnD/Npc's/Monsters/helmed horror.md",
     "Pasted image 20230922000940.jpg",
-    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Npc's/Monsters/animated armor.md",
     "Pasted image 20230922000911.png",
     "mimic.md",
@@ -175,7 +181,6 @@
     "Night_Hag-5e.webp",
     "Pasted image 20230922000155.jpg",
     "Pasted image 20230921234513.png",
-    "Pasted image 20230921233952.jpg",
     "SlingshotDnD/Npc's/Monsters/smoke mephit.md",
     "SlingshotDnD/Npc's/Monsters/mud mephit.md",
     "SlingshotDnD/Npc's/Monsters/earth elemental.md",
@@ -190,10 +195,6 @@
     "SlingshotDnD/Npc's/Neutrals/Jim Rosebend.md",
     "SlingshotDnD/Npc's/Neutrals/Gyrthun Bouldermane.md",
     "SlingshotDnD/Npc's/Friendlies/Githan Shortpick.md",
-    "SlingshotDnD/Npc's/Friendlies/Father Petroika.md",
-    "SlingshotDnD/Npc's/Friendlies/Ezum Non.md",
-    "SlingshotDnD/Npc's/Friendlies/Chetov Lervas.md",
-    "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
     "SlingshotDnD/Locations/Whorehouses",
     "SlingshotDnD/Locations/Seemsters",
     "SlingshotDnD/Locations/Blacksmiths",
@@ -202,7 +203,6 @@
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/Locations/Guildhalls",
     "SlingshotDnD/Locations/Squares",
-    "SlingshotDnD/Locations/Outposts",
-    "SlingshotDnD/Locations/FactionHalls"
+    "SlingshotDnD/Locations/Outposts"
   ]
 }
