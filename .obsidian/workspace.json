@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Torven Whitewater.md",
+                "file": "Seppe/Sessions/2023-09-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Torven Whitewater.md",
+                "file": "Seppe/Sessions/2023-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Torven Whitewater.md",
+                "file": "Seppe/Sessions/2023-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Torven Whitewater.md"
+                "file": "Seppe/Sessions/2023-09-26.md"
               }
             }
           },
@@ -158,6 +158,14 @@
   },
   "active": "d0759a20d2fa1686",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/Zoltest.md",
+    "Seppe/Sessions/2023-09-26.md",
+    "Seppe/Sessions",
+    "Seppe/Untitled.md",
+    "Seppe/Players",
+    "Seppe/Places",
+    "Seppe/Npc's",
+    "BeyondTheMournlords/Npc's/Torven Whitewater.md",
     "BeyondTheMournlords/Npc's/Landon Ringwood.md",
     "BeyondTheMournlords/MagicalArtifacts/greygull.md",
     "BeyondTheMournlords/Npc's/Ghadul.md",
@@ -191,18 +199,10 @@
     "SlingshotDnD/Npc's/Friendlies/Shmirma.md",
     "SlingshotDnD/Npc's/Friendlies/Robin the bard.md",
     "SlingshotDnD/Npc's/Friendlies/Osmund Briarmane.md",
-    "SlingshotDnD/Npc's/Friendlies/Mathias.md",
-    "SlingshotDnD/Npc's/Neutrals/Jim Rosebend.md",
-    "SlingshotDnD/Npc's/Neutrals/Gyrthun Bouldermane.md",
-    "SlingshotDnD/Npc's/Friendlies/Githan Shortpick.md",
     "SlingshotDnD/Locations/Whorehouses",
     "SlingshotDnD/Locations/Seemsters",
     "SlingshotDnD/Locations/Blacksmiths",
     "SlingshotDnD/Locations/Administries",
-    "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
-    "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
-    "SlingshotDnD/Locations/Guildhalls",
-    "SlingshotDnD/Locations/Squares",
-    "SlingshotDnD/Locations/Outposts"
+    "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf"
   ]
 }
