@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seppe/Players/Untitled.md",
+                "file": "Seppe/Players/Shayizur.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seppe/Players/Untitled.md",
+                "file": "Seppe/Players/Shayizur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seppe/Players/Untitled.md",
+                "file": "Seppe/Players/Shayizur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seppe/Players/Untitled.md"
+                "file": "Seppe/Players/Shayizur.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "ba0a1e170bcbb504",
   "lastOpenFiles": [
+    "Seppe/Players/Tunsur.md",
+    "Seppe/Players/Shayizur.md",
     "Seppe/Players/Satari.md",
-    "Seppe/Players/Untitled.md",
     "Seppe/Players/Loxarion.md",
     "Seppe/Players/Amaris.md",
     "Seppe/Sessions/2023-09-26.md",
@@ -198,7 +199,6 @@
     "SlingshotDnD/Npc's/Monsters/mud mephit.md",
     "SlingshotDnD/Npc's/Monsters/earth elemental.md",
     "SlingshotDnD/Npc's/Monsters/air elemental.md",
-    "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Locations/Whorehouses",
     "SlingshotDnD/Locations/Seemsters",
     "SlingshotDnD/Locations/Blacksmiths",
