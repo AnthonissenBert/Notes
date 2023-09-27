@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Aeliana.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           },
@@ -199,8 +199,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d21758558bcdb8c8",
+  "active": "89377090d33b392a",
   "lastOpenFiles": [
+    "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Locations/Seemsters/The Corner Craft.md",
     "SlingshotDnD/Npc's/Neutrals/Rayna.md",
@@ -227,7 +228,6 @@
     "SlingshotDnD/Npc's/Monsters/specter.md",
     "SlingshotDnD/Npc's/Monsters/mimic.md",
     "Seppe/Places/Galathis.md",
-    "BeyondTheMournlords/Npc's/Zoltest.md",
     "Seppe/Sessions",
     "Seppe/Players",
     "Seppe/Places",
