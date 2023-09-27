@@ -11,15 +11,34 @@
             "id": "89377090d33b392a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
-                "mode": "source",
-                "source": false
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg"
+              }
+            }
+          },
+          {
+            "id": "4d0bed13bd41a2cf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg"
+              }
+            }
+          },
+          {
+            "id": "bb368e690942150d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a676f10527aac477",
@@ -115,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md"
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg"
               }
             }
           },
@@ -186,13 +205,75 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d9480e14b72edf3",
+  "floating": {
+    "id": "e64733785af6d9d2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0f872f1fdfd9447b",
+        "type": "window",
+        "children": [
+          {
+            "id": "861eebb66d4bdc6d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b1a7b80bdf2c53ca",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "SlingshotDnD/_Assets/Pasted image 20230921234513.png"
+                  }
+                }
+              },
+              {
+                "id": "85fa006803771bb1",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "SlingshotDnD/_Assets/Pasted image 20230921233952.jpg"
+                  }
+                }
+              },
+              {
+                "id": "b029e9f79c873665",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical",
+        "x": 2770,
+        "y": 1459,
+        "width": 788,
+        "height": 1040,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b029e9f79c873665",
   "lastOpenFiles": [
+    "SlingshotDnD/_Assets/Pasted image 20230921233952.jpg",
+    "SlingshotDnD/_Assets/Pasted image 20230921234513.png",
+    "SlingshotDnD/_Assets/Pasted image 20230922000155.jpg",
+    "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
+    "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
+    "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
     "SlingshotDnD/Deities/Yuria.md",
     "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Npc's/Neutrals/Odo Ostgood.md",
     "SlingshotDnD/Players/Fango Bett.md",
     "SlingshotDnD/Locations/Administries/Grain administry.md",
@@ -213,8 +294,6 @@
     "Seppe/derinil.md",
     "Seppe/Players/Shayizur.md",
     "Seppe/Players/Satari.md",
-    "Seppe/Players/Loxarion.md",
-    "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "Seppe/Sessions",
     "Seppe/Players",
     "Seppe/Places",
@@ -225,10 +304,6 @@
     "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922000940.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922000911.png",
-    "SlingshotDnD/_Assets/Pasted image 20230922000627.jpg",
-    "SlingshotDnD/_Assets/Pasted image 20230922000603.jpg",
-    "SlingshotDnD/_Assets/Night_Hag-5e.webp",
-    "SlingshotDnD/_Assets/Pasted image 20230922000155.jpg",
     "SlingshotDnD/Locations/Whorehouses",
     "SlingshotDnD/Locations/Seemsters",
     "SlingshotDnD/Locations/Blacksmiths",
