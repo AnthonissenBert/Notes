@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "SlingshotDnD/Npc's/Friendlies/Aeliana.md"
               }
             }
           },
@@ -199,15 +199,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89377090d33b392a",
+  "active": "d21758558bcdb8c8",
   "lastOpenFiles": [
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Locations/Seemsters/The Corner Craft.md",
     "SlingshotDnD/Npc's/Neutrals/Rayna.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Neutrals/Roderic Toll.md",
-    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Players/Isshin Ixina.md",
     "SlingshotDnD/Players/Vaurulak Valune.md",
     "SlingshotDnD/Players/cronos guard.md",
