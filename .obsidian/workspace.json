@@ -38,108 +38,24 @@
             }
           },
           {
+            "id": "2ddd234e5a30c92f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1770797306c1c4e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d4e17e57c58d3da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Neutrals/Odo Ostgood.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5997fb3d19f87d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f26ba65d360f3e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Players/Fango Bett.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "685fe56236c90e2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Locations/Administries/Grain administry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c693392fb6457c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a0ae54aa1f977e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01f321c95dbd5da4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d21758558bcdb8c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
+                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
+                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md"
+                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md"
               }
             }
           },
@@ -295,11 +211,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1770797306c1c4e3",
+  "active": "2ddd234e5a30c92f",
   "lastOpenFiles": [
-    "SlingshotDnD/Npc's/Neutrals/Odo Ostgood.md",
-    "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
+    "SlingshotDnD/Npc's/Neutrals/Odo Ostgood.md",
     "SlingshotDnD/Players/Fango Bett.md",
     "SlingshotDnD/Locations/Administries/Grain administry.md",
     "SlingshotDnD/Players/cronos guard.md",
