@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "2d4e17e57c58d3da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Npc's/Neutrals/Odo Ostgood.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5997fb3d19f87d8c",
             "type": "leaf",
             "state": {
@@ -285,9 +297,10 @@
   },
   "active": "1770797306c1c4e3",
   "lastOpenFiles": [
+    "SlingshotDnD/Npc's/Neutrals/Odo Ostgood.md",
+    "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Players/Fango Bett.md",
-    "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
     "SlingshotDnD/Locations/Administries/Grain administry.md",
     "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
@@ -310,7 +323,6 @@
     "Seppe/Players/Satari.md",
     "Seppe/Players/Loxarion.md",
     "Seppe/Players/Tunsur.md",
-    "Seppe/Players/Amaris.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "Seppe/Sessions",
     "Seppe/Players",
