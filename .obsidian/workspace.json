@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md"
               }
             }
           },
@@ -199,8 +199,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89377090d33b392a",
+  "active": "2ddd234e5a30c92f",
   "lastOpenFiles": [
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
     "SlingshotDnD/Deities/Yuria.md",
     "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
@@ -211,7 +212,6 @@
     "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
     "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
-    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Locations/Seemsters/The Corner Craft.md",
     "SlingshotDnD/Npc's/Neutrals/Rayna.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
