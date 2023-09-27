@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Deities/Magnus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Deities/Magnus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Deities/Magnus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "SlingshotDnD/Deities/Magnus.md"
               }
             }
           },
@@ -156,8 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "ba0a1e170bcbb504",
   "lastOpenFiles": [
+    "SlingshotDnD/Deities/Vaestus.md",
+    "SlingshotDnD/Deities/Yuria.md",
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "Seppe/Sessions/2023-09-26.md",
     "Seppe/derinil.md",
     "Seppe/Players/Shayizur.md",
@@ -181,7 +184,6 @@
     "BeyondTheMournlords/Npc's/Ghadul.md",
     "BeyondTheMournlords/Npc's/Alden Belford.md",
     "Seppe/synopsis.md",
-    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "Seppe",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
@@ -197,8 +199,6 @@
     "SlingshotDnD/_Assets/Night_Hag-5e.webp",
     "SlingshotDnD/_Assets/Pasted image 20230922000155.jpg",
     "SlingshotDnD/Npc's/Monsters/smoke mephit.md",
-    "SlingshotDnD/Npc's/Monsters/mud mephit.md",
-    "SlingshotDnD/Npc's/Monsters/earth elemental.md",
     "SlingshotDnD/Locations/Whorehouses",
     "SlingshotDnD/Locations/Seemsters",
     "SlingshotDnD/Locations/Blacksmiths",
