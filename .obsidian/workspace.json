@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ab23596d633d8de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rikikiri Finkiririki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e6e9e9c8108e988b",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md",
+                "file": "Rikikiri Finkiririki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md",
+                "file": "Rikikiri Finkiririki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md"
+                "file": "Rikikiri Finkiririki.md"
               }
             }
           },
@@ -192,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4696239b2eba74a0",
+  "active": "ab23596d633d8de1",
   "lastOpenFiles": [
-    "Aernu Raemas.md",
     "SlingshotDnD/Players/cronos guard.md",
+    "Rikikiri Finkiririki.md",
+    "Aernu Raemas.md",
     "Fango Bett.md",
     "Isshin Ixina.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
@@ -224,7 +238,6 @@
     "BeyondTheMournlords/MagicalArtifacts/greygull.md",
     "BeyondTheMournlords/Npc's/Ghadul.md",
     "BeyondTheMournlords/Npc's/Alden Belford.md",
-    "Seppe/synopsis.md",
     "Seppe",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
