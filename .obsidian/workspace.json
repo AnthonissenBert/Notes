@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba0a1e170bcbb504",
+            "id": "4696239b2eba74a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Deities/Magnus.md",
+                "file": "SlingshotDnD/Players/cronos guard.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Deities/Magnus.md",
+                "file": "SlingshotDnD/Players/cronos guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Deities/Magnus.md",
+                "file": "SlingshotDnD/Players/cronos guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Deities/Magnus.md"
+                "file": "SlingshotDnD/Players/cronos guard.md"
               }
             }
           },
@@ -156,11 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba0a1e170bcbb504",
+  "active": "4696239b2eba74a0",
   "lastOpenFiles": [
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "SlingshotDnD/Deities/Magnus.md",
     "SlingshotDnD/Deities/Vaestus.md",
     "SlingshotDnD/Deities/Yuria.md",
-    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "Seppe/Sessions/2023-09-26.md",
     "Seppe/derinil.md",
     "Seppe/Players/Shayizur.md",
@@ -198,7 +199,6 @@
     "SlingshotDnD/Npc's/Monsters/Night hag.md",
     "SlingshotDnD/_Assets/Night_Hag-5e.webp",
     "SlingshotDnD/_Assets/Pasted image 20230922000155.jpg",
-    "SlingshotDnD/Npc's/Monsters/smoke mephit.md",
     "SlingshotDnD/Locations/Whorehouses",
     "SlingshotDnD/Locations/Seemsters",
     "SlingshotDnD/Locations/Blacksmiths",
