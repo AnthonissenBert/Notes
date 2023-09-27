@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg"
               }
             }
           },
@@ -212,32 +212,22 @@
                 }
               },
               {
-                "id": "bb368e690942150d",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg"
-                  }
-                }
-              },
-              {
-                "id": "4d0bed13bd41a2cf",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg"
-                  }
-                }
-              },
-              {
                 "id": "020e72883179997c",
                 "type": "leaf",
                 "state": {
                   "type": "image",
                   "state": {
                     "file": "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg"
+                  }
+                }
+              },
+              {
+                "id": "be7256e5fa28ecbb",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg"
                   }
                 }
               },
@@ -262,7 +252,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -275,8 +265,10 @@
       }
     ]
   },
-  "active": "a0423d122e0db3b5",
+  "active": "be7256e5fa28ecbb",
   "lastOpenFiles": [
+    "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg",
+    "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
@@ -287,7 +279,6 @@
     "SlingshotDnD/_Assets/Pasted image 20230922000627.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922000911.png",
     "SlingshotDnD/_Assets/Pasted image 20230922000940.jpg",
-    "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230921233952.jpg",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
