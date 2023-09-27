@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fango Bett.md",
+                "file": "SlingshotDnD/Players/cronos guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fango Bett.md",
+                "file": "SlingshotDnD/Players/cronos guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fango Bett.md"
+                "file": "SlingshotDnD/Players/cronos guard.md"
               }
             }
           },
@@ -181,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b37acc46c6bf463",
+  "active": "4696239b2eba74a0",
   "lastOpenFiles": [
-    "Isshin Ixina.md",
     "Fango Bett.md",
+    "Isshin Ixina.md",
     "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Deities/Magnus.md",
