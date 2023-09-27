@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           },
@@ -274,7 +274,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 2075,
+        "x": 2209,
         "y": 1082,
         "width": 788,
         "height": 1040,
@@ -283,8 +283,9 @@
       }
     ]
   },
-  "active": "b029e9f79c873665",
+  "active": "a0423d122e0db3b5",
   "lastOpenFiles": [
+    "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230921233952.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230921234513.png",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
@@ -295,7 +296,6 @@
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
     "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg",
-    "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922000603.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922000627.jpg",
