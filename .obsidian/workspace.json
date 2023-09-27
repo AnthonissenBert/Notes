@@ -11,8 +11,12 @@
             "id": "f1a7f86258503b1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Sessions/2023-09-27.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SlingshotDnD/Sessions/2023-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SlingshotDnD/Sessions/2023-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SlingshotDnD/Sessions/2023-09-27.md"
+              }
             }
           },
           {
@@ -256,6 +264,7 @@
   },
   "active": "f1a7f86258503b1e",
   "lastOpenFiles": [
+    "SlingshotDnD/Sessions/2023-09-27.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922000603.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922000627.jpg",
@@ -266,7 +275,6 @@
     "SlingshotDnD/_Assets/Pasted image 20230921234513.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
-    "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
