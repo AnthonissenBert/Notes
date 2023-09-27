@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "d21758558bcdb8c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "80fda84c956b56fc",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
+                "file": "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
+                "file": "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md"
+                "file": "SlingshotDnD/Npc's/Friendlies/Aeliana.md"
               }
             }
           },
@@ -186,11 +199,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d9480e14b72edf3",
+  "active": "d21758558bcdb8c8",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Locations/Seemsters/The Corner Craft.md",
     "SlingshotDnD/Npc's/Neutrals/Rayna.md",
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Factions/the Wealth of the Spear.md",
     "SlingshotDnD/Npc's/Neutrals/Roderic Toll.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
