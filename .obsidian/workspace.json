@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "5997fb3d19f87d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "685fe56236c90e2d",
             "type": "leaf",
             "state": {
@@ -109,7 +121,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
+                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
+                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Towns/Millhaven.md"
+                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md"
               }
             }
           },
@@ -246,10 +259,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d9480e14b72edf3",
+  "active": "5997fb3d19f87d8c",
   "lastOpenFiles": [
-    "SlingshotDnD/Locations/Administries/Grain administry.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "SlingshotDnD/Locations/Administries/Grain administry.md",
     "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
     "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
