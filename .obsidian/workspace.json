@@ -109,8 +109,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Administries/Grain administry.md",
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Administries/Grain administry.md",
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Administries/Grain administry.md"
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md"
               }
             }
           },
@@ -247,8 +246,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "685fe56236c90e2d",
+  "active": "0d9480e14b72edf3",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Administries/Grain administry.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
@@ -275,7 +275,6 @@
     "Seppe/Players/Amaris.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/Npc's/Monsters/specter.md",
-    "SlingshotDnD/Npc's/Monsters/mimic.md",
     "Seppe/Sessions",
     "Seppe/Players",
     "Seppe/Places",
