@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "53e12547d7fce4d9",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Sessions/2023-09-27.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Sessions/2023-09-27.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Sessions/2023-09-27.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           },
@@ -282,10 +283,10 @@
       }
     ]
   },
-  "active": "f1a7f86258503b1e",
+  "active": "a0423d122e0db3b5",
   "lastOpenFiles": [
-    "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "SlingshotDnD/Sessions/2023-09-27.md",
+    "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
