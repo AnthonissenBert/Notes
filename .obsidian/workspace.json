@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e6e9e9c8108e988b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aernu Raemas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8de6d9943dbb1f2e",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md",
+                "file": "Aernu Raemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md",
+                "file": "Aernu Raemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md"
+                "file": "Aernu Raemas.md"
               }
             }
           },
@@ -180,11 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4696239b2eba74a0",
+  "active": "e6e9e9c8108e988b",
   "lastOpenFiles": [
+    "SlingshotDnD/Players/cronos guard.md",
+    "Aernu Raemas.md",
     "Fango Bett.md",
     "Isshin Ixina.md",
-    "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Deities/Magnus.md",
     "SlingshotDnD/Deities/Vaestus.md",
@@ -216,7 +230,6 @@
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg",
-    "SlingshotDnD/Npc's/Monsters/helmed horror.md",
     "SlingshotDnD/_Assets/Pasted image 20230922000940.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922000911.png",
     "SlingshotDnD/_Assets/Pasted image 20230922000627.jpg",
