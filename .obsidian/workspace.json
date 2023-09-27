@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rikikiri Finkiririki.md",
+                "file": "SlingshotDnD/Players/Rikikiri Finkiririki.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aernu Raemas.md",
+                "file": "SlingshotDnD/Players/Aernu Raemas.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fango Bett.md",
+                "file": "SlingshotDnD/Players/Fango Bett.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rikikiri Finkiririki.md",
+                "file": "SlingshotDnD/Players/cronos guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rikikiri Finkiririki.md",
+                "file": "SlingshotDnD/Players/cronos guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rikikiri Finkiririki.md"
+                "file": "SlingshotDnD/Players/cronos guard.md"
               }
             }
           },
@@ -205,12 +204,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab23596d633d8de1",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "SlingshotDnD/Players/Rikikiri Finkiririki.md",
     "SlingshotDnD/Players/cronos guard.md",
-    "Rikikiri Finkiririki.md",
-    "Aernu Raemas.md",
-    "Fango Bett.md",
+    "SlingshotDnD/Players/Aernu Raemas.md",
+    "SlingshotDnD/Players/Fango Bett.md",
     "Isshin Ixina.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Deities/Magnus.md",
