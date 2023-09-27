@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
+                "file": "SlingshotDnD/Sessions/2023-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
+                "file": "SlingshotDnD/Sessions/2023-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/Myconid adult.md"
+                "file": "SlingshotDnD/Sessions/2023-09-27.md"
               }
             }
           },
@@ -282,10 +282,10 @@
       }
     ]
   },
-  "active": "c15782f48365add6",
+  "active": "f1a7f86258503b1e",
   "lastOpenFiles": [
-    "SlingshotDnD/Sessions/2023-09-27.md",
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
+    "SlingshotDnD/Sessions/2023-09-27.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
