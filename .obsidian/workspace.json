@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230921234513.png",
+                "file": "SlingshotDnD/_Assets/Pasted image 20230921233952.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230921234513.png",
+                "file": "SlingshotDnD/_Assets/Pasted image 20230921233952.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230921234513.png"
+                "file": "SlingshotDnD/_Assets/Pasted image 20230921233952.jpg"
               }
             }
           },
@@ -269,7 +269,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -282,8 +283,9 @@
       }
     ]
   },
-  "active": "b1a7b80bdf2c53ca",
+  "active": "85fa006803771bb1",
   "lastOpenFiles": [
+    "SlingshotDnD/_Assets/Pasted image 20230921234513.png",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
@@ -292,7 +294,6 @@
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "SlingshotDnD/_Assets/Pasted image 20230921233952.jpg",
-    "SlingshotDnD/_Assets/Pasted image 20230921234513.png",
     "SlingshotDnD/Sessions/2023-09-27.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214933.jpg",
