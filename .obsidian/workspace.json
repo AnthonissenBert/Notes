@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
+                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
+                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md"
+                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md"
               }
             }
           },
@@ -211,9 +211,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ddd234e5a30c92f",
+  "active": "1770797306c1c4e3",
   "lastOpenFiles": [
     "SlingshotDnD/Locations/Towns/Millhaven.md",
+    "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
     "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
     "SlingshotDnD/Npc's/Neutrals/Odo Ostgood.md",
     "SlingshotDnD/Players/Fango Bett.md",
@@ -238,7 +239,6 @@
     "Seppe/Players/Shayizur.md",
     "Seppe/Players/Satari.md",
     "Seppe/Players/Loxarion.md",
-    "Seppe/Players/Tunsur.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "Seppe/Sessions",
     "Seppe/Players",
