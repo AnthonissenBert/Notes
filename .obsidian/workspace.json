@@ -97,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md",
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md",
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md"
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md"
               }
             }
           },
@@ -235,8 +234,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01f321c95dbd5da4",
+  "active": "0d9480e14b72edf3",
   "lastOpenFiles": [
+    "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Npc's/Neutrals/Ronaash.md",
     "SlingshotDnD/Npc's/Friendlies/Aeliana.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
@@ -247,7 +247,6 @@
     "SlingshotDnD/Npc's/Neutrals/Roderic Toll.md",
     "SlingshotDnD/Players/Isshin Ixina.md",
     "SlingshotDnD/Players/Vaurulak Valune.md",
-    "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Players/Rikikiri Finkiririki.md",
     "SlingshotDnD/Players/Aernu Raemas.md",
     "SlingshotDnD/Players/Fango Bett.md",
