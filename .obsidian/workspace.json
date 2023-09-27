@@ -32,24 +32,30 @@
             }
           },
           {
-            "id": "26c02f483a900190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c15782f48365add6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9c59956e10d0cedd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26c02f483a900190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Sessions/2023-09-27.md",
+                "file": "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Sessions/2023-09-27.md",
+                "file": "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Sessions/2023-09-27.md"
+                "file": "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md"
               }
             }
           },
@@ -288,12 +294,12 @@
       }
     ]
   },
-  "active": "f1a7f86258503b1e",
+  "active": "26c02f483a900190",
   "lastOpenFiles": [
+    "SlingshotDnD/Sessions/2023-09-27.md",
     "SlingshotDnD/Npc's/Monsters/Myconid adult.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Npc's/Monsters/Myconid Sovereign.md",
-    "SlingshotDnD/Sessions/2023-09-27.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg",
