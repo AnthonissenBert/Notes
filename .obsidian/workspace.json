@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8de6d9943dbb1f2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Isshin Ixina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b37acc46c6bf463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fango Bett.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md",
+                "file": "Fango Bett.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md",
+                "file": "Fango Bett.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Players/cronos guard.md"
+                "file": "Fango Bett.md"
               }
             }
           },
@@ -156,8 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4696239b2eba74a0",
+  "active": "4b37acc46c6bf463",
   "lastOpenFiles": [
+    "Isshin Ixina.md",
+    "Fango Bett.md",
+    "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Deities/Magnus.md",
     "SlingshotDnD/Deities/Vaestus.md",
@@ -191,12 +219,9 @@
     "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg",
     "SlingshotDnD/Npc's/Monsters/helmed horror.md",
     "SlingshotDnD/_Assets/Pasted image 20230922000940.jpg",
-    "SlingshotDnD/Npc's/Monsters/animated armor.md",
     "SlingshotDnD/_Assets/Pasted image 20230922000911.png",
     "SlingshotDnD/_Assets/Pasted image 20230922000627.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922000603.jpg",
-    "SlingshotDnD/Npc's/Monsters/ettercap.md",
-    "SlingshotDnD/Npc's/Monsters/Night hag.md",
     "SlingshotDnD/_Assets/Night_Hag-5e.webp",
     "SlingshotDnD/_Assets/Pasted image 20230922000155.jpg",
     "SlingshotDnD/Locations/Whorehouses",
