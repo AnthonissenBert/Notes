@@ -38,18 +38,6 @@
             }
           },
           {
-            "id": "2ddd234e5a30c92f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "80fda84c956b56fc",
             "type": "leaf",
             "state": {
@@ -61,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           },
@@ -199,10 +186,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ddd234e5a30c92f",
+  "active": "89377090d33b392a",
   "lastOpenFiles": [
-    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
+    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Deities/Yuria.md",
     "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
