@@ -25,6 +25,7 @@ As you approach, you notice the tavern has a serene atmosphere. A musician is
 **Lunch:** Grilled wild rice and yams, with cantaloupe on the side.
 **Dinner:** Salted mystery meat and red onions, with
 sage on the side.
+
 |Sustenance|Rates|
 |---|---|
 |Breakfast|10 cp|
