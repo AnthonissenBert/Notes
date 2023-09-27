@@ -50,18 +50,6 @@
             }
           },
           {
-            "id": "1770797306c1c4e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "80fda84c956b56fc",
             "type": "leaf",
             "state": {
@@ -74,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md"
+                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
               }
             }
           },
@@ -211,11 +199,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1770797306c1c4e3",
+  "active": "89377090d33b392a",
   "lastOpenFiles": [
-    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
+    "SlingshotDnD/Deities/Yuria.md",
     "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
+    "SlingshotDnD/Locations/Towns/Millhaven.md",
     "SlingshotDnD/Npc's/Neutrals/Odo Ostgood.md",
     "SlingshotDnD/Players/Fango Bett.md",
     "SlingshotDnD/Locations/Administries/Grain administry.md",
@@ -233,7 +222,6 @@
     "SlingshotDnD/Players/Aernu Raemas.md",
     "SlingshotDnD/Deities/Magnus.md",
     "SlingshotDnD/Deities/Vaestus.md",
-    "SlingshotDnD/Deities/Yuria.md",
     "Seppe/Sessions/2023-09-26.md",
     "Seppe/derinil.md",
     "Seppe/Players/Shayizur.md",
