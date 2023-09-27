@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/The Haunting of Windmill Tower.md"
+                "file": "SlingshotDnD/Locations/Towns/Millhaven.md"
               }
             }
           },
@@ -186,10 +186,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89377090d33b392a",
+  "active": "0d9480e14b72edf3",
   "lastOpenFiles": [
-    "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
+    "SlingshotDnD/Locations/Whorehouses/Pleasure doin' business.md",
     "SlingshotDnD/Deities/Yuria.md",
     "SlingshotDnD/Locations/Taverns/The Faded Apple Bar.md",
     "SlingshotDnD/Locations/Towns/Millhaven.md",
