@@ -220,6 +220,16 @@
                 }
               },
               {
+                "id": "4c2d9c1616ffb754",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.4.14"
+                  }
+                }
+              },
+              {
                 "id": "b029e9f79c873665",
                 "type": "leaf",
                 "state": {
@@ -270,7 +280,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -283,7 +293,7 @@
       }
     ]
   },
-  "active": "85fa006803771bb1",
+  "active": "4c2d9c1616ffb754",
   "lastOpenFiles": [
     "SlingshotDnD/_Assets/Pasted image 20230921234513.png",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
