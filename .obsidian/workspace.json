@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023-10-02.md",
+                "file": "Seppe/Sessions/2023-09-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023-10-02.md",
+                "file": "Seppe/Sessions/2023-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023-10-02.md",
+                "file": "Seppe/Sessions/2023-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023-10-02.md"
+                "file": "Seppe/Sessions/2023-09-26.md"
               }
             }
           },
@@ -158,9 +158,16 @@
   },
   "active": "ba0a1e170bcbb504",
   "lastOpenFiles": [
-    "Seppe/Sessions/2023-09-26.md",
+    "conflict-files-obsidian-git.md",
     "BeyondTheMournlords/Sessions/2023-10-02.md",
-    "Seppe/Npc's/derinil.md",
+    "derinil.md",
+    "SlingshotDnD/Sessions/2023-09-27.md",
+    "SlingshotDnD/Players/Rikikiri Finkiririki.md",
+    "SlingshotDnD/Players/Isshin Ixina.md",
+    "SlingshotDnD/Players/Fango Bett.md",
+    "SlingshotDnD/Players/Aernu Raemas.md",
+    "Seppe/derinil.md",
+    "Seppe/Sessions/2023-09-26.md",
     "Seppe/Players/Shayizur.md",
     "Seppe/Players/Satari.md",
     "Seppe/Players/Loxarion.md",
@@ -182,23 +189,16 @@
     "BeyondTheMournlords/Npc's/Ghadul.md",
     "BeyondTheMournlords/Npc's/Alden Belford.md",
     "Seppe/synopsis.md",
-    "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "Seppe",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg",
-    "SlingshotDnD/Npc's/Monsters/helmed horror.md",
     "SlingshotDnD/_Assets/Pasted image 20230922000940.jpg",
-    "SlingshotDnD/Npc's/Monsters/animated armor.md",
     "SlingshotDnD/_Assets/Pasted image 20230922000911.png",
     "SlingshotDnD/_Assets/Pasted image 20230922000627.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922000603.jpg",
-    "SlingshotDnD/Npc's/Monsters/ettercap.md",
-    "SlingshotDnD/Npc's/Monsters/Night hag.md",
     "SlingshotDnD/_Assets/Night_Hag-5e.webp",
     "SlingshotDnD/_Assets/Pasted image 20230922000155.jpg",
-    "SlingshotDnD/Npc's/Monsters/smoke mephit.md",
-    "SlingshotDnD/Npc's/Monsters/mud mephit.md",
     "SlingshotDnD/Locations/Whorehouses",
     "SlingshotDnD/Locations/Seemsters",
     "SlingshotDnD/Locations/Blacksmiths",
