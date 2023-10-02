@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5dfce360f3bb5dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Locations/lynn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -158,12 +170,12 @@
   },
   "active": "ba0a1e170bcbb504",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Locations/lynn.md",
+    "BeyondTheMournlords/Sessions/2023-10-02.md",
     "BeyondTheMournlords/Synopsis.md",
     "BeyondTheMournlords/Locations",
-    "BeyondTheMournlords/Sessions/2023-10-02.md",
     "BeyondTheMournlords/Locations/egso.md",
     "BeyondTheMournlords/Locations/slanherst.md",
-    "BeyondTheMournlords/Locations/lynn.md",
     "BeyondTheMournlords/Locations/Barkael bay.md",
     "BeyondTheMournlords/Sessions/2023-09-23.md",
     "BeyondTheMournlords/Sessions/2023-09-03.md",
