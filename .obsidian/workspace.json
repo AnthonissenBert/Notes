@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seppe/Sessions/2023-09-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90daec8a1b3da8b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "derinil.md",
+                "file": "BeyondTheMournlords/Sessions/2023-10-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seppe/Sessions/2023-09-26.md",
+                "file": "BeyondTheMournlords/Sessions/2023-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seppe/Sessions/2023-09-26.md",
+                "file": "BeyondTheMournlords/Sessions/2023-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seppe/Sessions/2023-09-26.md"
+                "file": "BeyondTheMournlords/Sessions/2023-10-02.md"
               }
             }
           },
@@ -170,8 +158,9 @@
   },
   "active": "ba0a1e170bcbb504",
   "lastOpenFiles": [
-    "derinil.md",
     "Seppe/Sessions/2023-09-26.md",
+    "BeyondTheMournlords/Sessions/2023-10-02.md",
+    "Seppe/Npc's/derinil.md",
     "Seppe/Players/Shayizur.md",
     "Seppe/Players/Satari.md",
     "Seppe/Players/Loxarion.md",
@@ -210,7 +199,6 @@
     "SlingshotDnD/_Assets/Pasted image 20230922000155.jpg",
     "SlingshotDnD/Npc's/Monsters/smoke mephit.md",
     "SlingshotDnD/Npc's/Monsters/mud mephit.md",
-    "SlingshotDnD/Npc's/Monsters/earth elemental.md",
     "SlingshotDnD/Locations/Whorehouses",
     "SlingshotDnD/Locations/Seemsters",
     "SlingshotDnD/Locations/Blacksmiths",
