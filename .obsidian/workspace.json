@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/monsters/The lych monarch.md",
+                "file": "BeyondTheMournlords/Npc's/friendlies/Vorghir.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/monsters/The lych monarch.md",
+                "file": "BeyondTheMournlords/Npc's/friendlies/Vorghir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/monsters/The lych monarch.md",
+                "file": "BeyondTheMournlords/Npc's/friendlies/Vorghir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/monsters/The lych monarch.md"
+                "file": "BeyondTheMournlords/Npc's/friendlies/Vorghir.md"
               }
             }
           },
@@ -171,11 +171,19 @@
   },
   "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/friendlies/viridillatro.md",
+    "BeyondTheMournlords/Npc's/friendlies/Vichay.md",
+    "BeyondTheMournlords/Npc's/factions/Verm'arenam.md",
+    "BeyondTheMournlords/Npc's/factions/vermarenam.md",
+    "BeyondTheMournlords/Npc's/enemies/venalis.md",
+    "BeyondTheMournlords/Npc's/neutrals/Torven Whitewater.md",
+    "BeyondTheMournlords/Npc's/friendlies/Torrig.md",
+    "BeyondTheMournlords/Npc's/neutrals/topiary sentinels.md",
+    "BeyondTheMournlords/Npc's/enemies/The lych monarch.md",
     "BeyondTheMournlords/Npc's/factions/the graced.md",
     "BeyondTheMournlords/Npc's/neutrals/terrance reeves.md",
     "BeyondTheMournlords/Npc's/friendlies/Sven.md",
     "BeyondTheMournlords/Npc's/neutrals/Solery.md",
-    "BeyondTheMournlords/Npc's/factions/vermarenam.md",
     "BeyondTheMournlords/Npc's/monsters/solameth.md",
     "BeyondTheMournlords/Npc's/monsters/Shirraak.md",
     "BeyondTheMournlords/Npc's/neutrals/sebastian.md",
@@ -189,14 +197,6 @@
     "BeyondTheMournlords/Npc's/enemies/Nerrot.md",
     "BeyondTheMournlords/Npc's/monsters/Nabasu.md",
     "BeyondTheMournlords/Npc's/enemies/Myrlin.md",
-    "BeyondTheMournlords/Npc's/neutrals/Morkthas.md",
-    "BeyondTheMournlords/Npc's/neutrals/Merrin.md",
-    "BeyondTheMournlords/Npc's/monsters/merridnoris.md",
-    "BeyondTheMournlords/Npc's/factions/maritor.md",
-    "BeyondTheMournlords/Npc's/monsters/Maggoras.md",
-    "BeyondTheMournlords/Npc's/monsters/Main.md",
-    "BeyondTheMournlords/Npc's/enemies/Lazlo.md",
-    "BeyondTheMournlords/Npc's/neutrals/Landon Ringwood.md",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
     "BeyondTheMournlords/Npc's/groups",
