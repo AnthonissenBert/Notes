@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Relafurego.md",
+                "file": "BeyondTheMournlords/Npc's/monsters/The lych monarch.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Relafurego.md",
+                "file": "BeyondTheMournlords/Npc's/monsters/The lych monarch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Relafurego.md",
+                "file": "BeyondTheMournlords/Npc's/monsters/The lych monarch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Relafurego.md"
+                "file": "BeyondTheMournlords/Npc's/monsters/The lych monarch.md"
               }
             }
           },
@@ -169,8 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e188a2fa3f44f666",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/factions/the graced.md",
+    "BeyondTheMournlords/Npc's/neutrals/terrance reeves.md",
+    "BeyondTheMournlords/Npc's/friendlies/Sven.md",
+    "BeyondTheMournlords/Npc's/neutrals/Solery.md",
+    "BeyondTheMournlords/Npc's/factions/vermarenam.md",
+    "BeyondTheMournlords/Npc's/monsters/solameth.md",
+    "BeyondTheMournlords/Npc's/monsters/Shirraak.md",
+    "BeyondTheMournlords/Npc's/neutrals/sebastian.md",
+    "BeyondTheMournlords/Npc's/neutrals/Sarros.md",
+    "BeyondTheMournlords/Npc's/neutrals/Saint Marciana.md",
+    "BeyondTheMournlords/Npc's/enemies/Relafurego.md",
     "BeyondTheMournlords/Npc's/monsters/quazit.md",
     "BeyondTheMournlords/Npc's/monsters/Pyria.md",
     "BeyondTheMournlords/Npc's/friendlies/Njall.md",
@@ -186,17 +197,6 @@
     "BeyondTheMournlords/Npc's/monsters/Main.md",
     "BeyondTheMournlords/Npc's/enemies/Lazlo.md",
     "BeyondTheMournlords/Npc's/neutrals/Landon Ringwood.md",
-    "BeyondTheMournlords/Npc's/neutrals/Lancea Haraen.md",
-    "BeyondTheMournlords/Npc's/friendlies/Kursin.md",
-    "BeyondTheMournlords/Npc's/monsters/Kurguthrus.md",
-    "BeyondTheMournlords/Npc's/neutrals/ksarenna.md",
-    "BeyondTheMournlords/Npc's/friendlies/Kieran.md",
-    "BeyondTheMournlords/Npc's/neutrals/Jermaine Hazemore.md",
-    "BeyondTheMournlords/Npc's/neutrals/Isaias bostusa.md",
-    "BeyondTheMournlords/Npc's/neutrals/Ipnaph.md",
-    "BeyondTheMournlords/Npc's/monsters/Imolith.md",
-    "BeyondTheMournlords/Npc's/monsters/hydrolofs.md",
-    "BeyondTheMournlords/Npc's/monsters/hesro.md",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
     "BeyondTheMournlords/Npc's/groups",
