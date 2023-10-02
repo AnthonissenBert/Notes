@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Forgir.md",
+                "file": "BeyondTheMournlords/Npc's/Jermaine Hazemore.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Forgir.md",
+                "file": "BeyondTheMournlords/Npc's/Jermaine Hazemore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Forgir.md",
+                "file": "BeyondTheMournlords/Npc's/Jermaine Hazemore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Forgir.md"
+                "file": "BeyondTheMournlords/Npc's/Jermaine Hazemore.md"
               }
             }
           },
@@ -171,6 +171,20 @@
   },
   "active": "e188a2fa3f44f666",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/neutrals/Isaias bostusa.md",
+    "BeyondTheMournlords/Npc's/neutrals/Ipnaph.md",
+    "BeyondTheMournlords/Npc's/monsters/Imolith.md",
+    "BeyondTheMournlords/Npc's/monsters/hydrolofs.md",
+    "BeyondTheMournlords/Npc's/monsters/hesro.md",
+    "BeyondTheMournlords/Npc's/monsters/Hellhound.md",
+    "BeyondTheMournlords/Npc's/neutrals/Hal garza.md",
+    "BeyondTheMournlords/Npc's/monsters/Gorach.md",
+    "BeyondTheMournlords/Npc's/friendlies/Giran.md",
+    "BeyondTheMournlords/Npc's/friendlies/Gill.md",
+    "BeyondTheMournlords/Npc's/neutrals/Ghadul.md",
+    "BeyondTheMournlords/Npc's/monsters/general gergathsus.md",
+    "BeyondTheMournlords/Npc's/friendlies/Galliard smith.md",
+    "BeyondTheMournlords/Npc's/neutrals/Forgir.md",
     "BeyondTheMournlords/Npc's/monsters/Feludriah.md",
     "BeyondTheMournlords/Npc's/friendlies/Eyaran.md",
     "BeyondTheMournlords/Npc's/factions/everguard.md",
@@ -184,22 +198,8 @@
     "BeyondTheMournlords/Places/Mar Ceran.md",
     "BeyondTheMournlords/Npc's/monsters/djobok.md",
     "BeyondTheMournlords/Npc's/neutrals/Djarin.md",
-    "BeyondTheMournlords/Npc's/monsters/demon queen of abbiris.md",
-    "BeyondTheMournlords/Npc's/friendlies/Caspar.md",
-    "BeyondTheMournlords/Npc's/neutrals/Beromin.md",
-    "BeyondTheMournlords/Npc's/friendlies/Bernard.md",
-    "BeyondTheMournlords/Npc's/monsters/Baylor.md",
-    "BeyondTheMournlords/Npc's/enemies/bark.md",
-    "BeyondTheMournlords/Npc's/monsters/Bargolag.md",
-    "BeyondTheMournlords/Npc's/monsters/babao.md",
     "BeyondTheMournlords/Npc's/monsters",
-    "BeyondTheMournlords/Npc's/friendlies/Aurelien.md",
-    "BeyondTheMournlords/Npc's/neutrals/alpenhoorn.md",
-    "BeyondTheMournlords/Npc's/neutrals/Alden Belford.md",
-    "BeyondTheMournlords/Npc's/neutrals/accersaquanda.md",
-    "BeyondTheMournlords/Npc's/groups/Aestuoris.md",
     "BeyondTheMournlords/Npc's/groups",
-    "BeyondTheMournlords/Npc's/the graced.md",
     "BeyondTheMournlords/Npc's/enemies",
     "BeyondTheMournlords/Npc's/friendlies",
     "BeyondTheMournlords/Npc's/neutrals",
