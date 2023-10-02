@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/merridnoris.md",
+                "file": "BeyondTheMournlords/Npc's/Relafurego.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/merridnoris.md",
+                "file": "BeyondTheMournlords/Npc's/Relafurego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/merridnoris.md",
+                "file": "BeyondTheMournlords/Npc's/Relafurego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/merridnoris.md"
+                "file": "BeyondTheMournlords/Npc's/Relafurego.md"
               }
             }
           },
@@ -171,6 +171,16 @@
   },
   "active": "e188a2fa3f44f666",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/monsters/quazit.md",
+    "BeyondTheMournlords/Npc's/monsters/Pyria.md",
+    "BeyondTheMournlords/Npc's/friendlies/Njall.md",
+    "BeyondTheMournlords/Npc's/monsters/nicoloth.md",
+    "BeyondTheMournlords/Npc's/enemies/Nerrot.md",
+    "BeyondTheMournlords/Npc's/monsters/Nabasu.md",
+    "BeyondTheMournlords/Npc's/enemies/Myrlin.md",
+    "BeyondTheMournlords/Npc's/neutrals/Morkthas.md",
+    "BeyondTheMournlords/Npc's/neutrals/Merrin.md",
+    "BeyondTheMournlords/Npc's/monsters/merridnoris.md",
     "BeyondTheMournlords/Npc's/factions/maritor.md",
     "BeyondTheMournlords/Npc's/monsters/Maggoras.md",
     "BeyondTheMournlords/Npc's/monsters/Main.md",
@@ -187,16 +197,6 @@
     "BeyondTheMournlords/Npc's/monsters/Imolith.md",
     "BeyondTheMournlords/Npc's/monsters/hydrolofs.md",
     "BeyondTheMournlords/Npc's/monsters/hesro.md",
-    "BeyondTheMournlords/Npc's/monsters/Hellhound.md",
-    "BeyondTheMournlords/Npc's/neutrals/Hal garza.md",
-    "BeyondTheMournlords/Npc's/monsters/Gorach.md",
-    "BeyondTheMournlords/Npc's/friendlies/Giran.md",
-    "BeyondTheMournlords/Npc's/friendlies/Gill.md",
-    "BeyondTheMournlords/Npc's/neutrals/Ghadul.md",
-    "BeyondTheMournlords/Npc's/monsters/general gergathsus.md",
-    "BeyondTheMournlords/Npc's/friendlies/Galliard smith.md",
-    "BeyondTheMournlords/Npc's/neutrals/Forgir.md",
-    "BeyondTheMournlords/Npc's/monsters/Feludriah.md",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
     "BeyondTheMournlords/Npc's/groups",
