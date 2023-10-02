@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Aestuoris.md",
+                "file": "BeyondTheMournlords/Npc's/dreches.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Aestuoris.md",
+                "file": "BeyondTheMournlords/Npc's/dreches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Aestuoris.md",
+                "file": "BeyondTheMournlords/Npc's/dreches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Aestuoris.md"
+                "file": "BeyondTheMournlords/Npc's/dreches.md"
               }
             }
           },
@@ -171,6 +171,23 @@
   },
   "active": "e188a2fa3f44f666",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/monsters/djobok.md",
+    "BeyondTheMournlords/Npc's/neutrals/Djarin.md",
+    "BeyondTheMournlords/Npc's/monsters/demon queen of abbiris.md",
+    "BeyondTheMournlords/Npc's/friendlies/Caspar.md",
+    "BeyondTheMournlords/Npc's/neutrals/Beromin.md",
+    "BeyondTheMournlords/Npc's/friendlies/Bernard.md",
+    "BeyondTheMournlords/Npc's/monsters/Baylor.md",
+    "BeyondTheMournlords/Npc's/enemies/bark.md",
+    "BeyondTheMournlords/Npc's/monsters/Bargolag.md",
+    "BeyondTheMournlords/Npc's/monsters/babao.md",
+    "BeyondTheMournlords/Npc's/monsters",
+    "BeyondTheMournlords/Npc's/friendlies/Aurelien.md",
+    "BeyondTheMournlords/Npc's/neutrals/alpenhoorn.md",
+    "BeyondTheMournlords/Npc's/neutrals/Alden Belford.md",
+    "BeyondTheMournlords/Npc's/neutrals/accersaquanda.md",
+    "BeyondTheMournlords/Npc's/groups/Aestuoris.md",
+    "BeyondTheMournlords/Npc's/groups",
     "BeyondTheMournlords/Npc's/the graced.md",
     "BeyondTheMournlords/Npc's/enemies",
     "BeyondTheMournlords/Npc's/friendlies",
@@ -186,26 +203,11 @@
     "BeyondTheMournlords/Locations",
     "BeyondTheMournlords/Locations/Barkael bay.md",
     "BeyondTheMournlords/Sessions/2023-09-23.md",
-    "BeyondTheMournlords/Sessions/2023-09-03.md",
-    "BeyondTheMournlords/Players/Volgrim.md",
-    "BeyondTheMournlords/Players/Galdan.md",
-    "Seppe/Sessions/2023-09-26.md",
-    "conflict-files-obsidian-git.md",
-    "Seppe/Npc's/derinil.md",
-    "SlingshotDnD/Sessions/2023-09-27.md",
-    "SlingshotDnD/Players/Rikikiri Finkiririki.md",
-    "SlingshotDnD/Players/Isshin Ixina.md",
-    "SlingshotDnD/Players/Fango Bett.md",
-    "SlingshotDnD/Players/Aernu Raemas.md",
-    "Seppe/derinil.md",
-    "Seppe/Players/Shayizur.md",
-    "Seppe/Players/Satari.md",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "Seppe/Sessions",
     "Seppe/Players",
     "Seppe/Places",
     "Seppe/Npc's",
-    "Seppe",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg",
@@ -214,7 +216,6 @@
     "SlingshotDnD/_Assets/Pasted image 20230922000627.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922000603.jpg",
     "SlingshotDnD/_Assets/Night_Hag-5e.webp",
-    "SlingshotDnD/_Assets/Pasted image 20230922000155.jpg",
-    "SlingshotDnD/Locations/Whorehouses"
+    "SlingshotDnD/_Assets/Pasted image 20230922000155.jpg"
   ]
 }
