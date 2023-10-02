@@ -1,1 +1,0 @@
-Tyhpe of fiends in [[vigorous veil]]
