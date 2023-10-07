@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the chant.md",
+                "file": "BeyondTheMournlords/Sessions/2023-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the chant.md",
+                "file": "BeyondTheMournlords/Sessions/2023-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the chant.md"
+                "file": "BeyondTheMournlords/Sessions/2023-10-07.md"
               }
             }
           },
@@ -169,11 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b2d26fec3ef6a5d",
+  "active": "ba0a1e170bcbb504",
   "lastOpenFiles": [
+    "the chant.md",
     "Pasted image 20231007193238.png",
     "BeyondTheMournlords/Sessions/2023-10-07.md",
-    "the chant.md",
     "BeyondTheMournlords/Sessions/2023-10-02.md",
     "BeyondTheMournlords/Npc's/neutrals/Zorskan.md",
     "BeyondTheMournlords/Npc's/monsters/Zoltest.md",
@@ -215,7 +214,6 @@
     "SlingshotDnD/_Assets/Pasted image 20230922000911.png",
     "SlingshotDnD/_Assets/Pasted image 20230922000627.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922000603.jpg",
-    "SlingshotDnD/_Assets/Night_Hag-5e.webp",
-    "SlingshotDnD/_Assets/Pasted image 20230922000155.jpg"
+    "SlingshotDnD/_Assets/Night_Hag-5e.webp"
   ]
 }
