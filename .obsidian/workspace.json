@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023-10-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b2d26fec3ef6a5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the chant.md",
+                "file": "BeyondTheMournlords/Sessions/2023-09-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023-10-07.md",
+                "file": "BeyondTheMournlords/Sessions/2023-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023-10-07.md",
+                "file": "BeyondTheMournlords/Sessions/2023-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023-10-07.md"
+                "file": "BeyondTheMournlords/Sessions/2023-09-03.md"
               }
             }
           },
@@ -170,11 +158,15 @@
   },
   "active": "ba0a1e170bcbb504",
   "lastOpenFiles": [
-    "the bell of the altar sever.md",
+    "BeyondTheMournlords/Npc's/neutrals/terrance reeves.md",
+    "BeyondTheMournlords/Sessions/2023-09-03.md",
+    "BeyondTheMournlords/Sessions/2023-09-23.md",
+    "BeyondTheMournlords/Sessions/2023-10-02.md",
     "BeyondTheMournlords/Sessions/2023-10-07.md",
+    "Osias.md",
+    "the bell of the altar sever.md",
     "the chant.md",
     "Pasted image 20231007193238.png",
-    "BeyondTheMournlords/Sessions/2023-10-02.md",
     "BeyondTheMournlords/Npc's/neutrals/Zorskan.md",
     "BeyondTheMournlords/Npc's/monsters/Zoltest.md",
     "BeyondTheMournlords/Npc's/neutrals/Yephel.md",
@@ -190,13 +182,9 @@
     "BeyondTheMournlords/Npc's/neutrals/topiary sentinels.md",
     "BeyondTheMournlords/Npc's/enemies/The lych monarch.md",
     "BeyondTheMournlords/Npc's/factions/the graced.md",
-    "BeyondTheMournlords/Npc's/neutrals/terrance reeves.md",
     "BeyondTheMournlords/Npc's/friendlies/Sven.md",
     "BeyondTheMournlords/Npc's/neutrals/Solery.md",
     "BeyondTheMournlords/Npc's/monsters/solameth.md",
-    "BeyondTheMournlords/Npc's/monsters/Shirraak.md",
-    "BeyondTheMournlords/Npc's/neutrals/sebastian.md",
-    "BeyondTheMournlords/Npc's/neutrals/Sarros.md",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
     "BeyondTheMournlords/Npc's/groups",
