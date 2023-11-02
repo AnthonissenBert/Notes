@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "53e12547d7fce4d9",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230921233952.jpg",
+                "file": "SlingshotDnD/Sessions/2023-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230921233952.jpg",
+                "file": "SlingshotDnD/Sessions/2023-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/_Assets/Pasted image 20230921233952.jpg"
+                "file": "SlingshotDnD/Sessions/2023-09-27.md"
               }
             }
           },
@@ -187,113 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "e64733785af6d9d2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0f872f1fdfd9447b",
-        "type": "window",
-        "children": [
-          {
-            "id": "861eebb66d4bdc6d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b1a7b80bdf2c53ca",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "SlingshotDnD/_Assets/Pasted image 20230921234513.png"
-                  }
-                }
-              },
-              {
-                "id": "85fa006803771bb1",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "SlingshotDnD/_Assets/Pasted image 20230921233952.jpg"
-                  }
-                }
-              },
-              {
-                "id": "4c2d9c1616ffb754",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.4.14"
-                  }
-                }
-              },
-              {
-                "id": "b029e9f79c873665",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "SlingshotDnD/_Assets/Pasted image 20230920225348.jpg"
-                  }
-                }
-              },
-              {
-                "id": "020e72883179997c",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg"
-                  }
-                }
-              },
-              {
-                "id": "be7256e5fa28ecbb",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg"
-                  }
-                }
-              },
-              {
-                "id": "bd1bab30cd0bb06f",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg"
-                  }
-                }
-              },
-              {
-                "id": "c215ee0ec353a78d",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "SlingshotDnD/_Assets/Pasted image 20230922002956.png"
-                  }
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 1467,
-        "width": 1280,
-        "height": 1503,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4c2d9c1616ffb754",
+  "active": "f1a7f86258503b1e",
   "lastOpenFiles": [
     "SlingshotDnD/_Assets/Pasted image 20230921234513.png",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
