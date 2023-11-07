@@ -1,5 +1,5 @@
 Type: Hideout
-Location: close to the 
+Location: In a Forest
 
 ---
 
