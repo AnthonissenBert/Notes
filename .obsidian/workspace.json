@@ -11,8 +11,12 @@
             "id": "e835d7c644231fd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SlingshotDnD/Locations/Banditcamps/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SlingshotDnD/Locations/Banditcamps/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SlingshotDnD/Locations/Banditcamps/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SlingshotDnD/Locations/Banditcamps/Untitled.md"
+              }
             }
           },
           {
@@ -150,6 +158,9 @@
   },
   "active": "e835d7c644231fd7",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Outposts/Kharakul.md",
+    "SlingshotDnD/Locations/Banditcamps/Untitled.md",
+    "SlingshotDnD/Locations/Banditcamps",
     "OwnOneShots/murder_mystery/Plot.md",
     "OwnOneShots/globals/Aldercrest Kingdom.md",
     "OwnOneShots/globals/the Tear of Lysandra.md",
@@ -175,8 +186,6 @@
     "BeyondTheMournlords/Sessions/2023-10-02.md",
     "BeyondTheMournlords/Npc's/neutrals/Zorskan.md",
     "BeyondTheMournlords/Npc's/monsters/Zoltest.md",
-    "BeyondTheMournlords/Npc's/neutrals/Yephel.md",
-    "BeyondTheMournlords/Npc's/monsters/Wrok.md",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
     "BeyondTheMournlords/Npc's/groups",
@@ -187,7 +196,6 @@
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "Seppe/Sessions",
     "Seppe/Players",
-    "Seppe/Places",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg",
