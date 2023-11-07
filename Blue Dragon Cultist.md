@@ -17,31 +17,20 @@ CHA: 10 (+0)
 ---
 ### proficiencies / languages / saving throws / skills
 
-**Saving Throws**
-**Skills** 
-**Senses**
-**Languages** 
-**Challenge**
-
----
-### Equipment
-
-- ...
+**Senses** Passive Perception 10
+**Languages** Any one language (usually Common)
+**Challenge** 1/8 (25 XP)
+**Proficiency Bonus** +2
 
 ---
 ### Special Abilities
 
-- ...
-
----
-### Traits
-
-**...**
+_**Dark Devotion.**_ The cultist has advantage on saving throws against being [charmed](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Charmed) or [frightened](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Frightened)
 
 ---
 ### Actions
 
-**...**
+_**Scimitar.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d6 + 1) slashing damage.
 
 ---
 ### Tactics and Roleplay
