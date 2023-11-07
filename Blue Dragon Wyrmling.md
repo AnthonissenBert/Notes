@@ -33,3 +33,5 @@ CHA: 15 (+2)
 
 ---
 ### Tactics and Roleplay
+
+![[Pasted image 20231107234420.png]]

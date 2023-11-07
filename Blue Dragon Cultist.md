@@ -34,3 +34,5 @@ _**Scimitar.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _
 
 ---
 ### Tactics and Roleplay
+
+![[Pasted image 20231107234349.png]]
