@@ -8,10 +8,10 @@ Speed 30 ft.
 ### ability scores
 
 STR: 11 (+0) 
-DEX: 12 (+0)
+DEX: 12 (+1)
 CON: 10 (+0)
 INT: 10 (+0)
-WIS: 10 (+0)
+WIS: 11 (+0)
 CHA: 10 (+0)
 
 ---
