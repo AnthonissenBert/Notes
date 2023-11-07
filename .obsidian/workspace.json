@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OwnOneShots/murder_mystery/Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OwnOneShots/murder_mystery/Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OwnOneShots/murder_mystery/Plot.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "e835d7c644231fd7",
   "lastOpenFiles": [
+    "OwnOneShots/murder_mystery/Plot.md",
     "OwnOneShots/globals/Aldercrest Kingdom.md",
     "OwnOneShots/globals/the Tear of Lysandra.md",
     "BeyondTheMournlords/MagicalArtifacts/the chant.md",
@@ -180,7 +177,6 @@
     "BeyondTheMournlords/Npc's/monsters/Zoltest.md",
     "BeyondTheMournlords/Npc's/neutrals/Yephel.md",
     "BeyondTheMournlords/Npc's/monsters/Wrok.md",
-    "BeyondTheMournlords/Npc's/friendlies/Vorghir.md",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
     "BeyondTheMournlords/Npc's/groups",
