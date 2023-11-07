@@ -3,7 +3,7 @@ Location: In a Forest
 
 ---
 
-description
+On an elevated surface there lays a 
 
 ---
 
