@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/Hideouts/Untitled.md",
+                "file": "SlingshotDnD/Locations/Hideouts/Skysworn Hideout.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Hideouts/Untitled.md",
+                "file": "SlingshotDnD/Locations/Hideouts/Skysworn Hideout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Hideouts/Untitled.md",
+                "file": "SlingshotDnD/Locations/Hideouts/Skysworn Hideout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Hideouts/Untitled.md"
+                "file": "SlingshotDnD/Locations/Hideouts/Skysworn Hideout.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "e835d7c644231fd7",
   "lastOpenFiles": [
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
-    "SlingshotDnD/Locations/Hideouts/Untitled.md",
+    "SlingshotDnD/Locations/Hideouts/Skysworn Hideout.md",
     "SlingshotDnD/Locations/Hideouts",
     "OwnOneShots/murder_mystery/Plot.md",
     "OwnOneShots/globals/Aldercrest Kingdom.md",
