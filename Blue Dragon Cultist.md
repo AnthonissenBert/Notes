@@ -25,7 +25,7 @@ CHA: 10 (+0)
 ---
 ### Special Abilities
 
-_**Dark Devotion.**_ The cultist has advantage on saving throws against being [charmed](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Charmed) or [frightened](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Frightened)
+_**Dark Devotion.**_ The cultist has advantage on saving throws against being [charmed](https://roll20.net/compendium/dnd5e/Conditions#toc_2) or [frightened](https://roll20.net/compendium/dnd5e/Conditions#toc_4)
 
 ---
 ### Actions
