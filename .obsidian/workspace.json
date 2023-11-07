@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ahrishar.md",
+                "file": "BeyondTheMournlords/MagicalArtifacts/the chant.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isias.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/Isias.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ahrishar.md",
+                "file": "BeyondTheMournlords/MagicalArtifacts/the chant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ahrishar.md",
+                "file": "BeyondTheMournlords/MagicalArtifacts/the chant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ahrishar.md"
+                "file": "BeyondTheMournlords/MagicalArtifacts/the chant.md"
               }
             }
           },
@@ -168,8 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba0a1e170bcbb504",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "BeyondTheMournlords/MagicalArtifacts/the bell of the altar sever.md",
+    "BeyondTheMournlords/_assets/Pasted image 20231007193238.png",
+    "BeyondTheMournlords/Npc's/factions/alabasta court.md",
+    "BeyondTheMournlords/Npc's/neutrals/Isias.md",
+    "BeyondTheMournlords/Npc's/friendlies/Ahrishar.md",
     "BeyondTheMournlords/Sessions/2023-11-05.md",
     "BeyondTheMournlords/Synopsis.md",
     "Templates/session.template.md",
@@ -180,23 +185,17 @@
     "Templates/quest.template.md",
     "Templates/village.template.md",
     "BeyondTheMournlords/Sessions/2023-10-07.md",
-    "Isias.md",
-    "Ahrishar.md",
-    "alabasta court.md",
     "BeyondTheMournlords/Sessions/2023-09-03.md",
     "BeyondTheMournlords/Npc's/neutrals/terrance reeves.md",
     "BeyondTheMournlords/Sessions/2023-09-23.md",
     "BeyondTheMournlords/Sessions/2023-10-02.md",
-    "the bell of the altar sever.md",
-    "the chant.md",
-    "Pasted image 20231007193238.png",
+    "BeyondTheMournlords/MagicalArtifacts/the chant.md",
     "BeyondTheMournlords/Npc's/neutrals/Zorskan.md",
     "BeyondTheMournlords/Npc's/monsters/Zoltest.md",
     "BeyondTheMournlords/Npc's/neutrals/Yephel.md",
     "BeyondTheMournlords/Npc's/monsters/Wrok.md",
     "BeyondTheMournlords/Npc's/friendlies/Vorghir.md",
     "BeyondTheMournlords/Npc's/friendlies/viridillatro.md",
-    "BeyondTheMournlords/Npc's/friendlies/Vichay.md",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
     "BeyondTheMournlords/Npc's/groups",
