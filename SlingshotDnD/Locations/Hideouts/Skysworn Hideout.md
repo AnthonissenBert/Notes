@@ -3,7 +3,7 @@ Location: In a Forest
 
 ---
 
-On an elevated surface there lays a 
+On an elevated surface there lays a walled encampment with one singular enterance
 
 ---
 
@@ -11,3 +11,7 @@ On an elevated surface there lays a
 
 [[Blue Dragon Wyrmling]]
 [[Blue Dragon Cultist]]
+
+## hooks
+
+- trap at the 
