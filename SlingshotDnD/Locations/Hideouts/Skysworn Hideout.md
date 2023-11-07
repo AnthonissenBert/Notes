@@ -17,4 +17,4 @@ From navigating further into the camp you see it's pretty basic. your chests on 
 ## hooks
 
 - trap at the door
-- 
+- chest burried in the sleeping quarter
