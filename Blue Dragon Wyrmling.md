@@ -1,26 +1,18 @@
-### general
-
-Name:
-Race: 
-Class: 
-Alignment: 
-
----
 ### key information
 
-Armor Class: 
-Hit Points: 
-Speed ... ft.
+**Armor Class** 17 (natural armor)  
+**Hit Points** 52 (8d8 + 16)  
+**Speed** 30 ft., burrow 15 ft., fly 60 ft.
 
 ---
 ### ability scores
 
-STR: 10 (+0) 
+STR: 17 (+3) 
 DEX: 10 (+0)
-CON: 10 (+0)
-INT: 10 (+0)
-WIS: 10 (+0)
-CHA: 10 (+0)
+CON: 15 (+2)
+INT: 12 (+1)
+WIS: 11 (+0)
+CHA: 15 (+2)
 
 ---
 ### proficiencies / languages / saving throws / skills
