@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "c7fdb08a4c0caf46",
+            "id": "2f456592433d31f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Noxia Nidore.md",
+                "file": "Aiska.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ska",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,11 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "9b89f7974fa8b25d",
   "lastOpenFiles": [
+    "Aiska.md",
+    "BeyondTheMournlords/Sessions/2023-11-23.md",
     "BeyondTheMournlords/Sessions/2023-10-07.md",
     "BeyondTheMournlords/Npc's/neutrals/Isaias Bostusa.md",
-    "BeyondTheMournlords/Sessions/2023-11-23.md",
     "BeyondTheMournlords/Npc's/neutrals/Isias.md",
     "BeyondTheMournlords/Sessions/2023-11-05.md",
     "BeyondTheMournlords/Npc's/neutrals/Torven Whitewater.md",
@@ -199,7 +201,6 @@
     "BeyondTheMournlords/MagicalArtifacts/the bell of the altar sever.md",
     "BeyondTheMournlords/_assets/Pasted image 20231007193238.png",
     "BeyondTheMournlords/Npc's/factions/alabasta court.md",
-    "BeyondTheMournlords/Npc's/friendlies/Ahrishar.md",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
     "BeyondTheMournlords/Npc's/groups",
