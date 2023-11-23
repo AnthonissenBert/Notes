@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Npc's/Victor Duskmire.md",
+                "file": "OwnOneShots/murder_mystery/combats/first cult combat.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Victor Duskmire.md",
+                "file": "OwnOneShots/murder_mystery/combats/first cult combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Victor Duskmire.md",
+                "file": "OwnOneShots/murder_mystery/combats/first cult combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Victor Duskmire.md"
+                "file": "OwnOneShots/murder_mystery/combats/first cult combat.md"
               }
             }
           },
@@ -181,8 +181,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "dfc270db3b803cd3",
   "lastOpenFiles": [
+    "OwnOneShots/murder_mystery/combats/bbeg combat.md",
+    "SlingshotDnD/MagicalArtifacts/the Tear of Lysandra.md",
+    "SlingshotDnD/Locations/Aldercrest Kingdom.md",
+    "OwnOneShots/murder_mystery/enemies/Aelar Vorenthar.md",
+    "SlingshotDnD/Factions/Black Disciples.md",
+    "SlingshotDnD/Factions/Cult of Slizuni.md",
+    "SlingshotDnD/Npc's/Victor Duskmire.md",
     "SlingshotDnD/Npc's/Alaric Steele.md",
     "SlingshotDnD/Locations/Dusk Market.md",
     "SlingshotDnD/Locations/Celestial Gardens.md",
@@ -202,13 +209,6 @@
     "BeyondTheMournlords/Npc's/neutrals/Luca.md",
     "BeyondTheMournlords/Npc's/monsters/water elemental.md",
     "BeyondTheMournlords/Npc's/monsters/wasdralift.md",
-    "BeyondTheMournlords/Npc's/monsters/hydroloth.md",
-    "SlingshotDnD/Locations/Hideouts/Skysworn Hideout.md",
-    "SlingshotDnD/Npc's/Monsters/Blue Dragon Wyrmling.md",
-    "SlingshotDnD/Npc's/Monsters/Direwolf.md",
-    "SlingshotDnD/Npc's/Monsters/earth elemental.md",
-    "SlingshotDnD/Npc's/Monsters/Ettin.md",
-    "SlingshotDnD/Npc's/Monsters/Barghest.md",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
     "SlingshotDnD/Locations/Hideouts",
