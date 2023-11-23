@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OwnOneShots/murder_mystery/enemies/Aelar Vorenthar.md",
+                "file": "SlingshotDnD/Npc's/Enemies/Aelar Vorenthar.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff81b49ce729ff18",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OwnOneShots/murder_mystery/enemies/Aelar Vorenthar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OwnOneShots/murder_mystery/enemies/Aelar Vorenthar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OwnOneShots/murder_mystery/enemies/Aelar Vorenthar.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,8 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "ff81b49ce729ff18",
   "lastOpenFiles": [
+    "SlingshotDnD/Npc's/Enemies/Aelar Vorenthar.md",
     "SlingshotDnD/Quests/MurderMystery/Plot.md",
     "OwnOneShots/murder_mystery/Plot.md",
     "SlingshotDnD/Quests/MurderMystery/combats/first cult combat.md",
@@ -178,7 +183,6 @@
     "SlingshotDnD/Quests/MurderMystery/combats/bbeg combat.md",
     "SlingshotDnD/MagicalArtifacts/the Tear of Lysandra.md",
     "SlingshotDnD/Locations/Aldercrest Kingdom.md",
-    "OwnOneShots/murder_mystery/enemies/Aelar Vorenthar.md",
     "SlingshotDnD/Factions/Black Disciples.md",
     "SlingshotDnD/Factions/Cult of Slizuni.md",
     "SlingshotDnD/Npc's/Victor Duskmire.md",
