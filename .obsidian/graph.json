@@ -6,7 +6,22 @@
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:BeyondTheMournlords  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:SlingshotDnD  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 14.2708333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.034085748967001075,
+  "scale": 0.047787637109624935,
   "close": false
 }
