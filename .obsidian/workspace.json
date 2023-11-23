@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Npc's/Neutrals/Seraphina Valerius.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/the spirit of Lysandra.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Neutrals/Seraphina Valerius.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/the spirit of Lysandra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Neutrals/Seraphina Valerius.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/the spirit of Lysandra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Neutrals/Seraphina Valerius.md"
+                "file": "SlingshotDnD/Npc's/Neutrals/the spirit of Lysandra.md"
               }
             }
           },
@@ -170,6 +170,10 @@
   },
   "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "SlingshotDnD/Npc's/Enemies/spirit of the cursed.md",
+    "SlingshotDnD/Npc's/Neutrals/Gideon.md",
+    "SlingshotDnD/Npc's/Monsters/cursed guardian.md",
+    "SlingshotDnD/Npc's/Neutrals/Seraphina Valerius.md",
     "SlingshotDnD/Npc's/Neutrals/Piper.md",
     "SlingshotDnD/Npc's/Neutrals/Otto Ravenswood.md",
     "SlingshotDnD/Npc's/Neutrals/Nadeen Duskmire.md",
@@ -192,10 +196,6 @@
     "SlingshotDnD/Npc's/Neutrals/Duldan.md",
     "SlingshotDnD/Npc's/Neutrals/Daryll.md",
     "SlingshotDnD/Npc's/Neutrals/Cyr.md",
-    "SlingshotDnD/Npc's/Neutrals/Coll.md",
-    "SlingshotDnD/Npc's/Neutrals/Cedric Everhart.md",
-    "SlingshotDnD/Npc's/Neutrals/Bhelmur.md",
-    "SlingshotDnD/Npc's/Neutrals/Aurelian.md",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
