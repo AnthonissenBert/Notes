@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:TheRoleplayCampaign  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Seppe  ",
+      "color": {
+        "a": 1,
+        "rgb": 15547888
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +46,6 @@
   "repelStrength": 14.2708333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.047787637109624935,
+  "scale": 0.04778763710962496,
   "close": false
 }
