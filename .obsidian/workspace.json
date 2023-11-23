@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023-11-23.md",
+                "file": "BeyondTheMournlords/Sessions/2023-10-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f23dfad77f110947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Npc's/neutrals/Isias.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Noxia Nidore.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/Isias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Noxia Nidore.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/Isias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Noxia Nidore.md"
+                "file": "BeyondTheMournlords/Npc's/neutrals/Isias.md"
               }
             }
           },
@@ -169,15 +181,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7fdb08a4c0caf46",
+  "active": "f23dfad77f110947",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2023-10-07.md",
+    "BeyondTheMournlords/Npc's/neutrals/Isias.md",
+    "BeyondTheMournlords/Sessions/2023-11-05.md",
     "BeyondTheMournlords/Sessions/2023-11-23.md",
+    "BeyondTheMournlords/Npc's/neutrals/Torven Whitewater.md",
     "Noxia Nidore.md",
     "Luca.md",
     "water elemental.md",
     "wasdralift.md",
     "hydroloth.md",
-    "BeyondTheMournlords/Sessions/2023-11-05.md",
     "SlingshotDnD/Locations/Hideouts/Skysworn Hideout.md",
     "SlingshotDnD/Npc's/Monsters/Blue Dragon Wyrmling.md",
     "SlingshotDnD/Npc's/Monsters/Direwolf.md",
@@ -196,11 +211,8 @@
     "BeyondTheMournlords/MagicalArtifacts/the bell of the altar sever.md",
     "BeyondTheMournlords/_assets/Pasted image 20231007193238.png",
     "BeyondTheMournlords/Npc's/factions/alabasta court.md",
-    "BeyondTheMournlords/Npc's/neutrals/Isias.md",
     "BeyondTheMournlords/Npc's/friendlies/Ahrishar.md",
     "BeyondTheMournlords/Synopsis.md",
-    "Templates/session.template.md",
-    "Templates/character-sheet-combat.template.md",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
     "BeyondTheMournlords/Npc's/groups",

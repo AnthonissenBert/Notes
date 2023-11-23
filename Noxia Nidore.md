@@ -1,4 +1,4 @@
-group of  
+group of mercenaries 
 
 ---
 #### Leader
