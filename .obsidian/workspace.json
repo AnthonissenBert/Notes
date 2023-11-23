@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OwnOneShots/murder_mystery/Plot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5eec0291e04b0fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OwnOneShots/murder_mystery/Plot.md",
+                "file": "SlingshotDnD/Quests/MurderMystery/Plot.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OwnOneShots/murder_mystery/combats/first cult combat.md",
+                "file": "OwnOneShots/murder_mystery/enemies/Aelar Vorenthar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OwnOneShots/murder_mystery/combats/first cult combat.md",
+                "file": "OwnOneShots/murder_mystery/enemies/Aelar Vorenthar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OwnOneShots/murder_mystery/combats/first cult combat.md",
+                "file": "OwnOneShots/murder_mystery/enemies/Aelar Vorenthar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OwnOneShots/murder_mystery/combats/first cult combat.md"
+                "file": "OwnOneShots/murder_mystery/enemies/Aelar Vorenthar.md"
               }
             }
           },
@@ -181,9 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfc270db3b803cd3",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
-    "OwnOneShots/murder_mystery/combats/bbeg combat.md",
+    "SlingshotDnD/Quests/MurderMystery/Plot.md",
+    "OwnOneShots/murder_mystery/Plot.md",
+    "SlingshotDnD/Quests/MurderMystery/combats/first cult combat.md",
+    "SlingshotDnD/Quests/MurderMystery",
+    "SlingshotDnD/Quests/MurderMystery/combats/bbeg combat.md",
     "SlingshotDnD/MagicalArtifacts/the Tear of Lysandra.md",
     "SlingshotDnD/Locations/Aldercrest Kingdom.md",
     "OwnOneShots/murder_mystery/enemies/Aelar Vorenthar.md",
@@ -193,8 +185,6 @@
     "SlingshotDnD/Npc's/Alaric Steele.md",
     "SlingshotDnD/Locations/Dusk Market.md",
     "SlingshotDnD/Locations/Celestial Gardens.md",
-    "SlingshotDnD/Quests/Muder Mystery.md",
-    "OwnOneShots/murder_mystery/Plot.md",
     "BeyondTheMournlords/Npc's/neutrals/Ayaska.md",
     "SlingshotDnD/Synopsis.md",
     "Seppe/Sessions/2023-09-26.md",
@@ -207,8 +197,6 @@
     "BeyondTheMournlords/Npc's/neutrals/Torven Whitewater.md",
     "BeyondTheMournlords/Npc's/factions/Noxia Nidore.md",
     "BeyondTheMournlords/Npc's/neutrals/Luca.md",
-    "BeyondTheMournlords/Npc's/monsters/water elemental.md",
-    "BeyondTheMournlords/Npc's/monsters/wasdralift.md",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
     "SlingshotDnD/Locations/Hideouts",
@@ -222,7 +210,6 @@
     "BeyondTheMournlords/Locations",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "Seppe/Sessions",
-    "Seppe/Players",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922001023.jpg",
