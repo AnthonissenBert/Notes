@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Quests/MurderMystery/Plot.md",
+                "file": "SlingshotDnD/Npc's/Elara Windrider.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Quests/MurderMystery/Plot.md",
+                "file": "SlingshotDnD/Npc's/Elara Windrider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Quests/MurderMystery/Plot.md",
+                "file": "SlingshotDnD/Npc's/Elara Windrider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Quests/MurderMystery/Plot.md"
+                "file": "SlingshotDnD/Npc's/Elara Windrider.md"
               }
             }
           },
@@ -168,8 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "9b89f7974fa8b25d",
   "lastOpenFiles": [
+    "SlingshotDnD/Npc's/Neutrals/Egim Thornfield.md",
+    "SlingshotDnD/Npc's/Neutrals/Duldan.md",
+    "SlingshotDnD/Npc's/Neutrals/Daryll.md",
+    "SlingshotDnD/Npc's/Neutrals/Cyr.md",
+    "SlingshotDnD/Npc's/Neutrals/Coll.md",
+    "SlingshotDnD/Npc's/Neutrals/Cedric Everhart.md",
+    "SlingshotDnD/Npc's/Neutrals/Bhelmur.md",
+    "SlingshotDnD/Npc's/Neutrals/Aurelian.md",
+    "SlingshotDnD/Npc's/Neutrals/Arahana Sulimelkil.md",
+    "SlingshotDnD/Npc's/Neutrals/Apollina Lionhart.md",
     "SlingshotDnD/Quests/MurderMystery/Plot.md",
     "SlingshotDnD/Npc's/Enemies/Aelar Vorenthar.md",
     "OwnOneShots/murder_mystery/Plot.md",
@@ -187,15 +197,6 @@
     "BeyondTheMournlords/Npc's/neutrals/Ayaska.md",
     "SlingshotDnD/Synopsis.md",
     "Seppe/Sessions/2023-09-26.md",
-    "BeyondTheMournlords/Sessions/2023-11-23.md",
-    "BeyondTheMournlords/Players/Malynn.md",
-    "BeyondTheMournlords/Sessions/2023-10-07.md",
-    "BeyondTheMournlords/Npc's/neutrals/Isaias Bostusa.md",
-    "BeyondTheMournlords/Npc's/neutrals/Isias.md",
-    "BeyondTheMournlords/Sessions/2023-11-05.md",
-    "BeyondTheMournlords/Npc's/neutrals/Torven Whitewater.md",
-    "BeyondTheMournlords/Npc's/factions/Noxia Nidore.md",
-    "BeyondTheMournlords/Npc's/neutrals/Luca.md",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
     "SlingshotDnD/Locations/Hideouts",
