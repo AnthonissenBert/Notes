@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aiaska.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/Aiaska.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aiaska.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/Aiaska.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,20 +180,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b89f7974fa8b25d",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
-    "Aiaska.md",
+    "BeyondTheMournlords/Npc's/neutrals/Aiaska.md",
     "BeyondTheMournlords/Sessions/2023-11-23.md",
     "BeyondTheMournlords/Sessions/2023-10-07.md",
     "BeyondTheMournlords/Npc's/neutrals/Isaias Bostusa.md",
     "BeyondTheMournlords/Npc's/neutrals/Isias.md",
     "BeyondTheMournlords/Sessions/2023-11-05.md",
     "BeyondTheMournlords/Npc's/neutrals/Torven Whitewater.md",
-    "Noxia Nidore.md",
-    "Luca.md",
-    "water elemental.md",
-    "wasdralift.md",
-    "hydroloth.md",
+    "BeyondTheMournlords/Npc's/factions/Noxia Nidore.md",
+    "BeyondTheMournlords/Npc's/neutrals/Luca.md",
+    "BeyondTheMournlords/Npc's/monsters/water elemental.md",
+    "BeyondTheMournlords/Npc's/monsters/wasdralift.md",
+    "BeyondTheMournlords/Npc's/monsters/hydroloth.md",
     "SlingshotDnD/Locations/Hideouts/Skysworn Hideout.md",
     "SlingshotDnD/Npc's/Monsters/Blue Dragon Wyrmling.md",
     "SlingshotDnD/Npc's/Monsters/Direwolf.md",
