@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Npc's/Elara Windrider.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/Seraphina Valerius.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Elara Windrider.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/Seraphina Valerius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Elara Windrider.md",
+                "file": "SlingshotDnD/Npc's/Neutrals/Seraphina Valerius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Elara Windrider.md"
+                "file": "SlingshotDnD/Npc's/Neutrals/Seraphina Valerius.md"
               }
             }
           },
@@ -168,8 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b89f7974fa8b25d",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "SlingshotDnD/Npc's/Neutrals/Piper.md",
+    "SlingshotDnD/Npc's/Neutrals/Otto Ravenswood.md",
+    "SlingshotDnD/Npc's/Neutrals/Nadeen Duskmire.md",
+    "SlingshotDnD/Npc's/Neutrals/Lucian Blackthorn.md",
+    "SlingshotDnD/Npc's/Neutrals/Lorelei 'Whisper' Blackthorn.md",
+    "SlingshotDnD/Npc's/Neutrals/Kalan Valerius.md",
+    "SlingshotDnD/Npc's/Neutrals/Jasmine Steele.md",
+    "SlingshotDnD/Npc's/Neutrals/Isolde Duskendale.md",
+    "SlingshotDnD/Npc's/Neutrals/Isabella Thornfield.md",
+    "SlingshotDnD/Npc's/Neutrals/Irofaen.md",
+    "SlingshotDnD/Npc's/Neutrals/Irios.md",
+    "SlingshotDnD/Npc's/Neutrals/Holt Greyguard.md",
+    "SlingshotDnD/Npc's/Neutrals/Gavrik.md",
+    "SlingshotDnD/Npc's/Neutrals/Finnick 'Blackblade' Mallory.md",
+    "SlingshotDnD/Npc's/Neutrals/Feka.md",
+    "SlingshotDnD/Npc's/Neutrals/Faustus Lionhart.md",
+    "SlingshotDnD/Npc's/Neutrals/Elena 'Whisperwind' Kael.md",
+    "SlingshotDnD/Npc's/Neutrals/Elara Windrider.md",
     "SlingshotDnD/Npc's/Neutrals/Egim Thornfield.md",
     "SlingshotDnD/Npc's/Neutrals/Duldan.md",
     "SlingshotDnD/Npc's/Neutrals/Daryll.md",
@@ -178,25 +196,7 @@
     "SlingshotDnD/Npc's/Neutrals/Cedric Everhart.md",
     "SlingshotDnD/Npc's/Neutrals/Bhelmur.md",
     "SlingshotDnD/Npc's/Neutrals/Aurelian.md",
-    "SlingshotDnD/Npc's/Neutrals/Arahana Sulimelkil.md",
-    "SlingshotDnD/Npc's/Neutrals/Apollina Lionhart.md",
-    "SlingshotDnD/Quests/MurderMystery/Plot.md",
-    "SlingshotDnD/Npc's/Enemies/Aelar Vorenthar.md",
-    "OwnOneShots/murder_mystery/Plot.md",
-    "SlingshotDnD/Quests/MurderMystery/combats/first cult combat.md",
     "SlingshotDnD/Quests/MurderMystery",
-    "SlingshotDnD/Quests/MurderMystery/combats/bbeg combat.md",
-    "SlingshotDnD/MagicalArtifacts/the Tear of Lysandra.md",
-    "SlingshotDnD/Locations/Aldercrest Kingdom.md",
-    "SlingshotDnD/Factions/Black Disciples.md",
-    "SlingshotDnD/Factions/Cult of Slizuni.md",
-    "SlingshotDnD/Npc's/Victor Duskmire.md",
-    "SlingshotDnD/Npc's/Friendlies/Alaric Steele.md",
-    "SlingshotDnD/Locations/Dusk Market.md",
-    "SlingshotDnD/Locations/Celestial Gardens.md",
-    "BeyondTheMournlords/Npc's/neutrals/Ayaska.md",
-    "SlingshotDnD/Synopsis.md",
-    "Seppe/Sessions/2023-09-26.md",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
     "SlingshotDnD/Locations/Hideouts",
