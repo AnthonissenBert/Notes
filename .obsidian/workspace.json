@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OwnOneShots/murder_mystery/places/Celestial Gardens.md",
+                "file": "SlingshotDnD/Npc's/Victor Duskmire.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OwnOneShots/murder_mystery/places/Celestial Gardens.md",
+                "file": "SlingshotDnD/Npc's/Victor Duskmire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OwnOneShots/murder_mystery/places/Celestial Gardens.md",
+                "file": "SlingshotDnD/Npc's/Victor Duskmire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OwnOneShots/murder_mystery/places/Celestial Gardens.md"
+                "file": "SlingshotDnD/Npc's/Victor Duskmire.md"
               }
             }
           },
@@ -181,8 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfc270db3b803cd3",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "SlingshotDnD/Npc's/Alaric Steele.md",
+    "SlingshotDnD/Locations/Dusk Market.md",
+    "SlingshotDnD/Locations/Celestial Gardens.md",
     "SlingshotDnD/Quests/Muder Mystery.md",
     "OwnOneShots/murder_mystery/Plot.md",
     "BeyondTheMournlords/Npc's/neutrals/Ayaska.md",
@@ -206,12 +209,9 @@
     "SlingshotDnD/Npc's/Monsters/earth elemental.md",
     "SlingshotDnD/Npc's/Monsters/Ettin.md",
     "SlingshotDnD/Npc's/Monsters/Barghest.md",
-    "SlingshotDnD/Npc's/Enemies/Blue Dragon Cultist.md",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
-    "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "SlingshotDnD/Locations/Hideouts",
-    "OwnOneShots/globals/Aldercrest Kingdom.md",
     "BeyondTheMournlords/_assets/Pasted image 20231007193238.png",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
