@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023-11-23.md",
+                "file": "Noxia Nidore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023-11-23.md",
+                "file": "Noxia Nidore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023-11-23.md"
+                "file": "Noxia Nidore.md"
               }
             }
           },
@@ -168,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68a927a2c13c3715",
+  "active": "c7fdb08a4c0caf46",
   "lastOpenFiles": [
-    "Noxia Nidore.md",
     "BeyondTheMournlords/Sessions/2023-11-23.md",
+    "Noxia Nidore.md",
     "Luca.md",
     "water elemental.md",
     "wasdralift.md",
