@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e835d7c644231fd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Locations/Hideouts/Skysworn Hideout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "724c0de280d330a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Enemies/Blue Dragon Cultist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6462d9aef11861b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Npc's/Monsters/Blue Dragon Wyrmling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "68a927a2c13c3715",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +158,10 @@
   },
   "active": "68a927a2c13c3715",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2023-11-05.md",
+    "wasdralift.md",
     "BeyondTheMournlords/Sessions/2023-11-23.md",
+    "hydroloth.md",
+    "BeyondTheMournlords/Sessions/2023-11-05.md",
     "SlingshotDnD/Locations/Hideouts/Skysworn Hideout.md",
     "SlingshotDnD/Npc's/Monsters/Blue Dragon Wyrmling.md",
     "SlingshotDnD/Npc's/Monsters/Direwolf.md",
@@ -223,8 +188,6 @@
     "Templates/combat.template.md",
     "Templates/faction.template.md",
     "Templates/location.template.md",
-    "Templates/quest.template.md",
-    "Templates/village.template.md",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
     "BeyondTheMournlords/Npc's/groups",
