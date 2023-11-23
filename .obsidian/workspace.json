@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Npc's/Neutrals/the spirit of Lysandra.md",
+                "file": "SlingshotDnD/Sessions/date_night/Plot.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Npc's/Neutrals/the spirit of Lysandra.md",
+                "file": "SlingshotDnD/Sessions/date_night/Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Npc's/Neutrals/the spirit of Lysandra.md",
+                "file": "SlingshotDnD/Sessions/date_night/Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Npc's/Neutrals/the spirit of Lysandra.md"
+                "file": "SlingshotDnD/Sessions/date_night/Plot.md"
               }
             }
           },
@@ -170,6 +170,9 @@
   },
   "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Ravenwood Estate.md",
+    "SlingshotDnD/Locations/Raven's Rest Inn.md",
+    "SlingshotDnD/Npc's/Neutrals/the spirit of Lysandra.md",
     "SlingshotDnD/Npc's/Enemies/spirit of the cursed.md",
     "SlingshotDnD/Npc's/Neutrals/Gideon.md",
     "SlingshotDnD/Npc's/Monsters/cursed guardian.md",
@@ -193,9 +196,6 @@
     "SlingshotDnD/Npc's/Neutrals/Elena 'Whisperwind' Kael.md",
     "SlingshotDnD/Npc's/Neutrals/Elara Windrider.md",
     "SlingshotDnD/Npc's/Neutrals/Egim Thornfield.md",
-    "SlingshotDnD/Npc's/Neutrals/Duldan.md",
-    "SlingshotDnD/Npc's/Neutrals/Daryll.md",
-    "SlingshotDnD/Npc's/Neutrals/Cyr.md",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
