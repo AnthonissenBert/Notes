@@ -20,18 +20,31 @@
             }
           },
           {
-            "id": "91eccad67f5b2ce3",
+            "id": "5eec0291e04b0fb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/Ayaska.md",
+                "file": "OwnOneShots/murder_mystery/Plot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfc270db3b803cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OwnOneShots/murder_mystery/places/Celestial Gardens.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OwnOneShots/murder_mystery/Plot.md",
+                "file": "OwnOneShots/murder_mystery/places/Celestial Gardens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OwnOneShots/murder_mystery/Plot.md",
+                "file": "OwnOneShots/murder_mystery/places/Celestial Gardens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OwnOneShots/murder_mystery/Plot.md"
+                "file": "OwnOneShots/murder_mystery/places/Celestial Gardens.md"
               }
             }
           },
@@ -168,11 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b89f7974fa8b25d",
+  "active": "dfc270db3b803cd3",
   "lastOpenFiles": [
+    "SlingshotDnD/Quests/Muder Mystery.md",
+    "OwnOneShots/murder_mystery/Plot.md",
+    "BeyondTheMournlords/Npc's/neutrals/Ayaska.md",
+    "SlingshotDnD/Synopsis.md",
     "Seppe/Sessions/2023-09-26.md",
     "BeyondTheMournlords/Sessions/2023-11-23.md",
-    "BeyondTheMournlords/Npc's/neutrals/Ayaska.md",
     "BeyondTheMournlords/Players/Malynn.md",
     "BeyondTheMournlords/Sessions/2023-10-07.md",
     "BeyondTheMournlords/Npc's/neutrals/Isaias Bostusa.md",
@@ -195,10 +211,7 @@
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
     "SlingshotDnD/Locations/Outposts/Kharakul.md",
     "SlingshotDnD/Locations/Hideouts",
-    "OwnOneShots/murder_mystery/Plot.md",
     "OwnOneShots/globals/Aldercrest Kingdom.md",
-    "OwnOneShots/globals/the Tear of Lysandra.md",
-    "BeyondTheMournlords/MagicalArtifacts/the chant.md",
     "BeyondTheMournlords/_assets/Pasted image 20231007193238.png",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
