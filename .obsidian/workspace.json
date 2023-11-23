@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "cc80de97974c5739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aiaska.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2f456592433d31f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aiska.md",
+                "file": "Aiaska.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +183,7 @@
   },
   "active": "9b89f7974fa8b25d",
   "lastOpenFiles": [
-    "Aiska.md",
+    "Aiaska.md",
     "BeyondTheMournlords/Sessions/2023-11-23.md",
     "BeyondTheMournlords/Sessions/2023-10-07.md",
     "BeyondTheMournlords/Npc's/neutrals/Isaias Bostusa.md",
