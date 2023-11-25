@@ -1,5 +1,5 @@
 Type: port town
-Location: north of argas
+Location: north of [[argas]]
 
 ---
 
