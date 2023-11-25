@@ -23,11 +23,9 @@
             "id": "8b6a9e5cbd2695a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Sylrona.md",
-                "mode": "source",
-                "source": false
+                "file": "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png"
               }
             }
           },
@@ -206,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sylrona.md",
+                "file": "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sylrona.md",
+                "file": "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sylrona.md"
+                "file": "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png"
               }
             }
           },
@@ -277,15 +275,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b6a9e5cbd2695a6",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "BeyondTheMournlords/_assets/videos",
+    "BeyondTheMournlords/Players/Sylrona.md",
+    "BeyondTheMournlords/_assets/images",
     "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
-    "Sylrona.md",
     "BeyondTheMournlords/Npc's/groups/Beyonders.md",
     "Kashar.md",
     "kasharen bretheren.md",
     "Arkaelis.md",
-    "H̵̨̤̫̭͔͔͖̜̥̘̖̫̒̒͛̈́͋̌̑͘̚e̴̛̠͋͌̈̕l̵̖̱͓̲̜͕̖͓̝͐͆̓̾̈́̾͜l̴̡̥̬͓̭̜͎͖̙̦̽̀̈́̒̎͐̍̏̉ờ̸͙̮͋͂̊̆̎͑̈́͒̽̿̓͝.mp4",
+    "BeyondTheMournlords/_assets/videos/H̵̨̤̫̭͔͔͖̜̥̘̖̫̒̒͛̈́͋̌̑͘̚e̴̛̠͋͌̈̕l̵̖̱͓̲̜͕̖͓̝͐͆̓̾̈́̾͜l̴̡̥̬͓̭̜͎͖̙̦̽̀̈́̒̎͐̍̏̉ờ̸͙̮͋͂̊̆̎͑̈́͒̽̿̓͝.mp4",
     "Yayra.md",
     "Acleg.md",
     "BeyondTheMournlords/Sessions/2023/2023-11-23.md",
@@ -308,16 +308,14 @@
     "Clan Caergar.md",
     "Clan Shajhan.md",
     "Silvester.md",
-    "Ewing.md",
     "BeyondTheMournlords/Npc's/groups",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
     "SlingshotDnD/Locations/Hideouts",
-    "BeyondTheMournlords/_assets/Pasted image 20231007193238.png",
+    "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
-    "BeyondTheMournlords/Npc's/groups",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
