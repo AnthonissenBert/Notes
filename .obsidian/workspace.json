@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b3fb63c9e22d57a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Silvester.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36f5e54e948a8095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ewing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ae32df88ad3d6fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calista.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4c4d2b79dac8207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Raymon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calista.md",
+                "file": "BeyondTheMournlords/Sessions/2021-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calista.md",
+                "file": "BeyondTheMournlords/Sessions/2021-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calista.md"
+                "file": "BeyondTheMournlords/Sessions/2021-12-18.md"
               }
             }
           },
@@ -205,10 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ae32df88ad3d6fd",
+  "active": "e4ae3ca804c9113a",
   "lastOpenFiles": [
-    "Silvester.md",
+    "Clan thunderclaw.md",
+    "Clan Caergar.md",
+    "Clan Shajhan.md",
     "BeyondTheMournlords/Sessions/2021-12-18.md",
+    "Silvester.md",
     "Ewing.md",
     "Calista.md",
     "Raymon.md",
@@ -231,9 +185,6 @@
     "BeyondTheMournlords/Npc's/groups/Admonishers.md",
     "BeyondTheMournlords/Npc's/groups",
     "BeyondTheMournlords/MagicalArtifacts/Bronze griffin statuette.md",
-    "BeyondTheMournlords/Npc's/groups/Beyonders.md",
-    "BeyondTheMournlords/MagicalArtifacts/bazanis.md",
-    "BeyondTheMournlords/MagicalArtifacts/lazanis.md",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
