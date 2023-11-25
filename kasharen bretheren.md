@@ -1,1 +1,1 @@
-Brothers of the house [[kashar]]
+Brothers of the house [[Kashar]]
