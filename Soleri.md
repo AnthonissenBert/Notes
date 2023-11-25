@@ -1,0 +1,3 @@
+- Kindhearted sometimes
+- His domain is where the cascade started
+- Not on this domain
