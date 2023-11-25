@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "520a0988b86d53c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the silk sanctum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bcfd37a0660c5427",
             "type": "leaf",
             "state": {
@@ -276,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quintrell.md",
+                "file": "the silk sanctum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quintrell.md",
+                "file": "the silk sanctum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quintrell.md"
+                "file": "the silk sanctum.md"
               }
             }
           },
@@ -347,9 +359,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcfd37a0660c5427",
+  "active": "520a0988b86d53c7",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
+    "the silk sanctum.md",
     "Quintrell.md",
     "Ankegs.md",
     "BeyondTheMournlords/Npc's/monsters/hesro.md",
@@ -381,7 +394,6 @@
     "BeyondTheMournlords/Npc's/neutrals/Topiary Sentinels.md",
     "BeyondTheMournlords/Npc's/friendlies/Vallois.md",
     "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
-    "Clan thunderclaw.md",
     "BeyondTheMournlords/Npc's/groups",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
