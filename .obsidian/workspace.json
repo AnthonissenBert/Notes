@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "5158d126f423f5e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kasharen bretheren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c246a18cdb9717af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arkaelis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0c70e72741a422f9",
             "type": "leaf",
             "state": {
@@ -67,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
+                "file": "kasharen bretheren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
+                "file": "kasharen bretheren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md"
+                "file": "kasharen bretheren.md"
               }
             }
           },
@@ -204,11 +229,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ae3ca804c9113a",
+  "active": "5158d126f423f5e3",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
+    "kasharen bretheren.md",
+    "Arkaelis.md",
     "H̵̨̤̫̭͔͔͖̜̥̘̖̫̒̒͛̈́͋̌̑͘̚e̴̛̠͋͌̈̕l̵̖̱͓̲̜͕̖͓̝͐͆̓̾̈́̾͜l̴̡̥̬͓̭̜͎͖̙̦̽̀̈́̒̎͐̍̏̉ờ̸͙̮͋͂̊̆̎͑̈́͒̽̿̓͝.mp4",
     "Yayra.md",
-    "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
     "Acleg.md",
     "BeyondTheMournlords/Sessions/2023/2023-11-23.md",
     "BeyondTheMournlords/Sessions/2023/2023-08-06.md",
@@ -234,7 +261,6 @@
     "Calista.md",
     "Raymon.md",
     "Falban.md",
-    "Cillid Lim.md",
     "BeyondTheMournlords/Npc's/groups",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
@@ -244,7 +270,6 @@
     "BeyondTheMournlords/Npc's/factions",
     "BeyondTheMournlords/Npc's/monsters",
     "BeyondTheMournlords/Npc's/groups",
-    "BeyondTheMournlords/Npc's/enemies",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
