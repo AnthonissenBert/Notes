@@ -6,3 +6,5 @@ Grass dragon
 	- = forest dragon
 
 Epiteth: Viridillatro the Vengeful
+
+Human Alias = Vergil

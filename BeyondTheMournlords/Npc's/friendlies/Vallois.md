@@ -1,10 +1,10 @@
 Status: Noble
 Race: Human
-In charge of:
+Full name: Vallois Ceshar
 
 ---
 
-A man who is cursed to live as a skeleton. He currently is in possetion of 
+A man who is cursed to live as a skeleton. He currently is in possetion of [[lazanis]]
 
 ---
 
