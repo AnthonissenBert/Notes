@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4ae3ca804c9113a",
+            "id": "2595b0fd2b4c8e8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,48 @@
             }
           },
           {
+            "id": "dd042cbdca93a40f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wirna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "510cc2309d9af773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Okma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45bb906cfd61b7e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Malaar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b2a773d3f5512b62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avion.md",
+                "file": "Agion.md",
                 "mode": "source",
                 "source": false
               }
@@ -293,7 +329,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -359,7 +396,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
+                "file": "Malaar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -376,7 +413,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
+                "file": "Malaar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -399,7 +436,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-12.md"
+                "file": "Malaar.md"
               }
             }
           },
@@ -430,10 +467,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ae3ca804c9113a",
+  "active": "45bb906cfd61b7e4",
   "lastOpenFiles": [
-    "Avion.md",
+    "Okma.md",
     "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
+    "Wirna.md",
+    "Malaar.md",
+    "Agion.md",
     "Tyr.md",
     "Bazaal.md",
     "Casmy.md",
@@ -456,9 +496,6 @@
     "BeyondTheMournlords/Npc's/neutrals/Calista.md",
     "BeyondTheMournlords/Families/Arkaelis.md",
     "BeyondTheMournlords/Families",
-    "BeyondTheMournlords/Npc's/neutrals/Acleg.md",
-    "BeyondTheMournlords/Npc's/monsters/Ankegs.md",
-    "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
     "BeyondTheMournlords/_assets/images",

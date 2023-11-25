@@ -4,4 +4,4 @@ In charge of:
 
 ---
 
-God of Justice
+God of Light
