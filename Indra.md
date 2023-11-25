@@ -4,12 +4,6 @@ In charge of:
 
 ---
 
-description
+She is of magical ascent, she levitated a table
 
 ---
-
-## family
-
-married to:
-x amount of children:
-- 
