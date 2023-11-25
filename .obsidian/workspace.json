@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "bcfd37a0660c5427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quintrell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4aafc97c8e16aca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quintrell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59a42642e27e439b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ankegs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e4b84e31cdb0adfb",
             "type": "leaf",
             "state": {
@@ -173,7 +209,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
+                "file": "Quintrell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
+                "file": "Quintrell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md"
+                "file": "Quintrell.md"
               }
             }
           },
@@ -310,10 +347,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ae3ca804c9113a",
+  "active": "bcfd37a0660c5427",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Npc's/monsters/hesro.md",
     "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
+    "Quintrell.md",
+    "Ankegs.md",
+    "BeyondTheMournlords/Npc's/monsters/hesro.md",
     "Hasro.md",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
@@ -343,8 +382,6 @@
     "BeyondTheMournlords/Npc's/friendlies/Vallois.md",
     "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
     "Clan thunderclaw.md",
-    "Clan Caergar.md",
-    "Clan Shajhan.md",
     "BeyondTheMournlords/Npc's/groups",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
