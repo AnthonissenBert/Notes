@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021-05-01.md",
+                "file": "BeyondTheMournlords/Sessions/2023-09-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "731297ff6bf33d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traglassa.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021-05-01.md",
+                "file": "Traglassa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021-05-01.md",
+                "file": "Traglassa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021-05-01.md"
+                "file": "Traglassa.md"
               }
             }
           },
@@ -168,8 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ae3ca804c9113a",
+  "active": "731297ff6bf33d56",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2023-09-25.md",
+    "Traglassa.md",
+    "BeyondTheMournlords/Sessions/2021-05-01.md",
     "BeyondTheMournlords/Sessions/2021-09-11.md",
     "Bronze griffin statuette.md",
     "BeyondTheMournlords/Synopsis.md",
@@ -193,9 +209,6 @@
     "SlingshotDnD/Npc's/Neutrals/Gideon.md",
     "SlingshotDnD/Npc's/Monsters/cursed guardian.md",
     "SlingshotDnD/Npc's/Neutrals/Seraphina Valerius.md",
-    "SlingshotDnD/Npc's/Neutrals/Piper.md",
-    "SlingshotDnD/Npc's/Neutrals/Otto Ravenswood.md",
-    "SlingshotDnD/Npc's/Neutrals/Nadeen Duskmire.md",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
