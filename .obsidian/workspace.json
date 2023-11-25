@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Barkael bay.md",
+                "file": "BeyondTheMournlords/Synopsis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Barkael bay.md",
+                "file": "BeyondTheMournlords/Synopsis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Barkael bay.md",
+                "file": "BeyondTheMournlords/Synopsis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Barkael bay.md"
+                "file": "BeyondTheMournlords/Synopsis.md"
               }
             }
           },
@@ -158,12 +158,17 @@
   },
   "active": "c2e8b0b9979cbc15",
   "lastOpenFiles": [
-    "argas.md",
+    "BeyondTheMournlords/Locations/vigorous veil.md",
+    "BeyondTheMournlords/Places/Mar Ceran.md",
+    "BeyondTheMournlords/Locations/Argas.md",
+    "BeyondTheMournlords/Locations/Slanhurst.md",
+    "BeyondTheMournlords/Locations/Shawford.md",
+    "BeyondTheMournlords/Locations/Llyn.md",
+    "BeyondTheMournlords/Locations/Fenneks Quarters.md",
     "BeyondTheMournlords/Locations/Barkael bay.md",
     "BeyondTheMournlords/Locations/Eckstow.md",
     "BeyondTheMournlords/Sessions/2023-11-23.md",
     "BeyondTheMournlords/Npc's/neutrals/Luca.md",
-    "BeyondTheMournlords/Locations/Fenneks Quarters.md",
     "BeyondTheMournlords/Npc's/monsters/Wastrilith.md",
     "SlingshotDnD/Quests/date_night/Plot.md",
     "SlingshotDnD/Locations/Ravenwood Estate.md",
@@ -179,11 +184,6 @@
     "SlingshotDnD/Npc's/Neutrals/Lucian Blackthorn.md",
     "SlingshotDnD/Npc's/Neutrals/Lorelei 'Whisper' Blackthorn.md",
     "SlingshotDnD/Npc's/Neutrals/Kalan Valerius.md",
-    "SlingshotDnD/Npc's/Neutrals/Jasmine Steele.md",
-    "SlingshotDnD/Npc's/Neutrals/Isolde Duskendale.md",
-    "SlingshotDnD/Npc's/Neutrals/Isabella Thornfield.md",
-    "SlingshotDnD/Npc's/Neutrals/Irofaen.md",
-    "SlingshotDnD/Npc's/Neutrals/Irios.md",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
