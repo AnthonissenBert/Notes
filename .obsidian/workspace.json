@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Zinefry.md",
+                "file": "BeyondTheMournlords/Sessions/2021-11-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Zinefry.md",
+                "file": "BeyondTheMournlords/Sessions/2021-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Zinefry.md",
+                "file": "BeyondTheMournlords/Sessions/2021-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Zinefry.md"
+                "file": "BeyondTheMournlords/Sessions/2021-11-20.md"
               }
             }
           },
@@ -158,6 +158,11 @@
   },
   "active": "e4ae3ca804c9113a",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/factions/maritor.md",
+    "BeyondTheMournlords/Sessions/2021-11-20.md",
+    "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
+    "BeyondTheMournlords/Npc's/monsters/hesro.md",
+    "BeyondTheMournlords/Npc's/friendlies/Zinefry.md",
     "BeyondTheMournlords/Locations/Waining Wetlands.md",
     "BeyondTheMournlords/Npc's/monsters/Voidmaw.md",
     "BeyondTheMournlords/Npc's/friendlies/Vallois Ceshar.md",
@@ -168,7 +173,6 @@
     "BeyondTheMournlords/Npc's/groups",
     "BeyondTheMournlords/MagicalArtifacts/Bronze griffin statuette.md",
     "BeyondTheMournlords/Npc's/groups/Beyonders.md",
-    "BeyondTheMournlords/Sessions/2021-11-20.md",
     "BeyondTheMournlords/MagicalArtifacts/bazanis.md",
     "BeyondTheMournlords/MagicalArtifacts/lazanis.md",
     "BeyondTheMournlords/Sessions/2021-10-30.md",
@@ -177,13 +181,10 @@
     "BeyondTheMournlords/Sessions/2021-10-23.md",
     "BeyondTheMournlords/Sessions/2023-11-23.md",
     "BeyondTheMournlords/Sessions/2023-10-9.md",
-    "BeyondTheMournlords/Npc's/friendlies/Zinefry.md",
     "BeyondTheMournlords/Sessions/2023-09-25.md",
     "BeyondTheMournlords/Locations/Viridillatros veil.md",
-    "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
     "BeyondTheMournlords/Sessions/2021-05-01.md",
     "BeyondTheMournlords/Sessions/2021-09-11.md",
-    "BeyondTheMournlords/Synopsis.md",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",

@@ -4,3 +4,5 @@ Grass dragon
 	- Huge fangs
 	- Breathed vine/leaf/grass
 	- = forest dragon
+
+Epiteth: Viridillatro the Vengeful
