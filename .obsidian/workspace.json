@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
+                "file": "Acleg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "134a6a5d647d7da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Players/Sylrona.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca26a7f829fad2bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Players/Volgrim.md",
                 "mode": "source",
                 "source": false
               }
@@ -221,8 +245,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the silk sanctum.md",
+                "file": "Acleg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the silk sanctum.md",
+                "file": "Acleg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the silk sanctum.md"
+                "file": "Acleg.md"
               }
             }
           },
@@ -359,9 +382,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "520a0988b86d53c7",
+  "active": "e4ae3ca804c9113a",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
+    "BeyondTheMournlords/Players/Sylrona.md",
+    "BeyondTheMournlords/Players/Volgrim.md",
     "the silk sanctum.md",
     "Quintrell.md",
     "Ankegs.md",
@@ -369,7 +394,6 @@
     "Hasro.md",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
-    "BeyondTheMournlords/Players/Sylrona.md",
     "BeyondTheMournlords/_assets/images",
     "BeyondTheMournlords/Npc's/groups/Beyonders.md",
     "Kashar.md",
@@ -393,7 +417,6 @@
     "Soleri.md",
     "BeyondTheMournlords/Npc's/neutrals/Topiary Sentinels.md",
     "BeyondTheMournlords/Npc's/friendlies/Vallois.md",
-    "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
     "BeyondTheMournlords/Npc's/groups",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
