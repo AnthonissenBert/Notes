@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8b6a9e5cbd2695a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sylrona.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d5627e60d5e811d1",
             "type": "leaf",
             "state": {
@@ -127,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
+                "file": "Sylrona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
+                "file": "Sylrona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md"
+                "file": "Sylrona.md"
               }
             }
           },
@@ -264,10 +277,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ae3ca804c9113a",
+  "active": "8b6a9e5cbd2695a6",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Npc's/groups/Beyonders.md",
     "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
+    "Sylrona.md",
+    "BeyondTheMournlords/Npc's/groups/Beyonders.md",
     "Kashar.md",
     "kasharen bretheren.md",
     "Arkaelis.md",
@@ -295,7 +309,6 @@
     "Clan Shajhan.md",
     "Silvester.md",
     "Ewing.md",
-    "Calista.md",
     "BeyondTheMournlords/Npc's/groups",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
