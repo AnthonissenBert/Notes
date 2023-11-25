@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3bc37f8ab22c0555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bronze griffin statuette.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021-09-11.md",
+                "file": "Bronze griffin statuette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021-09-11.md",
+                "file": "Bronze griffin statuette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021-09-11.md"
+                "file": "Bronze griffin statuette.md"
               }
             }
           },
@@ -156,9 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ae3ca804c9113a",
+  "active": "3bc37f8ab22c0555",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2021-09-11.md",
+    "Bronze griffin statuette.md",
     "BeyondTheMournlords/Synopsis.md",
     "BeyondTheMournlords/Locations/vigorous veil.md",
     "BeyondTheMournlords/Places/Mar Ceran.md",
@@ -183,7 +197,6 @@
     "SlingshotDnD/Npc's/Neutrals/Piper.md",
     "SlingshotDnD/Npc's/Neutrals/Otto Ravenswood.md",
     "SlingshotDnD/Npc's/Neutrals/Nadeen Duskmire.md",
-    "SlingshotDnD/Npc's/Neutrals/Lucian Blackthorn.md",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
