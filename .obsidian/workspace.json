@@ -11,8 +11,12 @@
             "id": "e4ae3ca804c9113a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Sessions/2021-09-11.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BeyondTheMournlords/Sessions/2021-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BeyondTheMournlords/Sessions/2021-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BeyondTheMournlords/Sessions/2021-09-11.md"
+              }
             }
           },
           {
@@ -148,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "e4ae3ca804c9113a",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2021-09-11.md",
     "BeyondTheMournlords/Synopsis.md",
     "BeyondTheMournlords/Locations/vigorous veil.md",
     "BeyondTheMournlords/Places/Mar Ceran.md",
@@ -175,7 +184,6 @@
     "SlingshotDnD/Npc's/Neutrals/Otto Ravenswood.md",
     "SlingshotDnD/Npc's/Neutrals/Nadeen Duskmire.md",
     "SlingshotDnD/Npc's/Neutrals/Lucian Blackthorn.md",
-    "SlingshotDnD/Npc's/Neutrals/Lorelei 'Whisper' Blackthorn.md",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
