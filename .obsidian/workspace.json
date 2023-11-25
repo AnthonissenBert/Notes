@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "652b17ed0c2fcb42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Locations/vigorous veil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b1233ec9efa465e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "731297ff6bf33d56",
             "type": "leaf",
             "state": {
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traglassa.md",
+                "file": "BeyondTheMournlords/Locations/vigorous veil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traglassa.md",
+                "file": "BeyondTheMournlords/Locations/vigorous veil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traglassa.md"
+                "file": "BeyondTheMournlords/Locations/vigorous veil.md"
               }
             }
           },
@@ -181,9 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "731297ff6bf33d56",
+  "active": "652b17ed0c2fcb42",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2023-09-25.md",
+    "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
     "Traglassa.md",
     "BeyondTheMournlords/Sessions/2021-05-01.md",
     "BeyondTheMournlords/Sessions/2021-09-11.md",
@@ -208,7 +233,6 @@
     "SlingshotDnD/Npc's/Enemies/spirit of the cursed.md",
     "SlingshotDnD/Npc's/Neutrals/Gideon.md",
     "SlingshotDnD/Npc's/Monsters/cursed guardian.md",
-    "SlingshotDnD/Npc's/Neutrals/Seraphina Valerius.md",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
