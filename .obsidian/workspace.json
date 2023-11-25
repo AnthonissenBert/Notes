@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2595b0fd2b4c8e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a23bf901b292b6f5",
             "type": "leaf",
             "state": {
@@ -37,103 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Deities/Agion.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd042cbdca93a40f",
+            "id": "d0cd4575756ef764",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wirna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "510cc2309d9af773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Okma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45bb906cfd61b7e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Malaar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2a773d3f5512b62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Deities/Agion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25b837e4f4976b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tyr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c16f516e76f07a20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bazaal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4dfd0be3baa2a13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Casmy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "134a6a5d647d7da9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Players/Sylrona.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -420,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Deities/Agion.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -437,7 +341,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Deities/Agion.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -460,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Deities/Agion.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-12.md"
               }
             }
           },
@@ -491,12 +395,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7349da0b3276d21a",
+  "active": "d0cd4575756ef764",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Deities/Agion.md",
-    "BeyondTheMournlords/Deities/Agion.md",
-    "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
     "Seretevi.md",
+    "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
+    "seret.md",
+    "BeyondTheMournlords/Deities/Agion.md",
+    "BeyondTheMournlords/Deities/Agion.md",
     "Bazaal.md",
     "Tyr.md",
     "Malaar.md",
@@ -518,7 +423,6 @@
     "Hasro.md",
     "BeyondTheMournlords/Npc's/neutrals/Ewing.md",
     "BeyondTheMournlords/Families/Clan Caergar.md",
-    "BeyondTheMournlords/Families/Cillid Lim.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
