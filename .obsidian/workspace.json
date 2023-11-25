@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/Ewing.md",
+                "file": "the silk sanctum.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quintrell.md",
+                "file": "BeyondTheMournlords/Npc's/enemies/Quintrell.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quintrell.md",
+                "file": "BeyondTheMournlords/Npc's/enemies/Quintrell.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kashar.md",
+                "file": "BeyondTheMournlords/Families/Kashar.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kasharen bretheren.md",
+                "file": "BeyondTheMournlords/Npc's/groups/kasharen bretheren.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ionic foothills.md",
+                "file": "BeyondTheMournlords/Locations/Ionic foothills.md",
                 "mode": "source",
                 "source": false
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soleri.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/Soleri.md",
                 "mode": "source",
                 "source": false
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/Ewing.md",
+                "file": "the silk sanctum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/Ewing.md",
+                "file": "the silk sanctum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/Ewing.md"
+                "file": "the silk sanctum.md"
               }
             }
           },
@@ -382,8 +382,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "e4ae3ca804c9113a",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/friendlies/Tarja.md",
+    "BeyondTheMournlords/Npc's/neutrals/Soleri.md",
+    "BeyondTheMournlords/Npc's/neutrals/Silvester.md",
+    "BeyondTheMournlords/Npc's/neutrals/Raymon.md",
+    "BeyondTheMournlords/Npc's/enemies/Quintrell.md",
+    "BeyondTheMournlords/Npc's/groups/kasharen bretheren.md",
+    "BeyondTheMournlords/Families/Kashar.md",
+    "BeyondTheMournlords/Locations/Ionic foothills.md",
+    "BeyondTheMournlords/Npc's/friendlies/Indra.md",
+    "BeyondTheMournlords/Npc's/neutrals/Falban.md",
+    "Hasro.md",
+    "BeyondTheMournlords/Npc's/neutrals/Ewing.md",
     "BeyondTheMournlords/Families/Clan Caergar.md",
     "BeyondTheMournlords/Families/Cillid Lim.md",
     "BeyondTheMournlords/Npc's/neutrals/Calista.md",
@@ -395,29 +407,17 @@
     "BeyondTheMournlords/Players/Sylrona.md",
     "BeyondTheMournlords/Players/Volgrim.md",
     "the silk sanctum.md",
-    "Quintrell.md",
     "BeyondTheMournlords/Npc's/monsters/hesro.md",
-    "Hasro.md",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
     "BeyondTheMournlords/_assets/images",
     "BeyondTheMournlords/Npc's/groups/Beyonders.md",
-    "Kashar.md",
-    "kasharen bretheren.md",
     "BeyondTheMournlords/_assets/videos/H̵̨̤̫̭͔͔͖̜̥̘̖̫̒̒͛̈́͋̌̑͘̚e̴̛̠͋͌̈̕l̵̖̱͓̲̜͕̖͓̝͐͆̓̾̈́̾͜l̴̡̥̬͓̭̜͎͖̙̦̽̀̈́̒̎͐̍̏̉ờ̸͙̮͋͂̊̆̎͑̈́͒̽̿̓͝.mp4",
     "Yayra.md",
     "BeyondTheMournlords/Sessions/2023/2023-11-23.md",
-    "BeyondTheMournlords/Sessions/2023/2023-08-06.md",
-    "BeyondTheMournlords/Sessions/2023/2023-06-25.md",
-    "BeyondTheMournlords/Sessions/2023/2023-04-15.md",
-    "BeyondTheMournlords/Sessions/2021/2021-05-01.md",
     "BeyondTheMournlords/Sessions/2023",
     "BeyondTheMournlords/Sessions/2022",
-    "BeyondTheMournlords/Sessions/2021/2021-12-18.md",
     "BeyondTheMournlords/Sessions/2021",
-    "BeyondTheMournlords/Places/Urngor mountainrange.md",
-    "Ionic foothills.md",
-    "BeyondTheMournlords/Npc's/enemies/Relafurego.md",
     "BeyondTheMournlords/Npc's/groups",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
