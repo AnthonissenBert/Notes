@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acleg.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/Ewing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ankegs.md",
+                "file": "BeyondTheMournlords/Npc's/monsters/Ankegs.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arkaelis.md",
+                "file": "BeyondTheMournlords/Families/Arkaelis.md",
                 "mode": "source",
                 "source": false
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acleg.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/Ewing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acleg.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/Ewing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acleg.md"
+                "file": "BeyondTheMournlords/Npc's/neutrals/Ewing.md"
               }
             }
           },
@@ -382,14 +382,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ae3ca804c9113a",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Families/Clan Caergar.md",
+    "BeyondTheMournlords/Families/Cillid Lim.md",
+    "BeyondTheMournlords/Npc's/neutrals/Calista.md",
+    "BeyondTheMournlords/Families/Arkaelis.md",
+    "BeyondTheMournlords/Families",
+    "BeyondTheMournlords/Npc's/neutrals/Acleg.md",
+    "BeyondTheMournlords/Npc's/monsters/Ankegs.md",
     "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
     "BeyondTheMournlords/Players/Sylrona.md",
     "BeyondTheMournlords/Players/Volgrim.md",
     "the silk sanctum.md",
     "Quintrell.md",
-    "Ankegs.md",
     "BeyondTheMournlords/Npc's/monsters/hesro.md",
     "Hasro.md",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
@@ -398,10 +404,8 @@
     "BeyondTheMournlords/Npc's/groups/Beyonders.md",
     "Kashar.md",
     "kasharen bretheren.md",
-    "Arkaelis.md",
     "BeyondTheMournlords/_assets/videos/H̵̨̤̫̭͔͔͖̜̥̘̖̫̒̒͛̈́͋̌̑͘̚e̴̛̠͋͌̈̕l̵̖̱͓̲̜͕̖͓̝͐͆̓̾̈́̾͜l̴̡̥̬͓̭̜͎͖̙̦̽̀̈́̒̎͐̍̏̉ờ̸͙̮͋͂̊̆̎͑̈́͒̽̿̓͝.mp4",
     "Yayra.md",
-    "Acleg.md",
     "BeyondTheMournlords/Sessions/2023/2023-11-23.md",
     "BeyondTheMournlords/Sessions/2023/2023-08-06.md",
     "BeyondTheMournlords/Sessions/2023/2023-06-25.md",
@@ -414,15 +418,11 @@
     "BeyondTheMournlords/Places/Urngor mountainrange.md",
     "Ionic foothills.md",
     "BeyondTheMournlords/Npc's/enemies/Relafurego.md",
-    "Soleri.md",
-    "BeyondTheMournlords/Npc's/neutrals/Topiary Sentinels.md",
-    "BeyondTheMournlords/Npc's/friendlies/Vallois.md",
     "BeyondTheMournlords/Npc's/groups",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
     "SlingshotDnD/Locations/Hideouts",
-    "BeyondTheMournlords/Npc's/factions",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
