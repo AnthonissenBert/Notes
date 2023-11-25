@@ -20,6 +20,54 @@
             }
           },
           {
+            "id": "b2a773d3f5512b62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Avion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25b837e4f4976b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tyr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c16f516e76f07a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bazaal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4dfd0be3baa2a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Casmy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "134a6a5d647d7da9",
             "type": "leaf",
             "state": {
@@ -384,8 +432,12 @@
   },
   "active": "e4ae3ca804c9113a",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Npc's/neutrals/Yayra.md",
+    "Avion.md",
     "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
+    "Tyr.md",
+    "Bazaal.md",
+    "Casmy.md",
+    "BeyondTheMournlords/Npc's/neutrals/Yayra.md",
     "BeyondTheMournlords/Locations/the silk sanctum.md",
     "BeyondTheMournlords/Npc's/friendlies/Tarja.md",
     "BeyondTheMournlords/Npc's/neutrals/Soleri.md",
@@ -407,13 +459,9 @@
     "BeyondTheMournlords/Npc's/neutrals/Acleg.md",
     "BeyondTheMournlords/Npc's/monsters/Ankegs.md",
     "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
-    "BeyondTheMournlords/Players/Sylrona.md",
-    "BeyondTheMournlords/Players/Volgrim.md",
-    "BeyondTheMournlords/Npc's/monsters/hesro.md",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
     "BeyondTheMournlords/_assets/images",
-    "BeyondTheMournlords/Npc's/groups/Beyonders.md",
     "BeyondTheMournlords/_assets/videos/H̵̨̤̫̭͔͔͖̜̥̘̖̫̒̒͛̈́͋̌̑͘̚e̴̛̠͋͌̈̕l̵̖̱͓̲̜͕̖͓̝͐͆̓̾̈́̾͜l̴̡̥̬͓̭̜͎͖̙̦̽̀̈́̒̎͐̍̏̉ờ̸͙̮͋͂̊̆̎͑̈́͒̽̿̓͝.mp4",
     "BeyondTheMournlords/Sessions/2023",
     "BeyondTheMournlords/Sessions/2022",
