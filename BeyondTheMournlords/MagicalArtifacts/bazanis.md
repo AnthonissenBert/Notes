@@ -1,1 +1,1 @@
-magical greatsword
+magical greatsword, twin of [[lazanis]]

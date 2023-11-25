@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd73aad649c318c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vallois Ceshar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021-11-20.md",
+                "file": "Vallois Ceshar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021-11-20.md",
+                "file": "Vallois Ceshar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021-11-20.md"
+                "file": "Vallois Ceshar.md"
               }
             }
           },
@@ -156,10 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ae3ca804c9113a",
+  "active": "dd73aad649c318c5",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2021-10-30.md",
+    "BeyondTheMournlords/MagicalArtifacts/bazanis.md",
+    "BeyondTheMournlords/MagicalArtifacts/lazanis.md",
+    "Vallois Ceshar.md",
     "BeyondTheMournlords/Sessions/2021-11-20.md",
+    "BeyondTheMournlords/Sessions/2021-10-30.md",
     "Voidmaw.md",
     "kasma.md",
     "Waining Wetlands.md",
@@ -181,9 +197,6 @@
     "Bronze griffin statuette.md",
     "BeyondTheMournlords/Synopsis.md",
     "BeyondTheMournlords/Places/Mar Ceran.md",
-    "BeyondTheMournlords/Locations/Argas.md",
-    "BeyondTheMournlords/Locations/Slanhurst.md",
-    "BeyondTheMournlords/Locations/Shawford.md",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
