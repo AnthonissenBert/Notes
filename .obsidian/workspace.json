@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a23bf901b292b6f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seretevi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dd042cbdca93a40f",
             "type": "leaf",
             "state": {
@@ -330,7 +342,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -396,7 +408,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malaar.md",
+                "file": "Seretevi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +425,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Malaar.md",
+                "file": "Seretevi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -436,7 +448,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Malaar.md"
+                "file": "Seretevi.md"
               }
             }
           },
@@ -467,15 +479,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45bb906cfd61b7e4",
+  "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
-    "Okma.md",
     "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
-    "Wirna.md",
-    "Malaar.md",
-    "Agion.md",
-    "Tyr.md",
+    "Seretevi.md",
     "Bazaal.md",
+    "Tyr.md",
+    "Agion.md",
+    "Malaar.md",
+    "Okma.md",
+    "Wirna.md",
     "Casmy.md",
     "BeyondTheMournlords/Npc's/neutrals/Yayra.md",
     "BeyondTheMournlords/Locations/the silk sanctum.md",
@@ -494,7 +507,6 @@
     "BeyondTheMournlords/Families/Clan Caergar.md",
     "BeyondTheMournlords/Families/Cillid Lim.md",
     "BeyondTheMournlords/Npc's/neutrals/Calista.md",
-    "BeyondTheMournlords/Families/Arkaelis.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
