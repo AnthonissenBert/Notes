@@ -1,5 +1,5 @@
-Type: Wet
-Location
+Type: Wetlands
+Location: Far north of [[Bastion]]
 
 ---
 
