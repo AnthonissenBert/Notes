@@ -1,1 +1,1 @@
-Deity of light and right
+God of Light
