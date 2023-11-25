@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b205275daeb2f084",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Voidmaw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ab8cbe4d6c69d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kasma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a30e537e8ad67330",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Waining Wetlands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Voidmaw.md",
+                "file": "BeyondTheMournlords/Sessions/2021-10-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Voidmaw.md",
+                "file": "BeyondTheMournlords/Sessions/2021-10-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Voidmaw.md"
+                "file": "BeyondTheMournlords/Sessions/2021-10-30.md"
               }
             }
           },
@@ -193,11 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b205275daeb2f084",
+  "active": "e4ae3ca804c9113a",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2021-10-30.md",
     "Voidmaw.md",
     "kasma.md",
+    "BeyondTheMournlords/Sessions/2021-10-30.md",
     "Waining Wetlands.md",
     "BeyondTheMournlords/Sessions/2021-10-02.md",
     "BeyondTheMournlords/Sessions/2021-10-16.md",
