@@ -4,7 +4,7 @@ In charge of:
 
 ---
 
-A man who is cursed to live as a skeleton. He currently is in possession of [[lazanis]]
+A man who is cursed to live as a skeleton. He currently is in possetion of 
 
 ---
 
