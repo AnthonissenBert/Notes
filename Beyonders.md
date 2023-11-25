@@ -1,0 +1,1 @@
+group that is sent out to [[Argas]] to fight demons
