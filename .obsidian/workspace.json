@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "51da8b166279cc86",
+            "id": "3dfd904838c8f42e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peramentum.md",
+                "file": "Zinefry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "893fec22c4788896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Admonishers.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beyonders.md",
+                "file": "BeyondTheMournlords/Sessions/2021-10-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beyonders.md",
+                "file": "BeyondTheMournlords/Sessions/2021-10-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beyonders.md"
+                "file": "BeyondTheMournlords/Sessions/2021-10-2.md"
               }
             }
           },
@@ -205,11 +216,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ba4369dfde4314f",
+  "active": "e4ae3ca804c9113a",
   "lastOpenFiles": [
+    "Zinefry.md",
+    "BeyondTheMournlords/Sessions/2021-10-2.md",
+    "Admonishers.md",
     "Peramentum.md",
     "Beyonders.md",
-    "BeyondTheMournlords/Sessions/2021-10-2.md",
     "BeyondTheMournlords/Sessions/2023-09-25.md",
     "BeyondTheMournlords/Locations/Viridillatros veil.md",
     "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
@@ -231,8 +244,6 @@
     "BeyondTheMournlords/Npc's/monsters/Wastrilith.md",
     "SlingshotDnD/Quests/date_night/Plot.md",
     "SlingshotDnD/Locations/Ravenwood Estate.md",
-    "SlingshotDnD/Locations/Raven's Rest Inn.md",
-    "SlingshotDnD/Npc's/Neutrals/the spirit of Lysandra.md",
     "SlingshotDnD/Quests/MurderMystery",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
