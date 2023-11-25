@@ -137,8 +137,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-02.md"
               }
             }
           },
@@ -275,8 +274,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "e4ae3ca804c9113a",
   "lastOpenFiles": [
+    "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
     "BeyondTheMournlords/Players/Sylrona.md",
     "BeyondTheMournlords/_assets/images",
@@ -313,9 +313,7 @@
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
     "SlingshotDnD/Locations/Hideouts",
-    "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/Npc's/factions",
-    "BeyondTheMournlords/Npc's/monsters",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
     "SlingshotDnD/_Assets/Pasted image 20230922002956.png",
     "SlingshotDnD/_Assets/Pasted image 20230922001100.jpg",
