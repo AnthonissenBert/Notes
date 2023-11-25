@@ -7,4 +7,4 @@ Grass dragon
 
 Epiteth: Viridillatro the Vengeful
 
-Human Alias = Vergil
+Human Alias = [[Vergil]]
