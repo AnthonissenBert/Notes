@@ -4,7 +4,7 @@ In charge of:
 
 ---
 
-frequents fenneks quarters and the tavern of [[Bastion]]
+frequents [[Fenneks Quarters]] and the tavern of [[Bastion]]
 
 ---
 
