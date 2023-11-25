@@ -1,1 +1,1 @@
-Type of fiends in [[vigorous veil]]
+Type of fiends in [[Viridillatros veil]]
