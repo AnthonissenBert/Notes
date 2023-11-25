@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021-09-11.md",
+                "file": "BeyondTheMournlords/Sessions/2021-05-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bronze griffin statuette.md",
+                "file": "BeyondTheMournlords/Sessions/2021-05-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bronze griffin statuette.md",
+                "file": "BeyondTheMournlords/Sessions/2021-05-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bronze griffin statuette.md"
+                "file": "BeyondTheMournlords/Sessions/2021-05-01.md"
               }
             }
           },
@@ -169,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bc37f8ab22c0555",
+  "active": "e4ae3ca804c9113a",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2021-09-11.md",
     "Bronze griffin statuette.md",
