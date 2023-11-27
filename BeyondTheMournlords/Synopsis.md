@@ -5,11 +5,8 @@ safe by enforcing order and light. Being an Aasimar and born of a deity, this wa
 which he abandoned with his sudden departure. The land fell into chaos, strange warped entities   
 crawled out of the fogs that spread from his kingdom. No one could stop the advance of the fog and was then referred to as The Beyond. It pushed civilization back to the shores, and eventually onto [[Argas]], which was considered mostly uncharted territory until then. It was quickly colonized by the remaining migrants and life continued.
 
-Several hundred years passed and people had forgotten about The Beyond. Strangely, sea creatures   
-and aquatic wildlife started to become affected as well. Civilization had no where to run, so they   
-decided to throw anything they had at it. It started with small fleets, venturing back whence they   
-came, back to Mar Ceran. Their efforts took many years, many lives and many coppers, but finally   
-they conquered a piece of land in the far South.   
+Several hundred years passed and people had forgotten about The Beyond. Strangely, sea creatures and aquatic wildlife started to become affected as well. Civilization had no where to run, so they decided to throw anything they had at it. It started with small fleets, venturing back whence they came, back to Mar Ceran. Their efforts took many years, many lives and many coppers, but finally they conquered a piece of land in the far South.   
+
 This settlement is called The aeyonder's Bastion. The descendants of the great kingdom of Mar Ceran   
 organized, aiming to reclaim lost lands, rediscover history, enrich themselves and to protect the   
 civilization that still exists. The bravest and purest went to stop this cataclysmic menace.   
