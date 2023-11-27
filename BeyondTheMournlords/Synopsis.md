@@ -1,10 +1,10 @@
-The introduction:   
-Once, there was a benevolent Aasimar that lived in the North of Mar Ceran. He kept his continent   
+The introduction:
+
+Once, there was a benevolent Aasimar that lived in the North of [[Mar Ceran]]. He kept his continent   
 safe by enforcing order and light. Being an Aasimar and born of a deity, this was his duty. A duty   
-which he abandoned. With his sudden departure, the land fell into chaos, strange warped entities   
-crawled out of the fogs that spread from his kingdom. No one could stop the advance of the fog and was then referred to as The Beyond. It pushed civilization back to the shores, and eventually onto   
-Argas, which was considered mostly uncharted territory until then. It was quickly colonized by the   
-remaining migrants and life continued.   
+which he abandoned with his sudden departure. The land fell into chaos, strange warped entities   
+crawled out of the fogs that spread from his kingdom. No one could stop the advance of the fog and was then referred to as The Beyond. It pushed civilization back to the shores, and eventually onto [[Argas]], which was considered mostly uncharted territory until then. It was quickly colonized by the remaining migrants and life continued.
+
 Several hundred years passed and people had forgotten about The Beyond. Strangely, sea creatures   
 and aquatic wildlife started to become affected as well. Civilization had no where to run, so they   
 decided to throw anything they had at it. It started with small fleets, venturing back whence they   
