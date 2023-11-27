@@ -4,4 +4,6 @@ In charge of:
 
 ---
 
-was with 
+was with [[Indra]]
+
+other name: Itithlas
