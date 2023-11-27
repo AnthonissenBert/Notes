@@ -18,213 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3a31a2a30bbc8db8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "old burruck.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c76d262e77b495d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vascon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b059b67fad9dcb5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/Ruared.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ede3e9795b26f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/Jagneel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d3bd44238915030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Families/Umberskulkers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01f11d9e42b06713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Families/Umberskulkers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "016031f5cb8b7469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/Ayaska.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d6bc7d5dfd8fb6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Locations/Shothmea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "432448add40c4b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Locations/The drains.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f353c5e115c4897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Locations/The warrens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3f29591a336cedd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Locations/The gutters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c41fde0b9b03e55d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Locations/The wasting fields.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ced50580ef32d731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Locations/Mines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f031aed9ff0fad1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Locations/Districts/Bellows.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bc932f64974b736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Locations/Spalford.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c45e0c21f6bfc52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Locations/Buzwick.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a75889a0b2c3ae15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Locations/Shothmea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old burruck.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old burruck.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old burruck.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-10.md"
               }
             }
           },
@@ -361,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a31a2a30bbc8db8",
+  "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
+    "Old Burruck.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
-    "old burruck.md",
     "Vascon.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
     "BeyondTheMournlords/Families/Umberskulkers.md",
