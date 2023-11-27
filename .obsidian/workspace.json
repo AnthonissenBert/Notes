@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6dea741c356947a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "silk sanctum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ef19606979389d12",
             "type": "leaf",
             "state": {
@@ -208,6 +220,7 @@
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
     "BeyondTheMournlords/Sessions/2022/2022-03-05.md",
+    "silk sanctum.md",
     "Chasmee.md",
     "Shiraak.md",
     "Malakite weavers.md",
@@ -231,7 +244,6 @@
     "BeyondTheMournlords/Npc's/neutrals/Soleri.md",
     "BeyondTheMournlords/Npc's/neutrals/Silvester.md",
     "BeyondTheMournlords/Npc's/neutrals/Raymon.md",
-    "BeyondTheMournlords/Npc's/enemies/Quintrell.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
