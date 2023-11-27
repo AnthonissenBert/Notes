@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-11-12.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-12-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-11-12.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-11-12.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-11-12.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-12-03.md"
               }
             }
           },
@@ -158,8 +158,12 @@
   },
   "active": "0a7791ab968291eb",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2022/2022-11-05.md",
     "BeyondTheMournlords/Sessions/2022/2022-11-12.md",
+    "BeyondTheMournlords/Sessions/2022/2022-12-03.md",
+    "Imbros' grotto.md",
+    "imzar grotto.md",
+    "Fault of the forgotten.md",
+    "BeyondTheMournlords/Sessions/2022/2022-11-05.md",
     "BeyondTheMournlords/Sessions/2022/2022-10-28.md",
     "BeyondTheMournlords/Sessions/2022/2022-10-08.md",
     "BeyondTheMournlords/Players/Askir.md",
@@ -181,10 +185,6 @@
     "Dork.md",
     "Elliazar.md",
     "Miredar.md",
-    "fairies ladder.md",
-    "chimney.md",
-    "Shraaks gullet.md",
-    "imzar grotto.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
