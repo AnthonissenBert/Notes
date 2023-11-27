@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ayens current.md",
+                "file": "Ayens Current.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ayens current.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ayens current.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-05-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ayens current.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-05-25.md"
               }
             }
           },
@@ -217,10 +216,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22c1766e9bb5dab0",
+  "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
+    "Ayens Current.md",
     "BeyondTheMournlords/Sessions/2022/2022-05-25.md",
-    "ayens current.md",
     "Relgin.md",
     "suac'amuul.md",
     "Moondale.md",

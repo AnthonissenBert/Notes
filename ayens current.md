@@ -1,1 +1,1 @@
-location in 
+location in [[Argas]]
