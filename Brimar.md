@@ -1,5 +1,5 @@
 Status: 
-Race: Female Halforc
+Race: Aasimar
 In charge of:
 
 ---

@@ -4,7 +4,10 @@ In charge of:
 
 ---
 
-Acolyte of Asri
+Acolyte of [[Asri]]
+
+- Cleric of necromancy
+- Summoning fiends
 
 ---
 
