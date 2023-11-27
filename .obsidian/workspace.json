@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-07-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a04793f9eb7e029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "white hall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bf6785e0b36c096",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd81c59e916662a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dork.md",
+                "file": "BeyondTheMournlords/Sessions/2022/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "white hall.md",
+                "file": "BeyondTheMournlords/Sessions/2022/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "white hall.md",
+                "file": "BeyondTheMournlords/Sessions/2022/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "white hall.md"
+                "file": "BeyondTheMournlords/Sessions/2022/Untitled.md"
               }
             }
           },
@@ -193,9 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a04793f9eb7e029",
+  "active": "0a7791ab968291eb",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2022/2022-07-30.md",
+    "BeyondTheMournlords/Sessions/2022/Untitled.md",
     "white hall.md",
     "Roper.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
@@ -220,7 +184,6 @@
     "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
     "Carrion crawler.md",
     "Orgodar.md",
-    "Hurdlers.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
