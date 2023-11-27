@@ -1,5 +1,5 @@
 Status: 
-Race: Human
+Race: Abberation
 In charge of:
 
 ---

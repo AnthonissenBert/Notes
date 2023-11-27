@@ -20,180 +20,12 @@
             }
           },
           {
-            "id": "156dc76e2c9f58e5",
+            "id": "319dba22aec90817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One with extended limbs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "761f54ee6e8cce82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "One with chains.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ec2153012ab39fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "One with no head.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05026763e5aabcce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "One with Charisma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d7ac25f76dedfb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "One with no eyes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a2f8ad82590a5e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Barlgura.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6ee3904698ed91a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "harbor carriage route.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb66008831a06588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forest of Logar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f84a24c69f029a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Tarja.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d629c424345ff1c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00a918a07e615088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brimar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4ede4c84a737ec4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Npc's/enemies/Lazlo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d27146c6faab083f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "830c954ef318c20f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Npc's/enemies/Lazlo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d973c7d9b7b2a800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Deities/Agion.md",
+                "file": "The One beyonders.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "One with extended limbs.md",
+                "file": "The One beyonders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "One with extended limbs.md",
+                "file": "The One beyonders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One with extended limbs.md"
+                "file": "The One beyonders.md"
               }
             }
           },
@@ -337,14 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "156dc76e2c9f58e5",
+  "active": "319dba22aec90817",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
+    "The One beyonders.md",
     "One with extended limbs.md",
-    "One with chains.md",
-    "One with no head.md",
     "One with Charisma.md",
     "One with no eyes.md",
+    "One with no head.md",
+    "One with chains.md",
     "Barlgura.md",
     "harbor carriage route.md",
     "Forest of Logar.md",
@@ -364,7 +197,6 @@
     "infirmary.md",
     "BeyondTheMournlords/Npc's/friendlies/Zinefry.md",
     "Malakite weavers.md",
-    "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
