@@ -10,7 +10,7 @@ Several hundred years passed and people had forgotten about The Beyond. Strangel
 This settlement is called The Beyonder's [[Bastion]]. The descendants of the great kingdom of [[Mar Ceran]] organized, aiming to reclaim lost lands, rediscover history, enrich themselves and to protect the civilization that still exists. The bravest and purest went to stop this cataclysmic menace. 
 
 You are one of these descendants. Born on [[Argas]] and a stranger to those new lands, you venture   
-forth into The Beyond. You may forge alliances or make enemies, loot ruins abandoned for centuries, and with enough preparation face nightmarish entities.   
-Your adventure begins in Barkayal Bay, still weary from your hike to this harbor your eyes can't help   
-but become fixed upon an arriving Galleon ship. Soon, you will be able to call yourself   
+forth into The Beyond. You may forge alliances or make enemies, loot ruins abandoned for centuries, and with enough preparation face nightmarish entities.
+
+Your adventure begins in [[Barkayal Bay]], still weary from your hike to this harbor your eyes can't help but become fixed upon an arriving Galleon ship. Soon, you will be able to call yourself   
 A Beyonder.
