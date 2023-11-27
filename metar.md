@@ -4,7 +4,7 @@ In charge of:
 
 ---
 
-Acolyte of Asri
+description
 
 ---
 
