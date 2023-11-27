@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3f73d679f68a5e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lyrania.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "82e30928bbb384f0",
             "type": "leaf",
             "state": {
@@ -182,8 +194,9 @@
   },
   "active": "0a7791ab968291eb",
   "lastOpenFiles": [
-    "soapworks.md",
+    "lyrania.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
+    "soapworks.md",
     "Umberhulk.md",
     "Viscus.md",
     "Vascon.md",
@@ -207,7 +220,6 @@
     "BeyondTheMournlords/Npc's/enemies/The One beyonders.md",
     "BeyondTheMournlords/Locations/The gutters.md",
     "BeyondTheMournlords/Locations/The drains.md",
-    "BeyondTheMournlords/Npc's/neutrals/Targlassa.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
