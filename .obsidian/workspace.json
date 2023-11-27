@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-04-02.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f84a24c69f029a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Npc's/friendlies/Tarja.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-04-02.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-04-02.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-04-02.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-04-09.md"
               }
             }
           },
@@ -230,8 +242,10 @@
   },
   "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
-    "Metar.md",
     "BeyondTheMournlords/Sessions/2022/2022-04-02.md",
+    "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
+    "BeyondTheMournlords/Npc's/friendlies/Tarja.md",
+    "Metar.md",
     "Brimar.md",
     "BeyondTheMournlords/Npc's/enemies/Lazlo.md",
     "BeyondTheMournlords/Deities/Agion.md",
@@ -254,8 +268,6 @@
     "BeyondTheMournlords/Deities/Tyr.md",
     "BeyondTheMournlords/Deities/Wirna.md",
     "BeyondTheMournlords/Npc's/friendlies/Vergil.md",
-    "BeyondTheMournlords/Deities/Okma.md",
-    "BeyondTheMournlords/Npc's/friendlies/Seretevi.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
