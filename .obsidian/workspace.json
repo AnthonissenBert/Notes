@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "aa71bbd5288c1fc3",
+            "id": "af5939a4a7d2596b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -157,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa71bbd5288c1fc3",
+  "active": "af5939a4a7d2596b",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Locations/Cities/Shothmea.md",
     "BeyondTheMournlords/Npc's/monsters/Purple worm.md",
     "BeyondTheMournlords/Sessions/2021/2021-05-01.md",
     "BeyondTheMournlords/Sessions/2021/2021-05-15.md",
@@ -190,7 +191,6 @@
     "BeyondTheMournlords/Sessions/2021/2021-10-30.md",
     "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
     "BeyondTheMournlords/Sessions/2021/2021-12-04.md",
-    "BeyondTheMournlords/Sessions/2021/2021-12-18.md",
     "BeyondTheMournlords/Locations/Wetlands",
     "BeyondTheMournlords/Locations/Deserts",
     "BeyondTheMournlords/Locations/Roads",
