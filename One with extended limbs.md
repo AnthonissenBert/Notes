@@ -1,7 +1,7 @@
 Status: 
-Race:
+Race: Abberation
 In charge of:
 
 ---
 
-Daddy Long logs
+A humanoid with long legs and long arms
