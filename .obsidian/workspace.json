@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "761f54ee6e8cce82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One with chains.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ec2153012ab39fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One with no head.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "05026763e5aabcce",
             "type": "leaf",
             "state": {
@@ -302,8 +326,10 @@
   },
   "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
-    "One with Charisma.md",
+    "One with chains.md",
     "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
+    "One with no head.md",
+    "One with Charisma.md",
     "One with no eyes.md",
     "Barlgura.md",
     "harbor carriage route.md",
@@ -326,8 +352,6 @@
     "Malakite weavers.md",
     "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
     "silk sanctum.md",
-    "Chasmee.md",
-    "Shiraak.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
