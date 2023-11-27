@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b059b67fad9dcb5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruared.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3ede3e9795b26f02",
             "type": "leaf",
             "state": {
@@ -187,8 +199,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jagneel.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jagneel.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jagneel.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md"
               }
             }
           },
@@ -325,8 +336,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ede3e9795b26f02",
+  "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
+    "Ruared.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
     "Jagneel.md",
     "Umberskulkers.md",
@@ -340,7 +352,6 @@
     "Bellows.md",
     "Spalford.md",
     "Buzwick.md",
-    "Ruared.md",
     "BeyondTheMournlords/Sessions/2022/2022-05-25.md",
     "BeyondTheMournlords/Synopsis.md",
     "Barkayal Bay.md",

@@ -1,5 +1,5 @@
-Status: 
-Race:
+Status: DECEASED
+Race: 
 In charge of:
 
 ---
@@ -8,11 +8,3 @@ In charge of:
 - Running from prospector
 - Worked as a fence
 	- Sold something bad
-
----
-
-## family
-
-married to:
-x amount of children:
-- 
