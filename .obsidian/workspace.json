@@ -11,8 +11,12 @@
             "id": "a23bf901b292b6f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md"
+              }
             }
           },
           {
@@ -150,6 +158,7 @@
   },
   "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
     "BeyondTheMournlords/Npc's/monsters/Casmy.md",
     "BeyondTheMournlords/Deities/Tyr.md",
     "BeyondTheMournlords/Deities/Wirna.md",
@@ -175,7 +184,6 @@
     "BeyondTheMournlords/Locations/Ionic foothills.md",
     "BeyondTheMournlords/Npc's/friendlies/Indra.md",
     "BeyondTheMournlords/Npc's/neutrals/Falban.md",
-    "Hasro.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
