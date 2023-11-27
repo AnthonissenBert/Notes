@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "488dce120a445d67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Players/Volgrim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b4173e43eb1646e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Targlassa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "27efe385019110d6",
             "type": "leaf",
             "state": {
@@ -139,7 +163,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-03-11.md",
+                "file": "BeyondTheMournlords/Players/Volgrim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-03-11.md",
+                "file": "BeyondTheMournlords/Players/Volgrim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-03-11.md"
+                "file": "BeyondTheMournlords/Players/Volgrim.md"
               }
             }
           },
@@ -276,10 +301,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a23bf901b292b6f5",
+  "active": "488dce120a445d67",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2022/2022-04-02.md",
     "BeyondTheMournlords/Sessions/2022/2022-03-11.md",
+    "Targlassa.md",
+    "BeyondTheMournlords/Sessions/2022/2022-04-02.md",
     "merchant hall.md",
     "BeyondTheMournlords/Sessions/2022/2022-03-05.md",
     "infirmary.md",
@@ -303,7 +329,6 @@
     "BeyondTheMournlords/Deities/Agion.md",
     "BeyondTheMournlords/Deities/Agion.md",
     "BeyondTheMournlords/Deities/Bazaal.md",
-    "BeyondTheMournlords/Npc's/neutrals/Yayra.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
