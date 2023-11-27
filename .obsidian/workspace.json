@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb72db9ffd24a9f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "imzar grotto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "129373e88f4eb059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Npc's/enemies/venalis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -158,8 +182,10 @@
   },
   "active": "0a7791ab968291eb",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Npc's/enemies/venalis.md",
+    "demons throat.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
+    "imzar grotto.md",
+    "BeyondTheMournlords/Npc's/enemies/venalis.md",
     "Lyrania.md",
     "soapworks.md",
     "Umberhulk.md",
@@ -182,8 +208,6 @@
     "BeyondTheMournlords/Families/Umberskulkers.md",
     "BeyondTheMournlords/Locations/The wasting fields.md",
     "BeyondTheMournlords/Locations/The warrens.md",
-    "BeyondTheMournlords/Npc's/enemies/The One beyonders.md",
-    "BeyondTheMournlords/Locations/The gutters.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
