@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c6f81f1a6f003e4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shiraak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6466705b1d19bee9",
             "type": "leaf",
             "state": {
@@ -37,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hjorg.md",
+                "file": "Hjorg.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hjorg.md",
+                "file": "Shiraak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hjorg.md",
+                "file": "Shiraak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hjorg.md"
+                "file": "Shiraak.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ed5399f8378b228",
+  "active": "c6f81f1a6f003e4a",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
-    "hjorg.md",
+    "Shiraak.md",
+    "Hjorg.md",
     "Malakite weavers.md",
     "BeyondTheMournlords/Npc's/monsters/Casmy.md",
     "BeyondTheMournlords/Deities/Tyr.md",
@@ -208,7 +221,6 @@
     "BeyondTheMournlords/Npc's/enemies/Quintrell.md",
     "BeyondTheMournlords/Npc's/groups/kasharen bretheren.md",
     "BeyondTheMournlords/Families/Kashar.md",
-    "BeyondTheMournlords/Locations/Ionic foothills.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
