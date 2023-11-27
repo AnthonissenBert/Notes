@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "82e30928bbb384f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "soapworks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87f349ec5cc896e9",
             "type": "leaf",
             "state": {
@@ -31,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Umberhulk.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Umberhulk.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Umberhulk.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-25.md"
               }
             }
           },
@@ -169,8 +180,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f349ec5cc896e9",
+  "active": "0a7791ab968291eb",
   "lastOpenFiles": [
+    "soapworks.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
     "Umberhulk.md",
     "Viscus.md",
@@ -196,7 +208,6 @@
     "BeyondTheMournlords/Locations/The gutters.md",
     "BeyondTheMournlords/Locations/The drains.md",
     "BeyondTheMournlords/Npc's/neutrals/Targlassa.md",
-    "BeyondTheMournlords/Npc's/neutrals/suac'amuul.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
