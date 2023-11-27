@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "ef1b85a3c6569d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alchemists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f23e1a95099998b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tanar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1364bde2e202e876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karshtalu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bcd51f9e5e579ee1",
             "type": "leaf",
             "state": {
@@ -43,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viscus.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viscus.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viscus.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-10.md"
               }
             }
           },
@@ -181,9 +216,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcd51f9e5e579ee1",
+  "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
+    "Alchemists.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
+    "Tanar.md",
+    "Karshtalu.md",
     "Viscus.md",
     "Hurdlers.md",
     "Hardened road.md",
@@ -206,9 +244,6 @@
     "BeyondTheMournlords/Npc's/friendlies/Rivadus Alpenhorn.md",
     "BeyondTheMournlords/Npc's/neutrals/Relgin.md",
     "BeyondTheMournlords/Npc's/enemies/One with chains.md",
-    "BeyondTheMournlords/Locations/Moondale.md",
-    "BeyondTheMournlords/Locations/Mines.md",
-    "BeyondTheMournlords/Npc's/neutrals/Metar.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
