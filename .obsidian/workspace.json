@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Buildings/silk sanctum.md",
+                "file": "BeyondTheMournlords/Locations/Torrent.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Buildings/silk sanctum.md",
+                "file": "BeyondTheMournlords/Locations/Torrent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Buildings/silk sanctum.md",
+                "file": "BeyondTheMournlords/Locations/Torrent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Buildings/silk sanctum.md"
+                "file": "BeyondTheMournlords/Locations/Torrent.md"
               }
             }
           },
@@ -171,19 +171,25 @@
   },
   "active": "f1c75ce45c933264",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Locations/Buildings/silk sanctum.md",
-    "BeyondTheMournlords/Locations/Buildings/silk sanctum.md",
-    "BeyondTheMournlords/Locations/Buildings/the scaffold.md",
+    "BeyondTheMournlords/Locations/Districts/The wasting fields.md",
+    "BeyondTheMournlords/Locations/Districts/The warrens.md",
+    "BeyondTheMournlords/Locations/Wetlands/The Vigorous Veil.md",
+    "BeyondTheMournlords/Locations/Wetlands",
+    "BeyondTheMournlords/Npc's/groups/The Spring Court.md",
+    "BeyondTheMournlords/Npc's/groups/the Winter Court.md",
+    "BeyondTheMournlords/Locations/Buildings/The Deaf Halberd.md",
+    "BeyondTheMournlords/Locations/Buildings/the Magistrate.md",
+    "BeyondTheMournlords/Locations/Buildings/the Scaffold.md",
+    "BeyondTheMournlords/Locations/Buildings/Soapworks.md",
+    "BeyondTheMournlords/Locations/Buildings/Silk Sanctum.md",
+    "BeyondTheMournlords/Locations/Buildings/Silk Sanctum.md",
     "BeyondTheMournlords/Locations/Deserts/The rainless waste.md",
     "BeyondTheMournlords/Locations/Deserts",
-    "BeyondTheMournlords/Locations/Buildings/the Magistrate.md",
     "BeyondTheMournlords/Locations/Grottos/the lonely pillar.md",
     "BeyondTheMournlords/Locations/Districts/The gutters.md",
     "BeyondTheMournlords/Locations/Grottos/The Gaping Maw.md",
     "BeyondTheMournlords/Locations/Districts/The drains.md",
-    "BeyondTheMournlords/Locations/Buildings/The deaf halberd.md",
     "BeyondTheMournlords/Locations/Districts/Spalford.md",
-    "BeyondTheMournlords/Locations/Buildings/soapworks.md",
     "BeyondTheMournlords/Locations/Forests/Smaragd.md",
     "BeyondTheMournlords/Locations/Cities/Slanhurst.md",
     "BeyondTheMournlords/Locations/Grottos/Shraaks gullet.md",
@@ -193,11 +199,6 @@
     "BeyondTheMournlords/Locations/Forests/Ravenous.md",
     "BeyondTheMournlords/Locations/Roads/griffin rock.md",
     "BeyondTheMournlords/Locations/Roads/Poachers walk.md",
-    "BeyondTheMournlords/Locations/Grottos/Oregar.md",
-    "BeyondTheMournlords/Locations/Buildings/Old Burruck.md",
-    "BeyondTheMournlords/Locations/Cities/Moondale.md",
-    "BeyondTheMournlords/Locations/Grottos/Javrons grotto.md",
-    "BeyondTheMournlords/Locations/Districts/Mines.md",
     "BeyondTheMournlords/Locations/Roads",
     "BeyondTheMournlords/Locations/Planes",
     "BeyondTheMournlords/Locations/Buildings",
@@ -206,7 +207,6 @@
     "BeyondTheMournlords/Locations/Islands",
     "purple",
     "BeyondTheMournlords/Locations/Forests",
-    "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
