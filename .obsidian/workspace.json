@@ -19,8 +19,12 @@
             "id": "af5939a4a7d2596b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md"
+              }
             }
           },
           {
@@ -159,6 +167,12 @@
   },
   "active": "af5939a4a7d2596b",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2022/2022-05-25.md",
+    "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
+    "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
+    "BeyondTheMournlords/Sessions/2022/2022-07-16.md",
+    "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
+    "BeyondTheMournlords/Sessions/2021/2021-12-18.md",
     "BeyondTheMournlords/Locations/Cities/Shothmea.md",
     "BeyondTheMournlords/Npc's/monsters/Purple worm.md",
     "BeyondTheMournlords/Sessions/2021/2021-05-01.md",
@@ -185,12 +199,6 @@
     "BeyondTheMournlords/Sessions/2021/2021-09-04.md",
     "BeyondTheMournlords/Sessions/2021/2021-09-11.md",
     "BeyondTheMournlords/Sessions/2021/2021-10-02.md",
-    "BeyondTheMournlords/Npc's/factions/alabasta court.md",
-    "BeyondTheMournlords/Sessions/2021/2021-10-16.md",
-    "BeyondTheMournlords/Sessions/2021/2021-10-23.md",
-    "BeyondTheMournlords/Sessions/2021/2021-10-30.md",
-    "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
-    "BeyondTheMournlords/Sessions/2021/2021-12-04.md",
     "BeyondTheMournlords/Locations/Wetlands",
     "BeyondTheMournlords/Locations/Deserts",
     "BeyondTheMournlords/Locations/Roads",
