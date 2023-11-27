@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "794e1e4f4d338eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Places/Cities/Bastion/Bastion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a8ec3434a1cef336",
             "type": "leaf",
             "state": {
@@ -230,6 +242,8 @@
   },
   "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Places/Cities/Bastion/Bastion.md",
+    "BeyondTheMournlords/Synopsis.md",
     "BeyondTheMournlords/Sessions/2022/2022-05-25.md",
     "Arjhan's Current.md",
     "Relgin.md",
@@ -254,8 +268,6 @@
     "BeyondTheMournlords/Npc's/enemies/Lazlo.md",
     "BeyondTheMournlords/Deities/Agion.md",
     "BeyondTheMournlords/Sessions/2022/2022-03-11.md",
-    "Rivadus Alpenhorn.md",
-    "Horgeptir.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
