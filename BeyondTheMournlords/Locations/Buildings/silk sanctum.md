@@ -1,10 +1,13 @@
-Type: Buildings
+Type: Building
 Location: [[Bastion]]
 
 ---
 
-description
+
 
 ---
 
 ## who is here
+
+beggars
+thieves

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Buildings/the Magistrate.md",
+                "file": "BeyondTheMournlords/Locations/Buildings/silk sanctum.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Buildings/the Magistrate.md",
+                "file": "BeyondTheMournlords/Locations/Buildings/silk sanctum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Buildings/the Magistrate.md",
+                "file": "BeyondTheMournlords/Locations/Buildings/silk sanctum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Buildings/the Magistrate.md"
+                "file": "BeyondTheMournlords/Locations/Buildings/silk sanctum.md"
               }
             }
           },
@@ -169,8 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "f1c75ce45c933264",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Locations/Buildings/silk sanctum.md",
+    "BeyondTheMournlords/Locations/Buildings/silk sanctum.md",
+    "BeyondTheMournlords/Locations/Buildings/the scaffold.md",
+    "BeyondTheMournlords/Locations/Deserts/The rainless waste.md",
+    "BeyondTheMournlords/Locations/Deserts",
+    "BeyondTheMournlords/Locations/Buildings/the Magistrate.md",
     "BeyondTheMournlords/Locations/Grottos/the lonely pillar.md",
     "BeyondTheMournlords/Locations/Districts/The gutters.md",
     "BeyondTheMournlords/Locations/Grottos/The Gaping Maw.md",
@@ -180,7 +186,6 @@
     "BeyondTheMournlords/Locations/Buildings/soapworks.md",
     "BeyondTheMournlords/Locations/Forests/Smaragd.md",
     "BeyondTheMournlords/Locations/Cities/Slanhurst.md",
-    "BeyondTheMournlords/Locations/Buildings/silk sanctum.md",
     "BeyondTheMournlords/Locations/Grottos/Shraaks gullet.md",
     "BeyondTheMournlords/Locations/Cities/Shothmea.md",
     "BeyondTheMournlords/Locations/Cities/Shawford.md",
@@ -193,10 +198,6 @@
     "BeyondTheMournlords/Locations/Cities/Moondale.md",
     "BeyondTheMournlords/Locations/Grottos/Javrons grotto.md",
     "BeyondTheMournlords/Locations/Districts/Mines.md",
-    "BeyondTheMournlords/Locations/Continents/Mar Ceran.md",
-    "BeyondTheMournlords/Locations/Cities/Llyn.md",
-    "BeyondTheMournlords/Locations/Buildings/merchant hall.md",
-    "BeyondTheMournlords/Locations/Forests/mangroves of malevolence.md",
     "BeyondTheMournlords/Locations/Roads",
     "BeyondTheMournlords/Locations/Planes",
     "BeyondTheMournlords/Locations/Buildings",
@@ -206,7 +207,6 @@
     "purple",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
-    "BeyondTheMournlords/Locations/Rivers",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
