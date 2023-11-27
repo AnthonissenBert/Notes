@@ -11,8 +11,12 @@
             "id": "78c9645d38f5aa77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Sessions/2021/2021-06-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BeyondTheMournlords/Sessions/2021/2021-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BeyondTheMournlords/Sessions/2021/2021-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BeyondTheMournlords/Sessions/2021/2021-06-26.md"
+              }
             }
           },
           {
@@ -148,8 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78c9645d38f5aa77",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2021/2021-07-24.md",
+    "BeyondTheMournlords/Sessions/2021/2021-08-01.md",
+    "BeyondTheMournlords/Sessions/2021/2021-08-07.md",
+    "BeyondTheMournlords/Sessions/2021/2021-08-14.md",
+    "BeyondTheMournlords/Npc's/friendlies/Keiran.md",
+    "BeyondTheMournlords/Npc's/friendlies/Kieran.md",
     "BeyondTheMournlords/Synopsis.md",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230253.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230736.png",
@@ -157,8 +171,6 @@
     "BeyondTheMournlords/_assets/images/Pasted image 20231127151844.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20231127151851.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20231127151900.png",
-    "BeyondTheMournlords/Npc's/friendlies/Keiran.md",
-    "BeyondTheMournlords/Sessions/2021/2021-08-14.md",
     "BeyondTheMournlords/Sessions/2021/2021-08-28.md",
     "BeyondTheMournlords/Sessions/2021/2021-09-04.md",
     "BeyondTheMournlords/Sessions/2021/2021-09-11.md",
@@ -178,9 +190,6 @@
     "BeyondTheMournlords/Sessions/2022/2022-04-02.md",
     "BeyondTheMournlords/Deities/Agion.md",
     "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
-    "BeyondTheMournlords/Sessions/2022/2022-04-23.md",
-    "BeyondTheMournlords/Sessions/2022/2022-05-25.md",
-    "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
     "BeyondTheMournlords/Locations/Wetlands",
     "BeyondTheMournlords/Locations/Deserts",
     "BeyondTheMournlords/Locations/Roads",

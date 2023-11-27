@@ -1,10 +1,11 @@
 Status: 
-Race:
+Race: Male half elf
 In charge of:
 
 ---
 
-description
+Beyonder
+red hair
 
 ---
 
