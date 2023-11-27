@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the scaffold.md",
+                "file": "BeyondTheMournlords/Synopsis.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1c75ce45c933264",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the scaffold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the scaffold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "the scaffold.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +161,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51bedf2138cc6daf",
+  "active": "f1c75ce45c933264",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Synopsis.md",
+    "BeyondTheMournlords/Locations/Zumanthel.md",
+    "BeyondTheMournlords/Locations/white hall.md",
+    "BeyondTheMournlords/Npc's/groups/Viscus.md",
+    "BeyondTheMournlords/Npc's/neutrals/Vascon.md",
+    "BeyondTheMournlords/Npc's/groups/varjan vagabond.md",
+    "BeyondTheMournlords/Locations/Varanor.md",
+    "BeyondTheMournlords/Locations/Usmul mines.md",
+    "BeyondTheMournlords/Locations/Usmal.md",
+    "BeyondTheMournlords/Npc's/monsters/Umberhulk.md",
+    "BeyondTheMournlords/Locations/Tsabagh's grotto.md",
+    "BeyondTheMournlords/Locations/the scaffold.md",
     "BeyondTheMournlords/Locations/the lonely pillar.md",
     "BeyondTheMournlords/Npc's/groups/Tanar.md",
     "BeyondTheMournlords/Locations/soapworks.md",
@@ -172,18 +189,6 @@
     "BeyondTheMournlords/Npc's/neutrals/Narisdar.md",
     "BeyondTheMournlords/Npc's/enemies/Miredar.md",
     "BeyondTheMournlords/Npc's/friendlies/Lyrania.md",
-    "BeyondTheMournlords/Npc's/groups/Karshtalu.md",
-    "BeyondTheMournlords/Locations/Imbros' grotto.md",
-    "BeyondTheMournlords/Npc's/groups/Hurdlers.md",
-    "BeyondTheMournlords/Locations/Hardened road.md",
-    "BeyondTheMournlords/Locations/Fault of the forgotten.md",
-    "BeyondTheMournlords/Locations/fairies ladder.md",
-    "BeyondTheMournlords/Npc's/enemies/Elliazar.md",
-    "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
-    "BeyondTheMournlords/Locations/chimney.md",
-    "BeyondTheMournlords/Locations/demons throat.md",
-    "BeyondTheMournlords/Sessions/2022/2022-07-30.md",
-    "BeyondTheMournlords/Sessions/2022/2022-09-04.md",
     "purple",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",

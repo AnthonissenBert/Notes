@@ -1,5 +1,3 @@
-The introduction:
-
 Once, there was a benevolent Aasimar that lived in the North of [[Mar Ceran]]. He kept his continent   
 safe by enforcing order and light. Being an Aasimar and born of a deity, this was his duty. A duty   
 which he abandoned with his sudden departure. The land fell into chaos, strange warped entities   
