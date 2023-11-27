@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2cbd7328770ddaaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tsabagh's grotto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b1440801013d8dee",
             "type": "leaf",
             "state": {
@@ -182,8 +194,9 @@
   },
   "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
+    "Tsabagh's grotto.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-16.md",
+    "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
     "Carrion crawler.md",
     "Orgodar.md",
     "Hurdlers.md",
@@ -207,7 +220,6 @@
     "BeyondTheMournlords/Npc's/neutrals/suac'amuul.md",
     "BeyondTheMournlords/Locations/Spalford.md",
     "BeyondTheMournlords/Locations/silk sanctum.md",
-    "BeyondTheMournlords/Locations/Shothmea.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
