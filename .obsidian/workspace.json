@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relgin.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruared.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/Ruared.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umberskulkers.md",
+                "file": "BeyondTheMournlords/Families/Umberskulkers.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umberskulkers.md",
+                "file": "BeyondTheMournlords/Families/Umberskulkers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shothmea.md",
+                "file": "BeyondTheMournlords/Locations/Shothmea.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The drains.md",
+                "file": "BeyondTheMournlords/Locations/The drains.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The warrens.md",
+                "file": "BeyondTheMournlords/Locations/The warrens.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The gutters.md",
+                "file": "BeyondTheMournlords/Locations/The gutters.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The wasting fields.md",
+                "file": "BeyondTheMournlords/Locations/The wasting fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spalford.md",
+                "file": "BeyondTheMournlords/Locations/Spalford.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shothmea.md",
+                "file": "BeyondTheMournlords/Locations/Shothmea.md",
                 "mode": "source",
                 "source": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relgin.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relgin.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relgin.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md"
               }
             }
           },
@@ -338,6 +338,21 @@
   },
   "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Families/Umberskulkers.md",
+    "BeyondTheMournlords/Locations/The wasting fields.md",
+    "BeyondTheMournlords/Locations/The warrens.md",
+    "BeyondTheMournlords/Npc's/enemies/The One beyonders.md",
+    "BeyondTheMournlords/Locations/The gutters.md",
+    "BeyondTheMournlords/Locations/The drains.md",
+    "BeyondTheMournlords/Npc's/neutrals/Targlassa.md",
+    "BeyondTheMournlords/Npc's/neutrals/suac'amuul.md",
+    "BeyondTheMournlords/Locations/Spalford.md",
+    "BeyondTheMournlords/Locations/silk sanctum.md",
+    "BeyondTheMournlords/Locations/Shothmea.md",
+    "BeyondTheMournlords/Npc's/enemies/Shiraak.md",
+    "BeyondTheMournlords/Npc's/neutrals/Ruared.md",
+    "BeyondTheMournlords/Npc's/friendlies/Rivadus Alpenhorn.md",
+    "BeyondTheMournlords/Npc's/neutrals/Relgin.md",
     "BeyondTheMournlords/Npc's/enemies/One with chains.md",
     "BeyondTheMournlords/Locations/Moondale.md",
     "BeyondTheMournlords/Locations/Mines.md",
@@ -349,21 +364,6 @@
     "BeyondTheMournlords/Npc's/neutrals/Brimar.md",
     "BeyondTheMournlords/Locations/infirmary.md",
     "BeyondTheMournlords/Families/Horgeptir.md",
-    "BeyondTheMournlords/Families/Hjorg.md",
-    "BeyondTheMournlords/Locations/Bastion.md",
-    "BeyondTheMournlords/Locations/the Magistrate.md",
-    "BeyondTheMournlords/Locations/The deaf halberd.md",
-    "BeyondTheMournlords/Locations/harbor carriage route.md",
-    "BeyondTheMournlords/Locations/Forest of Logar.md",
-    "BeyondTheMournlords/Locations/griffin rock.md",
-    "BeyondTheMournlords/Locations/Wetlands.md",
-    "BeyondTheMournlords/Locations/Torrent.md",
-    "BeyondTheMournlords/Locations/Urngor mountainrange.md",
-    "BeyondTheMournlords/Locations/Aulacogen Isles.md",
-    "BeyondTheMournlords/Npc's/monsters/Chasmee.md",
-    "BeyondTheMournlords/Locations/Buzwick.md",
-    "BeyondTheMournlords/Locations/Slanhurst.md",
-    "BeyondTheMournlords/Locations/the silk sanctum.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
