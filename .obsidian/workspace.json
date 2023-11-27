@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8fa37268237c4595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basilisk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "58c971af44aa379a",
             "type": "leaf",
             "state": {
@@ -170,8 +182,9 @@
   },
   "active": "0a7791ab968291eb",
   "lastOpenFiles": [
-    "a dark helmet.md",
+    "basilisk.md",
     "BeyondTheMournlords/Sessions/2022/2022-12-03.md",
+    "a dark helmet.md",
     "BeyondTheMournlords/Sessions/2022/2022-11-12.md",
     "Imbros' grotto.md",
     "imzar grotto.md",
@@ -196,7 +209,6 @@
     "Roper.md",
     "Oregar.md",
     "Dork.md",
-    "Elliazar.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
