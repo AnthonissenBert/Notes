@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "0a2f8ad82590a5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Barlgura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6ee3904698ed91a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "harbor carriage route.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bb66008831a06588",
             "type": "leaf",
             "state": {
@@ -254,8 +278,10 @@
   },
   "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
-    "Forest of Logar.md",
+    "Barlgura.md",
     "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
+    "harbor carriage route.md",
+    "Forest of Logar.md",
     "BeyondTheMournlords/Sessions/2022/2022-04-02.md",
     "BeyondTheMournlords/Npc's/friendlies/Tarja.md",
     "Metar.md",
@@ -278,8 +304,6 @@
     "Shiraak.md",
     "Hjorg.md",
     "BeyondTheMournlords/Npc's/monsters/Casmy.md",
-    "BeyondTheMournlords/Deities/Tyr.md",
-    "BeyondTheMournlords/Deities/Wirna.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
