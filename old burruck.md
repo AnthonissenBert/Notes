@@ -1,0 +1,5 @@
+Type: Tavern
+Location: [[Shothmea]]
+
+---
+

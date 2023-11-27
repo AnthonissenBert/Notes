@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3a31a2a30bbc8db8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old burruck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0c76d262e77b495d",
             "type": "leaf",
             "state": {
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vascon.md",
+                "file": "old burruck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vascon.md",
+                "file": "old burruck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vascon.md"
+                "file": "old burruck.md"
               }
             }
           },
@@ -349,9 +361,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c76d262e77b495d",
+  "active": "3a31a2a30bbc8db8",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
+    "old burruck.md",
     "Vascon.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
     "BeyondTheMournlords/Families/Umberskulkers.md",
@@ -376,7 +389,6 @@
     "BeyondTheMournlords/Locations/merchant hall.md",
     "BeyondTheMournlords/Families/Malakite weavers.md",
     "BeyondTheMournlords/Npc's/neutrals/Jagneel.md",
-    "BeyondTheMournlords/Npc's/neutrals/Itythlass.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",

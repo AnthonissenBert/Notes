@@ -4,12 +4,8 @@ In charge of:
 
 ---
 
-description
-
----
-
-## family
-
-married to:
-x amount of children:
-- 
+- Holding a tome
+- Glasses
+- Probably wizard/sorcerer
+- Gave us cloaks
+- Idorian prospector
