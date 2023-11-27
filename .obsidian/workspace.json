@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "bb72db9ffd24a9f7",
+            "id": "f258f29c8fbf74d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imzar grotto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "129373e88f4eb059",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Npc's/enemies/venalis.md",
+                "file": "fairies ladder.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,10 +170,14 @@
   },
   "active": "0a7791ab968291eb",
   "lastOpenFiles": [
-    "demons throat.md",
+    "fairies ladder.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
+    "chimney.md",
+    "Shraaks gullet.md",
+    "Red Clefft.md",
     "imzar grotto.md",
     "BeyondTheMournlords/Npc's/enemies/venalis.md",
+    "demons throat.md",
     "Lyrania.md",
     "soapworks.md",
     "Umberhulk.md",
@@ -204,10 +196,6 @@
     "Karshtalu.md",
     "Hardened road.md",
     "Old Burruck.md",
-    "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
-    "BeyondTheMournlords/Families/Umberskulkers.md",
-    "BeyondTheMournlords/Locations/The wasting fields.md",
-    "BeyondTheMournlords/Locations/The warrens.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
