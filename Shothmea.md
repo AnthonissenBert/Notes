@@ -14,9 +14,8 @@ districts:
 - The gutter
 - The warrens
 - The drains
-- Buzwick
-	- Farmer
-- spalford
+- [[Buzwick]]
+- [[Spalford]]
 	- Canal city
 	- Sewage from upper comes down there
 	- City of ruared

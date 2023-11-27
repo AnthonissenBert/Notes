@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "8bc932f64974b736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spalford.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c45e0c21f6bfc52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Buzwick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a75889a0b2c3ae15",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shothmea.md",
+                "file": "Spalford.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shothmea.md",
+                "file": "Spalford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shothmea.md"
+                "file": "Spalford.md"
               }
             }
           },
@@ -181,10 +205,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d6bc7d5dfd8fb6a",
+  "active": "8bc932f64974b736",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
     "Shothmea.md",
+    "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
+    "Spalford.md",
+    "Buzwick.md",
     "Ruared.md",
     "BeyondTheMournlords/Sessions/2022/2022-05-25.md",
     "BeyondTheMournlords/Synopsis.md",
@@ -207,8 +233,6 @@
     "harbor carriage route.md",
     "Forest of Logar.md",
     "BeyondTheMournlords/Sessions/2022/2022-04-02.md",
-    "BeyondTheMournlords/Npc's/friendlies/Tarja.md",
-    "Metar.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
