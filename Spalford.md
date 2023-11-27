@@ -3,7 +3,7 @@ Location: [[Shothmea]]
 
 ---
 
-Canal city
+- Canal city
 - Sewage from upper comes down there
 - City of ruared
 
