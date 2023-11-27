@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "319dba22aec90817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The One beyonders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The One beyonders.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The One beyonders.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The One beyonders.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-04-09.md"
               }
             }
           },
@@ -169,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "319dba22aec90817",
+  "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
     "The One beyonders.md",
+    "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
     "One with extended limbs.md",
     "One with Charisma.md",
     "One with no eyes.md",

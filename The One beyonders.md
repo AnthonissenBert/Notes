@@ -1,4 +1,6 @@
 group existing of:
 - [[One with chains]]
 - [[One with no head]]
-- [[one with]]
+- [[One with no eyes]]
+- [[One with Charisma]]
+- [[One with extended limbs]]
