@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-07-25.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-30.md"
               }
             }
           },
@@ -170,8 +170,10 @@
   },
   "active": "0a7791ab968291eb",
   "lastOpenFiles": [
-    "Dork.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
+    "BeyondTheMournlords/Sessions/2022/2022-07-30.md",
+    "Oregar.md",
+    "Dork.md",
     "Elliazar.md",
     "Miredar.md",
     "fairies ladder.md",
@@ -194,8 +196,6 @@
     "Hurdlers.md",
     "Narisdar.md",
     "the scaffold.md",
-    "Alchemists.md",
-    "Tanar.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
