@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "3f73d679f68a5e48",
+            "id": "9accacef164d66f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lyrania.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82e30928bbb384f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "soapworks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87f349ec5cc896e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Umberhulk.md",
+                "file": "Lyrania.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +170,7 @@
   },
   "active": "0a7791ab968291eb",
   "lastOpenFiles": [
-    "lyrania.md",
+    "Lyrania.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
     "soapworks.md",
     "Umberhulk.md",
