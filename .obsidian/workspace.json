@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Torrent.md",
+                "file": "BeyondTheMournlords/Sessions/2023/2023-09-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Torrent.md",
+                "file": "BeyondTheMournlords/Sessions/2023/2023-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Torrent.md",
+                "file": "BeyondTheMournlords/Sessions/2023/2023-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Torrent.md"
+                "file": "BeyondTheMournlords/Sessions/2023/2023-09-23.md"
               }
             }
           },
@@ -171,6 +171,23 @@
   },
   "active": "f1c75ce45c933264",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2023/2023-09-25.md",
+    "BeyondTheMournlords/Sessions/2023/2023-10-02.md",
+    "BeyondTheMournlords/Sessions/2023/2023-10-07.md",
+    "BeyondTheMournlords/Sessions/2023/2023-10-9.md",
+    "BeyondTheMournlords/Sessions/2023/2023-11-05.md",
+    "BeyondTheMournlords/Sessions/2023/2023-11-23.md",
+    "BeyondTheMournlords/Locations/Wetlands/Waining Wetlands.md",
+    "BeyondTheMournlords/Locations/Wetlands/Wetlands.md",
+    "BeyondTheMournlords/Locations/Forts/Zumanthel.md",
+    "BeyondTheMournlords/Locations/Grottos/white hall.md",
+    "BeyondTheMournlords/Locations/Wetlands/Viridillatros veil.md",
+    "BeyondTheMournlords/Locations/Forts/Varanor.md",
+    "BeyondTheMournlords/Locations/Grottos/Usmul mines.md",
+    "BeyondTheMournlords/Locations/Forts/Usmal.md",
+    "BeyondTheMournlords/Locations/Mountains/Urngor mountainrange.md",
+    "BeyondTheMournlords/Locations/Grottos/Tsabagh's grotto.md",
+    "BeyondTheMournlords/Locations/Wetlands/Torrent.md",
     "BeyondTheMournlords/Locations/Districts/The wasting fields.md",
     "BeyondTheMournlords/Locations/Districts/The warrens.md",
     "BeyondTheMournlords/Locations/Wetlands/The Vigorous Veil.md",
@@ -181,24 +198,7 @@
     "BeyondTheMournlords/Locations/Buildings/the Magistrate.md",
     "BeyondTheMournlords/Locations/Buildings/the Scaffold.md",
     "BeyondTheMournlords/Locations/Buildings/Soapworks.md",
-    "BeyondTheMournlords/Locations/Buildings/Silk Sanctum.md",
-    "BeyondTheMournlords/Locations/Buildings/Silk Sanctum.md",
-    "BeyondTheMournlords/Locations/Deserts/The rainless waste.md",
     "BeyondTheMournlords/Locations/Deserts",
-    "BeyondTheMournlords/Locations/Grottos/the lonely pillar.md",
-    "BeyondTheMournlords/Locations/Districts/The gutters.md",
-    "BeyondTheMournlords/Locations/Grottos/The Gaping Maw.md",
-    "BeyondTheMournlords/Locations/Districts/The drains.md",
-    "BeyondTheMournlords/Locations/Districts/Spalford.md",
-    "BeyondTheMournlords/Locations/Forests/Smaragd.md",
-    "BeyondTheMournlords/Locations/Cities/Slanhurst.md",
-    "BeyondTheMournlords/Locations/Grottos/Shraaks gullet.md",
-    "BeyondTheMournlords/Locations/Cities/Shothmea.md",
-    "BeyondTheMournlords/Locations/Cities/Shawford.md",
-    "BeyondTheMournlords/Locations/Grottos/Red Clefft.md",
-    "BeyondTheMournlords/Locations/Forests/Ravenous.md",
-    "BeyondTheMournlords/Locations/Roads/griffin rock.md",
-    "BeyondTheMournlords/Locations/Roads/Poachers walk.md",
     "BeyondTheMournlords/Locations/Roads",
     "BeyondTheMournlords/Locations/Planes",
     "BeyondTheMournlords/Locations/Buildings",
