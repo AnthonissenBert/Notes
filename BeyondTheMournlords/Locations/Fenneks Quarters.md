@@ -1,4 +1,4 @@
-Type: Brothel
+Type: Building: Brothel
 Location: [[Bastion]]
 
 ---

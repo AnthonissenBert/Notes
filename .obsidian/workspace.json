@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Locations/the silk sanctum.md",
+                "file": "BeyondTheMournlords/Npc's/Brimar.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buzwick.md",
+                "file": "BeyondTheMournlords/Locations/Buzwick.md",
                 "mode": "source",
                 "source": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Locations/the silk sanctum.md",
+                "file": "BeyondTheMournlords/Npc's/Brimar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Locations/the silk sanctum.md",
+                "file": "BeyondTheMournlords/Npc's/Brimar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Locations/the silk sanctum.md"
+                "file": "BeyondTheMournlords/Npc's/Brimar.md"
               }
             }
           },
@@ -338,10 +338,17 @@
   },
   "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/monsters/Chasmee.md",
+    "BeyondTheMournlords/Locations/Buzwick.md",
+    "BeyondTheMournlords/Npc's/Brimar.md",
     "BeyondTheMournlords/Locations/Slanhurst.md",
+    "BeyondTheMournlords/Locations/the silk sanctum.md",
+    "BeyondTheMournlords/Locations/Viridillatros veil.md",
+    "BeyondTheMournlords/Locations/Waining Wetlands.md",
+    "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Shawford.md",
-    "BeyondTheMournlords/Locations/Llyn.md",
     "BeyondTheMournlords/Locations/Fenneks Quarters.md",
+    "BeyondTheMournlords/Locations/Llyn.md",
     "BeyondTheMournlords/Locations/Eckstow.md",
     "BeyondTheMournlords/Locations/Mountains/Ionic foothills.md",
     "BeyondTheMournlords/Locations/Mountains",
@@ -363,18 +370,11 @@
     "The drains.md",
     "The warrens.md",
     "The gutters.md",
-    "The wasting fields.md",
-    "Mines.md",
-    "Spalford.md",
-    "Buzwick.md",
-    "BeyondTheMournlords/Sessions/2022/2022-05-25.md",
-    "BeyondTheMournlords/Synopsis.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
     "BeyondTheMournlords/_assets/images",
     "BeyondTheMournlords/_assets/videos/H̵̨̤̫̭͔͔͖̜̥̘̖̫̒̒͛̈́͋̌̑͘̚e̴̛̠͋͌̈̕l̵̖̱͓̲̜͕̖͓̝͐͆̓̾̈́̾͜l̴̡̥̬͓̭̜͎͖̙̦̽̀̈́̒̎͐̍̏̉ờ̸͙̮͋͂̊̆̎͑̈́͒̽̿̓͝.mp4",
-    "BeyondTheMournlords/Sessions/2023",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
