@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forest of Logar.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forest of Logar.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forest of Logar.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-04-09.md"
               }
             }
           },
@@ -253,10 +252,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb66008831a06588",
+  "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
     "Forest of Logar.md",
+    "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
     "BeyondTheMournlords/Sessions/2022/2022-04-02.md",
     "BeyondTheMournlords/Npc's/friendlies/Tarja.md",
     "Metar.md",
