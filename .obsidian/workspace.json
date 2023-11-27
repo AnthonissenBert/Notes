@@ -23,8 +23,12 @@
             "id": "f1c75ce45c933264",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Locations/Aulacogen Isles.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BeyondTheMournlords/Locations/Aulacogen Isles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BeyondTheMournlords/Locations/Aulacogen Isles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BeyondTheMournlords/Locations/Aulacogen Isles.md"
+              }
             }
           },
           {
@@ -161,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1c75ce45c933264",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Locations/Untitled",
     "BeyondTheMournlords/Synopsis.md",
     "BeyondTheMournlords/Locations/Zumanthel.md",
     "BeyondTheMournlords/Locations/white hall.md",
@@ -188,7 +197,6 @@
     "BeyondTheMournlords/Locations/Old Burruck.md",
     "BeyondTheMournlords/Npc's/neutrals/Narisdar.md",
     "BeyondTheMournlords/Npc's/enemies/Miredar.md",
-    "BeyondTheMournlords/Npc's/friendlies/Lyrania.md",
     "purple",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
