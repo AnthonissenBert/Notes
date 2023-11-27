@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jagneel.md",
+                "file": "Relgin.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jagneel.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/Jagneel.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mines.md",
+                "file": "BeyondTheMournlords/Locations/Mines.md",
                 "mode": "source",
                 "source": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jagneel.md",
+                "file": "Relgin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jagneel.md",
+                "file": "Relgin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jagneel.md"
+                "file": "Relgin.md"
               }
             }
           },
@@ -338,7 +338,15 @@
   },
   "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Npc's/Itythlass.md",
+    "BeyondTheMournlords/Npc's/enemies/One with chains.md",
+    "BeyondTheMournlords/Locations/Moondale.md",
+    "BeyondTheMournlords/Locations/Mines.md",
+    "BeyondTheMournlords/Npc's/neutrals/Metar.md",
+    "BeyondTheMournlords/Locations/merchant hall.md",
+    "BeyondTheMournlords/Families/Malakite weavers.md",
+    "BeyondTheMournlords/Npc's/neutrals/Jagneel.md",
+    "BeyondTheMournlords/Npc's/neutrals/Itythlass.md",
+    "BeyondTheMournlords/Npc's/neutrals/Brimar.md",
     "BeyondTheMournlords/Locations/infirmary.md",
     "BeyondTheMournlords/Families/Horgeptir.md",
     "BeyondTheMournlords/Families/Hjorg.md",
@@ -352,19 +360,11 @@
     "BeyondTheMournlords/Locations/Torrent.md",
     "BeyondTheMournlords/Locations/Urngor mountainrange.md",
     "BeyondTheMournlords/Locations/Aulacogen Isles.md",
-    "BeyondTheMournlords/Npc's/Brimar.md",
     "BeyondTheMournlords/Npc's/monsters/Chasmee.md",
     "BeyondTheMournlords/Locations/Buzwick.md",
     "BeyondTheMournlords/Locations/Slanhurst.md",
     "BeyondTheMournlords/Locations/the silk sanctum.md",
-    "BeyondTheMournlords/Locations/Viridillatros veil.md",
-    "BeyondTheMournlords/Locations/Waining Wetlands.md",
     "BeyondTheMournlords/Locations/Forests",
-    "BeyondTheMournlords/Locations/Shawford.md",
-    "BeyondTheMournlords/Locations/Fenneks Quarters.md",
-    "BeyondTheMournlords/Locations/Llyn.md",
-    "BeyondTheMournlords/Locations/Eckstow.md",
-    "BeyondTheMournlords/Locations/Mountains/Ionic foothills.md",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
     "BeyondTheMournlords/Locations/Continents",
