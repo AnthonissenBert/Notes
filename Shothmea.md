@@ -3,7 +3,7 @@ Location: Literally under [[Bastion]]
 
 ---
 
-wealthy city
+wealthy city under [[Bastion]]
 
 districts:
 - Guild of [[Noxia Nidore]]
