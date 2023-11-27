@@ -1,4 +1,4 @@
-Type: 
+Type: City?
 Location: [[Argas]]
 
 ---

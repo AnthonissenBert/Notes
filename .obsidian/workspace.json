@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Heaving hills.md",
+                "file": "BeyondTheMournlords/Locations/Oregar.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Heaving hills.md",
+                "file": "BeyondTheMournlords/Locations/Oregar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Heaving hills.md",
+                "file": "BeyondTheMournlords/Locations/Oregar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Heaving hills.md"
+                "file": "BeyondTheMournlords/Locations/Oregar.md"
               }
             }
           },
@@ -171,11 +171,23 @@
   },
   "active": "f1c75ce45c933264",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Locations/Buildings/Old Burruck.md",
+    "BeyondTheMournlords/Locations/griffin rock.md",
+    "BeyondTheMournlords/Locations/Cities/Moondale.md",
+    "BeyondTheMournlords/Locations/Grottos/Javrons grotto.md",
+    "BeyondTheMournlords/Locations/Districts/Mines.md",
+    "BeyondTheMournlords/Locations/Continents/Mar Ceran.md",
+    "BeyondTheMournlords/Locations/Cities/Llyn.md",
+    "BeyondTheMournlords/Locations/Buildings/merchant hall.md",
+    "BeyondTheMournlords/Locations/Forests/mangroves of malevolence.md",
+    "BeyondTheMournlords/Locations/Forests/magrha'tor.md",
+    "BeyondTheMournlords/Locations/Buildings/infirmary.md",
+    "BeyondTheMournlords/Locations/Grottos/Imbros' grotto.md",
+    "BeyondTheMournlords/Locations/Mountains/Heaving hills.md",
     "BeyondTheMournlords/Locations/Roads/Hardened road.md",
     "BeyondTheMournlords/Locations/Roads/harbor carriage route.md",
     "BeyondTheMournlords/Locations/Roads",
     "BeyondTheMournlords/Locations/Forests/Forest of Logar.md",
-    "BeyondTheMournlords/Locations/griffin rock.md",
     "BeyondTheMournlords/Locations/Forests/Fishered forest.md",
     "BeyondTheMournlords/Locations/Planes/fields of consumption.md",
     "BeyondTheMournlords/Locations/Planes",
@@ -190,19 +202,7 @@
     "BeyondTheMournlords/Locations/Forts/Charnak.md",
     "BeyondTheMournlords/Locations/Forts",
     "BeyondTheMournlords/Locations/Districts/Buzwick.md",
-    "BeyondTheMournlords/Locations/Forests/Boreal forest.md",
-    "BeyondTheMournlords/Locations/Cities/Bastion.md",
-    "BeyondTheMournlords/Locations/Islands/Aulacogen Isles.md",
     "BeyondTheMournlords/Locations/Islands",
-    "BeyondTheMournlords/Synopsis.md",
-    "BeyondTheMournlords/Locations/Zumanthel.md",
-    "BeyondTheMournlords/Locations/white hall.md",
-    "BeyondTheMournlords/Npc's/groups/Viscus.md",
-    "BeyondTheMournlords/Npc's/neutrals/Vascon.md",
-    "BeyondTheMournlords/Npc's/groups/varjan vagabond.md",
-    "BeyondTheMournlords/Locations/Varanor.md",
-    "BeyondTheMournlords/Locations/Usmul mines.md",
-    "BeyondTheMournlords/Locations/Usmal.md",
     "purple",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
