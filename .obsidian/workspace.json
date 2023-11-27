@@ -20,55 +20,7 @@
             }
           },
           {
-            "id": "ef1b85a3c6569d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alchemists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f23e1a95099998b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tanar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1364bde2e202e876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Karshtalu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcd51f9e5e579ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Viscus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc7c2b07ced3e66f",
+            "id": "1c0eaedcb8675ffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -218,12 +170,13 @@
   },
   "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
-    "Alchemists.md",
+    "Hurdlers.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
+    "the scaffold.md",
+    "Alchemists.md",
     "Tanar.md",
     "Karshtalu.md",
     "Viscus.md",
-    "Hurdlers.md",
     "Hardened road.md",
     "Old Burruck.md",
     "Vascon.md",
@@ -243,7 +196,6 @@
     "BeyondTheMournlords/Npc's/neutrals/Ruared.md",
     "BeyondTheMournlords/Npc's/friendlies/Rivadus Alpenhorn.md",
     "BeyondTheMournlords/Npc's/neutrals/Relgin.md",
-    "BeyondTheMournlords/Npc's/enemies/One with chains.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
