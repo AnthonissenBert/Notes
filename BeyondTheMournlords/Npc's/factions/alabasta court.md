@@ -1,1 +1,1 @@
-group of people in [[Ba]]
+group of people in [[Bastion]]
