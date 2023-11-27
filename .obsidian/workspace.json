@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "06cbc175730e57b6",
+        "id": "7b80f54ef940be4b",
         "type": "tabs",
         "children": [
           {
-            "id": "0a7791ab968291eb",
+            "id": "51bedf2138cc6daf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
+                "file": "Narisdar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
+                "file": "BeyondTheMournlords/Npc's/enemies/Miredar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
+                "file": "BeyondTheMournlords/Npc's/enemies/Miredar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-07-25.md"
+                "file": "BeyondTheMournlords/Npc's/enemies/Miredar.md"
               }
             }
           },
@@ -156,11 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a7791ab968291eb",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Locations/chimney.md",
+    "BeyondTheMournlords/Npc's/friendlies/Lyrania.md",
+    "BeyondTheMournlords/Npc's/groups/Karshtalu.md",
+    "BeyondTheMournlords/Locations/Imbros' grotto.md",
+    "BeyondTheMournlords/Npc's/groups/Hurdlers.md",
+    "BeyondTheMournlords/Locations/Hardened road.md",
+    "BeyondTheMournlords/Locations/Fault of the forgotten.md",
+    "BeyondTheMournlords/Locations/fairies ladder.md",
+    "BeyondTheMournlords/Npc's/enemies/Elliazar.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
-    "demons throat.md",
+    "BeyondTheMournlords/Locations/chimney.md",
+    "BeyondTheMournlords/Locations/demons throat.md",
     "Shraaks gullet.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-30.md",
     "BeyondTheMournlords/Sessions/2022/2022-09-04.md",
@@ -176,14 +184,6 @@
     "BeyondTheMournlords/Locations/Charnak.md",
     "BeyondTheMournlords/Sessions/2023/2023-02-18.md",
     "BeyondTheMournlords/Sessions/2023/2023-02-5.md",
-    "Varanor.md",
-    "Zumanthel.md",
-    "Usmal.md",
-    "Usmul mines.md",
-    "the lonely pillar.md",
-    "Imbros' grotto.md",
-    "white hall.md",
-    "Viscus.md",
     "purple",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
