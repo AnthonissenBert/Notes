@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-03-05.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-03-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infirmary.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "infirmary.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-03-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "infirmary.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-03-11.md"
               }
             }
           },
@@ -265,9 +264,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6248dbe416e34714",
+  "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2022/2022-03-05.md",
+    "BeyondTheMournlords/Sessions/2022/2022-03-11.md",
     "infirmary.md",
     "BeyondTheMournlords/Npc's/friendlies/Zinefry.md",
     "Malakite weavers.md",
@@ -292,7 +292,6 @@
     "BeyondTheMournlords/Npc's/neutrals/Yayra.md",
     "BeyondTheMournlords/Locations/the silk sanctum.md",
     "BeyondTheMournlords/Npc's/friendlies/Tarja.md",
-    "BeyondTheMournlords/Npc's/neutrals/Soleri.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",

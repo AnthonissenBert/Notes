@@ -1,1 +1,1 @@
-location 
+location in the keep in [[Bastion]]
