@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narisdar.md",
+                "file": "the scaffold.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/enemies/Miredar.md",
+                "file": "the scaffold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/enemies/Miredar.md",
+                "file": "the scaffold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/enemies/Miredar.md"
+                "file": "the scaffold.md"
               }
             }
           },
@@ -156,8 +156,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "51bedf2138cc6daf",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Locations/the lonely pillar.md",
+    "BeyondTheMournlords/Npc's/groups/Tanar.md",
+    "BeyondTheMournlords/Locations/soapworks.md",
+    "BeyondTheMournlords/Npc's/monsters/shuul.md",
+    "BeyondTheMournlords/Locations/Shraaks gullet.md",
+    "BeyondTheMournlords/Npc's/friendlies/Royce Bochell.md",
+    "BeyondTheMournlords/Npc's/monsters/Roper.md",
+    "BeyondTheMournlords/Locations/Red Clefft.md",
+    "BeyondTheMournlords/Npc's/friendlies/Orgodar.md",
+    "BeyondTheMournlords/Locations/Oregar.md",
+    "BeyondTheMournlords/Locations/Old Burruck.md",
+    "BeyondTheMournlords/Npc's/neutrals/Narisdar.md",
+    "BeyondTheMournlords/Npc's/enemies/Miredar.md",
     "BeyondTheMournlords/Npc's/friendlies/Lyrania.md",
     "BeyondTheMournlords/Npc's/groups/Karshtalu.md",
     "BeyondTheMournlords/Locations/Imbros' grotto.md",
@@ -169,21 +182,8 @@
     "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
     "BeyondTheMournlords/Locations/chimney.md",
     "BeyondTheMournlords/Locations/demons throat.md",
-    "Shraaks gullet.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-30.md",
     "BeyondTheMournlords/Sessions/2022/2022-09-04.md",
-    "BeyondTheMournlords/Sessions/2022/2022-09-24.md",
-    "BeyondTheMournlords/Sessions/2022/2022-10-08.md",
-    "BeyondTheMournlords/Sessions/2022/2022-10-28.md",
-    "BeyondTheMournlords/Sessions/2022/2022-11-05.md",
-    "BeyondTheMournlords/Sessions/2022/2022-11-12.md",
-    "BeyondTheMournlords/Sessions/2022/2022-12-03.md",
-    "BeyondTheMournlords/Sessions/2022/2022-12-10.md",
-    "BeyondTheMournlords/Npc's/neutrals/Dork.md",
-    "BeyondTheMournlords/Npc's/groups/Dawnrisers.md",
-    "BeyondTheMournlords/Locations/Charnak.md",
-    "BeyondTheMournlords/Sessions/2023/2023-02-18.md",
-    "BeyondTheMournlords/Sessions/2023/2023-02-5.md",
     "purple",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
