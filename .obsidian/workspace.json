@@ -14,8 +14,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "aa71bbd5288c1fc3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f87b598d3b39e9dd",
+  "active": "aa71bbd5288c1fc3",
   "lastOpenFiles": [
     "BeyondTheMournlords/Npc's/monsters/Purple worm.md",
     "BeyondTheMournlords/Sessions/2021/2021-05-01.md",
