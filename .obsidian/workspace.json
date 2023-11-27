@@ -20,15 +20,30 @@
             }
           },
           {
-            "id": "2716c5a4315326f0",
+            "id": "73e22d05ef5c0b24",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "purple/blue worm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fae4d418a688531a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shuul.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BeyondTheMournlords/Sessions/2022/2022-09-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BeyondTheMournlords/Sessions/2022/2022-09-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BeyondTheMournlords/Sessions/2022/2022-09-4.md"
+              }
             }
           },
           {
@@ -161,9 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2716c5a4315326f0",
+  "active": "0a7791ab968291eb",
   "lastOpenFiles": [
+    "purple/blue worm.md",
     "BeyondTheMournlords/Sessions/2022/2022-09-4.md",
+    "purple",
+    "shuul.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-30.md",
     "BeyondTheMournlords/Sessions/2022/2022-07-25.md",
     "Red Clefft.md",
@@ -187,8 +209,6 @@
     "Umberhulk.md",
     "Viscus.md",
     "Vascon.md",
-    "BeyondTheMournlords/Sessions/2022/2022-07-16.md",
-    "Tsabagh's grotto.md",
     "BeyondTheMournlords/Locations/Forests",
     "BeyondTheMournlords/Locations/Mountains",
     "BeyondTheMournlords/Locations/Rivers",
@@ -199,7 +219,6 @@
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
     "BeyondTheMournlords/_assets/images",
-    "BeyondTheMournlords/_assets/videos/H̵̨̤̫̭͔͔͖̜̥̘̖̫̒̒͛̈́͋̌̑͘̚e̴̛̠͋͌̈̕l̵̖̱͓̲̜͕̖͓̝͐͆̓̾̈́̾͜l̴̡̥̬͓̭̜͎͖̙̦̽̀̈́̒̎͐̍̏̉ờ̸͙̮͋͂̊̆̎͑̈́͒̽̿̓͝.mp4",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg",
