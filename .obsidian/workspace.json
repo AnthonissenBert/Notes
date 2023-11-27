@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "7d042aafe5b95ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rivadus Alpenhorn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85ae1cbc7d9eb4d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rivadus Alpenhorn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65bde9c5d161f9c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Horgeptir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "488dce120a445d67",
             "type": "leaf",
             "state": {
@@ -302,8 +338,10 @@
   },
   "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Players/Volgrim.md",
+    "Rivadus Alpenhorn.md",
     "BeyondTheMournlords/Sessions/2022/2022-03-11.md",
+    "Horgeptir.md",
+    "BeyondTheMournlords/Players/Volgrim.md",
     "Targlassa.md",
     "BeyondTheMournlords/Sessions/2022/2022-04-02.md",
     "merchant hall.md",
@@ -326,8 +364,6 @@
     "BeyondTheMournlords/Sessions/2022/2022-02-12.md",
     "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
     "seret.md",
-    "BeyondTheMournlords/Deities/Agion.md",
-    "BeyondTheMournlords/Deities/Agion.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
