@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ef19606979389d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chasmee.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c6f81f1a6f003e4a",
             "type": "leaf",
             "state": {
@@ -55,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shiraak.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shiraak.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shiraak.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md"
               }
             }
           },
@@ -193,11 +204,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6f81f1a6f003e4a",
+  "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
+    "Chasmee.md",
     "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
-    "Malakite weavers.md",
     "Shiraak.md",
+    "Malakite weavers.md",
     "Hjorg.md",
     "BeyondTheMournlords/Npc's/monsters/Casmy.md",
     "BeyondTheMournlords/Deities/Tyr.md",
@@ -220,7 +232,6 @@
     "BeyondTheMournlords/Npc's/neutrals/Raymon.md",
     "BeyondTheMournlords/Npc's/enemies/Quintrell.md",
     "BeyondTheMournlords/Npc's/groups/kasharen bretheren.md",
-    "BeyondTheMournlords/Families/Kashar.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
