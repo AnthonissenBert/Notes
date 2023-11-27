@@ -13,110 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Synopsis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bbb0e802a341e9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Barkayal Bay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "794e1e4f4d338eb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Places/Cities/Bastion/Bastion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8ec3434a1cef336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arjhan's Current.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22c1766e9bb5dab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arjhan's Current.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94806b1ecd2d8848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relgin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42bcedc6ee898735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "suac'amuul.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "209dbba10d930b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Moondale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46ba8c4830a6e11c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itythlass.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barkayal Bay.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Barkayal Bay.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barkayal Bay.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-03.md"
               }
             }
           },
@@ -253,12 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bbb0e802a341e9d",
+  "active": "a23bf901b292b6f5",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2022/2022-05-25.md",
+    "BeyondTheMournlords/Sessions/2022/2022-07-03.md",
     "BeyondTheMournlords/Synopsis.md",
     "Barkayal Bay.md",
     "BeyondTheMournlords/Places/Cities/Bastion/Bastion.md",
-    "BeyondTheMournlords/Sessions/2022/2022-05-25.md",
     "Arjhan's Current.md",
     "Relgin.md",
     "suac'amuul.md",
@@ -280,7 +184,6 @@
     "Metar.md",
     "Brimar.md",
     "BeyondTheMournlords/Npc's/enemies/Lazlo.md",
-    "BeyondTheMournlords/Deities/Agion.md",
     "BeyondTheMournlords/Families",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
     "BeyondTheMournlords/_assets/videos",
