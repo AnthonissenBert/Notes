@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Oregar.md",
+                "file": "BeyondTheMournlords/Locations/Buildings/the Magistrate.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Oregar.md",
+                "file": "BeyondTheMournlords/Locations/Buildings/the Magistrate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Oregar.md",
+                "file": "BeyondTheMournlords/Locations/Buildings/the Magistrate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Locations/Oregar.md"
+                "file": "BeyondTheMournlords/Locations/Buildings/the Magistrate.md"
               }
             }
           },
@@ -169,10 +169,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1c75ce45c933264",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Locations/Grottos/the lonely pillar.md",
+    "BeyondTheMournlords/Locations/Districts/The gutters.md",
+    "BeyondTheMournlords/Locations/Grottos/The Gaping Maw.md",
+    "BeyondTheMournlords/Locations/Districts/The drains.md",
+    "BeyondTheMournlords/Locations/Buildings/The deaf halberd.md",
+    "BeyondTheMournlords/Locations/Districts/Spalford.md",
+    "BeyondTheMournlords/Locations/Buildings/soapworks.md",
+    "BeyondTheMournlords/Locations/Forests/Smaragd.md",
+    "BeyondTheMournlords/Locations/Cities/Slanhurst.md",
+    "BeyondTheMournlords/Locations/Buildings/silk sanctum.md",
+    "BeyondTheMournlords/Locations/Grottos/Shraaks gullet.md",
+    "BeyondTheMournlords/Locations/Cities/Shothmea.md",
+    "BeyondTheMournlords/Locations/Cities/Shawford.md",
+    "BeyondTheMournlords/Locations/Grottos/Red Clefft.md",
+    "BeyondTheMournlords/Locations/Forests/Ravenous.md",
+    "BeyondTheMournlords/Locations/Roads/griffin rock.md",
+    "BeyondTheMournlords/Locations/Roads/Poachers walk.md",
+    "BeyondTheMournlords/Locations/Grottos/Oregar.md",
     "BeyondTheMournlords/Locations/Buildings/Old Burruck.md",
-    "BeyondTheMournlords/Locations/griffin rock.md",
     "BeyondTheMournlords/Locations/Cities/Moondale.md",
     "BeyondTheMournlords/Locations/Grottos/Javrons grotto.md",
     "BeyondTheMournlords/Locations/Districts/Mines.md",
@@ -180,28 +197,11 @@
     "BeyondTheMournlords/Locations/Cities/Llyn.md",
     "BeyondTheMournlords/Locations/Buildings/merchant hall.md",
     "BeyondTheMournlords/Locations/Forests/mangroves of malevolence.md",
-    "BeyondTheMournlords/Locations/Forests/magrha'tor.md",
-    "BeyondTheMournlords/Locations/Buildings/infirmary.md",
-    "BeyondTheMournlords/Locations/Grottos/Imbros' grotto.md",
-    "BeyondTheMournlords/Locations/Mountains/Heaving hills.md",
-    "BeyondTheMournlords/Locations/Roads/Hardened road.md",
-    "BeyondTheMournlords/Locations/Roads/harbor carriage route.md",
     "BeyondTheMournlords/Locations/Roads",
-    "BeyondTheMournlords/Locations/Forests/Forest of Logar.md",
-    "BeyondTheMournlords/Locations/Forests/Fishered forest.md",
-    "BeyondTheMournlords/Locations/Planes/fields of consumption.md",
     "BeyondTheMournlords/Locations/Planes",
-    "BeyondTheMournlords/Locations/Grottos/Fault of the forgotten.md",
-    "BeyondTheMournlords/Locations/Grottos/demons throat.md",
-    "BeyondTheMournlords/Locations/Cities/Eckstow.md",
-    "BeyondTheMournlords/Locations/Grottos/fairies ladder.md",
-    "BeyondTheMournlords/Locations/Buildings/Fenneks Quarters.md",
     "BeyondTheMournlords/Locations/Buildings",
-    "BeyondTheMournlords/Locations/Grottos/chimney.md",
     "BeyondTheMournlords/Locations/Grottos",
-    "BeyondTheMournlords/Locations/Forts/Charnak.md",
     "BeyondTheMournlords/Locations/Forts",
-    "BeyondTheMournlords/Locations/Districts/Buzwick.md",
     "BeyondTheMournlords/Locations/Islands",
     "purple",
     "BeyondTheMournlords/Locations/Forests",
