@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Factions/Black Disciples.md",
+                "file": "SlingshotDnD/Npc's/Volo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Factions/Black Disciples.md",
+                "file": "SlingshotDnD/Npc's/Volo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Factions/Black Disciples.md",
+                "file": "SlingshotDnD/Npc's/Volo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Factions/Black Disciples.md"
+                "file": "SlingshotDnD/Npc's/Volo.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "fda910f0261b6e82",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/Black Disciples.md",
+    "SlingshotDnD/Npc's/Volo.md",
     "SlingshotDnD/Factions/The court.md",
     "BeyondTheMournlords/Synopsis.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
@@ -193,8 +195,6 @@
     "SlingshotDnD/Quests/Bringing down the alpha.md",
     "SlingshotDnD/Players/cronos guard.md",
     "SlingshotDnD/Players/Rikikiri Finkiririki.md",
-    "SlingshotDnD/Players/Isshin Ixina.md",
-    "SlingshotDnD/Players/Fango Bett.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/Locations/Whorehouses",
