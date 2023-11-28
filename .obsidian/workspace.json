@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Synopsis.md",
+                "file": "SlingshotDnD/Factions/Black Disciples.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Synopsis.md",
+                "file": "SlingshotDnD/Factions/Black Disciples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Synopsis.md",
+                "file": "SlingshotDnD/Factions/Black Disciples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Synopsis.md"
+                "file": "SlingshotDnD/Factions/Black Disciples.md"
               }
             }
           },
@@ -156,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "fda910f0261b6e82",
   "lastOpenFiles": [
+    "SlingshotDnD/Factions/The court.md",
+    "BeyondTheMournlords/Synopsis.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "conflict-files-obsidian-git.md",
     "Tables/Random encounters.md",
@@ -193,8 +195,6 @@
     "SlingshotDnD/Players/Rikikiri Finkiririki.md",
     "SlingshotDnD/Players/Isshin Ixina.md",
     "SlingshotDnD/Players/Fango Bett.md",
-    "SlingshotDnD/Players/Aernu Raemas.md",
-    "SlingshotDnD/Npc's/Neutrals/Zirne Bouldermane.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/Locations/Whorehouses",
