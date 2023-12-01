@@ -3,7 +3,7 @@ West of the [[Copper Tops]] mountain range lays the city of [[Forsonne]]. A big 
 districts:
 - [[Dairy district]]
 - [[Lighthorn district]]
-- upper Ward
-- eastern road
-- old town
-- city center
+- [[Upper Ward]]
+- [[Eastern Road]]
+- [[Old Town]]
+- [[City Center]]
