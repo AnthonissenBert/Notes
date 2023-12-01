@@ -31,4 +31,5 @@ districts:
 - [[City Center]]
 
 Interesting things:
-- once the party is long enough in the city they will encounter a person blabbing about the most stunning female with huge boobs. The person in question loves to 
+- once the party is long enough in the city they will encounter a person blabbing about the most stunning female with huge boobs. The person in question loves to say this about herself. If the party investigates they stumble upon the layer of a succubus
+- Hanging around [[Old Town]] at night is not recommend
