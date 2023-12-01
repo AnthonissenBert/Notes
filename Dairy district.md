@@ -7,5 +7,9 @@ The place where peasants work, live, laugh. A district filled with local taverns
 
 ---
 
-## who is here
+## Locations of note
 
+- tavern
+- repair shops
+- Barn
+- 

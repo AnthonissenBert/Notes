@@ -9,7 +9,7 @@ type of government:
 - Republic with a Monarch
 
 Laws:
-- each 3 harvest they hold elections on the court of representatives to go in conversation with 
+- Every 3 harvests they hold elections on the court of representatives to go in conversation with the Monarch of the region
 
 districts:
 - [[Dairy district]]
