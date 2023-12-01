@@ -12,7 +12,8 @@ type of government:
 
 Laws:
 - Every 3 harvests they hold elections on the court of representatives to go in conversation with the Monarch of the region
-- Market
+- Market owners pay tribute for a place in a certain locations
+- 
 
 districts:
 - [[Dairy district]]
