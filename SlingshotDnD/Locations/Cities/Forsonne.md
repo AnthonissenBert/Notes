@@ -33,4 +33,4 @@ districts:
 Interesting things:
 - once the party is long enough in the city they will encounter a person blabbing about the most stunning female with huge boobs. The person in question loves to say this about herself. If the party investigates they stumble upon the layer of a succubus
 - Hanging around [[Old Town]] at night is not very recommended by the local people since people went missing around there. If the party investigates they find a vampire spawn who hangs around 
-- Hanging around [[Clearplace]] the party will notice that 
+- Hanging around [[Clearplace]] the party will notice that the cattle on the land will look strange to the party. Further investigation clears out a druid is amongst the cows (The locals couldn')
