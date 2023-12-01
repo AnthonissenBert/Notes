@@ -5,9 +5,11 @@ main produce:
 - milk
 - grain
 
-type of government
+type of government:
+- Republic
 
-Laws
+Laws:
+- each 3 harverst w
 
 districts:
 - [[Dairy district]]
