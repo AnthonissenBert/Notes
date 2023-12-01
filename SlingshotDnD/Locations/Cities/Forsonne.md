@@ -29,3 +29,6 @@ districts:
 - [[Eastern Road]]
 - [[Old Town]]
 - [[City Center]]
+
+Interesting things:
+- once the party is long enough in the city they will encounter a person blabbing about the most stunning female with huge boobs. The person in question loves to 
