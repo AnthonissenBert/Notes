@@ -5,10 +5,9 @@ main produce:
 - milk
 - grain
 
+type of government
+
 Laws
-
-Who runs the place
-
 
 districts:
 - [[Dairy district]]
