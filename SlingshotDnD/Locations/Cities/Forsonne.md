@@ -5,6 +5,11 @@ main produce:
 - milk
 - grain
 
+Laws
+
+Who runs the place
+
+
 districts:
 - [[Dairy district]]
 - [[Lighthorn district]]

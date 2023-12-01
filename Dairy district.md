@@ -3,7 +3,7 @@ Location: [[Forsonne]]
 
 ---
 
-The place where peasants work, live, laugh. A district filled with local taverns
+The place where peasants work, live, laugh. A district filled with local taverns, produce shops
 
 ---
 
