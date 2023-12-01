@@ -1,0 +1,1 @@
+West of the [[Copper Tops]] mountain range lays the city of Forsonne. A big town with a bustling market in front of the glorious keep. Filled with merchants 
