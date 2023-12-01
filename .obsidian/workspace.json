@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SlingshotDnD/Locations/Cities/Forsonne.md",
+                "file": "Old Town.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Cities/Forsonne.md",
+                "file": "Old Town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Cities/Forsonne.md",
+                "file": "Old Town.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SlingshotDnD/Locations/Cities/Forsonne.md"
+                "file": "Old Town.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "fda910f0261b6e82",
   "lastOpenFiles": [
-    "Clearplace.md",
     "SlingshotDnD/Locations/Cities/Forsonne.md",
+    "Old Town.md",
+    "Clearplace.md",
     "forsonne.png",
     "SlingshotDnD/Npc's/Volo.md",
     "SlingshotDnD/Factions/Black Disciples.md",
