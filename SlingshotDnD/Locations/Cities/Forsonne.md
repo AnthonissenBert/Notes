@@ -12,7 +12,7 @@ type of government:
 
 Races:
 - dragonborn
-- human
+- humans
 - dwarves
 - elves
 - 
