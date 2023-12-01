@@ -6,10 +6,10 @@ main produce:
 - grain
 
 type of government:
-- Republic
+- Republic with a Monarch
 
 Laws:
-- each 3 harverst w
+- each 3 harvest they hold elections on the court of representatives to go in conversation with 
 
 districts:
 - [[Dairy district]]
