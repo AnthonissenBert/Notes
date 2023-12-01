@@ -8,10 +8,11 @@ main produce:
 - grain
 
 type of government:
-- Republic with a Monarch
+- Republic (House of representatives)
 
 Laws:
 - Every 3 harvests they hold elections on the court of representatives to go in conversation with the Monarch of the region
+- Market
 
 districts:
 - [[Dairy district]]
