@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f328e96a59aaaee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daisy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "49113cb915a903f9",
             "type": "leaf",
             "state": {
@@ -194,8 +206,9 @@
   },
   "active": "e0c00648a2f179b5",
   "lastOpenFiles": [
-    "TyrannyOfDragons/Players/Marcon.md",
+    "daisy.md",
     "TyrannyOfDragons/sessions/2023-12-03.md",
+    "TyrannyOfDragons/Players/Marcon.md",
     "TyrannyOfDragons/Players/Faral.md",
     "TyrannyOfDragons/Players/Scylla.md",
     "TyrannyOfDragons/Plot.md",
@@ -226,7 +239,6 @@
     "the chant.md",
     "the bell of the altar sever.md",
     "alabasta court.md",
-    "Templates/village.template.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_5.png",
     "SlingshotDnD/_Assets/Tokens/token_4.png",
