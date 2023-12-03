@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8b9445bb2ab784a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pharblacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d56d520ad22e60fc",
             "type": "leaf",
             "state": {
@@ -115,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2023-12-03.md",
+                "file": "Pharblacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2023-12-03.md",
+                "file": "Pharblacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2023-12-03.md"
+                "file": "Pharblacks.md"
               }
             }
           },
@@ -252,10 +265,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0c00648a2f179b5",
+  "active": "8b9445bb2ab784a5",
   "lastOpenFiles": [
-    "snapjaw.md",
     "TyrannyOfDragons/sessions/2023-12-03.md",
+    "Pharblacks.md",
+    "snapjaw.md",
     "Greenest.md",
     "Ontharfrum.md",
     "daisy.md",
@@ -286,7 +300,6 @@
     "Tables/Random encounters.md",
     "SlingshotDnD/Npc's/Monsters/specter.md",
     "ahrishar.md",
-    "BeyondTheMournlords/Sessions/2023-10-07.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_5.png",
     "SlingshotDnD/_Assets/Tokens/token_4.png",
