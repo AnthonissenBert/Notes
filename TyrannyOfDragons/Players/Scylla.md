@@ -1,3 +1,3 @@
 PC Robin
 
-Nimph Rogue
+Nimph Inquisitive Rogue
