@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "1054b82f8d31683d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snapjaw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c953e6be3f8e6d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Greenest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d83d19e48c22d407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ontharfrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f328e96a59aaaee8",
             "type": "leaf",
             "state": {
@@ -206,8 +242,11 @@
   },
   "active": "e0c00648a2f179b5",
   "lastOpenFiles": [
-    "daisy.md",
+    "snapjaw.md",
     "TyrannyOfDragons/sessions/2023-12-03.md",
+    "Greenest.md",
+    "Ontharfrum.md",
+    "daisy.md",
     "TyrannyOfDragons/Players/Marcon.md",
     "TyrannyOfDragons/Players/Faral.md",
     "TyrannyOfDragons/Players/Scylla.md",
@@ -236,9 +275,6 @@
     "SlingshotDnD/Npc's/Monsters/specter.md",
     "ahrishar.md",
     "BeyondTheMournlords/Sessions/2023-10-07.md",
-    "the chant.md",
-    "the bell of the altar sever.md",
-    "alabasta court.md",
     "SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
     "SlingshotDnD/_Assets/Tokens/token_5.png",
     "SlingshotDnD/_Assets/Tokens/token_4.png",
