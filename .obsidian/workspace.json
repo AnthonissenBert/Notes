@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/Players/Marcon.md",
+                "file": "TyrannyOfDragons/Players/Faral.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/Players/Marcon.md",
+                "file": "TyrannyOfDragons/Players/Faral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/Players/Marcon.md",
+                "file": "TyrannyOfDragons/Players/Faral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/Players/Marcon.md"
+                "file": "TyrannyOfDragons/Players/Faral.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "e0c00648a2f179b5",
   "lastOpenFiles": [
-    "TyrannyOfDragons/Players/Scylla.md",
     "TyrannyOfDragons/Players/Marcon.md",
-    "TyrannyOfDragons/Players/Faral Nailo.md",
+    "TyrannyOfDragons/Players/Scylla.md",
+    "TyrannyOfDragons/Players/Faral.md",
     "TyrannyOfDragons/Players/Ajani Goldmane.md",
     "TyrannyOfDragons/Players/Charger.md",
     "TyrannyOfDragons/Plot.md",
