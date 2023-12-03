@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/Players/Untitled.md",
+                "file": "TyrannyOfDragons/Players/test 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/Players/Untitled.md",
+                "file": "TyrannyOfDragons/Players/test 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/Players/Untitled.md",
+                "file": "TyrannyOfDragons/Players/test 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/Players/Untitled.md"
+                "file": "TyrannyOfDragons/Players/test 1.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "e0c00648a2f179b5",
   "lastOpenFiles": [
+    "TyrannyOfDragons/Players/Charger.md",
+    "TyrannyOfDragons/Players/test 1.md",
     "TyrannyOfDragons/Plot.md",
-    "TyrannyOfDragons/Players/Untitled.md",
     "TyrannyOfDragons/Players",
     "TyrannyOfDragons/Locations",
     "TyrannyOfDragons/Deities",
@@ -200,7 +201,6 @@
     "SlingshotDnD/Sessions/2023-09-27.md",
     "SlingshotDnD/Quests/wooing the mayor's daughter.md",
     "SlingshotDnD/Quests/miners gone missing.md",
-    "SlingshotDnD/Quests/The Chromatic Blade.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/Locations/Whorehouses"
