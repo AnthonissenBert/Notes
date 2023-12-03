@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f547e8f0b372d0a7",
+        "id": "48f77cc0c71719cb",
         "type": "tabs",
         "children": [
           {
-            "id": "fda910f0261b6e82",
+            "id": "e0c00648a2f179b5",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "forsonne.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forsonne.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forsonne.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "forsonne.png"
-              }
+              "state": {}
             }
           },
           {
@@ -154,13 +148,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fda910f0261b6e82",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "Untitled",
+    "forsonne.png",
     "Seppe/Sessions/2023-09-26.md",
     "SlingshotDnD/Locations/Cities/Forsonne.md",
     "Old Town.md",
     "Clearplace.md",
-    "forsonne.png",
     "SlingshotDnD/Npc's/Volo.md",
     "SlingshotDnD/Factions/Black Disciples.md",
     "SlingshotDnD/Factions/The court.md",
@@ -192,7 +187,6 @@
     "SlingshotDnD/Quests/miners gone missing.md",
     "SlingshotDnD/Quests/The Chromatic Blade.md",
     "SlingshotDnD/Quests/Spectral Ruins.md",
-    "SlingshotDnD/Quests/Smuggling a diamond.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
     "SlingshotDnD/Locations/Whorehouses",
