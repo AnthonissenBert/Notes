@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/Plot.md",
+                "file": "TyrannyOfDragons/Players/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/Plot.md",
+                "file": "TyrannyOfDragons/Players/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/Plot.md",
+                "file": "TyrannyOfDragons/Players/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/Plot.md"
+                "file": "TyrannyOfDragons/Players/Untitled.md"
               }
             }
           },
@@ -159,12 +159,18 @@
   "active": "e0c00648a2f179b5",
   "lastOpenFiles": [
     "TyrannyOfDragons/Plot.md",
+    "TyrannyOfDragons/Players/Untitled.md",
+    "TyrannyOfDragons/Players",
+    "TyrannyOfDragons/Locations",
+    "TyrannyOfDragons/Deities",
+    "TyrannyOfDragons/npcs",
+    "TyrannyOfDragons/sessions",
     "TyrannyOfDragons",
-    "forsonne.png",
+    "SlingshotDnD/forsonne.png",
     "Seppe/Sessions/2023-09-26.md",
     "SlingshotDnD/Locations/Cities/Forsonne.md",
-    "Old Town.md",
-    "Clearplace.md",
+    "SlingshotDnD/Old Town.md",
+    "SlingshotDnD/Clearplace.md",
     "SlingshotDnD/Npc's/Volo.md",
     "SlingshotDnD/Factions/Black Disciples.md",
     "SlingshotDnD/Factions/The court.md",
@@ -195,14 +201,8 @@
     "SlingshotDnD/Quests/wooing the mayor's daughter.md",
     "SlingshotDnD/Quests/miners gone missing.md",
     "SlingshotDnD/Quests/The Chromatic Blade.md",
-    "SlingshotDnD/Quests/Spectral Ruins.md",
     "SlingshotDnD/Npc's/Neutrals",
     "SlingshotDnD/Npc's/Friendlies",
-    "SlingshotDnD/Locations/Whorehouses",
-    "SlingshotDnD/Locations/Towns",
-    "SlingshotDnD/Locations/Taverns",
-    "SlingshotDnD/Locations/Squares",
-    "SlingshotDnD/Locations/Seemsters",
-    "SlingshotDnD/Locations/Outposts"
+    "SlingshotDnD/Locations/Whorehouses"
   ]
 }
