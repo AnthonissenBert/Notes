@@ -1,5 +1,5 @@
 Status: 
-Race: Kobolt
+Race: Lizardfolk
 In charge of:
 
 ---
