@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d56d520ad22e60fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snapjaw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1054b82f8d31683d",
             "type": "leaf",
             "state": {
@@ -103,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2023-12-03.md",
+                "file": "snapjaw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2023-12-03.md",
+                "file": "snapjaw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2023-12-03.md"
+                "file": "snapjaw.md"
               }
             }
           },
@@ -240,10 +253,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0c00648a2f179b5",
+  "active": "d56d520ad22e60fc",
   "lastOpenFiles": [
-    "snapjaw.md",
     "TyrannyOfDragons/sessions/2023-12-03.md",
+    "snapjaw.md",
     "Greenest.md",
     "Ontharfrum.md",
     "daisy.md",
