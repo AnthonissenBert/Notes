@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "49113cb915a903f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TyrannyOfDragons/Players/Faral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d670d18219b8e3ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TyrannyOfDragons/Players/Scylla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cf6e5dacace7c8f5",
             "type": "leaf",
             "state": {
@@ -172,12 +196,12 @@
   "lastOpenFiles": [
     "TyrannyOfDragons/Players/Marcon.md",
     "TyrannyOfDragons/sessions/2023-12-03.md",
-    "TyrannyOfDragons/Plot.md",
+    "TyrannyOfDragons/Players/Faral.md",
     "TyrannyOfDragons/Players/Scylla.md",
+    "TyrannyOfDragons/Plot.md",
     "TyrannyOfDragons/Players/Regnarog.md",
     "TyrannyOfDragons/Players/Ajani.md",
     "TyrannyOfDragons/Players/Charger.md",
-    "TyrannyOfDragons/Players/Faral.md",
     "TyrannyOfDragons/Players",
     "TyrannyOfDragons/Locations",
     "TyrannyOfDragons/Deities",
