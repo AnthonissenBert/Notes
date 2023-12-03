@@ -2,4 +2,4 @@ PC Val
 
 Wood elf Druid
 
-Full name
+Full name: Faral Nailo
