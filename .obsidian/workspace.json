@@ -127,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pharblacks.md",
+                "file": "TyrannyOfDragons/sessions/2023-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pharblacks.md",
+                "file": "TyrannyOfDragons/sessions/2023-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pharblacks.md"
+                "file": "TyrannyOfDragons/sessions/2023-12-03.md"
               }
             }
           },
@@ -265,10 +264,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b9445bb2ab784a5",
+  "active": "e0c00648a2f179b5",
   "lastOpenFiles": [
-    "TyrannyOfDragons/sessions/2023-12-03.md",
     "Pharblacks.md",
+    "TyrannyOfDragons/sessions/2023-12-03.md",
     "snapjaw.md",
     "Greenest.md",
     "Ontharfrum.md",
