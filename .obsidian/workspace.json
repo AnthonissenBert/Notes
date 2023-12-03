@@ -11,8 +11,12 @@
             "id": "e0c00648a2f179b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TyrannyOfDragons/Plot.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TyrannyOfDragons/Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TyrannyOfDragons/Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TyrannyOfDragons/Plot.md"
+              }
             }
           },
           {
@@ -148,9 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "e0c00648a2f179b5",
   "lastOpenFiles": [
-    "Untitled",
+    "TyrannyOfDragons/Plot.md",
+    "TyrannyOfDragons",
     "forsonne.png",
     "Seppe/Sessions/2023-09-26.md",
     "SlingshotDnD/Locations/Cities/Forsonne.md",
@@ -194,7 +203,6 @@
     "SlingshotDnD/Locations/Taverns",
     "SlingshotDnD/Locations/Squares",
     "SlingshotDnD/Locations/Seemsters",
-    "SlingshotDnD/Locations/Outposts",
-    "SlingshotDnD/Locations/Mountains"
+    "SlingshotDnD/Locations/Outposts"
   ]
 }
