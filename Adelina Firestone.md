@@ -10,4 +10,4 @@ fought with us at the [[Rillvella]] mines
 knows [[Etlir]] as [[Endor]]
 
 
-has been seaching for an artifact [[the hammer of iron vengeance]]
+has been searching for an artifact [[the hammer of iron vengeance]]
