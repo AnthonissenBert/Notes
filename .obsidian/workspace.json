@@ -42,45 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d025b978697d7303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TheRoleplayCampaign/Places/Rillvella.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86f7196f683d5224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TheRoleplayCampaign/Npc's/Dimmer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a6f2d053561a29d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TheRoleplayCampaign/Npc's/Caralan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Players/Etlir.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Players/Etlir.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Players/Etlir.md"
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
               }
             }
           },
@@ -217,9 +180,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c86c8fda36845585",
+  "active": "9663bd533950ad08",
   "lastOpenFiles": [
     "Adelina Firestone.md",
+    "TheRoleplayCampaign/Players/Etlir.md",
+    "Duncan.md",
+    "Bhirall.md",
+    "TheRoleplayCampaign/Players/FakeNames/Endor.md",
     "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "TheRoleplayCampaign/Players/Mikaela.md",
     "TheRoleplayCampaign/Npc's/Dimmer.md",
@@ -227,8 +194,6 @@
     "TheRoleplayCampaign/Npc's/Caralan.md",
     "TheRoleplayCampaign/Players/FakeNames",
     "TheRoleplayCampaign/Npc's/Palur.md",
-    "TheRoleplayCampaign/Players/Etlir.md",
-    "TheRoleplayCampaign/Players/FakeNames/Endor.md",
     "TheRoleplayCampaign/Factions/the crimson and gray syndicate.md",
     "TheRoleplayCampaign/Npc's/Timur.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
@@ -247,8 +212,6 @@
     "SlingshotDnD/Quests/wooing the mayor's daughter.md",
     "SlingshotDnD/Quests/The plague.md",
     "SlingshotDnD/Quests/The Liberation of Fisherman's Bay.md",
-    "SlingshotDnD/Quests/Smuggling a diamond.md",
-    "SlingshotDnD/Quests/The Chromatic Blade.md",
     "TyrannyOfDragons/Sessions",
     "TyrannyOfDragons/Players",
     "TyrannyOfDragons",
