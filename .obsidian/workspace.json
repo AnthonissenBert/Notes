@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Synopsis.md",
+                "file": "TyrannyOfDragons/npcs/Pharblacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Synopsis.md",
+                "file": "TyrannyOfDragons/npcs/Pharblacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Synopsis.md",
+                "file": "TyrannyOfDragons/npcs/Pharblacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Synopsis.md"
+                "file": "TyrannyOfDragons/npcs/Pharblacks.md"
               }
             }
           },
@@ -173,10 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9663bd533950ad08",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "TyrannyOfDragons/npcs/Monsters",
+    "TyrannyOfDragons/Locations",
     "BeyondTheMournlords/Synopsis.md",
+    "TyrannyOfDragons/npcs",
+    "conflict-files-obsidian-git.md",
     "SlingshotDnD/Quests/Flatten the flock.md",
     "SlingshotDnD/Quests/Spectral Ruins.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
@@ -190,8 +193,8 @@
     "Greenest.md",
     "Ontharfrum.md",
     "daisy.md",
-    "black ooze.md",
-    "snapjaw.md",
+    "TyrannyOfDragons/npcs/black ooze.md",
+    "TyrannyOfDragons/npcs/snapjaw.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
     "TheRoleplayCampaign/Sessions/2023-08-14.md",
     "TheRoleplayCampaign/Sessions/2023-02-12.md",
@@ -200,7 +203,6 @@
     "TheRoleplayCampaign/Npc's/staring woman.md",
     "TheRoleplayCampaign/Npc's/owling family.md",
     "TheRoleplayCampaign/Npc's/harbor master.md",
-    "TheRoleplayCampaign/Npc's/Bash.md",
     "TyrannyOfDragons/sessions",
     "TyrannyOfDragons/Players",
     "TyrannyOfDragons",
@@ -216,8 +218,6 @@
     "BeyondTheMournlords/Locations/Roads",
     "BeyondTheMournlords/Locations/Planes",
     "BeyondTheMournlords/Locations/Buildings",
-    "BeyondTheMournlords/Locations/Grottos",
-    "BeyondTheMournlords/Locations/Forts",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg"
