@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7a34fc12a87d3c5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the hammer of iron vengeance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c86c8fda36845585",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "Adelina Firestone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "Adelina Firestone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
+                "file": "Adelina Firestone.md"
               }
             }
           },
@@ -180,14 +193,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9663bd533950ad08",
+  "active": "1ccdd797203ffd2a",
   "lastOpenFiles": [
+    "the hammer of iron vengeance.md",
     "Adelina Firestone.md",
+    "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "TheRoleplayCampaign/Players/Etlir.md",
     "Duncan.md",
     "Bhirall.md",
     "TheRoleplayCampaign/Players/FakeNames/Endor.md",
-    "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "TheRoleplayCampaign/Players/Mikaela.md",
     "TheRoleplayCampaign/Npc's/Dimmer.md",
     "TheRoleplayCampaign/Places/Rillvella.md",
@@ -211,7 +225,6 @@
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Quests/wooing the mayor's daughter.md",
     "SlingshotDnD/Quests/The plague.md",
-    "SlingshotDnD/Quests/The Liberation of Fisherman's Bay.md",
     "TyrannyOfDragons/Sessions",
     "TyrannyOfDragons/Players",
     "TyrannyOfDragons",
