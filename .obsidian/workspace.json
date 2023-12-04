@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "86f7196f683d5224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TheRoleplayCampaign/Npc's/Dimmer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4a6f2d053561a29d",
             "type": "leaf",
             "state": {
@@ -43,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Places/Rillvella.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Places/Rillvella.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Places/Rillvella.md"
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
               }
             }
           },
@@ -181,8 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d025b978697d7303",
+  "active": "9663bd533950ad08",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Npc's/Dimmer.md",
+    "TheRoleplayCampaign/Places/Rillvella.md",
     "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "TheRoleplayCampaign/Npc's/Caralan.md",
     "TheRoleplayCampaign/Players/Mikaela.md",
@@ -191,8 +204,6 @@
     "TheRoleplayCampaign/Players/Etlir.md",
     "TheRoleplayCampaign/Players/FakeNames/Endor.md",
     "TheRoleplayCampaign/Factions/the crimson and gray syndicate.md",
-    "TheRoleplayCampaign/Npc's/Dimmer.md",
-    "TheRoleplayCampaign/Places/Rillvella.md",
     "TheRoleplayCampaign/Npc's/Timur.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
     "TyrannyOfDragons/Npcs/Ontharfrum.md",
