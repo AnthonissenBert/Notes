@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1ccdd797203ffd2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adelina Firestone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d025b978697d7303",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "Adelina Firestone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "Adelina Firestone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
+                "file": "Adelina Firestone.md"
               }
             }
           },
@@ -192,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9663bd533950ad08",
+  "active": "1ccdd797203ffd2a",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Players/Mikaela.md",
     "TheRoleplayCampaign/Sessions/2023-12-04.md",
+    "Adelina Firestone.md",
+    "TheRoleplayCampaign/Players/Mikaela.md",
     "TheRoleplayCampaign/Npc's/Dimmer.md",
     "TheRoleplayCampaign/Places/Rillvella.md",
     "TheRoleplayCampaign/Npc's/Caralan.md",
@@ -223,7 +237,6 @@
     "SlingshotDnD/Quests/The Liberation of Fisherman's Bay.md",
     "SlingshotDnD/Quests/Smuggling a diamond.md",
     "SlingshotDnD/Quests/The Chromatic Blade.md",
-    "SlingshotDnD/Quests/Burned house haunting.md",
     "TyrannyOfDragons/Sessions",
     "TyrannyOfDragons/Players",
     "TyrannyOfDragons",
