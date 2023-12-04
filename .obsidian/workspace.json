@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "village elder name.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "village elder name.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "village elder name.md"
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
               }
             }
           },
@@ -205,10 +204,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a264b2b9b3c5fe8",
+  "active": "9663bd533950ad08",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "village elder name.md",
+    "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "TheRoleplayCampaign/Factions/the crimson and gray syndicate.md",
     "Dimmer.md",
     "Rillvella.md",
