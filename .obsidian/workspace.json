@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "1e141d1a8dae5470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "village elder name.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "075c40f3d4b318b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Endor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f06aaeba83fe1cfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TheRoleplayCampaign/Players/Etlir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a264b2b9b3c5fe8",
             "type": "leaf",
             "state": {
@@ -67,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "village elder name.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "village elder name.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
+                "file": "village elder name.md"
               }
             }
           },
@@ -204,8 +241,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9663bd533950ad08",
+  "active": "1e141d1a8dae5470",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Players/Etlir.md",
+    "Endor.md",
     "village elder name.md",
     "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "TheRoleplayCampaign/Factions/the crimson and gray syndicate.md",
@@ -233,8 +272,6 @@
     "SlingshotDnD/Quests/Burned house haunting.md",
     "SlingshotDnD/Quests/miners gone missing.md",
     "TyrannyOfDragons/Npcs/daisy.md",
-    "TyrannyOfDragons/Npcs/Monsters/black ooze.md",
-    "TyrannyOfDragons/Npcs/snapjaw.md",
     "TyrannyOfDragons/Sessions",
     "TyrannyOfDragons/Players",
     "TyrannyOfDragons",
