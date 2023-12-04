@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Players/Mikaela.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Players/Mikaela.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Players/Mikaela.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Players/Mikaela.md"
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
               }
             }
           },
@@ -194,11 +194,11 @@
   },
   "active": "9663bd533950ad08",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Players/Mikaela.md",
     "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "TheRoleplayCampaign/Npc's/Dimmer.md",
     "TheRoleplayCampaign/Places/Rillvella.md",
     "TheRoleplayCampaign/Npc's/Caralan.md",
-    "TheRoleplayCampaign/Players/Mikaela.md",
     "TheRoleplayCampaign/Players/FakeNames",
     "TheRoleplayCampaign/Npc's/Palur.md",
     "TheRoleplayCampaign/Players/Etlir.md",
