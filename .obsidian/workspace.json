@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3bc3f74d7b75ff6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "summerstone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1ccdd797203ffd2a",
             "type": "leaf",
             "state": {
@@ -194,9 +206,10 @@
   },
   "active": "9663bd533950ad08",
   "lastOpenFiles": [
+    "summerstone.md",
+    "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "Adelina Firestone.md",
     "the hammer of iron vengeance.md",
-    "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "TheRoleplayCampaign/Players/Etlir.md",
     "Duncan.md",
     "Bhirall.md",
@@ -223,7 +236,6 @@
     "SlingshotDnD/Quests/Spectral Ruins.md",
     "SlingshotDnD/Quests/The Haunting of Windmill Tower.md",
     "SlingshotDnD/Quests/wooing the mayor's daughter.md",
-    "SlingshotDnD/Quests/The plague.md",
     "TyrannyOfDragons/Sessions",
     "TyrannyOfDragons/Players",
     "TyrannyOfDragons",
