@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d025b978697d7303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TheRoleplayCampaign/Places/Rillvella.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4a6f2d053561a29d",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "TheRoleplayCampaign/Places/Rillvella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "TheRoleplayCampaign/Places/Rillvella.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
+                "file": "TheRoleplayCampaign/Places/Rillvella.md"
               }
             }
           },
@@ -168,10 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9663bd533950ad08",
+  "active": "d025b978697d7303",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Npc's/Caralan.md",
     "TheRoleplayCampaign/Sessions/2023-12-04.md",
+    "TheRoleplayCampaign/Npc's/Caralan.md",
     "TheRoleplayCampaign/Players/Mikaela.md",
     "TheRoleplayCampaign/Players/FakeNames",
     "TheRoleplayCampaign/Npc's/Palur.md",
