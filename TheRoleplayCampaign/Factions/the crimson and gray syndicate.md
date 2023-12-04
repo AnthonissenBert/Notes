@@ -5,3 +5,5 @@ they're racists
 they have 2 leaders
 
 sworn to celibacy
+
+dwarven creed
