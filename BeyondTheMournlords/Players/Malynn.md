@@ -8,4 +8,4 @@ she doesn't know why she ran away
 
 she feels small, young
 
-kin of [[Harffan the Wilder]]
+kin of [[Harffan]]
