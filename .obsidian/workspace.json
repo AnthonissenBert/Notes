@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8887bb7e91b60a5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thronin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -158,6 +170,7 @@
   },
   "active": "551e34f2febba7d0",
   "lastOpenFiles": [
+    "thronin.md",
     "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
     "BeyondTheMournlords/Deities/Prince of Song.md",
     "BeyondTheMournlords/Deities/Harffan.md",
@@ -184,7 +197,6 @@
     "TheRoleplayCampaign/Npc's/Timur.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
     "TyrannyOfDragons/Npcs/Ontharfrum.md",
-    "TyrannyOfDragons/Locations/Greenest.md",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
     "TyrannyOfDragons/Npcs",
