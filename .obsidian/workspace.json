@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d97afb1f95ef139c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Players/Volgrim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ad2ab6d0039b338b",
             "type": "leaf",
             "state": {
@@ -182,8 +194,9 @@
   },
   "active": "551e34f2febba7d0",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2023/2023-11-23.md",
+    "BeyondTheMournlords/Players/Volgrim.md",
     "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
+    "BeyondTheMournlords/Sessions/2023/2023-11-23.md",
     "BeyondTheMournlords/Npc's/neutrals/Luca.md",
     "thronin.md",
     "BeyondTheMournlords/Deities/Prince of Song.md",
@@ -208,7 +221,6 @@
     "TheRoleplayCampaign/Npc's/Palur.md",
     "TheRoleplayCampaign/Factions/the crimson and gray syndicate.md",
     "TheRoleplayCampaign/Npc's/Timur.md",
-    "TheRoleplayCampaign/Sessions/2023-09-04.md",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
     "TyrannyOfDragons/Npcs",
