@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9af7a1d95e84645a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e7e4e2adb88ba2be",
             "type": "leaf",
             "state": {
@@ -42,21 +54,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6fa087e1c33c9ed8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anore.md",
+                "file": "BeyondTheMournlords/Sessions/2023/20223-12-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anore.md",
+                "file": "BeyondTheMournlords/Sessions/2023/20223-12-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anore.md"
+                "file": "BeyondTheMournlords/Sessions/2023/20223-12-10.md"
               }
             }
           },
@@ -193,12 +192,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fa087e1c33c9ed8",
+  "active": "d99b8180869b601c",
   "lastOpenFiles": [
-    "illirem.md",
-    "BeyondTheMournlords/Sessions/2023/20223-12-10.md",
-    "BeyondTheMournlords/Players/Malynn.md",
     "anore.md",
+    "BeyondTheMournlords/Sessions/2023/20223-12-10.md",
+    "illirem.md",
+    "BeyondTheMournlords/Players/Malynn.md",
     "BeyondTheMournlords/Sessions/2023/2023-11-23.md",
     "TheRoleplayCampaign/the hammer of iron vengeance.md",
     "TheRoleplayCampaign/summerstone.md",

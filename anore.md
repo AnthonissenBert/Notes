@@ -5,6 +5,7 @@ In charge of:
 ---
 
 beyonder?
+has a wooden mask
 
 ---
 
