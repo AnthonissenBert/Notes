@@ -1,5 +1,5 @@
 Status: 
-Race: elf
+Race: Elf
 In charge of:
 
 ---
@@ -10,4 +10,4 @@ beyonder?
 
 ## family
 
-companion to [[anore]]
+companion of [[illirem]]

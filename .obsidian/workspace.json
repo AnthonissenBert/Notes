@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6fa087e1c33c9ed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7cb6960bad9a3d25",
             "type": "leaf",
             "state": {
@@ -31,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "illirem.md",
+                "file": "BeyondTheMournlords/Sessions/2023/20223-12-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "illirem.md",
+                "file": "BeyondTheMournlords/Sessions/2023/20223-12-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "illirem.md"
+                "file": "BeyondTheMournlords/Sessions/2023/20223-12-10.md"
               }
             }
           },
@@ -169,8 +180,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cb6960bad9a3d25",
+  "active": "d99b8180869b601c",
   "lastOpenFiles": [
+    "anore.md",
     "BeyondTheMournlords/Sessions/2023/20223-12-10.md",
     "illirem.md",
     "BeyondTheMournlords/Sessions/2023/2023-11-23.md",
@@ -200,7 +212,6 @@
     "BeyondTheMournlords/Synopsis.md",
     "TyrannyOfDragons/Npcs",
     "conflict-files-obsidian-git.md",
-    "SlingshotDnD/Quests/Flatten the flock.md",
     "TyrannyOfDragons/Sessions",
     "TyrannyOfDragons/Players",
     "TyrannyOfDragons",
