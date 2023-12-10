@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ad2ab6d0039b338b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Npc's/neutrals/Luca.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8887bb7e91b60a5b",
             "type": "leaf",
             "state": {
@@ -170,8 +182,9 @@
   },
   "active": "551e34f2febba7d0",
   "lastOpenFiles": [
-    "thronin.md",
+    "BeyondTheMournlords/Npc's/neutrals/Luca.md",
     "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
+    "thronin.md",
     "BeyondTheMournlords/Deities/Prince of Song.md",
     "BeyondTheMournlords/Deities/Harffan.md",
     "BeyondTheMournlords/Players/Galdan.md",
@@ -196,7 +209,6 @@
     "TheRoleplayCampaign/Factions/the crimson and gray syndicate.md",
     "TheRoleplayCampaign/Npc's/Timur.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
-    "TyrannyOfDragons/Npcs/Ontharfrum.md",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
     "TyrannyOfDragons/Npcs",
