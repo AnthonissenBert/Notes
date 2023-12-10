@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "e859377c1594e936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Deities/Harffan the Wilder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9af7a1d95e84645a",
             "type": "leaf",
             "state": {
@@ -206,6 +218,7 @@
   },
   "active": "d99b8180869b601c",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Deities/Harffan the Wilder.md",
     "BeyondTheMournlords/Players/Malynn.md",
     "BeyondTheMournlords/Sessions/2023/20223-12-10.md",
     "anore.md",
@@ -234,7 +247,6 @@
     "TyrannyOfDragons/Npcs/Pharblacks.md",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
-    "BeyondTheMournlords/Synopsis.md",
     "TyrannyOfDragons/Npcs",
     "TyrannyOfDragons/Sessions",
     "TyrannyOfDragons/Players",
