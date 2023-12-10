@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
+                "file": "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
+                "file": "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
+                "file": "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2023/2023-12-10.md"
+                "file": "BeyondTheMournlords/Sessions/2021/2021-11-20.md"
               }
             }
           },
@@ -204,11 +204,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "551e34f2febba7d0",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2021/2021-12-04.md",
+    "BeyondTheMournlords/Sessions/2021/2021-12-18.md",
+    "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
     "BeyondTheMournlords/Sessions/2022/2022-04-02.md",
     "BeyondTheMournlords/Npc's/friendlies/Vallois.md",
-    "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
     "BeyondTheMournlords/Players/Volgrim.md",
     "BeyondTheMournlords/Sessions/2023/2023-11-23.md",
     "BeyondTheMournlords/Npc's/neutrals/Luca.md",
@@ -230,9 +232,7 @@
     "TheRoleplayCampaign/Players/Mikaela.md",
     "TheRoleplayCampaign/Npc's/Dimmer.md",
     "TheRoleplayCampaign/Places/Rillvella.md",
-    "TheRoleplayCampaign/Npc's/Caralan.md",
     "TheRoleplayCampaign/Players/FakeNames",
-    "TheRoleplayCampaign/Npc's/Palur.md",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
     "TyrannyOfDragons/Npcs",
