@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "512abdae08f65550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Players/Malynn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9af7a1d95e84645a",
             "type": "leaf",
             "state": {
@@ -194,10 +206,10 @@
   },
   "active": "d99b8180869b601c",
   "lastOpenFiles": [
-    "anore.md",
-    "BeyondTheMournlords/Sessions/2023/20223-12-10.md",
-    "illirem.md",
     "BeyondTheMournlords/Players/Malynn.md",
+    "BeyondTheMournlords/Sessions/2023/20223-12-10.md",
+    "anore.md",
+    "illirem.md",
     "BeyondTheMournlords/Sessions/2023/2023-11-23.md",
     "TheRoleplayCampaign/the hammer of iron vengeance.md",
     "TheRoleplayCampaign/summerstone.md",
