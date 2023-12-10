@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d69b05fc27cee230",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "551e34f2febba7d0",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,9 +158,9 @@
   },
   "active": "551e34f2febba7d0",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
     "BeyondTheMournlords/Deities/Prince of Song.md",
     "BeyondTheMournlords/Deities/Harffan.md",
-    "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
     "BeyondTheMournlords/Players/Galdan.md",
     "BeyondTheMournlords/Players/Malynn.md",
     "anore.md",
