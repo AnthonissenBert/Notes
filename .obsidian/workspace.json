@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
+                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md"
               }
             }
           },
@@ -158,12 +158,13 @@
   },
   "active": "5e0397bfa190ddb0",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Sessions/2023-12-04.md",
+    "TheRoleplayCampaign/Sessions/2023-12-27.md",
     "BeyondTheMournlords/Npc's/neutrals/anore.md",
     "BeyondTheMournlords/Families/thronin.md",
     "BeyondTheMournlords/Npc's/neutrals/illirem.md",
     "TheRoleplayCampaign/Npc's/Adelina Firestone.md",
     "TheRoleplayCampaign/Players/FakeNames/Bhirall.md",
-    "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
     "BeyondTheMournlords/Sessions/2021/2021-12-04.md",
     "BeyondTheMournlords/Sessions/2021/2021-12-18.md",
@@ -183,7 +184,6 @@
     "TheRoleplayCampaign/Players/Etlir.md",
     "TheRoleplayCampaign/Players/FakeNames/Endor.md",
     "TheRoleplayCampaign/Players/Mikaela.md",
-    "TheRoleplayCampaign/Npc's/Dimmer.md",
     "TheRoleplayCampaign/Players/FakeNames",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
