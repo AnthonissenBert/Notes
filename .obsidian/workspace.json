@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "TheRoleplayCampaign/Deities/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "TheRoleplayCampaign/Deities/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "TheRoleplayCampaign/Deities/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md"
+                "file": "TheRoleplayCampaign/Deities/Untitled.md"
               }
             }
           },
@@ -158,8 +158,12 @@
   },
   "active": "5e0397bfa190ddb0",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Sessions/2023-12-04.md",
+    "TheRoleplayCampaign/Deities/Soarim.md",
+    "TheRoleplayCampaign/Deities/Samir.md",
+    "TheRoleplayCampaign/Deities/Untitled.md",
     "TheRoleplayCampaign/Sessions/2023-12-27.md",
+    "TheRoleplayCampaign/Deities/Untitled",
+    "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "BeyondTheMournlords/Npc's/neutrals/anore.md",
     "BeyondTheMournlords/Families/thronin.md",
     "BeyondTheMournlords/Npc's/neutrals/illirem.md",
@@ -181,9 +185,6 @@
     "TheRoleplayCampaign/MagicalArtifacts/the hammer of iron vengeance.md",
     "TheRoleplayCampaign/MagicalArtifacts/summerstone.md",
     "TheRoleplayCampaign/Players/FakeNames/Duncan.md",
-    "TheRoleplayCampaign/Players/Etlir.md",
-    "TheRoleplayCampaign/Players/FakeNames/Endor.md",
-    "TheRoleplayCampaign/Players/Mikaela.md",
     "TheRoleplayCampaign/Players/FakeNames",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
@@ -200,7 +201,6 @@
     "BeyondTheMournlords/_assets/images/Pasted image 20231127151900.png",
     "BeyondTheMournlords/Locations/Wetlands",
     "BeyondTheMournlords/Locations/Deserts",
-    "BeyondTheMournlords/Locations/Roads",
     "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
     "SlingshotDnD/_Assets/Pasted image 20231107234349.png",
     "SlingshotDnD/_Assets/Pasted image 20230920214803.jpg"
