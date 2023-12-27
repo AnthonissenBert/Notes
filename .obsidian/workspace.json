@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b2657438d6ee735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aelwan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "Aelwan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "Aelwan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md"
+                "file": "Aelwan.md"
               }
             }
           },
@@ -156,12 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e0397bfa190ddb0",
+  "active": "5b2657438d6ee735",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Sessions/2023-12-27.md",
+    "Aelwan.md",
     "TheRoleplayCampaign/Deities/Tana.md",
     "TheRoleplayCampaign/Deities/Soarim.md",
     "TheRoleplayCampaign/Deities/Samir.md",
-    "TheRoleplayCampaign/Sessions/2023-12-27.md",
     "TheRoleplayCampaign/Deities/Untitled",
     "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "BeyondTheMournlords/Npc's/neutrals/anore.md",
@@ -184,7 +198,6 @@
     "BeyondTheMournlords/Players/Malynn.md",
     "TheRoleplayCampaign/MagicalArtifacts/the hammer of iron vengeance.md",
     "TheRoleplayCampaign/MagicalArtifacts/summerstone.md",
-    "TheRoleplayCampaign/Players/FakeNames/Duncan.md",
     "TheRoleplayCampaign/Players/FakeNames",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
