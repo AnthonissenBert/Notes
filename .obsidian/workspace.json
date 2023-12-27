@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/anore.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/anore.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/anore.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/anore.md"
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "5e0397bfa190ddb0",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Families/thronin.md",
     "BeyondTheMournlords/Npc's/neutrals/anore.md",
+    "BeyondTheMournlords/Families/thronin.md",
     "BeyondTheMournlords/Npc's/neutrals/illirem.md",
     "TheRoleplayCampaign/Npc's/Adelina Firestone.md",
     "TheRoleplayCampaign/Players/FakeNames/Bhirall.md",
