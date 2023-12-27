@@ -1,3 +1,3 @@
 cove where the [[summerstone]] mines are
 
-dryad [[Aelwan]] 
+dryad [[Aelwan]] is located here
