@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md"
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "5e0397bfa190ddb0",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "TheRoleplayCampaign/Sessions/2023-12-27.md",
+    "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "BeyondTheMournlords/Npc's/neutrals/anore.md",
     "BeyondTheMournlords/Families/thronin.md",
     "BeyondTheMournlords/Npc's/neutrals/illirem.md",
