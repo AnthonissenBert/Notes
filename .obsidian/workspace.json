@@ -4,64 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0738d9c9255271eb",
+        "id": "1eebaf07688a8522",
         "type": "tabs",
         "children": [
           {
-            "id": "551e34f2febba7d0",
+            "id": "5e0397bfa190ddb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8140c3786cba902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Vallois.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d97afb1f95ef139c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Players/Volgrim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad2ab6d0039b338b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Npc's/neutrals/Luca.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8887bb7e91b60a5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thronin.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2021/2021-11-20.md"
+                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
               }
             }
           },
@@ -204,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "551e34f2febba7d0",
+  "active": "5e0397bfa190ddb0",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
     "BeyondTheMournlords/Sessions/2021/2021-12-04.md",
     "BeyondTheMournlords/Sessions/2021/2021-12-18.md",
     "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
@@ -231,7 +184,6 @@
     "TheRoleplayCampaign/Players/FakeNames/Endor.md",
     "TheRoleplayCampaign/Players/Mikaela.md",
     "TheRoleplayCampaign/Npc's/Dimmer.md",
-    "TheRoleplayCampaign/Places/Rillvella.md",
     "TheRoleplayCampaign/Players/FakeNames",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
