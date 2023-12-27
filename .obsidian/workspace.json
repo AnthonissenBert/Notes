@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/anore.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/anore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md",
+                "file": "BeyondTheMournlords/Npc's/neutrals/anore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-04.md"
+                "file": "BeyondTheMournlords/Npc's/neutrals/anore.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "14976e19dc1323eb",
   "lastOpenFiles": [
-    "thronin.md",
-    "illirem.md",
-    "anore.md",
+    "BeyondTheMournlords/Families/thronin.md",
+    "BeyondTheMournlords/Npc's/neutrals/anore.md",
+    "BeyondTheMournlords/Npc's/neutrals/illirem.md",
+    "TheRoleplayCampaign/Npc's/Adelina Firestone.md",
+    "TheRoleplayCampaign/Players/FakeNames/Bhirall.md",
     "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
     "BeyondTheMournlords/Sessions/2021/2021-12-04.md",
@@ -178,8 +180,6 @@
     "TheRoleplayCampaign/MagicalArtifacts/the hammer of iron vengeance.md",
     "TheRoleplayCampaign/MagicalArtifacts/summerstone.md",
     "TheRoleplayCampaign/Players/FakeNames/Duncan.md",
-    "TheRoleplayCampaign/Bhirall.md",
-    "TheRoleplayCampaign/Adelina Firestone.md",
     "TheRoleplayCampaign/Players/Etlir.md",
     "TheRoleplayCampaign/Players/FakeNames/Endor.md",
     "TheRoleplayCampaign/Players/Mikaela.md",
