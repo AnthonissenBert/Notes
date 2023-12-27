@@ -1,15 +1,6 @@
 Status: Dryad
-Race:
+Race: halfling?
 In charge of: [[Aelwan Cove]]
 
 ---
 
-description
-
----
-
-## family
-
-married to:
-x amount of children:
-- 
