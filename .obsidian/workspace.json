@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WarOfThePlanes/Sessions/Untitled.md",
+                "file": "WarOfThePlanes/Sessions/Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WarOfThePlanes/Sessions/Untitled.md",
+                "file": "WarOfThePlanes/Sessions/Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WarOfThePlanes/Sessions/Untitled.md",
+                "file": "WarOfThePlanes/Sessions/Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WarOfThePlanes/Sessions/Untitled.md"
+                "file": "WarOfThePlanes/Sessions/Session.md"
               }
             }
           },
@@ -197,7 +197,7 @@
   "active": "e0c00648a2f179b5",
   "lastOpenFiles": [
     "TyrannyOfDragons/sessions/2023-12-03.md",
-    "WarOfThePlanes/Sessions/Untitled.md",
+    "WarOfThePlanes/Sessions/Session.md",
     "WarOfThePlanes/Sessions",
     "WarOfThePlanes",
     "TyrannyOfDragons/npcs/snapjaw.md",
