@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0ce7e8fe7084be94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iribeth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0b24aed781ea0aa7",
             "type": "leaf",
             "state": {
@@ -220,8 +232,9 @@
   },
   "active": "e0c00648a2f179b5",
   "lastOpenFiles": [
-    "grey garrison.md",
+    "Iribeth.md",
     "WarOfThePlanes/Sessions/2024-01-07.md",
+    "grey garrison.md",
     "Pasted image 20240107201657.png",
     "anivea.md",
     "Barry.md",
@@ -251,7 +264,6 @@
     "TheRoleplayCampaign/Npc's/Dimmer.md",
     "TheRoleplayCampaign/Npc's/Adelina Firestone.md",
     "TheRoleplayCampaign/MagicalArtifacts/the hammer of iron vengeance.md",
-    "TheRoleplayCampaign/MagicalArtifacts/summerstone.md",
     "TyrannyOfDragons/Players",
     "TyrannyOfDragons/Locations",
     "TyrannyOfDragons/Deities",
