@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WarOfThePlanes/Sessions/Session.md",
+                "file": "WarOfThePlanes/Sessions/2024-01-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WarOfThePlanes/Sessions/Session.md",
+                "file": "WarOfThePlanes/Sessions/2024-01-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WarOfThePlanes/Sessions/Session.md",
+                "file": "WarOfThePlanes/Sessions/2024-01-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WarOfThePlanes/Sessions/Session.md"
+                "file": "WarOfThePlanes/Sessions/2024-01-07.md"
               }
             }
           },
@@ -194,10 +194,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0c00648a2f179b5",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "WarOfThePlanes/Untitled",
     "TyrannyOfDragons/sessions/2023-12-03.md",
-    "WarOfThePlanes/Sessions/Session.md",
+    "WarOfThePlanes/Sessions/2024-01-07.md",
     "WarOfThePlanes/Sessions",
     "WarOfThePlanes",
     "TyrannyOfDragons/npcs/snapjaw.md",
@@ -225,7 +226,6 @@
     "BeyondTheMournlords/Npc's/neutrals/illirem.md",
     "BeyondTheMournlords/Npc's/neutrals/anore.md",
     "BeyondTheMournlords/Families/thronin.md",
-    "BeyondTheMournlords/Deities/Prince of Song.md",
     "TyrannyOfDragons/Players",
     "TyrannyOfDragons/Locations",
     "TyrannyOfDragons/Deities",
