@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3d4166ddd9856c24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Father Finly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "59d586c60867f072",
             "type": "leaf",
             "state": {
@@ -196,9 +208,9 @@
   },
   "active": "5e0397bfa190ddb0",
   "lastOpenFiles": [
-    "The Ambassador.md",
-    "Seppe/Sessions/2024-01-09.md",
     "Father Finly.md",
+    "Seppe/Sessions/2024-01-09.md",
+    "The Ambassador.md",
     "Eltia.md",
     "conflict-files-obsidian-git.md",
     "Mia.md",
