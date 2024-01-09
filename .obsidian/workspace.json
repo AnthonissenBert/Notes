@@ -11,12 +11,8 @@
             "id": "5e0397bfa190ddb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seppe/Sessions/2024-01-09.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seppe/Sessions/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seppe/Sessions/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Seppe/Sessions/2024-01-09.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,8 +152,8 @@
   },
   "active": "5e0397bfa190ddb0",
   "lastOpenFiles": [
-    "Linn.md",
     "Seppe/Sessions/2024-01-09.md",
+    "Linn.md",
     "the secret elven hideout.md",
     "Garreth.md",
     "Father Finly.md",
