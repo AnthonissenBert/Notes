@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "Seppe/Sessions/2024-01-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "Seppe/Sessions/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "Seppe/Sessions/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md"
+                "file": "Seppe/Sessions/2024-01-09.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -158,9 +160,10 @@
   },
   "active": "5e0397bfa190ddb0",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Sessions/2023-12-27.md",
+    "Seppe/Sessions/2024-01-09.md",
     "TheRoleplayCampaign/Deities/Samir.md",
     "TheRoleplayCampaign/Deities/Soarim.md",
-    "TheRoleplayCampaign/Sessions/2023-12-27.md",
     "TheRoleplayCampaign/Sessions/2023-12-04.md",
     "Aelwan Cove.md",
     "Aelwan.md",
@@ -184,7 +187,6 @@
     "BeyondTheMournlords/Deities/Harffan.md",
     "BeyondTheMournlords/Players/Galdan.md",
     "BeyondTheMournlords/Players/Malynn.md",
-    "TheRoleplayCampaign/MagicalArtifacts/the hammer of iron vengeance.md",
     "TheRoleplayCampaign/Players/FakeNames",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
