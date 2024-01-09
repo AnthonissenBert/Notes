@@ -1,3 +1,3 @@
 business guy
 
-assistent: 
+assistent: [[Lynn]]
