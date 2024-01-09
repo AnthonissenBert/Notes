@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4a142d1526ffe759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Father Finly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ae648c4dd73f5cbb",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seppe/Sessions/2024-01-09.md",
+                "file": "Father Finly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seppe/Sessions/2024-01-09.md",
+                "file": "Father Finly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seppe/Sessions/2024-01-09.md"
+                "file": "Father Finly.md"
               }
             }
           },
@@ -170,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e0397bfa190ddb0",
+  "active": "4a142d1526ffe759",
   "lastOpenFiles": [
-    "Eltia.md",
     "Seppe/Sessions/2024-01-09.md",
+    "Father Finly.md",
+    "Eltia.md",
     "conflict-files-obsidian-git.md",
     "Mia.md",
     "xantir vang.md",
@@ -202,7 +216,6 @@
     "TheRoleplayCampaign/Players/FakeNames/Bhirall.md",
     "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
     "BeyondTheMournlords/Sessions/2021/2021-12-04.md",
-    "BeyondTheMournlords/Sessions/2021/2021-12-18.md",
     "TheRoleplayCampaign/Players/FakeNames",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
