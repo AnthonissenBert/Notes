@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Father Finly.md",
+                "file": "Seppe/Sessions/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Father Finly.md",
+                "file": "Seppe/Sessions/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Father Finly.md"
+                "file": "Seppe/Sessions/2024-01-09.md"
               }
             }
           },
@@ -183,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a142d1526ffe759",
+  "active": "5e0397bfa190ddb0",
   "lastOpenFiles": [
-    "Seppe/Sessions/2024-01-09.md",
     "Father Finly.md",
+    "Seppe/Sessions/2024-01-09.md",
     "Eltia.md",
     "conflict-files-obsidian-git.md",
     "Mia.md",
