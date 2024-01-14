@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "ff75368046dc5d4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red wizard of They.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fa314d4c79396ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resmir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02f7cc27244a2f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trephon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fd7266269186f553",
             "type": "leaf",
             "state": {
@@ -208,9 +244,12 @@
   },
   "active": "770e709324569c7b",
   "lastOpenFiles": [
+    "Red wizard of They.md",
+    "TyrannyOfDragons/sessions/2024-01-14.md",
+    "Resmir.md",
+    "Trephon.md",
     "Pasted image 20240114162948.png",
     "Tiamat.md",
-    "TyrannyOfDragons/sessions/2024-01-14.md",
     "Baphometh.md",
     "TyrannyOfDragons/Players/Faral.md",
     "Lodge.md",
