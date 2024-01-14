@@ -1,0 +1,1 @@
+rumored to give wizards extra properties

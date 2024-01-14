@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "78e51eb2afb2a75e",
         "type": "tabs",
         "children": [
@@ -25,6 +26,17 @@
                 "mode": "source",
                 "source": false
               }
+=======
+        "id": "1eebaf07688a8522",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e0397bfa190ddb0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+>>>>>>> b247cd87eeae17cdc822f095fdd925dda8874c5c
             }
           }
         ],
@@ -57,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vallois",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +106,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+>>>>>>> b247cd87eeae17cdc822f095fdd925dda8874c5c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+>>>>>>> b247cd87eeae17cdc822f095fdd925dda8874c5c
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +151,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "conflict-files-obsidian-git.md"
               }
+=======
+              "state": {}
+>>>>>>> b247cd87eeae17cdc822f095fdd925dda8874c5c
             }
           },
           {
@@ -144,7 +166,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -165,6 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "0076393b32d7bff6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
@@ -213,5 +238,55 @@
     "SlingshotDnD/Locations/Seemsters",
     "SlingshotDnD/Locations/Blacksmiths",
     "SlingshotDnD/Locations/Administries"
+=======
+  "active": "5e0397bfa190ddb0",
+  "lastOpenFiles": [
+    "Seppe/Sessions/2024-01-09.md",
+    "Linn.md",
+    "the secret elven hideout.md",
+    "Garreth.md",
+    "Father Finly.md",
+    "The Ambassador.md",
+    "Eltia.md",
+    "conflict-files-obsidian-git.md",
+    "Mia.md",
+    "xantir vang.md",
+    "grey garrison.md",
+    "anivea.md",
+    "WarOfThePlanes/Sessions/2024-01-07.md",
+    "WarOfThePlanes/Players/Rob.md",
+    "WarOfThePlanes/Sessions",
+    "WarOfThePlanes/Players",
+    "WarOfThePlanes",
+    "Pasted image 20240107201657.png",
+    "Iribeth.md",
+    "Barry.md",
+    "TheRoleplayCampaign/Sessions/2023-12-27.md",
+    "TheRoleplayCampaign/Deities/Samir.md",
+    "TheRoleplayCampaign/Deities/Soarim.md",
+    "TheRoleplayCampaign/Sessions/2023-12-04.md",
+    "Aelwan Cove.md",
+    "Aelwan.md",
+    "TheRoleplayCampaign/Deities/Tana.md",
+    "TheRoleplayCampaign/Deities/Untitled",
+    "BeyondTheMournlords/Npc's/neutrals/anore.md",
+    "BeyondTheMournlords/Families/thronin.md",
+    "BeyondTheMournlords/Npc's/neutrals/illirem.md",
+    "TheRoleplayCampaign/Players/FakeNames",
+    "TyrannyOfDragons/Npcs/Monsters",
+    "TyrannyOfDragons/Locations",
+    "TyrannyOfDragons/Npcs",
+    "TyrannyOfDragons/Sessions",
+    "TyrannyOfDragons/Players",
+    "SlingshotDnD/forsonne.png",
+    "BeyondTheMournlords/_assets/images/Pasted image 20230806230253.png",
+    "BeyondTheMournlords/_assets/images/Pasted image 20230806230736.png",
+    "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
+    "BeyondTheMournlords/_assets/images/Pasted image 20231127151844.png",
+    "BeyondTheMournlords/_assets/images/Pasted image 20231127151851.png",
+    "BeyondTheMournlords/_assets/images/Pasted image 20231127151900.png",
+    "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
+    "SlingshotDnD/_Assets/Pasted image 20231107234349.png"
+>>>>>>> b247cd87eeae17cdc822f095fdd925dda8874c5c
   ]
 }

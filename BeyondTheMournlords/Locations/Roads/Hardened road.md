@@ -1,0 +1,4 @@
+Type: road
+Location: [[Shothmea]]
+
+---

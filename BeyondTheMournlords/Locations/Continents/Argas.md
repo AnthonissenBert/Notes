@@ -1,0 +1,1 @@
+Where [[Bastion]] is located

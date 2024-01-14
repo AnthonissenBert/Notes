@@ -1,0 +1,1 @@
+enemy [[Volgrim]] spawned with his blade

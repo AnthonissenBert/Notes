@@ -1,1 +1,1 @@
-caretaker of the [[topiary sentinels]]
+caretaker of the [[Topiary Sentinels]]

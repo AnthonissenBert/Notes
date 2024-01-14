@@ -1,1 +1,1 @@
-barmaid in [[The deaf halberd]]
+barmaid in [[The Deaf Halberd]]

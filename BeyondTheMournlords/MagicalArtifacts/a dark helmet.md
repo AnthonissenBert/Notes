@@ -1,0 +1,4 @@
+- Melancholic faceplate
+- Full plate
+- 2 slits for eyes
+- On faceplate: mouth and breathing holes around it

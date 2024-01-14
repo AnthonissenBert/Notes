@@ -1,1 +1,5 @@
-Deity of light and right
+God of Light
+God of Order
+
+other names:
+- The guiding light

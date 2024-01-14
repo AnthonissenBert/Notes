@@ -1,5 +1,7 @@
 PC by Matthijs
 
-Grudge!!
+class: wizard
+Full name: Askir Dulimbral
 
-wizard
+Titles:
+- The ruby weaver

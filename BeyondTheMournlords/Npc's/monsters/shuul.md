@@ -1,0 +1,1 @@
+Monster encountered in caves underneath [[Shothmea]]
