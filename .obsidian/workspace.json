@@ -211,8 +211,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vharam the white.md",
+                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vharam the white.md",
+                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vharam the white.md"
+                "file": "TyrannyOfDragons/sessions/2024-01-14.md"
               }
             }
           }
@@ -351,10 +350,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa5feb70125cd924",
+  "active": "770e709324569c7b",
   "lastOpenFiles": [
-    "TyrannyOfDragons/sessions/2024-01-14.md",
     "Vharam the white.md",
+    "TyrannyOfDragons/sessions/2024-01-14.md",
     "Narronveign the green.md",
     "Galvan the blue.md",
     "Resmir the black.md",
