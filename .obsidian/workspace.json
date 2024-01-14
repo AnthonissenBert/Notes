@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f234124400ef90e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenethon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fe100daeeacaeae7",
             "type": "leaf",
             "state": {
@@ -172,8 +184,9 @@
   },
   "active": "553a6c236a252d27",
   "lastOpenFiles": [
-    "RED SUN.md",
+    "Lenethon.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
+    "RED SUN.md",
     "TyrannyOfDragons/sessions/2023-12-03.md",
     "Aelwan.md",
     "Draezir.md"
