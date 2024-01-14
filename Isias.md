@@ -1,0 +1,1 @@
+Current leader of [[Bastion]]
