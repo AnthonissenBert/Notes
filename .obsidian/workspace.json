@@ -20,12 +20,72 @@
             }
           },
           {
+            "id": "fa5feb70125cd924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vharam the white.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edbe4c27d576ff5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vharam the white.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e5369a7e096771a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narronveign the green.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac94bf16c74c7d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galvan the blue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db0cae1f4dd95f41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resmir the black.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dc9691854eba95dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resmir.md",
+                "file": "Resmir the black.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resmir.md",
+                "file": "Resmir the black.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +211,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
+                "file": "Vharam the white.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
+                "file": "Vharam the white.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-01-14.md"
+                "file": "Vharam the white.md"
               }
             }
           }
@@ -290,10 +351,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "770e709324569c7b",
+  "active": "fa5feb70125cd924",
   "lastOpenFiles": [
-    "Resmir.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
+    "Vharam the white.md",
+    "Narronveign the green.md",
+    "Galvan the blue.md",
+    "Resmir the black.md",
     "Parnast.md",
     "Severin the red.md",
     "Skyreach.md",
