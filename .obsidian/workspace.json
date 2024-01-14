@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "dc9691854eba95dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resmir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f97d3e5e7eb62c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parnast.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4755a9791c4b618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Severin the red.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1de44731137f2b2e",
             "type": "leaf",
             "state": {
@@ -256,10 +292,12 @@
   },
   "active": "770e709324569c7b",
   "lastOpenFiles": [
-    "Skyreach.md",
-    "TyrannyOfDragons/sessions/2024-01-14.md",
-    "Red wizard of They.md",
     "Resmir.md",
+    "TyrannyOfDragons/sessions/2024-01-14.md",
+    "Parnast.md",
+    "Severin the red.md",
+    "Skyreach.md",
+    "Red wizard of They.md",
     "Trephon.md",
     "Pasted image 20240114162948.png",
     "Tiamat.md",
