@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fd7266269186f553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tiamat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "34670fbc96861622",
             "type": "leaf",
             "state": {
@@ -55,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baphometh.md",
+                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baphometh.md",
+                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baphometh.md"
+                "file": "TyrannyOfDragons/sessions/2024-01-14.md"
               }
             }
           }
@@ -195,8 +206,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34670fbc96861622",
+  "active": "770e709324569c7b",
   "lastOpenFiles": [
+    "Tiamat.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
     "Baphometh.md",
     "TyrannyOfDragons/Players/Faral.md",
