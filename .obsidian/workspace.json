@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "30c0096dfed4e915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lodge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e2eed77fde0b7370",
             "type": "leaf",
             "state": {
@@ -172,8 +184,9 @@
   },
   "active": "770e709324569c7b",
   "lastOpenFiles": [
-    "Trolls.md",
+    "Lodge.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
+    "Trolls.md",
     "RED SUN.md",
     "Lenethon.md",
     "voaraghamanthar.md",
