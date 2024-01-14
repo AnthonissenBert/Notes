@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "34670fbc96861622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Baphometh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "30c0096dfed4e915",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
+                "file": "Baphometh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
+                "file": "Baphometh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-01-14.md"
+                "file": "Baphometh.md"
               }
             }
           }
@@ -182,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "770e709324569c7b",
+  "active": "34670fbc96861622",
   "lastOpenFiles": [
-    "TyrannyOfDragons/Players/Faral.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
+    "Baphometh.md",
+    "TyrannyOfDragons/Players/Faral.md",
     "Lodge.md",
     "Trolls.md",
     "RED SUN.md",
