@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Victorio.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md"
               }
             }
           },
@@ -195,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68f1e16310ed7565",
+  "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
+    "Victorio.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
-    "test.md",
     "Varlaam.md",
     "Bazül.md",
     "TyrannyOfDragons/Sessions/2024-01-14.md",
