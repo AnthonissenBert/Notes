@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "6ce1a5ee5f6f3d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TheRoleplayCampaign/Players/Etlir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "527619f98cceac8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruben.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "68f1e16310ed7565",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
+                "file": "Ruben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
+                "file": "Ruben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md"
+                "file": "Ruben.md"
               }
             }
           },
@@ -194,10 +219,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "338f61a60c27ed9f",
+  "active": "527619f98cceac8f",
   "lastOpenFiles": [
-    "Victorio.md",
+    "TheRoleplayCampaign/Players/Etlir.md",
+    "Ruben.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
+    "Victorio.md",
     "Varlaam.md",
     "Bazül.md",
     "TyrannyOfDragons/Sessions/2024-01-14.md",
@@ -223,8 +250,6 @@
     "Lodge.md",
     "Lenethon.md",
     "Galvan the blue.md",
-    "Draezir.md",
-    "Baphometh.md",
     "Untitled.canvas",
     "WarOfThePlanes/Sessions",
     "WarOfThePlanes/Players",
