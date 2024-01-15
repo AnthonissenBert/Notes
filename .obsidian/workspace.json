@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "231e2551dfd8fb62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "elven walk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c478472d5645efe7",
             "type": "leaf",
             "state": {
@@ -172,8 +184,9 @@
   },
   "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
-    "Mathilda Grey.md",
+    "elven walk.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
+    "Mathilda Grey.md",
     "Victorio.md",
     "banurall.md",
     "TheRoleplayCampaign/Players/Etlir.md",
@@ -200,7 +213,6 @@
     "RED SUN.md",
     "Parnast.md",
     "Narronveign the green.md",
-    "Lodge.md",
     "Untitled.canvas",
     "WarOfThePlanes/Sessions",
     "WarOfThePlanes/Players",
