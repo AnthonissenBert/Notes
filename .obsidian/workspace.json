@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Varlaam.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Varlaam.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Varlaam.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md"
               }
             }
           },
@@ -183,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32e910fd9a3817c7",
+  "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Sessions/2024-01-15.md",
     "Varlaam.md",
+    "TheRoleplayCampaign/Sessions/2024-01-15.md",
     "Bazül.md",
     "TyrannyOfDragons/Sessions/2024-01-14.md",
     "README.md",
