@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "32e910fd9a3817c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Varlaam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3899b80d317c54cf",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
+                "file": "Varlaam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
+                "file": "Varlaam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md"
+                "file": "Varlaam.md"
               }
             }
           },
@@ -170,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "338f61a60c27ed9f",
+  "active": "32e910fd9a3817c7",
   "lastOpenFiles": [
-    "Bazül.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
+    "Varlaam.md",
+    "Bazül.md",
     "TyrannyOfDragons/Sessions/2024-01-14.md",
     "README.md",
     "New Text Document.txt",
@@ -201,7 +215,6 @@
     "Baphometh.md",
     "Untitled.canvas",
     "Seppe/Sessions/2024-01-09.md",
-    "Linn.md",
     "WarOfThePlanes/Sessions",
     "WarOfThePlanes/Players",
     "WarOfThePlanes",
