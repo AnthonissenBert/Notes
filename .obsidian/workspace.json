@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3365f7a94d844f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xantir vang.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xantir vang.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xantir vang.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -158,45 +171,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "338f61a60c27ed9f",
+  "active": "3365f7a94d844f0f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "New Text Document.txt",
+    "xantir vang.md",
+    "voaraghamanthar.md",
+    "Vharam the white.md",
+    "TyrannyOfDragons/Sessions/2024-01-14.md",
+    "Trolls.md",
+    "Trephon.md",
+    "Tiamat.md",
+    "Thalis.md",
+    "Skyreach.md",
+    "Severin the red.md",
+    "Resmir the black.md",
+    "Red wizard of They.md",
+    "RED SUN.md",
+    "Pasted image 20240114162948.png",
+    "Parnast.md",
+    "Narronveign the green.md",
+    "Lodge.md",
+    "Lenethon.md",
+    "Galvan the blue.md",
+    "Draezir.md",
+    "Baphometh.md",
     "Untitled.canvas",
     "Seppe/Sessions/2024-01-09.md",
     "Linn.md",
     "the secret elven hideout.md",
     "Garreth.md",
-    "Father Finly.md",
-    "The Ambassador.md",
-    "Eltia.md",
-    "conflict-files-obsidian-git.md",
-    "Mia.md",
-    "xantir vang.md",
-    "grey garrison.md",
-    "anivea.md",
-    "WarOfThePlanes/Sessions/2024-01-07.md",
-    "WarOfThePlanes/Players/Rob.md",
     "WarOfThePlanes/Sessions",
     "WarOfThePlanes/Players",
     "WarOfThePlanes",
     "Pasted image 20240107201657.png",
-    "Iribeth.md",
-    "Barry.md",
-    "TheRoleplayCampaign/Sessions/2023-12-27.md",
-    "TheRoleplayCampaign/Deities/Samir.md",
-    "TheRoleplayCampaign/Deities/Soarim.md",
-    "TheRoleplayCampaign/Sessions/2023-12-04.md",
-    "Aelwan Cove.md",
-    "Aelwan.md",
-    "TheRoleplayCampaign/Deities/Tana.md",
     "TheRoleplayCampaign/Deities/Untitled",
-    "BeyondTheMournlords/Npc's/neutrals/anore.md",
-    "BeyondTheMournlords/Families/thronin.md",
     "TheRoleplayCampaign/Players/FakeNames",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
     "TyrannyOfDragons/Npcs",
     "TyrannyOfDragons/Sessions",
-    "TyrannyOfDragons/Players",
     "SlingshotDnD/forsonne.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230253.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230736.png",
@@ -204,7 +218,6 @@
     "BeyondTheMournlords/_assets/images/Pasted image 20231127151844.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20231127151851.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20231127151900.png",
-    "SlingshotDnD/_Assets/Pasted image 20231107234420.png",
-    "SlingshotDnD/_Assets/Pasted image 20231107234349.png"
+    "SlingshotDnD/_Assets/Pasted image 20231107234420.png"
   ]
 }
