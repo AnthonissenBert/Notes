@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "36aad0835de64da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Victorio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "39e38098dfc560bd",
             "type": "leaf",
             "state": {
@@ -232,11 +244,11 @@
   },
   "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
-    "banurall.md",
+    "Victorio.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
+    "banurall.md",
     "TheRoleplayCampaign/Players/Etlir.md",
     "Ruben.md",
-    "Victorio.md",
     "Varlaam.md",
     "Bazül.md",
     "TyrannyOfDragons/Sessions/2024-01-14.md",
