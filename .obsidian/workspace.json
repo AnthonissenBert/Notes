@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "banurall.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "banurall.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "banurall.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md"
               }
             }
           },
@@ -231,10 +230,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39e38098dfc560bd",
+  "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Sessions/2024-01-15.md",
     "banurall.md",
+    "TheRoleplayCampaign/Sessions/2024-01-15.md",
     "TheRoleplayCampaign/Players/Etlir.md",
     "Ruben.md",
     "Victorio.md",
