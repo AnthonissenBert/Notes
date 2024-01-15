@@ -20,84 +20,12 @@
             }
           },
           {
-            "id": "36aad0835de64da2",
+            "id": "c478472d5645efe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Victorio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39e38098dfc560bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "banurall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ce1a5ee5f6f3d20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TheRoleplayCampaign/Players/Etlir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "527619f98cceac8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ruben.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68f1e16310ed7565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Victorio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32e910fd9a3817c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Varlaam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3899b80d317c54cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bazül.md",
+                "file": "Mathilda Grey.md",
                 "mode": "source",
                 "source": false
               }
@@ -244,8 +172,9 @@
   },
   "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
-    "Victorio.md",
+    "Mathilda Grey.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
+    "Victorio.md",
     "banurall.md",
     "TheRoleplayCampaign/Players/Etlir.md",
     "Ruben.md",
@@ -272,7 +201,6 @@
     "Parnast.md",
     "Narronveign the green.md",
     "Lodge.md",
-    "Lenethon.md",
     "Untitled.canvas",
     "WarOfThePlanes/Sessions",
     "WarOfThePlanes/Players",
