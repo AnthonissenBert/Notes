@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1eebaf07688a8522",
+        "id": "595a54e112ae53b6",
         "type": "tabs",
         "children": [
           {
-            "id": "5e0397bfa190ddb0",
+            "id": "338f61a60c27ed9f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "xantir vang.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "xantir vang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "xantir vang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "xantir vang.md"
+              }
             }
           },
           {
@@ -150,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e0397bfa190ddb0",
+  "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Seppe/Sessions/2024-01-09.md",
     "Linn.md",
     "the secret elven hideout.md",
@@ -182,7 +191,6 @@
     "TheRoleplayCampaign/Deities/Untitled",
     "BeyondTheMournlords/Npc's/neutrals/anore.md",
     "BeyondTheMournlords/Families/thronin.md",
-    "BeyondTheMournlords/Npc's/neutrals/illirem.md",
     "TheRoleplayCampaign/Players/FakeNames",
     "TyrannyOfDragons/Npcs/Monsters",
     "TyrannyOfDragons/Locations",
