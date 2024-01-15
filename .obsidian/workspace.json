@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruben.md",
+                "file": "TheRoleplayCampaign/Players/Etlir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruben.md",
+                "file": "TheRoleplayCampaign/Players/Etlir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruben.md"
+                "file": "TheRoleplayCampaign/Players/Etlir.md"
               }
             }
           },
@@ -219,10 +219,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "527619f98cceac8f",
+  "active": "6ce1a5ee5f6f3d20",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Players/Etlir.md",
     "Ruben.md",
+    "TheRoleplayCampaign/Players/Etlir.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
     "Victorio.md",
     "Varlaam.md",
