@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lasherai.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lasherai.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lasherai.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-02-24.md"
               }
             }
           },
@@ -195,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d53ae12f7296929",
+  "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
     "Lasherai.md",
+    "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
     "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
     "Trolls.md",
     "BeyondTheMournlords/Sessions/2024",
