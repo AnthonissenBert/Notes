@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
+                "file": "Trolls.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
+                "file": "Trolls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md",
+                "file": "Trolls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-01-15.md"
+                "file": "Trolls.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
-    "elven walk.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
+    "elven walk.md",
     "Mathilda Grey.md",
     "Victorio.md",
     "banurall.md",
