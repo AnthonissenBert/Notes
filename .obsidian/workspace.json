@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thagal.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thagal.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thagal.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-02-24.md"
               }
             }
           },
@@ -243,10 +242,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5b258e30a924402",
+  "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
     "Thagal.md",
+    "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
     "BeyondTheMournlords/Sessions/2021/2021-11-20.md",
     "BeyondTheMournlords/Sessions/2021/2021-10-30.md",
     "BeyondTheMournlords/Sessions/2021/2021-12-04.md",
