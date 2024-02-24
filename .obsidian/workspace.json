@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a7581eb706c428a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Players/Vanaroth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f0834f2f4af6adfe",
             "type": "leaf",
             "state": {
@@ -268,8 +280,9 @@
   },
   "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
-    "Grimak.md",
+    "BeyondTheMournlords/Players/Vanaroth.md",
     "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
+    "Grimak.md",
     "conquest.md",
     "BeyondTheMournlords/Npc's/friendlies/Vallois.md",
     "BeyondTheMournlords/Sessions/2023/2023-05-06.md",
@@ -294,7 +307,6 @@
     "elven walk.md",
     "Mathilda Grey.md",
     "Victorio.md",
-    "banurall.md",
     "New Text Document.txt",
     "Pasted image 20240107201657.png",
     "Pasted image 20240114162948.png",
