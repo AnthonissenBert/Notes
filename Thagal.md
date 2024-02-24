@@ -1,0 +1,1 @@
+Goliath with sharp glaive like appendiges coming out of their arms
