@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f0834f2f4af6adfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grimak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c9e75fcb81d62a96",
             "type": "leaf",
             "state": {
@@ -49,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grimak.md",
+                "file": "Grimak.md",
                 "mode": "source",
                 "source": false
               }
@@ -256,8 +268,9 @@
   },
   "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
-    "conquest.md",
+    "Grimak.md",
     "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
+    "conquest.md",
     "BeyondTheMournlords/Npc's/friendlies/Vallois.md",
     "BeyondTheMournlords/Sessions/2023/2023-05-06.md",
     "BeyondTheMournlords/Sessions/2022/2022-02-02.md",
@@ -272,7 +285,6 @@
     "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
     "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
     "gruurk.md",
-    "grimak.md",
     "Heroes feast.md",
     "Lasherai.md",
     "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
