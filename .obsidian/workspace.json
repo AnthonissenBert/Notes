@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-02-24.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-07-10.md"
               }
             }
           },
@@ -232,8 +232,9 @@
   },
   "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
-    "gruurk.md",
+    "BeyondTheMournlords/Sessions/2022/2022-04-09.md",
     "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
+    "gruurk.md",
     "grimak.md",
     "Heroes feast.md",
     "Lasherai.md",
@@ -261,7 +262,6 @@
     "Trephon.md",
     "Tiamat.md",
     "Thalis.md",
-    "Skyreach.md",
     "Untitled.canvas",
     "WarOfThePlanes/Sessions",
     "WarOfThePlanes/Players",
