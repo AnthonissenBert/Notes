@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "244c43cdbc169adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heroes feast.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3d53ae12f7296929",
             "type": "leaf",
             "state": {
@@ -196,6 +208,7 @@
   },
   "active": "338f61a60c27ed9f",
   "lastOpenFiles": [
+    "Heroes feast.md",
     "Lasherai.md",
     "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
     "BeyondTheMournlords/Sessions/2023/2023-12-10.md",
@@ -225,7 +238,6 @@
     "Skyreach.md",
     "Severin the red.md",
     "Resmir the black.md",
-    "Red wizard of They.md",
     "Untitled.canvas",
     "WarOfThePlanes/Sessions",
     "WarOfThePlanes/Players",
