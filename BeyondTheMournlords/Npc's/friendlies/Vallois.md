@@ -1,3 +1,5 @@
+**DECEASED**
+
 Status: Noble
 Race: Human
 Full name: Vallois Ceshar
