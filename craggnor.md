@@ -1,1 +1,4 @@
 leather armor
+
+Male Dwarf
+
