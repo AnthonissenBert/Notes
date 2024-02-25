@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "illefarm.md",
+                "file": "illefarn.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "file": "illefarn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "file": "illefarn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md"
+                "file": "illefarn.md"
               }
             }
           }
@@ -267,11 +267,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0f5cbe3091e15a7",
+  "active": "7f7c2e03faf9eb73",
   "lastOpenFiles": [
-    "illefarm.md",
-    "TyrannyOfDragons/sessions/2024-02-25.md",
     "the golden tankard.md",
+    "illefarn.md",
+    "TyrannyOfDragons/sessions/2024-02-25.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
     "TyrannyOfDragons/sessions/2023-12-03.md",
     "caemon.md",
