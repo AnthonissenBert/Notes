@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "191c15870c169664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "caemon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2880e8bd61732008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mirsella.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3ec8fcc1b9be260f",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "file": "mirsella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "file": "mirsella.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md"
+                "file": "mirsella.md"
               }
             }
           }
@@ -219,12 +243,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d34edea2307ec24",
+  "active": "2880e8bd61732008",
   "lastOpenFiles": [
-    "TyrannyOfDragons/sessions/2024-01-14.md",
-    "TyrannyOfDragons/sessions/2024-02-25.md",
     "caemon.md",
+    "TyrannyOfDragons/sessions/2024-02-25.md",
     "mirsella.md",
+    "TyrannyOfDragons/sessions/2024-01-14.md",
     "craggnor.md",
     "Thalis.md",
     "TyrannyOfDragons/sessions/2023-12-03.md",
