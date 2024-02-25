@@ -1,3 +1,6 @@
 Bert PC
 
-paladin
+Goliath oathbreaker paladin
+
+nickname: vannie the mannie
+

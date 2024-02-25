@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0f5cbe3091e15a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a57189f4252ff5a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-01-14.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -158,10 +183,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "770e709324569c7b",
+  "active": "a57189f4252ff5a2",
   "lastOpenFiles": [
-    "Thalis.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
+    "conflict-files-obsidian-git.md",
+    "gruurk.md",
+    "grimak.md",
+    "elven walk.md",
+    "conquest.md",
+    "banurall.md",
+    "Victorio.md",
+    "Varlaam.md",
+    "TheRoleplayCampaign/Sessions/2024-01-15.md",
+    "Thagal.md",
+    "Ruben.md",
+    "README.md",
+    "Mathilda Grey.md",
+    "Lasherai.md",
+    "Heroes feast.md",
+    "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
+    "BeyondTheMournlords/Sessions/2024",
+    "Bazül.md",
+    "Thalis.md",
     "Vharam the white.md",
     "Narronveign the green.md",
     "Galvan the blue.md",
@@ -169,19 +212,6 @@
     "Parnast.md",
     "Severin the red.md",
     "Skyreach.md",
-    "Red wizard of They.md",
-    "Trephon.md",
-    "Pasted image 20240114162948.png",
-    "Tiamat.md",
-    "Baphometh.md",
-    "TyrannyOfDragons/Players/Faral.md",
-    "Lodge.md",
-    "Trolls.md",
-    "RED SUN.md",
-    "Lenethon.md",
-    "voaraghamanthar.md",
-    "Draezir.md",
-    "TyrannyOfDragons/sessions/2023-12-03.md",
-    "Aelwan.md"
+    "Pasted image 20240114162948.png"
   ]
 }
