@@ -1,1 +1,1 @@
-tavern in 
+tavern in [[Parnast]]
