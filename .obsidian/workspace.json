@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mirsella.md",
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mirsella.md",
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mirsella.md"
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md"
               }
             }
           }
@@ -243,11 +243,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2880e8bd61732008",
+  "active": "b0f5cbe3091e15a7",
   "lastOpenFiles": [
     "caemon.md",
-    "TyrannyOfDragons/sessions/2024-02-25.md",
     "mirsella.md",
+    "TyrannyOfDragons/sessions/2024-02-25.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
     "craggnor.md",
     "Thalis.md",
