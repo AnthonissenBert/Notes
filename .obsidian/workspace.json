@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7f7c2e03faf9eb73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "illefarm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87e38d6a27c9466f",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "file": "illefarm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "file": "illefarm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md"
+                "file": "illefarm.md"
               }
             }
           }
@@ -255,10 +267,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0f5cbe3091e15a7",
+  "active": "7f7c2e03faf9eb73",
   "lastOpenFiles": [
-    "the golden tankard.md",
     "TyrannyOfDragons/sessions/2024-02-25.md",
+    "illefarm.md",
+    "the golden tankard.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
     "TyrannyOfDragons/sessions/2023-12-03.md",
     "caemon.md",
@@ -283,7 +296,6 @@
     "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
     "BeyondTheMournlords/Sessions/2024",
     "Bazül.md",
-    "Vharam the white.md",
     "Pasted image 20240114162948.png"
   ]
 }
