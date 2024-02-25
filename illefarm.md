@@ -1,1 +1,1 @@
-keyword for tanker of planty
+keyword for tanker of plenty
