@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,8 +163,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resmir the black.md",
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resmir the black.md",
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resmir the black.md"
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md"
               }
             }
           }
@@ -303,9 +302,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbcac5d6ad18cf3d",
+  "active": "4d34edea2307ec24",
   "lastOpenFiles": [
     "TyrannyOfDragons/sessions/2024-01-14.md",
+    "Resmir the black.md",
     "TyrannyOfDragons/sessions/2024-02-25.md",
     "wiglof.md",
     "Blacothcus.md",
@@ -330,7 +330,6 @@
     "README.md",
     "Mathilda Grey.md",
     "Lasherai.md",
-    "Heroes feast.md",
     "BeyondTheMournlords/Sessions/2024",
     "Pasted image 20240114162948.png"
   ]
