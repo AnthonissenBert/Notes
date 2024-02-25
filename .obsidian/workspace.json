@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blacothcus.md",
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blacothcus.md",
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blacothcus.md"
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md"
               }
             }
           }
@@ -279,10 +279,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfea102b10ee2762",
+  "active": "b0f5cbe3091e15a7",
   "lastOpenFiles": [
-    "TyrannyOfDragons/sessions/2024-02-25.md",
     "Blacothcus.md",
+    "TyrannyOfDragons/sessions/2024-02-25.md",
     "illefarn.md",
     "the golden tankard.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",

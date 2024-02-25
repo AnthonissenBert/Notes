@@ -1,1 +1,3 @@
 cloud giant
+
+nickname: couscous
