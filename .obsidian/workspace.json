@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2023-12-03.md",
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2023-12-03.md",
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2023-12-03.md",
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2023-12-03.md"
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md"
               }
             }
           }
@@ -243,15 +243,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0f5cbe3091e15a7",
+  "active": "4d34edea2307ec24",
   "lastOpenFiles": [
+    "TyrannyOfDragons/sessions/2023-12-03.md",
     "TyrannyOfDragons/sessions/2024-02-25.md",
     "caemon.md",
     "mirsella.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
     "craggnor.md",
     "Thalis.md",
-    "TyrannyOfDragons/sessions/2023-12-03.md",
     "conflict-files-obsidian-git.md",
     "gruurk.md",
     "grimak.md",
