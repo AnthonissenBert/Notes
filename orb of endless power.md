@@ -1,1 +1,1 @@
-lkocation: shimmaring isle
+location: shimmaring isle
