@@ -1,5 +1,3 @@
 rogue
 
-servent achtig
-
-t
+servent achtig turned resistence fighter
