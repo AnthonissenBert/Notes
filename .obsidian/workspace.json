@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "elven walk.md",
+                "file": "Seppe/Father Finly.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "elven walk.md",
+                "file": "Seppe/Father Finly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "elven walk.md",
+                "file": "Seppe/Father Finly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "elven walk.md"
+                "file": "Seppe/Father Finly.md"
               }
             }
           },
@@ -194,8 +194,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc4703fd477e8e53",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/elven walk.md",
     "craggnor.md",
     "conquest.md",
     "caemon.md",
@@ -221,7 +222,6 @@
     "orb of endless power.md",
     "Seppe/derinil.md",
     "Mia.md",
-    "conflict-files-obsidian-git.md",
     "BeyondTheMournlords/Sessions/2024",
     "New Text Document.txt",
     "Pasted image 20240107201657.png",
