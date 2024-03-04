@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the golden tankard.md",
+                "file": "Iribeth.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the golden tankard.md",
+                "file": "Iribeth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the golden tankard.md",
+                "file": "Iribeth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the golden tankard.md"
+                "file": "Iribeth.md"
               }
             }
           },
@@ -196,7 +196,22 @@
   },
   "active": "bc4703fd477e8e53",
   "lastOpenFiles": [
-    "Thagal.md",
+    "illefarn.md",
+    "grey garrison.md",
+    "craggnor.md",
+    "conquest.md",
+    "caemon.md",
+    "Bazül.md",
+    "banurall.md",
+    "anivea.md",
+    "Trolls.md",
+    "Trephon.md",
+    "BeyondTheMournlords/Thagal.md",
+    "TyrannyOfDragons/Tiamat.md",
+    "README.md",
+    "mirsella.md",
+    "Seppe/the secret elven hideout.md",
+    "TyrannyOfDragons/the golden tankard.md",
     "TyrannyOfDragons/Thalis.md",
     "Seppe/The Ambassador.md",
     "TyrannyOfDragons/Severin the red.md",
@@ -204,26 +219,11 @@
     "TyrannyOfDragons/Resmir the black.md",
     "TyrannyOfDragons/Red wizard of They.md",
     "TyrannyOfDragons/RED SUN.md",
-    "README.md",
     "Seppe/orb of endless power.md",
     "Narronveign the green.md",
-    "mirsella.md",
     "Mathilda Grey.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
-    "TyrannyOfDragons/Parnast.md",
-    "Seppe/Mia.md",
-    "Lodge.md",
-    "Lenethon.md",
-    "Iribeth.md",
-    "BeyondTheMournlords/Lasherai.md",
-    "Seppe/Linn.md",
-    "craggnor.md",
-    "grey garrison.md",
-    "illefarn.md",
-    "BeyondTheMournlords/gruurk.md",
-    "Seppe/Garreth.md",
-    "Seppe/Father Finly.md",
     "BeyondTheMournlords/Sessions/2024",
     "New Text Document.txt",
     "Untitled.canvas",
