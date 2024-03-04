@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seppe/Sessions/2024-01-09.md",
+                "file": "Seppe/Sessions/2024-03-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seppe/Sessions/2024-01-09.md",
+                "file": "Seppe/Sessions/2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seppe/Sessions/2024-01-09.md",
+                "file": "Seppe/Sessions/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seppe/Sessions/2024-01-09.md"
+                "file": "Seppe/Sessions/2024-03-04.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "bc4703fd477e8e53",
   "lastOpenFiles": [
-    "Seppe/Sessions/2024-03-04.md",
+    "Seppe/derinil.md",
     "Seppe/Sessions/2024-01-09.md",
+    "Seppe/Sessions/2024-03-04.md",
     "Mia.md",
     "conflict-files-obsidian-git.md",
     "wiglof.md",
@@ -185,7 +186,6 @@
     "BeyondTheMournlords/Sessions/2021/2021-10-30.md",
     "BeyondTheMournlords/Sessions/2021/2021-12-04.md",
     "BeyondTheMournlords/Sessions/2021/2021-10-02.md",
-    "BeyondTheMournlords/Sessions/2021/2021-10-23.md",
     "BeyondTheMournlords/Sessions/2024",
     "New Text Document.txt",
     "Pasted image 20240107201657.png",
