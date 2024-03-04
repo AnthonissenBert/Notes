@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seppe/Father Finly.md",
+                "file": "craggnor.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seppe/Father Finly.md",
+                "file": "craggnor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seppe/Father Finly.md",
+                "file": "craggnor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seppe/Father Finly.md"
+                "file": "craggnor.md"
               }
             }
           },
@@ -194,8 +194,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "bc4703fd477e8e53",
   "lastOpenFiles": [
+    "grey garrison.md",
+    "illefarn.md",
+    "BeyondTheMournlords/gruurk.md",
+    "Seppe/Garreth.md",
+    "Seppe/Father Finly.md",
     "TheRoleplayCampaign/elven walk.md",
     "craggnor.md",
     "conquest.md",
@@ -217,11 +222,6 @@
     "whip of binding.md",
     "xantir vang.md",
     "Seppe/Sessions/2024-03-04.md",
-    "Seppe/Sessions/2024-01-09.md",
-    "Seppe/brazier of worlds.md",
-    "orb of endless power.md",
-    "Seppe/derinil.md",
-    "Mia.md",
     "BeyondTheMournlords/Sessions/2024",
     "New Text Document.txt",
     "Pasted image 20240107201657.png",
