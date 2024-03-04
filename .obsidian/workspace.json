@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "57d2c301bcf4f84b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Findar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "871f4ca0312a6b16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seppe/Sundra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49ebcc0b1265b7e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TyrannyOfDragons/Sessions/2024-02-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/Sessions/2024-02-25.md",
+                "file": "Seppe/Sessions/2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/Sessions/2024-02-25.md",
+                "file": "Seppe/Sessions/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/Sessions/2024-02-25.md"
+                "file": "Seppe/Sessions/2024-03-04.md"
               }
             }
           },
@@ -196,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8bc08c29dfd1df3",
+  "active": "bc4703fd477e8e53",
   "lastOpenFiles": [
+    "Findar.md",
+    "Seppe/Sundra.md",
+    "TyrannyOfDragons/Sessions/2024-02-25.md",
     "illefarn.md",
     "TyrannyOfDragons/Lenethon.md",
     "Lodge.md",
@@ -208,8 +174,6 @@
     "xantir vang.md",
     "TyrannyOfDragons/Trephon.md",
     "Seppe/slave port.md",
-    "Seppe/Sundra.md",
-    "Findar.md",
     "Seppe/Sessions/2024-03-04.md",
     "caemon.md",
     "craggnor.md",
@@ -223,7 +187,6 @@
     "conquest.md",
     "anivea.md",
     "Iribeth.md",
-    "Bazül.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
