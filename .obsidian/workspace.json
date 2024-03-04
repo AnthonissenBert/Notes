@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WarOfThePlanes/Players/Barry.md",
+                "file": "elven walk.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WarOfThePlanes/Players/Barry.md",
+                "file": "elven walk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WarOfThePlanes/Players/Barry.md",
+                "file": "elven walk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WarOfThePlanes/Players/Barry.md"
+                "file": "elven walk.md"
               }
             }
           },
@@ -194,17 +194,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "bc4703fd477e8e53",
   "lastOpenFiles": [
+    "craggnor.md",
+    "conquest.md",
+    "caemon.md",
+    "WarOfThePlanes/Players/Barry.md",
     "Bazül.md",
     "BeyondTheMournlords/Heroes feast.md",
     "BeyondTheMournlords/Grimak.md",
     "TyrannyOfDragons/Galvan the blue.md",
     "Seppe/Eltia.md",
     "TyrannyOfDragons/Draezir.md",
-    "craggnor.md",
-    "conquest.md",
-    "caemon.md",
     "TyrannyOfDragons/Baphometh.md",
     "banurall.md",
     "TyrannyOfDragons/Blacothcus.md",
@@ -221,7 +222,6 @@
     "Seppe/derinil.md",
     "Mia.md",
     "conflict-files-obsidian-git.md",
-    "the golden tankard.md",
     "BeyondTheMournlords/Sessions/2024",
     "New Text Document.txt",
     "Pasted image 20240107201657.png",
