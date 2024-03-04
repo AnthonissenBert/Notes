@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iribeth.md",
+                "file": "anivea.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iribeth.md",
+                "file": "anivea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iribeth.md",
+                "file": "anivea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iribeth.md"
+                "file": "anivea.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "bc4703fd477e8e53",
   "lastOpenFiles": [
+    "Iribeth.md",
     "illefarn.md",
     "grey garrison.md",
     "craggnor.md",
@@ -221,7 +222,6 @@
     "TyrannyOfDragons/RED SUN.md",
     "Seppe/orb of endless power.md",
     "Narronveign the green.md",
-    "Mathilda Grey.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
