@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "craggnor.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orb of endless power.md",
+                "file": "Seppe/orb of endless power.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "craggnor.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "craggnor.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "craggnor.md"
+                "file": "README.md"
               }
             }
           },
@@ -196,13 +196,26 @@
   },
   "active": "bc4703fd477e8e53",
   "lastOpenFiles": [
+    "Seppe/orb of endless power.md",
+    "Narronveign the green.md",
+    "mirsella.md",
+    "Mathilda Grey.md",
+    "WarOfThePlanes/Pasted image 20240114162948.png",
+    "WarOfThePlanes/Pasted image 20240107201657.png",
+    "TyrannyOfDragons/Parnast.md",
+    "Seppe/Mia.md",
+    "Lodge.md",
+    "Lenethon.md",
+    "Iribeth.md",
+    "BeyondTheMournlords/Lasherai.md",
+    "Seppe/Linn.md",
+    "craggnor.md",
     "grey garrison.md",
     "illefarn.md",
     "BeyondTheMournlords/gruurk.md",
     "Seppe/Garreth.md",
     "Seppe/Father Finly.md",
     "TheRoleplayCampaign/elven walk.md",
-    "craggnor.md",
     "conquest.md",
     "caemon.md",
     "WarOfThePlanes/Players/Barry.md",
@@ -211,21 +224,8 @@
     "BeyondTheMournlords/Grimak.md",
     "TyrannyOfDragons/Galvan the blue.md",
     "Seppe/Eltia.md",
-    "TyrannyOfDragons/Draezir.md",
-    "TyrannyOfDragons/Baphometh.md",
-    "banurall.md",
-    "TyrannyOfDragons/Blacothcus.md",
-    "anivea.md",
-    "TheRoleplayCampaign/Aelwan.md",
-    "TheRoleplayCampaign/Aelwan Cove.md",
-    "wiglof.md",
-    "whip of binding.md",
-    "xantir vang.md",
-    "Seppe/Sessions/2024-03-04.md",
     "BeyondTheMournlords/Sessions/2024",
     "New Text Document.txt",
-    "Pasted image 20240107201657.png",
-    "Pasted image 20240114162948.png",
     "Untitled.canvas",
     "WarOfThePlanes/Sessions",
     "WarOfThePlanes/Players",
