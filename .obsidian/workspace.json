@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seppe/Sessions/2024-03-04.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seppe/Sessions/2024-03-04.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seppe/Sessions/2024-03-04.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seppe/Sessions/2024-03-04.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-10.md"
               }
             }
           },
@@ -161,6 +160,9 @@
   },
   "active": "bc4703fd477e8e53",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
+    "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
+    "Seppe/Sessions/2024-03-04.md",
     "Findar.md",
     "Seppe/Sundra.md",
     "TyrannyOfDragons/Sessions/2024-02-25.md",
@@ -174,7 +176,6 @@
     "xantir vang.md",
     "TyrannyOfDragons/Trephon.md",
     "Seppe/slave port.md",
-    "Seppe/Sessions/2024-03-04.md",
     "caemon.md",
     "craggnor.md",
     "TheRoleplayCampaign/Victorio.md",
@@ -185,8 +186,6 @@
     "TheRoleplayCampaign/Varlaam.md",
     "grey garrison.md",
     "conquest.md",
-    "anivea.md",
-    "Iribeth.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
