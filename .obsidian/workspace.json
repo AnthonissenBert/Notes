@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
+                "file": "BeyondTheMournlords/Gruurk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
+                "file": "BeyondTheMournlords/Gruurk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
+                "file": "BeyondTheMournlords/Gruurk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-10.md"
+                "file": "BeyondTheMournlords/Gruurk.md"
               }
             }
           },
@@ -160,8 +160,12 @@
   },
   "active": "ba0faaee79bf4948",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
+    "BeyondTheMournlords/Heroes feast.md",
+    "BeyondTheMournlords/Gruurk.md",
+    "BeyondTheMournlords/Grimak.md",
+    "BeyondTheMournlords/Lasherai.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
+    "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
     "Seppe/Sessions/2024-03-04.md",
     "Findar.md",
     "Seppe/Sundra.md",
@@ -182,10 +186,6 @@
     "TyrannyOfDragons/Vharam the white.md",
     "Seppe/whip of binding.md",
     "TyrannyOfDragons/wiglof.md",
-    "TyrannyOfDragons/voaraghamanthar.md",
-    "TheRoleplayCampaign/Varlaam.md",
-    "grey garrison.md",
-    "conquest.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",

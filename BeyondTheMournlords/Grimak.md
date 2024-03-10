@@ -1,1 +1,1 @@
-brother of [[gruurk]]
+brother of [[Gruurk]]
