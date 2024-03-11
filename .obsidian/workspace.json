@@ -1,0 +1,337 @@
+{
+  "main": {
+    "id": "a1a7b7fcc12e98eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1243269016b381b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "770e709324569c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0f5cbe3091e15a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbcac5d6ad18cf3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resmir the black.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0969a54a153b2ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiglof.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfea102b10ee2762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blacothcus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f7c2e03faf9eb73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "illefarn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87e38d6a27c9466f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the golden tankard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "191c15870c169664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "caemon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2880e8bd61732008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mirsella.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ec8fcc1b9be260f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "caemon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39c4e9a1109c7697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mirsella.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2208e02f4f0e323b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "craggnor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e1918afbbb1824f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "caemon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2c9d1383cc85ccc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f60e18cb1027c69c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d34edea2307ec24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d92b6cc6a9070aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73ea5336537e234b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32f2df9624ec52c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d33c3871bf6ce625",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8c738d8c4e75146",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "753bba68e8a8879b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "940461218a01c244",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5858fc1de5a027ac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "77eed3de97ab3161",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b0f5cbe3091e15a7",
+  "lastOpenFiles": [
+    "TyrannyOfDragons/sessions/2024-01-14.md",
+    "TyrannyOfDragons/sessions/2024-02-25.md",
+    "Resmir the black.md",
+    "wiglof.md",
+    "Blacothcus.md",
+    "illefarn.md",
+    "the golden tankard.md",
+    "TyrannyOfDragons/sessions/2023-12-03.md",
+    "caemon.md",
+    "mirsella.md",
+    "craggnor.md",
+    "Thalis.md",
+    "conflict-files-obsidian-git.md",
+    "gruurk.md",
+    "grimak.md",
+    "elven walk.md",
+    "conquest.md",
+    "banurall.md",
+    "Victorio.md",
+    "Varlaam.md",
+    "TheRoleplayCampaign/Sessions/2024-01-15.md",
+    "Thagal.md",
+    "Ruben.md",
+    "README.md",
+    "Mathilda Grey.md",
+    "Lasherai.md",
+    "BeyondTheMournlords/Sessions/2024",
+    "Pasted image 20240114162948.png"
+  ]
+}
