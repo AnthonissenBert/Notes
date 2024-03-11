@@ -1,3 +1,0 @@
-rogue
-
-servent achtig
