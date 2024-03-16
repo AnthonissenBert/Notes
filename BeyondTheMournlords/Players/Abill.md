@@ -6,3 +6,4 @@ warforged?
 
 DEAD?
 
+Abill Bloodstone

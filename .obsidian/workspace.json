@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Players/Abill.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Players/Abill.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Players/Abill.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md"
               }
             }
           },
@@ -195,15 +194,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bdbdb917ac010c3",
+  "active": "ba0faaee79bf4948",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Players/Abill.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
     "Hadrian.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
     "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
     "BeyondTheMournlords/Locations/Forts/Zumanthel.md",
     "conflict-files-obsidian-git.md",
-    "BeyondTheMournlords/Players/Abill.md",
     "Nezarut the desolate.md",
     "BeyondTheMournlords/Gruurk.md",
     "BeyondTheMournlords/Heroes feast.md",
