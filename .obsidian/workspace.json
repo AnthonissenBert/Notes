@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
+                "file": "BeyondTheMournlords/Players/Askir.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
+                "file": "BeyondTheMournlords/Players/Askir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
+                "file": "BeyondTheMournlords/Players/Askir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md"
+                "file": "BeyondTheMournlords/Players/Askir.md"
               }
             }
           },
@@ -208,8 +208,8 @@
   },
   "active": "ba0faaee79bf4948",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
+    "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
     "BeyondTheMournlords/Players/Abill.md",
     "Hadrian.md",
     "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
