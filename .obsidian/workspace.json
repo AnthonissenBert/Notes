@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-10.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md"
               }
             }
           },
@@ -207,12 +206,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fcf11b6c98654b7",
+  "active": "ba0faaee79bf4948",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
     "BeyondTheMournlords/Players/Abill.md",
     "Hadrian.md",
-    "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
     "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
     "BeyondTheMournlords/Locations/Forts/Zumanthel.md",
     "conflict-files-obsidian-git.md",
