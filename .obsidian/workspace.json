@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "989e13c42ecc2030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e734ae8ac83f7307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3c08e7d82d0e27ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardian.md",
+                "file": "Hadrian.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardian.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardian.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardian.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-16.md"
               }
             }
           },
@@ -207,12 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c08e7d82d0e27ea",
+  "active": "ba0faaee79bf4948",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
-    "Hardian.md",
-    "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
+    "Hadrian.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
+    "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
+    "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
     "BeyondTheMournlords/Locations/Forts/Zumanthel.md",
     "conflict-files-obsidian-git.md",
     "BeyondTheMournlords/Players/Abill.md",
