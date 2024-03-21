@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Players/Hirot.md",
+                "file": "TheRoleplayCampaign/Sessions/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Players/Hirot.md",
+                "file": "TheRoleplayCampaign/Sessions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Players/Hirot.md",
+                "file": "TheRoleplayCampaign/Sessions/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Players/Hirot.md"
+                "file": "TheRoleplayCampaign/Sessions/Untitled.md"
               }
             }
           },
@@ -160,10 +160,11 @@
   },
   "active": "3238b2e005202e38",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Players/Hirot.md",
+    "TheRoleplayCampaign/Sessions/Untitled.md",
     "TheRoleplayCampaign/Players/Etlir.md",
     "TheRoleplayCampaign/Players/Garthor.md",
     "TheRoleplayCampaign/Players/Gerald.md",
-    "TheRoleplayCampaign/Players/Hirot.md",
     "TheRoleplayCampaign/Players/Ithilwen.md",
     "TheRoleplayCampaign/Players/Mikaela.md",
     "TheRoleplayCampaign/Players/Victorio.md",
@@ -185,7 +186,6 @@
     "BeyondTheMournlords/Lasherai.md",
     "Seppe/Sessions/2024-03-04.md",
     "Findar.md",
-    "Seppe/Sundra.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
