@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a70b11c98875f233",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a70b11c98875f233",
+  "active": "3238b2e005202e38",
   "lastOpenFiles": [
     "TheRoleplayCampaign/Sessions/2023-07-31.md",
     "Jorgu.md",
