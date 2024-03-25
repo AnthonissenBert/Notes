@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
+                "file": "BeyondTheMournlords/Sessions/2021/2021-06-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "heaving",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
+                "file": "BeyondTheMournlords/Sessions/2021/2021-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
+                "file": "BeyondTheMournlords/Sessions/2021/2021-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-03-25.md"
+                "file": "BeyondTheMournlords/Sessions/2021/2021-06-26.md"
               }
             }
           },
@@ -197,8 +197,8 @@
   },
   "active": "fc1db3973977da33",
   "lastOpenFiles": [
-    "Ahrenlyc.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
+    "Ahrenlyc.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
     "skarik.md",
     "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
