@@ -8,3 +8,8 @@ DEAD?
 
 Abill Bloodstone
 
+
+--
+
+
+is now an actual warforged

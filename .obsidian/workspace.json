@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Players/Abill.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Players/Abill.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Players/Abill.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-03-25.md"
               }
             }
           },
@@ -171,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9734b04d3817e908",
+  "active": "3238b2e005202e38",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Players/Abill.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
     "TheRoleplayCampaign/Sessions/2024-03-21.md",
@@ -192,7 +192,6 @@
     "TheRoleplayCampaign/Places/elven walk.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
     "BeyondTheMournlords/Players/Askir.md",
-    "BeyondTheMournlords/Players/Abill.md",
     "Hadrian.md",
     "BeyondTheMournlords/Sessions/2024/2024-02-24.md",
     "BeyondTheMournlords/Locations/Forts/Zumanthel.md",
