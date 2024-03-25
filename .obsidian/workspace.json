@@ -18,6 +18,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "213d6595fed17489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Borak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85ce676384d1522c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markoras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d2a06740a470307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Borak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -160,9 +196,11 @@
   },
   "active": "f5b0f2c1675570eb",
   "lastOpenFiles": [
+    "Markoras.md",
+    "Borak.md",
+    "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
     "BeyondTheMournlords/Sessions/2021/2021-06-05.md",
     "BeyondTheMournlords/Npc's/factions/Aestuoris.md",
-    "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
     "BeyondTheMournlords/Sessions/2021/2021-06-26.md",
     "Ahrenlyc.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
@@ -184,8 +222,6 @@
     "TheRoleplayCampaign/Players/Victorio.md",
     "TheRoleplayCampaign/Players/FakeNames/Varlaam.md",
     "TheRoleplayCampaign/Players/FakeNames/Ruben.md",
-    "TheRoleplayCampaign/Places/elven walk.md",
-    "BeyondTheMournlords/Players/Askir.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
