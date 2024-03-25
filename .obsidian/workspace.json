@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heaving",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ceb32a405df94f3",
+  "active": "d8bc08c29dfd1df3",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2021/2021-06-26.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
