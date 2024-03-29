@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "8ef754d10105417b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
             "id": "7f7c2e03faf9eb73",
             "type": "leaf",
             "state": {
@@ -116,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,7 +265,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0f5cbe3091e15a7",
+  "active": "8ef754d10105417b",
   "lastOpenFiles": [
     "WarOfThePlanes/Players/Barry.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
