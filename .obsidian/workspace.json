@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "88aba0fc6c9836bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TyrannyOfDragons/Blagothkus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3344d6446f8261ef",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-04-04.md",
+                "file": "TyrannyOfDragons/Blagothkus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-04-04.md",
+                "file": "TyrannyOfDragons/Blagothkus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-04-04.md"
+                "file": "TyrannyOfDragons/Blagothkus.md"
               }
             }
           }
@@ -194,10 +207,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cae7cc3f513bc35d",
+  "active": "88aba0fc6c9836bf",
   "lastOpenFiles": [
-    "sendasil.md",
     "TyrannyOfDragons/sessions/2024-04-04.md",
+    "sendasil.md",
     "TyrannyOfDragons/Players/Rimo Leafshine.md",
     "TyrannyOfDragons/sessions/2024-02-25.md",
     "illefarn.md",
