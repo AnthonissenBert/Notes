@@ -11,8 +11,12 @@
             "id": "74ffe7eec5eab183",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TyrannyOfDragons/sessions/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TyrannyOfDragons/sessions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TyrannyOfDragons/sessions/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TyrannyOfDragons/sessions/Untitled.md"
+              }
             }
           }
         ]
@@ -152,6 +160,7 @@
   },
   "active": "74ffe7eec5eab183",
   "lastOpenFiles": [
+    "TyrannyOfDragons/sessions/Untitled.md",
     "caemon.md",
     "craggnor.md",
     "TyrannyOfDragons/sessions/2024-02-25.md",
@@ -179,7 +188,6 @@
     "TyrannyOfDragons/voaraghamanthar.md",
     "TyrannyOfDragons/the golden tankard.md",
     "TyrannyOfDragons/Vharam the white.md",
-    "TyrannyOfDragons/Trolls.md",
     "BeyondTheMournlords/Sessions/2024",
     "Pasted image 20240114162948.png"
   ]
