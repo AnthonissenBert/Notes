@@ -1,0 +1,1 @@
+high cleric of the [[Samir]] temple

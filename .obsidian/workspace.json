@@ -4,129 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1243269016b381b4",
+        "id": "8c25fffeb4f8ccca",
         "type": "tabs",
         "children": [
           {
-            "id": "770e709324569c7b",
+            "id": "74ffe7eec5eab183",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0f5cbe3091e15a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ef754d10105417b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "7f7c2e03faf9eb73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "illefarn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "191c15870c169664",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "caemon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2880e8bd61732008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mirsella.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ec8fcc1b9be260f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "caemon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39c4e9a1109c7697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mirsella.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2208e02f4f0e323b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "craggnor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e1918afbbb1824f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "caemon.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -265,8 +150,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ef754d10105417b",
+  "active": "74ffe7eec5eab183",
   "lastOpenFiles": [
+    "caemon.md",
+    "craggnor.md",
+    "TyrannyOfDragons/sessions/2024-02-25.md",
+    "mirsella.md",
+    "conflict-files-obsidian-git.md",
+    "skarik.md",
+    "TheRoleplayCampaign/Sessions/2024-03-21.md",
+    "TheRoleplayCampaign/Players/Victorio.md",
+    "TheRoleplayCampaign/Players/FakeNames/Varlaam.md",
+    "TheRoleplayCampaign/Players/FakeNames/Ruben.md",
+    "TheRoleplayCampaign/Places/elven walk.md",
+    "TheRoleplayCampaign/Places/Aelwan Cove.md",
+    "TheRoleplayCampaign/Npc's/Aelwan.md",
+    "Markoras.md",
+    "Jorgu.md",
+    "Hadrian.md",
+    "Borak.md",
+    "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
+    "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
+    "Ahrenlyc.md",
     "WarOfThePlanes/Players/Barry.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
@@ -275,26 +180,6 @@
     "TyrannyOfDragons/the golden tankard.md",
     "TyrannyOfDragons/Vharam the white.md",
     "TyrannyOfDragons/Trolls.md",
-    "TyrannyOfDragons/Trephon.md",
-    "TyrannyOfDragons/Tiamat.md",
-    "TyrannyOfDragons/Thalis.md",
-    "TyrannyOfDragons/Skyreach.md",
-    "TyrannyOfDragons/Severin the red.md",
-    "TyrannyOfDragons/Resmir the black.md",
-    "TyrannyOfDragons/Red wizard of They.md",
-    "TyrannyOfDragons/RED SUN.md",
-    "TyrannyOfDragons/Parnast.md",
-    "TyrannyOfDragons/Narronveign the green.md",
-    "TyrannyOfDragons/Lenethon.md",
-    "TyrannyOfDragons/Galvan the blue.md",
-    "TyrannyOfDragons/Draezir.md",
-    "TyrannyOfDragons/Blacothcus.md",
-    "TyrannyOfDragons/Baphometh.md",
-    "TheRoleplayCampaign/elven walk.md",
-    "TheRoleplayCampaign/Victorio.md",
-    "TheRoleplayCampaign/Varlaam.md",
-    "TheRoleplayCampaign/Ruben.md",
-    "TheRoleplayCampaign/Aelwan.md",
     "BeyondTheMournlords/Sessions/2024",
     "Pasted image 20240114162948.png"
   ]
