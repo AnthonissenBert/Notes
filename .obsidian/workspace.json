@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3344d6446f8261ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sendasil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1c93bfbbd8bdbf8b",
             "type": "leaf",
             "state": {
@@ -42,17 +54,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b98032b0d7619c0e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TyrannyOfDragons/sessions/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TyrannyOfDragons/sessions/2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TyrannyOfDragons/sessions/2024-04-04.md"
+              }
             }
           }
         ]
@@ -187,13 +194,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b98032b0d7619c0e",
+  "active": "cae7cc3f513bc35d",
   "lastOpenFiles": [
+    "sendasil.md",
     "TyrannyOfDragons/sessions/2024-04-04.md",
+    "TyrannyOfDragons/Players/Rimo Leafshine.md",
     "TyrannyOfDragons/sessions/2024-02-25.md",
     "illefarn.md",
     "TyrannyOfDragons/Resmir the black.md",
-    "TyrannyOfDragons/Players/Rimo Leafshine.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
     "caemon.md",
     "craggnor.md",
@@ -214,7 +222,6 @@
     "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
     "Ahrenlyc.md",
-    "WarOfThePlanes/Players/Barry.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
