@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-04-04.md",
+                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-04-04.md",
+                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-04-04.md",
+                "file": "TyrannyOfDragons/sessions/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-04-04.md"
+                "file": "TyrannyOfDragons/sessions/2024-01-14.md"
               }
             }
           }
@@ -158,13 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74ffe7eec5eab183",
+  "active": "4d34edea2307ec24",
   "lastOpenFiles": [
-    "TyrannyOfDragons/Players/Rimo Leafshine.md",
+    "TyrannyOfDragons/sessions/2024-02-25.md",
     "TyrannyOfDragons/sessions/2024-04-04.md",
+    "TyrannyOfDragons/Players/Rimo Leafshine.md",
     "caemon.md",
     "craggnor.md",
-    "TyrannyOfDragons/sessions/2024-02-25.md",
     "mirsella.md",
     "conflict-files-obsidian-git.md",
     "skarik.md",
