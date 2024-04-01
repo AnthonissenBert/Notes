@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "file": "TyrannyOfDragons/sessions/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "file": "TyrannyOfDragons/sessions/2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-02-25.md"
+                "file": "TyrannyOfDragons/sessions/2024-04-04.md"
               }
             }
           }
@@ -183,11 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1cd76808fba0864",
+  "active": "cae7cc3f513bc35d",
   "lastOpenFiles": [
-    "TyrannyOfDragons/sessions/2024-04-04.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
     "TyrannyOfDragons/sessions/2024-02-25.md",
+    "TyrannyOfDragons/sessions/2024-04-04.md",
     "TyrannyOfDragons/Players/Rimo Leafshine.md",
     "caemon.md",
     "craggnor.md",
