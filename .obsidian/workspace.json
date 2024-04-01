@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1c93bfbbd8bdbf8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4ed4db62ce76cca9",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-04-04.md",
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-04-04.md",
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/sessions/2024-04-04.md"
+                "file": "TyrannyOfDragons/sessions/2024-02-25.md"
               }
             }
           }
@@ -170,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cae7cc3f513bc35d",
+  "active": "1c93bfbbd8bdbf8b",
   "lastOpenFiles": [
-    "TyrannyOfDragons/Resmir the black.md",
     "TyrannyOfDragons/sessions/2024-04-04.md",
+    "TyrannyOfDragons/Resmir the black.md",
     "TyrannyOfDragons/sessions/2024-02-25.md",
     "TyrannyOfDragons/Players/Rimo Leafshine.md",
     "TyrannyOfDragons/sessions/2024-01-14.md",
