@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5578e32845f82fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Luntalaksoosa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e435b51fa4e5bb08",
             "type": "leaf",
             "state": {
@@ -208,8 +220,9 @@
   },
   "active": "0d3d393a210c4764",
   "lastOpenFiles": [
-    "lumitale.md",
+    "Luntalaksoosa.md",
     "TheRoleplayCampaign/Sessions/2024-04-03.md",
+    "lumitale.md",
     "sam.md",
     "golden dragon theater.md",
     "conflict-files-obsidian-git.md",
@@ -233,7 +246,6 @@
     "TheRoleplayCampaign/Sessions/2023-07-31.md",
     "Jorgu.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
-    "TheRoleplayCampaign/Sessions/2024-01-15.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
