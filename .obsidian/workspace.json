@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e435b51fa4e5bb08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lumitale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a4694c80c8bcf9be",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-04-03.md",
+                "file": "lumitale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-04-03.md",
+                "file": "lumitale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-04-03.md"
+                "file": "lumitale.md"
               }
             }
           },
@@ -194,10 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d3d393a210c4764",
+  "active": "e435b51fa4e5bb08",
   "lastOpenFiles": [
-    "sam.md",
     "TheRoleplayCampaign/Sessions/2024-04-03.md",
+    "lumitale.md",
+    "sam.md",
     "golden dragon theater.md",
     "conflict-files-obsidian-git.md",
     "sendasil.md",
@@ -221,7 +235,6 @@
     "Jorgu.md",
     "TheRoleplayCampaign/Sessions/2023-09-04.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
-    "TheRoleplayCampaign/Players/Hirot.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
