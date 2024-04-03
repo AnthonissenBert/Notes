@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golden dragon theater.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-04-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "golden dragon theater.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golden dragon theater.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-04-03.md"
               }
             }
           },
@@ -183,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a509817a02e8f4a",
+  "active": "0d3d393a210c4764",
   "lastOpenFiles": [
     "sam.md",
     "golden dragon theater.md",
