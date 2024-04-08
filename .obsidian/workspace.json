@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Players/Abill.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Players/Abill.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Players/Abill.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-04-08.md"
               }
             }
           },
@@ -184,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2ec55645f7dc202",
+  "active": "4a9f8b38ac27b263",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Players/Abill.md",
     "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
@@ -211,7 +211,6 @@
     "Borak.md",
     "Markoras.md",
     "BeyondTheMournlords/Sessions/2021/2021-06-05.md",
-    "BeyondTheMournlords/Npc's/factions/Aestuoris.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
