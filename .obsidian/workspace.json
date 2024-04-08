@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b2ec55645f7dc202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Players/Abill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3cadd61b513d7539",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
+                "file": "BeyondTheMournlords/Players/Abill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
+                "file": "BeyondTheMournlords/Players/Abill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-04-08.md"
+                "file": "BeyondTheMournlords/Players/Abill.md"
               }
             }
           },
@@ -171,12 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a9f8b38ac27b263",
+  "active": "b2ec55645f7dc202",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-25.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
-    "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
     "seven tree.md",
     "five hide.md",
     "TheRoleplayCampaign/Sessions/2024-04-03.md",
