@@ -1,13 +1,10 @@
 Status: 
-Race: thiefling
+Race:
 In charge of:
 
 ---
 
-Acolyte of [[Asri]]
-
-- Cleric of necromancy
-- Summoning fiends
+description
 
 ---
 
