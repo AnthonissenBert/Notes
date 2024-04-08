@@ -1,4 +1,4 @@
-Status: 
+Status: Acolyte of [[Asri]]
 Race:
 In charge of:
 
