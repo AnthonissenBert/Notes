@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f184be16c18f3e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seppe/Sessions/2024-03-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "118fd899e73fbe0a",
             "type": "leaf",
             "state": {
@@ -196,11 +208,11 @@
   },
   "active": "4a9f8b38ac27b263",
   "lastOpenFiles": [
-    "Bavragor.md",
+    "Seppe/Sessions/2024-03-04.md",
     "Seppe/Sessions/2024-04-15.md",
+    "Bavragor.md",
     "TheRoleplayCampaign/Players/FakeNames/Duncan.md",
     "caphalor.md",
-    "Seppe/Sessions/2024-03-04.md",
     "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
     "squirming sea.md",
     "swallowed void.md",
