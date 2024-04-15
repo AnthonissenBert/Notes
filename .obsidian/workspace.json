@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "057557d80eaf25e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seppe/Sessions/2024-03-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8a927ca3b7d36e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seppe/Sessions/2024-01-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f184be16c18f3e18",
             "type": "leaf",
             "state": {
@@ -208,6 +232,7 @@
   },
   "active": "4a9f8b38ac27b263",
   "lastOpenFiles": [
+    "Seppe/Sessions/2024-01-09.md",
     "Seppe/Sessions/2024-03-04.md",
     "Seppe/Sessions/2024-04-15.md",
     "Bavragor.md",
@@ -233,7 +258,6 @@
     "yarresh.md",
     "Azurov.md",
     "Padür.md",
-    "Luntalaksoosa.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
