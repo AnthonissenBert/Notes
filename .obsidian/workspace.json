@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Players/FakeNames/Duncan.md",
+                "file": "Seppe/Sessions/2024-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Players/FakeNames/Duncan.md",
+                "file": "Seppe/Sessions/2024-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Players/FakeNames/Duncan.md"
+                "file": "Seppe/Sessions/2024-04-15.md"
               }
             }
           },
@@ -183,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4da94604ea26c0c1",
+  "active": "4a9f8b38ac27b263",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Players/FakeNames/Duncan.md",
     "Seppe/Sessions/2024-04-15.md",
     "caphalor.md",
     "Seppe/Sessions/2024-03-04.md",
@@ -210,7 +210,6 @@
     "Padür.md",
     "Luntalaksoosa.md",
     "lumitale.md",
-    "sam.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
