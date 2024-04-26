@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "13088cb4dabc865b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "3344d6446f8261ef",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,7 +217,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88aba0fc6c9836bf",
+  "active": "13088cb4dabc865b",
   "lastOpenFiles": [
     "TyrannyOfDragons/sessions/2024-04-04.md",
     "sendasil.md",
