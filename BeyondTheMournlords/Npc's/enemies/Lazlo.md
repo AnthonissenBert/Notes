@@ -8,6 +8,7 @@ Acolyte of [[Asri]]
 
 - Cleric of necromancy
 - Summoning fiends
+- the burning son
 
 ---
 
