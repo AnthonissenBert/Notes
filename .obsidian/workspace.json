@@ -23,6 +23,18 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "24c9309134eb0a80",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rainma.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ]
           },
@@ -199,8 +211,10 @@
   },
   "active": "38f7ce14c59a391e",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
+    "Rainma.md",
     "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
+    "argrathanas.md",
+    "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
     "BeyondTheMournlords/Players/Volgrim.md",
     "Seppe/Sessions/2024-03-04.md",
     "Seppe/Sessions/2024-04-15.md",
@@ -223,8 +237,6 @@
     "captain Karlan.md",
     "Helena Owling.md",
     "jeda oakerwinery.md",
-    "yarresh.md",
-    "Azurov.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
