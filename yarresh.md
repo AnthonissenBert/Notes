@@ -1,0 +1,1 @@
+half elf during the play at [[golden dragon theater]]

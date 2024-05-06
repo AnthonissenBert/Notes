@@ -1,5 +1,5 @@
 Status: 
-Race:
+Race: thiefling
 In charge of:
 
 ---
