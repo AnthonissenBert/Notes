@@ -1,0 +1,1 @@
+faction with lots of monster hunters and beyonders currently in hellish [[Bastion]] think of joining
