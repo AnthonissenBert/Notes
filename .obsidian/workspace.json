@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "509c57a7324729b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shadow guild.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "824b1c49d317b23d",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
+                "file": "shadow guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
+                "file": "shadow guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md"
+                "file": "shadow guild.md"
               }
             }
           },
@@ -170,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f7b10da3cf12d8c",
+  "active": "509c57a7324729b2",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Sessions/2024-04-03.md",
     "TheRoleplayCampaign/Sessions/2024-05-24.md",
+    "shadow guild.md",
+    "TheRoleplayCampaign/Sessions/2024-04-03.md",
     "conflict-files-obsidian-git.md",
     "BeyondTheMournlords/Npc's/enemies/Lazlo.md",
     "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
@@ -197,7 +211,6 @@
     "BeyondTheMournlords/Locations/Mountains/Heaving hills.md",
     "Answald.md",
     "BeyondTheMournlords/Players/Abill.md",
-    "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
