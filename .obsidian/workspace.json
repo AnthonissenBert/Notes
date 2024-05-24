@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b7e69ca1122e5c8f",
+        "id": "ca6c4697abcb1b08",
         "type": "tabs",
         "children": [
           {
-            "id": "213a87ac8c13c517",
+            "id": "d46110a33c624601",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -150,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "213a87ac8c13c517",
+  "active": "d46110a33c624601",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "BeyondTheMournlords/Npc's/enemies/Lazlo.md",
     "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
     "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
@@ -177,7 +186,6 @@
     "BeyondTheMournlords/Sessions/2024/2024-03-10.md",
     "seven tree.md",
     "five hide.md",
-    "TheRoleplayCampaign/Sessions/2024-04-03.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
