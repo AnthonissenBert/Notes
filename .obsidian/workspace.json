@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-12-27.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md"
               }
             }
           },
@@ -231,8 +230,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cc6a6ff0f7e5334",
+  "active": "5f7b10da3cf12d8c",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Sessions/2023-12-27.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
     "TheRoleplayCampaign/Sessions/2024-03-21.md",
     "TheRoleplayCampaign/Sessions/2024-04-03.md",
@@ -258,7 +258,6 @@
     "TheRoleplayCampaign/Players/FakeNames/Duncan.md",
     "caphalor.md",
     "squirming sea.md",
-    "swallowed void.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
