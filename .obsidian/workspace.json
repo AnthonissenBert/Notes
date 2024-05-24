@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1c05dcc0a46233bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TheRoleplayCampaign/Sessions/2024-04-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "de93250655d7b880",
             "type": "leaf",
             "state": {
@@ -31,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "small rose.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "small rose.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "small rose.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md"
               }
             }
           },
@@ -171,12 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de93250655d7b880",
+  "active": "5f7b10da3cf12d8c",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Sessions/2024-05-24.md",
     "small rose.md",
-    "shadow guild.md",
     "TheRoleplayCampaign/Sessions/2024-04-03.md",
+    "TheRoleplayCampaign/Sessions/2024-05-24.md",
+    "shadow guild.md",
     "conflict-files-obsidian-git.md",
     "BeyondTheMournlords/Npc's/enemies/Lazlo.md",
     "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
