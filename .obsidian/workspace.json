@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blue divide.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blue divide.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blue divide.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md"
               }
             }
           },
@@ -219,10 +218,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec6ff49f07c65876",
+  "active": "d5162733372a1ec0",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
     "blue divide.md",
+    "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
     "throndir.md",
     "karghar.md",
     "durveraaks.md",
