@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-04-29.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md"
               }
             }
           },
@@ -171,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8b185534133280b",
+  "active": "d5162733372a1ec0",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
     "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
+    "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
     "bagaal.md",
     "cinderfist.md",
     "argrathanas.md",
