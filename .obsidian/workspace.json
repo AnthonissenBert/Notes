@@ -139,8 +139,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paths of ash.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paths of ash.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paths of ash.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md"
               }
             }
           },
@@ -279,12 +278,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b7d9d661fbf989b",
+  "active": "d5162733372a1ec0",
   "lastOpenFiles": [
+    "paths of ash.md",
     "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
     "bloodshallows.md",
     "scalding sea.md",
-    "paths of ash.md",
     "realm of glass shards.md",
     "blue divide.md",
     "throndir.md",
