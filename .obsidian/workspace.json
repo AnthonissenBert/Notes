@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ulin.md",
+                "file": "BeyondTheMournlords/Players/Ulin.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ulin.md",
+                "file": "BeyondTheMournlords/Players/Ulin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ulin.md",
+                "file": "BeyondTheMournlords/Players/Ulin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ulin.md"
+                "file": "BeyondTheMournlords/Players/Ulin.md"
               }
             }
           },
@@ -243,10 +243,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5c79e957be9518c",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
     "Ulin.md",
+    "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
+    "BeyondTheMournlords/Players/Ulin.md",
     "TheRoleplayCampaign/Sessions/2024-05-24.md",
     "TheRoleplayCampaign/Sessions/2023-12-27.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
@@ -270,7 +271,6 @@
     "Seppe/Sessions/2024-04-15.md",
     "Seppe/Sessions/2024-01-09.md",
     "Bavragor.md",
-    "TheRoleplayCampaign/Players/FakeNames/Duncan.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
