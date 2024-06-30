@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ebeff17184c122f6",
+        "id": "77497f7711507b35",
         "type": "tabs",
         "children": [
           {
-            "id": "a3f0742f6d8e9a18",
+            "id": "d5162733372a1ec0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3401de28fefadb57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bagaal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f7b10da3cf12d8c",
+            "id": "c8b185534133280b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,11 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3f0742f6d8e9a18",
+  "active": "c8b185534133280b",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
-    "bagaal.md",
     "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
+    "bagaal.md",
     "cinderfist.md",
     "argrathanas.md",
     "BeyondTheMournlords/Players/Ulin.md",
