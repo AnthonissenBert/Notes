@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Players/Ulin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24ac038f255adc47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md"
               }
             }
           },
@@ -255,7 +243,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24ac038f255adc47",
+  "active": "c5c79e957be9518c",
   "lastOpenFiles": [
     "BeyondTheMournlords/Players/Ulin.md",
     "conflict-files-obsidian-git.md",
