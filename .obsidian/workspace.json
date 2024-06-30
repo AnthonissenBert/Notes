@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5c79e957be9518c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ulin.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
+                "file": "Ulin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
+                "file": "Ulin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md"
+                "file": "Ulin.md"
               }
             }
           },
@@ -230,13 +243,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f7b10da3cf12d8c",
+  "active": "c5c79e957be9518c",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
+    "Ulin.md",
+    "TheRoleplayCampaign/Sessions/2024-05-24.md",
     "TheRoleplayCampaign/Sessions/2023-12-27.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
     "TheRoleplayCampaign/Sessions/2024-03-21.md",
     "TheRoleplayCampaign/Sessions/2024-04-03.md",
-    "TheRoleplayCampaign/Sessions/2024-05-24.md",
     "small rose.md",
     "shadow guild.md",
     "conflict-files-obsidian-git.md",
@@ -256,8 +271,6 @@
     "Seppe/Sessions/2024-01-09.md",
     "Bavragor.md",
     "TheRoleplayCampaign/Players/FakeNames/Duncan.md",
-    "caphalor.md",
-    "squirming sea.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
