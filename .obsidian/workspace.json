@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rathan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,8 +149,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-06-30.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-04-29.md"
               }
             }
           },
@@ -245,8 +244,9 @@
   },
   "active": "5f7b10da3cf12d8c",
   "lastOpenFiles": [
-    "cinderfist.md",
     "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
+    "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
+    "cinderfist.md",
     "argrathanas.md",
     "BeyondTheMournlords/Players/Ulin.md",
     "conflict-files-obsidian-git.md",
@@ -260,7 +260,6 @@
     "small rose.md",
     "shadow guild.md",
     "BeyondTheMournlords/Npc's/enemies/Lazlo.md",
-    "BeyondTheMournlords/Sessions/2024/2024-04-29.md",
     "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
     "BeyondTheMournlords/Locations/Continents/Mar Ceran.md",
     "BeyondTheMournlords/Sessions/2024/2024-03-16.md",
