@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32116e5477342306",
+        "id": "fd724dbd62d38315",
         "type": "tabs",
         "children": [
           {
-            "id": "d96e0e3cd0fab24e",
+            "id": "c14561ff1fe6d6a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,7 +150,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d96e0e3cd0fab24e",
+  "active": "c14561ff1fe6d6a9",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "throndir.md",
