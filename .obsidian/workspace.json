@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "abaef1b98b3f7733",
+        "id": "88e480b9be532cbb",
         "type": "tabs",
         "children": [
           {
-            "id": "cf873c00ee7b099b",
+            "id": "f92eb6b9a8cee444",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -152,11 +158,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf873c00ee7b099b",
+  "active": "f92eb6b9a8cee444",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "throndir.md",
+    "small rose.md",
+    "shadow guild.md",
+    "scalding sea.md",
+    "realm of glass shards.md",
+    "paths of ash.md",
+    "karghar.md",
+    "durveraaks.md",
+    "cinderfist.md",
+    "blue divide.md",
+    "bloodshallows.md",
+    "TyrannyOfDragons/sessions/2024-06-08.md",
+    "TheRoleplayCampaign/Sessions/2024-05-24.md",
+    "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
+    "BeyondTheMournlords/Players/Ulin.md",
     "TyrannyOfDragons/sessions/2024-04-04.md",
     "TyrannyOfDragons/Blagothkus.md",
-    "conflict-files-obsidian-git.md",
     "kassardian pirates.md",
     "bagaal.md",
     "argrathanas.md",
@@ -165,21 +186,6 @@
     "yarresh.md",
     "swallowed void.md",
     "squirming sea.md",
-    "seven tree.md",
-    "sam.md",
-    "lumitale.md",
-    "jeda oakerwinery.md",
-    "golden dragon theater.md",
-    "five hide.md",
-    "captain Karlan.md",
-    "caphalor.md",
-    "answald.md",
-    "TheRoleplayCampaign/Sessions/2024-04-03.md",
-    "Seppe/Sessions/2024-04-15.md",
-    "Padür.md",
-    "Luntalaksoosa.md",
-    "Helena Owling.md",
-    "BeyondTheMournlords/Sessions/2024/2024-04-08.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
