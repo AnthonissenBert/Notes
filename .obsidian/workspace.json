@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Helena Owling.md",
+                "file": "BeyondTheMournlords/Npc's/Markoras.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Helena Owling.md",
+                "file": "BeyondTheMournlords/Npc's/Markoras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Helena Owling.md",
+                "file": "BeyondTheMournlords/Npc's/Markoras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Helena Owling.md"
+                "file": "BeyondTheMournlords/Npc's/Markoras.md"
               }
             }
           },
@@ -171,8 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "cb4d135c43c66874",
   "lastOpenFiles": [
+    "Luntalaksoosa.md",
+    "lumitale.md",
+    "Lodge.md",
+    "Iribeth.md",
+    "BeyondTheMournlords/Npc's/Laszlo.md",
+    "BeyondTheMournlords/Families/kassardian pirates.md",
+    "BeyondTheMournlords/Families/karghar.md",
+    "TheRoleplayCampaign/Jorgu.md",
+    "TheRoleplayCampaign/jeda oakerwinery.md",
+    "illefarn.md",
+    "TheRoleplayCampaign/Helena Owling.md",
     "grey garrison.md",
     "BeyondTheMournlords/Players/Hadrian.md",
     "TheRoleplayCampaign/golden dragon theater.md",
@@ -188,17 +199,6 @@
     "caemon.md",
     "Bazül.md",
     "Bavragor.md",
-    "banurall.md",
-    "Azurov.md",
-    "captain Karlan.md",
-    "BeyondTheMournlords/Npc's/Borak.md",
-    "BeyondTheMournlords/Locations/blue divide.md",
-    "BeyondTheMournlords/Npc's/bagaal.md",
-    "BeyondTheMournlords/Deities/argrathanas.md",
-    "BeyondTheMournlords/Npc's/Answald.md",
-    "anivea.md",
-    "BeyondTheMournlords/Npc's/Ahrenlyc.md",
-    "BeyondTheMournlords/Npc's/Grimak.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
