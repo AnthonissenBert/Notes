@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d59339d2fa58845",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anivea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3e84627fffadc1ba",
             "type": "leaf",
             "state": {
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anivea.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anivea.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anivea.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-15.md"
               }
             }
           },
@@ -194,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d59339d2fa58845",
+  "active": "3e84627fffadc1ba",
   "lastOpenFiles": [
+    "anivea.md",
     "Azurov.md",
     "banurall.md",
     "Bavragor.md",
@@ -221,7 +210,6 @@
     "TheRoleplayCampaign/yarresh.md",
     "BeyondTheMournlords/Npc's/Zalgrathan.md",
     "TyrannyOfDragons/sendasil.md",
-    "BeyondTheMournlords/Locations/swallowed void.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
