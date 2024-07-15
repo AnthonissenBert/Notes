@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
+                "file": "BeyondTheMournlords/Npc's/groups/varjan vagabond.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-15.md"
               }
             }
           },
@@ -183,8 +182,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "937f33f05fe7ef0e",
+  "active": "3e84627fffadc1ba",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/groups/varjan vagabond.md",
+    "BeyondTheMournlords/Npc's/groups/Viscus.md",
+    "BeyondTheMournlords/Npc's/groups/the Winter Court.md",
+    "BeyondTheMournlords/Npc's/groups/The Spring Court.md",
+    "BeyondTheMournlords/Npc's/groups/Tanar.md",
+    "BeyondTheMournlords/Npc's/groups/Peramentum.md",
+    "BeyondTheMournlords/Npc's/groups/kasharen bretheren.md",
+    "BeyondTheMournlords/Npc's/groups/Hurdlers.md",
+    "BeyondTheMournlords/Npc's/groups/Dawnrisers.md",
+    "BeyondTheMournlords/Npc's/groups/Beyonders.md",
+    "BeyondTheMournlords/Npc's/groups/Alchemists.md",
+    "BeyondTheMournlords/Npc's/groups/Admonishers.md",
+    "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "Ferrastu.md",
     "BeyondTheMournlords/MagicalArtifacts/tiarultavar.md",
@@ -198,19 +210,6 @@
     "Bazül.md",
     "caemon.md",
     "caphalor.md",
-    "captain Karlan.md",
-    "conquest.md",
-    "craggnor.md",
-    "TyrannyOfDragons/Findar.md",
-    "TheRoleplayCampaign/grey garrison.md",
-    "illefarn.md",
-    "Lodge.md",
-    "lumitale.md",
-    "Luntalaksoosa.md",
-    "Mathilda Grey.md",
-    "mirsella.md",
-    "TheRoleplayCampaign/sam.md",
-    "BeyondTheMournlords/Npc's/seven tree.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
