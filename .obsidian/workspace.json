@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3a137cddd921bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "BeyondTheMournlords/Sessions/2024/2024-07-13.md",
                 "mode": "source",
                 "source": false
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d59339d2fa58845",
+  "active": "d3a137cddd921bd3",
   "lastOpenFiles": [
-    "Darano.md",
+    "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-13.md",
+    "Darano.md",
     "Zalgrathan.md",
     "Reyma.md",
     "Laszlo.md",
@@ -221,7 +235,6 @@
     "TheRoleplayCampaign/Sessions/2024-05-24.md",
     "TheRoleplayCampaign/Sessions/2023-12-27.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
-    "TheRoleplayCampaign/Sessions/2024-03-21.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
