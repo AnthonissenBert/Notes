@@ -11,8 +11,12 @@
             "id": "9cf706a20a824e16",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -152,6 +160,7 @@
   },
   "active": "9cf706a20a824e16",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "paths of ash.md",
     "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
     "bloodshallows.md",
@@ -166,7 +175,6 @@
     "cinderfist.md",
     "argrathanas.md",
     "BeyondTheMournlords/Players/Ulin.md",
-    "conflict-files-obsidian-git.md",
     "TyrannyOfDragons/Sessions/2024-06-08.md",
     "Ulin.md",
     "TheRoleplayCampaign/Sessions/2024-05-24.md",
