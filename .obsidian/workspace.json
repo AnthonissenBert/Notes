@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "832a348c2decc048",
+        "id": "b2eee76163d5e47e",
         "type": "tabs",
         "children": [
           {
-            "id": "3e84627fffadc1ba",
+            "id": "5bc60fb717a61181",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Locations/Silent Swamp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BeyondTheMournlords/Locations/Silent Swamp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BeyondTheMournlords/Locations/Silent Swamp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BeyondTheMournlords/Locations/Silent Swamp.md"
+              }
             }
           },
           {
@@ -151,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e84627fffadc1ba",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "xantir vang.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
     "BeyondTheMournlords/Npc's/friendlies/Vergil.md",
@@ -172,13 +180,12 @@
     "BeyondTheMournlords/MagicalArtifacts/tiarultavar.md",
     "BeyondTheMournlords/Players/Malynn.md",
     "BeyondTheMournlords/Locations/silt coast.md",
-    "Silent Swamp.md",
+    "BeyondTheMournlords/Locations/Silent Swamp.md",
     "anivea.md",
     "Azurov.md",
     "banurall.md",
     "Bavragor.md",
     "Bazül.md",
-    "caemon.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
