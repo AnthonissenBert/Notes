@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Silent swamp.md",
+                "file": "Silent Swamp.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Silent swamp.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Silent swamp.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Silent swamp.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-15.md"
               }
             }
           },
@@ -195,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44ecef33c585449d",
+  "active": "3e84627fffadc1ba",
   "lastOpenFiles": [
+    "Silent Swamp.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
-    "Silent swamp.md",
     "anivea.md",
     "Azurov.md",
     "banurall.md",
