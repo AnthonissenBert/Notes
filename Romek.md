@@ -1,1 +1,1 @@
-dwarf from [[Bas]]
+dwarf from [[Bastion]]
