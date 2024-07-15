@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Markoras.md",
+                "file": "banurall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Markoras.md",
+                "file": "banurall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/Markoras.md"
+                "file": "banurall.md"
               }
             }
           },
@@ -171,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb4d135c43c66874",
+  "active": "0d59339d2fa58845",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/Markoras.md",
     "Luntalaksoosa.md",
     "lumitale.md",
     "Lodge.md",
@@ -198,7 +198,6 @@
     "BeyondTheMournlords/Locations/bloodshallows.md",
     "caemon.md",
     "Bazül.md",
-    "Bavragor.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
