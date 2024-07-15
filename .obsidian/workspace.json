@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "1eddccf459d6b720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d12310cfd0deab49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Npc's/friendlies/Vergil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "937f33f05fe7ef0e",
             "type": "leaf",
             "state": {
@@ -184,6 +208,9 @@
   },
   "active": "3e84627fffadc1ba",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/friendlies/Vergil.md",
+    "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
+    "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "BeyondTheMournlords/Npc's/groups/varjan vagabond.md",
     "BeyondTheMournlords/Npc's/groups/Viscus.md",
     "BeyondTheMournlords/Npc's/groups/the Winter Court.md",
@@ -196,8 +223,6 @@
     "BeyondTheMournlords/Npc's/groups/Beyonders.md",
     "BeyondTheMournlords/Npc's/groups/Alchemists.md",
     "BeyondTheMournlords/Npc's/groups/Admonishers.md",
-    "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
-    "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "Ferrastu.md",
     "BeyondTheMournlords/MagicalArtifacts/tiarultavar.md",
     "BeyondTheMournlords/Players/Malynn.md",
@@ -209,7 +234,6 @@
     "Bavragor.md",
     "Bazül.md",
     "caemon.md",
-    "caphalor.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
