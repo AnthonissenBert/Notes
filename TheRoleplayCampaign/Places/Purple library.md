@@ -1,3 +1,3 @@
 got acid splash here
 
-bookcase with family tree of [[owling family]]
+bookcase with family tree of [[Owling family]]
