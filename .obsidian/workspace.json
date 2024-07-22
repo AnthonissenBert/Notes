@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Npc's/captain Karlan.md",
+                "file": "WarOfThePlanes/Npc's/xantir vang.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Npc's/captain Karlan.md",
+                "file": "WarOfThePlanes/Npc's/xantir vang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Npc's/captain Karlan.md",
+                "file": "WarOfThePlanes/Npc's/xantir vang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Npc's/captain Karlan.md"
+                "file": "WarOfThePlanes/Npc's/xantir vang.md"
               }
             }
           },
@@ -159,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7987e747fd0c9a1",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Npc's/captain Karlan.md",
+    "WarOfThePlanes/_Assets",
+    "WarOfThePlanes/Npc's",
     "TheRoleplayCampaign/Npc's/Helena Owling.md",
     "TheRoleplayCampaign/Places/jeda oakerwinery.md",
     "TheRoleplayCampaign/Npc's/Jorgu.md",
@@ -186,9 +189,8 @@
     "TheRoleplayCampaign/Npc's/Johanna Owling.md",
     "README.md",
     "conquest.md",
-    "BeyondTheMournlords/throndir.md",
-    "WarOfThePlanes/Pasted image 20240114162948.png",
-    "WarOfThePlanes/Pasted image 20240107201657.png",
+    "WarOfThePlanes/_Assets/Pasted image 20240114162948.png",
+    "WarOfThePlanes/_Assets/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
     "New Text Document.txt",
     "Untitled.canvas",
@@ -198,8 +200,6 @@
     "TheRoleplayCampaign/Deities/Untitled",
     "TheRoleplayCampaign/Players/FakeNames",
     "TyrannyOfDragons/Npcs/Monsters",
-    "TyrannyOfDragons/Locations",
-    "TyrannyOfDragons/Npcs",
     "SlingshotDnD/forsonne.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230253.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230736.png",
