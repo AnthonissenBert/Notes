@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6801967763436295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d0c57a3708e22a70",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md"
               }
             }
           },
@@ -170,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7987e747fd0c9a1",
+  "active": "6801967763436295",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Sessions/2024-07-22.md",
     "TheRoleplayCampaign/Sessions/2023-07-31.md",
     "TheRoleplayCampaign/Npc's/owling family.md",
     "conquest.md",
@@ -183,7 +197,6 @@
     "Bavragor.md",
     "BeyondTheMournlords/banurall.md",
     "anivea.md",
-    "TheRoleplayCampaign/Sessions/2024-07-22.md",
     "TheRoleplayCampaign/Azurov.md",
     "BeyondTheMournlords/Sessions/2021/2021-06-05.md",
     "BeyondTheMournlords/Npc's/factions/maritor.md",
