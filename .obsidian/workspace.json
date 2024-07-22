@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alexander Owling.md",
+                "file": "TheRoleplayCampaign/Npc's/yarresh.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pyeter Owling.md",
+                "file": "TheRoleplayCampaign/Npc's/Pyeter Owling.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alexander Owling.md",
+                "file": "TheRoleplayCampaign/Npc's/Alexander Owling.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alexander Owling.md",
+                "file": "TheRoleplayCampaign/Npc's/yarresh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alexander Owling.md",
+                "file": "TheRoleplayCampaign/Npc's/yarresh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alexander Owling.md"
+                "file": "TheRoleplayCampaign/Npc's/yarresh.md"
               }
             }
           },
@@ -182,13 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7987e747fd0c9a1",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Places/Azurov.md",
+    "TheRoleplayCampaign/sam.md",
+    "TheRoleplayCampaign/Npc's/Alexander Owling.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
-    "Pyeter Owling.md",
-    "Alexander Owling.md",
-    "Jeanus Owling.md",
-    "Johanna Owling.md",
+    "TheRoleplayCampaign/Npc's/Pyeter Owling.md",
+    "TheRoleplayCampaign/Npc's/Jeanus Owling.md",
+    "TheRoleplayCampaign/Npc's/Johanna Owling.md",
     "README.md",
     "conquest.md",
     "BeyondTheMournlords/throndir.md",
@@ -208,8 +210,6 @@
     "TyrannyOfDragons/craggnor.md",
     "TheRoleplayCampaign/captain Karlan.md",
     "TyrannyOfDragons/caemon.md",
-    "Seppe/Bavragor.md",
-    "Seppe/Sessions/2024-04-15.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
