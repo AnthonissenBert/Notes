@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/the golden tankard.md",
+                "file": "TyrannyOfDragons/Trolls.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/the golden tankard.md",
+                "file": "TyrannyOfDragons/Trolls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/the golden tankard.md",
+                "file": "TyrannyOfDragons/Trolls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/the golden tankard.md"
+                "file": "TyrannyOfDragons/Trolls.md"
               }
             }
           },
@@ -161,13 +161,16 @@
   },
   "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
+    "TyrannyOfDragons/Npcs/Trephon.md",
+    "TyrannyOfDragons/Npcs/Tiamat.md",
+    "TyrannyOfDragons/Plot.md",
+    "TyrannyOfDragons/Locations/the golden tankard.md",
     "TyrannyOfDragons/Npcs/Thalis.md",
     "TyrannyOfDragons/Locations/Skyreach.md",
     "TyrannyOfDragons/Npcs/Severin the red.md",
     "TyrannyOfDragons/Npcs/sendasil.md",
     "TyrannyOfDragons/Npcs/Resmir the black.md",
     "TyrannyOfDragons/Npcs/Red wizard of They.md",
-    "TyrannyOfDragons/Plot.md",
     "TyrannyOfDragons/RED SUN.md",
     "TyrannyOfDragons/Locations/Parnast.md",
     "TyrannyOfDragons/Npcs/Narronveign the green.md",
@@ -185,11 +188,8 @@
     "TyrannyOfDragons/Npcs/Baphometh.md",
     "TyrannyOfDragons/voaraghamanthar.md",
     "TyrannyOfDragons/wiglof.md",
-    "WarOfThePlanes/Npc's/xantir vang.md",
-    "TheRoleplayCampaign/Npc's/captain Karlan.md",
     "WarOfThePlanes/_Assets",
     "WarOfThePlanes/Npc's",
-    "TheRoleplayCampaign/Npc's/Helena Owling.md",
     "WarOfThePlanes/_Assets/Pasted image 20240114162948.png",
     "WarOfThePlanes/_Assets/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
