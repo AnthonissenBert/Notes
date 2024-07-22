@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/caemon.md",
+                "file": "TyrannyOfDragons/Lodge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/caemon.md",
+                "file": "TyrannyOfDragons/Lodge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/caemon.md",
+                "file": "TyrannyOfDragons/Lodge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/caemon.md"
+                "file": "TyrannyOfDragons/Lodge.md"
               }
             }
           },
@@ -161,6 +161,14 @@
   },
   "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
+    "TyrannyOfDragons/Npcs/Lenethon.md",
+    "TyrannyOfDragons/MagicalArtifacts/illefarn.md",
+    "TyrannyOfDragons/Npcs/Galvan the blue.md",
+    "TyrannyOfDragons/Npcs/Findar.md",
+    "TyrannyOfDragons/MagicalArtifacts/Draezir.md",
+    "TyrannyOfDragons/MagicalArtifacts",
+    "TyrannyOfDragons/Npcs/craggnor.md",
+    "TyrannyOfDragons/Npcs/caemon.md",
     "TyrannyOfDragons/Npcs/Blagothkus.md",
     "TyrannyOfDragons/Npcs/Baphometh.md",
     "TyrannyOfDragons/voaraghamanthar.md",
@@ -182,13 +190,6 @@
     "TheRoleplayCampaign/Players/FakeNames/Ruben.md",
     "TheRoleplayCampaign/Players/FakeNames/Varlaam.md",
     "SlingshotDnD/Npc's/Neutrals/Pamela Toll.md",
-    "TyrannyOfDragons/Sessions/2024-01-14.md",
-    "TheRoleplayCampaign/Sessions/2024-07-22.md",
-    "test.md",
-    "TheRoleplayCampaign/Sessions/2024-05-24.md",
-    "TheRoleplayCampaign/Npc's/yarresh.md",
-    "TheRoleplayCampaign/Places/Azurov.md",
-    "TheRoleplayCampaign/Npc's/Alexander Owling.md",
     "WarOfThePlanes/_Assets/Pasted image 20240114162948.png",
     "WarOfThePlanes/_Assets/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
@@ -199,7 +200,6 @@
     "WarOfThePlanes",
     "TheRoleplayCampaign/Deities/Untitled",
     "TheRoleplayCampaign/Players/FakeNames",
-    "TyrannyOfDragons/Npcs/Monsters",
     "SlingshotDnD/forsonne.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230253.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230736.png",
