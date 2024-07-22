@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/mirsella.md",
+                "file": "TyrannyOfDragons/the golden tankard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/mirsella.md",
+                "file": "TyrannyOfDragons/the golden tankard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/mirsella.md",
+                "file": "TyrannyOfDragons/the golden tankard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/mirsella.md"
+                "file": "TyrannyOfDragons/the golden tankard.md"
               }
             }
           },
@@ -161,6 +161,17 @@
   },
   "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
+    "TyrannyOfDragons/Npcs/Thalis.md",
+    "TyrannyOfDragons/Locations/Skyreach.md",
+    "TyrannyOfDragons/Npcs/Severin the red.md",
+    "TyrannyOfDragons/Npcs/sendasil.md",
+    "TyrannyOfDragons/Npcs/Resmir the black.md",
+    "TyrannyOfDragons/Npcs/Red wizard of They.md",
+    "TyrannyOfDragons/Plot.md",
+    "TyrannyOfDragons/RED SUN.md",
+    "TyrannyOfDragons/Locations/Parnast.md",
+    "TyrannyOfDragons/Npcs/Narronveign the green.md",
+    "TyrannyOfDragons/Npcs/mirsella.md",
     "TyrannyOfDragons/Locations/Lodge.md",
     "TyrannyOfDragons/Npcs/Lenethon.md",
     "TyrannyOfDragons/MagicalArtifacts/illefarn.md",
@@ -179,17 +190,6 @@
     "WarOfThePlanes/_Assets",
     "WarOfThePlanes/Npc's",
     "TheRoleplayCampaign/Npc's/Helena Owling.md",
-    "TheRoleplayCampaign/Places/jeda oakerwinery.md",
-    "TheRoleplayCampaign/Npc's/Jorgu.md",
-    "TheRoleplayCampaign/Places/lumitale.md",
-    "TheRoleplayCampaign/Sessions/2024-04-03.md",
-    "TheRoleplayCampaign/Places/Luntalaksoosa.md",
-    "TheRoleplayCampaign/Npc's/Padür.md",
-    "TheRoleplayCampaign/Npc's/sam.md",
-    "TheRoleplayCampaign/Places/small rose.md",
-    "TheRoleplayCampaign/Players/FakeNames/Endor.md",
-    "TheRoleplayCampaign/Players/FakeNames/Ruben.md",
-    "TheRoleplayCampaign/Players/FakeNames/Varlaam.md",
     "WarOfThePlanes/_Assets/Pasted image 20240114162948.png",
     "WarOfThePlanes/_Assets/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
