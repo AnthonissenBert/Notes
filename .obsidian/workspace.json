@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "conquest.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bits and bobs.md",
+                "file": "TheRoleplayCampaign/bits and bobs.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "conquest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "conquest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md"
+                "file": "conquest.md"
               }
             }
           },
@@ -170,11 +170,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
-    "bits and bobs.md",
-    "TheRoleplayCampaign/Azurov.md",
+    "craggnor.md",
+    "conquest.md",
+    "captain Karlan.md",
+    "caphalor.md",
+    "TheRoleplayCampaign/bits and bobs.md",
+    "BeyondTheMournlords/Bazül.md",
+    "Bavragor.md",
+    "BeyondTheMournlords/banurall.md",
+    "anivea.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
+    "TheRoleplayCampaign/Azurov.md",
     "BeyondTheMournlords/Sessions/2021/2021-06-05.md",
     "BeyondTheMournlords/Npc's/factions/maritor.md",
     "BeyondTheMournlords/Npc's/enemies/Relafurego.md",
@@ -190,14 +198,6 @@
     "BeyondTheMournlords/Npc's/groups/Viscus.md",
     "BeyondTheMournlords/Npc's/groups/the Winter Court.md",
     "BeyondTheMournlords/Npc's/groups/The Spring Court.md",
-    "BeyondTheMournlords/Npc's/groups/Tanar.md",
-    "BeyondTheMournlords/Npc's/groups/Peramentum.md",
-    "BeyondTheMournlords/Npc's/groups/kasharen bretheren.md",
-    "BeyondTheMournlords/Npc's/groups/Hurdlers.md",
-    "BeyondTheMournlords/Npc's/groups/Dawnrisers.md",
-    "BeyondTheMournlords/Npc's/groups/Beyonders.md",
-    "BeyondTheMournlords/Npc's/groups/Alchemists.md",
-    "BeyondTheMournlords/Npc's/groups/Admonishers.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
