@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/Sessions/2024-02-25.md",
+                "file": "mirsella.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/Sessions/2024-02-25.md",
+                "file": "mirsella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/Sessions/2024-02-25.md",
+                "file": "mirsella.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/Sessions/2024-02-25.md"
+                "file": "mirsella.md"
               }
             }
           },
@@ -198,17 +198,23 @@
   },
   "active": "55e82b1f888eabf3",
   "lastOpenFiles": [
-    "craggnor.md",
     "conquest.md",
+    "TheRoleplayCampaign/lumitale.md",
     "TheRoleplayCampaign/Sessions/2024-04-03.md",
+    "TyrannyOfDragons/Lodge.md",
+    "TyrannyOfDragons/Sessions/2024-01-14.md",
+    "WarOfThePlanes/Iribeth.md",
+    "WarOfThePlanes/Sessions/2024-01-07.md",
+    "TyrannyOfDragons/illefarn.md",
+    "TyrannyOfDragons/Sessions/2024-02-25.md",
+    "BeyondTheMournlords/Ferrastu.md",
+    "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
+    "TyrannyOfDragons/craggnor.md",
     "TheRoleplayCampaign/captain Karlan.md",
     "TyrannyOfDragons/caemon.md",
-    "TyrannyOfDragons/Sessions/2024-02-25.md",
     "Seppe/Bavragor.md",
     "Seppe/Sessions/2024-04-15.md",
     "Seppe/caphalor.md",
-    "WarOfThePlanes/Sessions/2024-01-07.md",
-    "Iribeth.md",
     "TheRoleplayCampaign/Sessions/2024-01-15.md",
     "TheRoleplayCampaign/Mathilda Grey.md",
     "TheRoleplayCampaign/Helena Owling.md",
@@ -218,12 +224,6 @@
     "README.md",
     "Padür.md",
     "TheRoleplayCampaign/Npc's/orlan the magisrate.md",
-    "mirsella.md",
-    "TheRoleplayCampaign/Luntalaksoosa.md",
-    "lumitale.md",
-    "TheRoleplayCampaign/Npc's/herald the lion.md",
-    "Ferrastu.md",
-    "TheRoleplayCampaign/Npc's/hasior.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
