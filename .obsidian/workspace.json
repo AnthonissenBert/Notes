@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/Synopsis.md",
+                "file": "Seppe/slave port.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/Synopsis.md",
+                "file": "Seppe/slave port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/Synopsis.md",
+                "file": "Seppe/slave port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/Synopsis.md"
+                "file": "Seppe/slave port.md"
               }
             }
           },
@@ -158,8 +158,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f8a5819fd389d9e",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "Seppe/Locations",
+    "Seppe/MagicalArtifacts/orb of endless power.md",
+    "Seppe/Npc's/Mia.md",
+    "Seppe/Npc's/Linn.md",
+    "Seppe/Npc's/Garreth.md",
+    "Seppe/Npc's/Father Finly.md",
+    "Seppe/Npc's/Eltia.md",
+    "Seppe/Npc's/derinil 1.md",
+    "Seppe/Npc's/caphalor.md",
+    "Seppe/MagicalArtifacts/brazier of worlds.md",
+    "Seppe/MagicalArtifacts",
+    "Seppe/Npc's/Bavragor.md",
+    "TyrannyOfDragons/Synopsis.md",
     "BeyondTheMournlords/Synopsis.md",
     "BeyondTheMournlords/Families/throndir.md",
     "BeyondTheMournlords/Npc's/Ferrastu.md",
@@ -168,7 +181,6 @@
     "SlingshotDnD/_Assets/forsonne.png",
     "SlingshotDnD/Locations/Old Town.md",
     "SlingshotDnD/Locations/Clearplace.md",
-    "TyrannyOfDragons/Synopsis.md",
     "TyrannyOfDragons/Monsters/Trolls.md",
     "TyrannyOfDragons/Monsters",
     "TyrannyOfDragons/Npcs/Vharam the white.md",
@@ -177,17 +189,6 @@
     "TyrannyOfDragons/Npcs/Trephon.md",
     "TyrannyOfDragons/Npcs/Tiamat.md",
     "TyrannyOfDragons/Locations/the golden tankard.md",
-    "TyrannyOfDragons/Npcs/Thalis.md",
-    "TyrannyOfDragons/Locations/Skyreach.md",
-    "TyrannyOfDragons/Npcs/Severin the red.md",
-    "TyrannyOfDragons/Npcs/sendasil.md",
-    "TyrannyOfDragons/Npcs/Resmir the black.md",
-    "TyrannyOfDragons/Npcs/Red wizard of They.md",
-    "TyrannyOfDragons/RED SUN.md",
-    "TyrannyOfDragons/Locations/Parnast.md",
-    "TyrannyOfDragons/Npcs/Narronveign the green.md",
-    "TyrannyOfDragons/Npcs/mirsella.md",
-    "TyrannyOfDragons/Locations/Lodge.md",
     "TyrannyOfDragons/MagicalArtifacts",
     "WarOfThePlanes/_Assets",
     "WarOfThePlanes/Npc's",
@@ -199,7 +200,6 @@
     "WarOfThePlanes/Sessions",
     "WarOfThePlanes/Players",
     "WarOfThePlanes",
-    "TheRoleplayCampaign/Deities/Untitled",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230253.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230736.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
