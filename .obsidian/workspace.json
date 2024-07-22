@@ -11,8 +11,12 @@
             "id": "6f8a5819fd389d9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TyrannyOfDragons/Synopsis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TyrannyOfDragons/Synopsis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TyrannyOfDragons/Synopsis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TyrannyOfDragons/Synopsis.md"
+              }
             }
           },
           {
@@ -152,10 +160,15 @@
   },
   "active": "6f8a5819fd389d9e",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Synopsis.md",
+    "BeyondTheMournlords/Families/throndir.md",
+    "BeyondTheMournlords/Npc's/Ferrastu.md",
+    "BeyondTheMournlords/Npc's/Bazül.md",
+    "BeyondTheMournlords/Locations/banurall.md",
     "SlingshotDnD/_Assets/forsonne.png",
     "SlingshotDnD/Locations/Old Town.md",
     "SlingshotDnD/Locations/Clearplace.md",
-    "TyrannyOfDragons/Plot.md",
+    "TyrannyOfDragons/Synopsis.md",
     "TyrannyOfDragons/Monsters/Trolls.md",
     "TyrannyOfDragons/Monsters",
     "TyrannyOfDragons/Npcs/Vharam the white.md",
@@ -175,10 +188,6 @@
     "TyrannyOfDragons/Npcs/Narronveign the green.md",
     "TyrannyOfDragons/Npcs/mirsella.md",
     "TyrannyOfDragons/Locations/Lodge.md",
-    "TyrannyOfDragons/Npcs/Lenethon.md",
-    "TyrannyOfDragons/MagicalArtifacts/illefarn.md",
-    "TyrannyOfDragons/Npcs/Galvan the blue.md",
-    "TyrannyOfDragons/Npcs/Findar.md",
     "TyrannyOfDragons/MagicalArtifacts",
     "WarOfThePlanes/_Assets",
     "WarOfThePlanes/Npc's",
