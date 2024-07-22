@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bits and bobs.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bits and bobs.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bits and bobs.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md"
               }
             }
           },
@@ -171,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecd05cf8befe9daf",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
-    "Azurov.md",
     "bits and bobs.md",
+    "TheRoleplayCampaign/Azurov.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
     "BeyondTheMournlords/Sessions/2021/2021-06-05.md",
     "BeyondTheMournlords/Npc's/factions/maritor.md",
