@@ -11,8 +11,12 @@
             "id": "e7987e747fd0c9a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TheRoleplayCampaign/Sessions/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maritor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TheRoleplayCampaign/Sessions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TheRoleplayCampaign/Sessions/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TheRoleplayCampaign/Sessions/Untitled.md"
+              }
             }
           },
           {
@@ -153,6 +160,7 @@
   },
   "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Sessions/Untitled.md",
     "BeyondTheMournlords/Sessions/2021/2021-06-05.md",
     "BeyondTheMournlords/Npc's/factions/maritor.md",
     "BeyondTheMournlords/Npc's/enemies/Relafurego.md",
@@ -178,7 +186,6 @@
     "BeyondTheMournlords/Npc's/groups/Admonishers.md",
     "Ferrastu.md",
     "BeyondTheMournlords/MagicalArtifacts/tiarultavar.md",
-    "BeyondTheMournlords/Players/Malynn.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
