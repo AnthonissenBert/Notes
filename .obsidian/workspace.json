@@ -11,12 +11,8 @@
             "id": "e7987e747fd0c9a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TheRoleplayCampaign/Npc's/yarresh.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Npc's/yarresh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Npc's/yarresh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TheRoleplayCampaign/Npc's/yarresh.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,12 +174,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Sessions/2024-07-22.md",
+    "test.md",
+    "TheRoleplayCampaign/Sessions/2024-05-24.md",
+    "TheRoleplayCampaign/Npc's/yarresh.md",
     "TheRoleplayCampaign/Places/Azurov.md",
     "TheRoleplayCampaign/sam.md",
     "TheRoleplayCampaign/Npc's/Alexander Owling.md",
-    "TheRoleplayCampaign/Sessions/2024-07-22.md",
     "TheRoleplayCampaign/Npc's/Pyeter Owling.md",
     "TheRoleplayCampaign/Npc's/Jeanus Owling.md",
     "TheRoleplayCampaign/Npc's/Johanna Owling.md",
@@ -207,9 +202,6 @@
     "TyrannyOfDragons/illefarn.md",
     "BeyondTheMournlords/Ferrastu.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
-    "TyrannyOfDragons/craggnor.md",
-    "TheRoleplayCampaign/captain Karlan.md",
-    "TyrannyOfDragons/caemon.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
