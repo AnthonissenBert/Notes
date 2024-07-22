@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/Trolls.md",
+                "file": "SlingshotDnD/Locations/Old Town.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/Trolls.md",
+                "file": "SlingshotDnD/Locations/Old Town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/Trolls.md",
+                "file": "SlingshotDnD/Locations/Old Town.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/Trolls.md"
+                "file": "SlingshotDnD/Locations/Old Town.md"
               }
             }
           },
@@ -159,11 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7987e747fd0c9a1",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "SlingshotDnD/Locations/Clearplace.md",
+    "TyrannyOfDragons/Plot.md",
+    "TyrannyOfDragons/Monsters/Trolls.md",
+    "TyrannyOfDragons/Monsters",
+    "TyrannyOfDragons/Npcs/Vharam the white.md",
+    "TyrannyOfDragons/Npcs/wiglof.md",
+    "TyrannyOfDragons/Npcs/voaraghamanthar.md",
     "TyrannyOfDragons/Npcs/Trephon.md",
     "TyrannyOfDragons/Npcs/Tiamat.md",
-    "TyrannyOfDragons/Plot.md",
     "TyrannyOfDragons/Locations/the golden tankard.md",
     "TyrannyOfDragons/Npcs/Thalis.md",
     "TyrannyOfDragons/Locations/Skyreach.md",
@@ -183,11 +189,6 @@
     "TyrannyOfDragons/MagicalArtifacts/Draezir.md",
     "TyrannyOfDragons/MagicalArtifacts",
     "TyrannyOfDragons/Npcs/craggnor.md",
-    "TyrannyOfDragons/Npcs/caemon.md",
-    "TyrannyOfDragons/Npcs/Blagothkus.md",
-    "TyrannyOfDragons/Npcs/Baphometh.md",
-    "TyrannyOfDragons/voaraghamanthar.md",
-    "TyrannyOfDragons/wiglof.md",
     "WarOfThePlanes/_Assets",
     "WarOfThePlanes/Npc's",
     "WarOfThePlanes/_Assets/Pasted image 20240114162948.png",
@@ -199,7 +200,6 @@
     "WarOfThePlanes/Players",
     "WarOfThePlanes",
     "TheRoleplayCampaign/Deities/Untitled",
-    "TheRoleplayCampaign/Players/FakeNames",
     "SlingshotDnD/forsonne.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230253.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230736.png",
