@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d71c3ea406d36b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hasior.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f165563ac0c0ecb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01463f223a3376eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "valeria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "hasior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "hasior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md"
+                "file": "hasior.md"
               }
             }
           },
@@ -159,10 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7987e747fd0c9a1",
+  "active": "2d71c3ea406d36b4",
   "lastOpenFiles": [
-    "orlan the magisrate.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
+    "hasior.md",
+    "anna.md",
+    "valeria.md",
+    "orlan the magisrate.md",
     "riana.md",
     "herald the lion.md",
     "alvira.md",
@@ -184,9 +224,6 @@
     "BeyondTheMournlords/Sessions/2021/2021-06-05.md",
     "BeyondTheMournlords/Npc's/factions/maritor.md",
     "BeyondTheMournlords/Npc's/enemies/Relafurego.md",
-    "BeyondTheMournlords/Npc's/neutrals/Topiary Sentinels.md",
-    "BeyondTheMournlords/Npc's/neutrals/accersaquanda.md",
-    "BeyondTheMournlords/Npc's/neutrals/Solery.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
