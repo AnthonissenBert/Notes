@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecd05cf8befe9daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bits and bobs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "bits and bobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "bits and bobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md"
+                "file": "bits and bobs.md"
               }
             }
           },
@@ -158,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7987e747fd0c9a1",
+  "active": "ecd05cf8befe9daf",
   "lastOpenFiles": [
+    "Azurov.md",
+    "bits and bobs.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
     "BeyondTheMournlords/Sessions/2021/2021-06-05.md",
     "BeyondTheMournlords/Npc's/factions/maritor.md",
@@ -184,8 +199,6 @@
     "BeyondTheMournlords/Npc's/groups/Beyonders.md",
     "BeyondTheMournlords/Npc's/groups/Alchemists.md",
     "BeyondTheMournlords/Npc's/groups/Admonishers.md",
-    "Ferrastu.md",
-    "BeyondTheMournlords/MagicalArtifacts/tiarultavar.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
