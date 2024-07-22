@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-07-31.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-07-31.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-07-31.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2023-07-31.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md"
               }
             }
           },
@@ -170,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Npc's/owling family.md",
     "TheRoleplayCampaign/Sessions/2023-07-31.md",
+    "TheRoleplayCampaign/Npc's/owling family.md",
     "conquest.md",
     "craggnor.md",
     "captain Karlan.md",
