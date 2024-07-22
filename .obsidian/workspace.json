@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "c4a9ead1692e7c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "orlan the magisrate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe767bc1a4661c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wallace hammerton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "54c61d4d59912cfe",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "orlan the magisrate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "orlan the magisrate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md"
+                "file": "orlan the magisrate.md"
               }
             }
           },
@@ -195,10 +220,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7987e747fd0c9a1",
+  "active": "c4a9ead1692e7c6a",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Npc's/Owling family.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
+    "orlan the magisrate.md",
+    "wallace hammerton.md",
+    "TheRoleplayCampaign/Npc's/Owling family.md",
     "TheRoleplayCampaign/Sessions/2024-05-24.md",
     "TheRoleplayCampaign/Sessions/2023-07-31.md",
     "conquest.md",
@@ -221,8 +248,6 @@
     "xantir vang.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
-    "BeyondTheMournlords/Npc's/friendlies/Vergil.md",
-    "BeyondTheMournlords/Npc's/groups/varjan vagabond.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
