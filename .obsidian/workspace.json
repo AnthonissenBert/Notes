@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jeanus Owling.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jeanus Owling.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jeanus Owling.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md"
               }
             }
           },
@@ -183,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1fb86f4a5831559",
+  "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
-    "TheRoleplayCampaign/Sessions/2024-07-22.md",
     "Jeanus Owling.md",
+    "TheRoleplayCampaign/Sessions/2024-07-22.md",
     "Johanna Owling.md",
     "README.md",
     "conquest.md",
