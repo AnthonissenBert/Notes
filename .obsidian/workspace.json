@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "1f1c0cc636797a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "riana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71aff25781be58f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "herald the lion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c4a9ead1692e7c6a",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "orlan the magisrate.md",
+                "file": "herald the lion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "orlan the magisrate.md",
+                "file": "herald the lion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "orlan the magisrate.md"
+                "file": "herald the lion.md"
               }
             }
           },
@@ -220,11 +244,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4a9ead1692e7c6a",
+  "active": "71aff25781be58f4",
   "lastOpenFiles": [
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
-    "orlan the magisrate.md",
+    "riana.md",
+    "alvira.md",
+    "herald the lion.md",
     "wallace hammerton.md",
+    "Citadel Knights.md",
+    "orlan the magisrate.md",
     "TheRoleplayCampaign/Npc's/Owling family.md",
     "TheRoleplayCampaign/Sessions/2024-05-24.md",
     "TheRoleplayCampaign/Sessions/2023-07-31.md",
@@ -244,10 +272,6 @@
     "BeyondTheMournlords/Npc's/neutrals/Topiary Sentinels.md",
     "BeyondTheMournlords/Npc's/neutrals/accersaquanda.md",
     "BeyondTheMournlords/Npc's/neutrals/Solery.md",
-    "BeyondTheMournlords/Locations/Silent Swamp.md",
-    "xantir vang.md",
-    "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
-    "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
