@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "valeria.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "valeria.md",
+                "file": "TheRoleplayCampaign/Npc's/valeria.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "valeria.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "valeria.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "valeria.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md"
               }
             }
           },
@@ -171,10 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
-    "Mathilda Grey.md",
+    "TheRoleplayCampaign/Npc's/valeria.md",
+    "throndir.md",
+    "README.md",
+    "Padür.md",
+    "TheRoleplayCampaign/Npc's/orlan the magisrate.md",
     "mirsella.md",
+    "Mathilda Grey.md",
     "Luntalaksoosa.md",
     "lumitale.md",
     "TheRoleplayCampaign/Npc's/herald the lion.md",
@@ -189,16 +193,11 @@
     "Bavragor.md",
     "TheRoleplayCampaign/Npc's/anna.md",
     "TheRoleplayCampaign/Npc's/alvira.md",
-    "wallace hammerton.md",
-    "valeria.md",
-    "throndir.md",
+    "TheRoleplayCampaign/Npc's/wallace hammerton.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
-    "orlan the magisrate.md",
     "TheRoleplayCampaign/Npc's/riana.md",
     "TheRoleplayCampaign/Npc's/Owling family.md",
     "TheRoleplayCampaign/Sessions/2024-05-24.md",
-    "TheRoleplayCampaign/Sessions/2023-07-31.md",
-    "TheRoleplayCampaign/bits and bobs.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
