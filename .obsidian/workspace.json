@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TyrannyOfDragons/Lodge.md",
+                "file": "TyrannyOfDragons/mirsella.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TyrannyOfDragons/Lodge.md",
+                "file": "TyrannyOfDragons/mirsella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TyrannyOfDragons/Lodge.md",
+                "file": "TyrannyOfDragons/mirsella.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TyrannyOfDragons/Lodge.md"
+                "file": "TyrannyOfDragons/mirsella.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
+    "TyrannyOfDragons/Locations/Lodge.md",
     "TyrannyOfDragons/Npcs/Lenethon.md",
     "TyrannyOfDragons/MagicalArtifacts/illefarn.md",
     "TyrannyOfDragons/Npcs/Galvan the blue.md",
@@ -189,7 +190,6 @@
     "TheRoleplayCampaign/Players/FakeNames/Endor.md",
     "TheRoleplayCampaign/Players/FakeNames/Ruben.md",
     "TheRoleplayCampaign/Players/FakeNames/Varlaam.md",
-    "SlingshotDnD/Npc's/Neutrals/Pamela Toll.md",
     "WarOfThePlanes/_Assets/Pasted image 20240114162948.png",
     "WarOfThePlanes/_Assets/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
