@@ -11,12 +11,8 @@
             "id": "6f8a5819fd389d9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seppe/slave port.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seppe/slave port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seppe/slave port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Seppe/slave port.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,8 +150,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "6f8a5819fd389d9e",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Players/FakeNames/Varlaam.md",
+    "Seppe/Synopsis.md",
+    "Seppe/MagicalArtifacts/whip of binding.md",
+    "Seppe/Locations/the secret elven hideout.md",
+    "Seppe/Npc's/The Ambassador.md",
+    "Seppe/Npc's/Sundra.md",
+    "Seppe/Locations/slave port.md",
     "Seppe/Locations",
     "Seppe/MagicalArtifacts/orb of endless power.md",
     "Seppe/Npc's/Mia.md",
@@ -183,12 +182,6 @@
     "SlingshotDnD/Locations/Clearplace.md",
     "TyrannyOfDragons/Monsters/Trolls.md",
     "TyrannyOfDragons/Monsters",
-    "TyrannyOfDragons/Npcs/Vharam the white.md",
-    "TyrannyOfDragons/Npcs/wiglof.md",
-    "TyrannyOfDragons/Npcs/voaraghamanthar.md",
-    "TyrannyOfDragons/Npcs/Trephon.md",
-    "TyrannyOfDragons/Npcs/Tiamat.md",
-    "TyrannyOfDragons/Locations/the golden tankard.md",
     "TyrannyOfDragons/MagicalArtifacts",
     "WarOfThePlanes/_Assets",
     "WarOfThePlanes/Npc's",
@@ -199,7 +192,6 @@
     "Untitled.canvas",
     "WarOfThePlanes/Sessions",
     "WarOfThePlanes/Players",
-    "WarOfThePlanes",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230253.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230736.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
