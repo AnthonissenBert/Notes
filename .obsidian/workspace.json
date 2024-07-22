@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WarOfThePlanes/Npc's/xantir vang.md",
+                "file": "TyrannyOfDragons/caemon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WarOfThePlanes/Npc's/xantir vang.md",
+                "file": "TyrannyOfDragons/caemon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WarOfThePlanes/Npc's/xantir vang.md",
+                "file": "TyrannyOfDragons/caemon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WarOfThePlanes/Npc's/xantir vang.md"
+                "file": "TyrannyOfDragons/caemon.md"
               }
             }
           },
@@ -159,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
+    "TyrannyOfDragons/Npcs/Blagothkus.md",
+    "TyrannyOfDragons/Npcs/Baphometh.md",
+    "TyrannyOfDragons/voaraghamanthar.md",
+    "TyrannyOfDragons/wiglof.md",
+    "WarOfThePlanes/Npc's/xantir vang.md",
     "TheRoleplayCampaign/Npc's/captain Karlan.md",
     "WarOfThePlanes/_Assets",
     "WarOfThePlanes/Npc's",
@@ -184,11 +189,6 @@
     "TheRoleplayCampaign/Npc's/yarresh.md",
     "TheRoleplayCampaign/Places/Azurov.md",
     "TheRoleplayCampaign/Npc's/Alexander Owling.md",
-    "TheRoleplayCampaign/Npc's/Pyeter Owling.md",
-    "TheRoleplayCampaign/Npc's/Jeanus Owling.md",
-    "TheRoleplayCampaign/Npc's/Johanna Owling.md",
-    "README.md",
-    "conquest.md",
     "WarOfThePlanes/_Assets/Pasted image 20240114162948.png",
     "WarOfThePlanes/_Assets/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
