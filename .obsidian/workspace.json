@@ -13,43 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d71c3ea406d36b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hasior.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f165563ac0c0ecb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01463f223a3376eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "valeria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "251b758f5a208391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "craggnor.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hasior.md",
+                "file": "craggnor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hasior.md",
+                "file": "craggnor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hasior.md"
+                "file": "craggnor.md"
               }
             }
           },
@@ -196,34 +171,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d71c3ea406d36b4",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "conquest.md",
+    "TheRoleplayCampaign/Factions/Citadel Knights.md",
+    "captain Karlan.md",
+    "caphalor.md",
+    "caemon.md",
+    "Bavragor.md",
+    "TheRoleplayCampaign/Npc's/anna.md",
+    "TheRoleplayCampaign/Npc's/alvira.md",
+    "wallace hammerton.md",
+    "valeria.md",
+    "throndir.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
     "hasior.md",
-    "anna.md",
-    "valeria.md",
     "orlan the magisrate.md",
     "riana.md",
     "herald the lion.md",
-    "alvira.md",
-    "wallace hammerton.md",
-    "Citadel Knights.md",
     "TheRoleplayCampaign/Npc's/Owling family.md",
     "TheRoleplayCampaign/Sessions/2024-05-24.md",
     "TheRoleplayCampaign/Sessions/2023-07-31.md",
-    "conquest.md",
     "craggnor.md",
-    "captain Karlan.md",
-    "caphalor.md",
     "TheRoleplayCampaign/bits and bobs.md",
     "BeyondTheMournlords/Bazül.md",
-    "Bavragor.md",
     "BeyondTheMournlords/banurall.md",
     "anivea.md",
     "TheRoleplayCampaign/Azurov.md",
     "BeyondTheMournlords/Sessions/2021/2021-06-05.md",
-    "BeyondTheMournlords/Npc's/factions/maritor.md",
-    "BeyondTheMournlords/Npc's/enemies/Relafurego.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
