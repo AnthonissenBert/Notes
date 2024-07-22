@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ecd05cf8befe9daf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TheRoleplayCampaign/bits and bobs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Npc's/owling family.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-07-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Npc's/owling family.md",
+                "file": "TheRoleplayCampaign/Sessions/2023-07-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Npc's/owling family.md"
+                "file": "TheRoleplayCampaign/Sessions/2023-07-31.md"
               }
             }
           },
@@ -184,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0c57a3708e22a70",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Npc's/owling family.md",
     "TheRoleplayCampaign/Sessions/2023-07-31.md",
     "conquest.md",
     "craggnor.md",
@@ -211,7 +198,6 @@
     "BeyondTheMournlords/Npc's/friendlies/Vergil.md",
     "BeyondTheMournlords/Npc's/groups/varjan vagabond.md",
     "BeyondTheMournlords/Npc's/groups/Viscus.md",
-    "BeyondTheMournlords/Npc's/groups/the Winter Court.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
