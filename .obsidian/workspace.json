@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c1555dc95ab01355",
+        "id": "cba880380ad5c690",
         "type": "tabs",
         "children": [
           {
-            "id": "e7987e747fd0c9a1",
+            "id": "6f8a5819fd389d9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SlingshotDnD/Locations/Old Town.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SlingshotDnD/Locations/Old Town.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SlingshotDnD/Locations/Old Town.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SlingshotDnD/Locations/Old Town.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,8 +150,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "6f8a5819fd389d9e",
   "lastOpenFiles": [
+    "SlingshotDnD/_Assets/forsonne.png",
+    "SlingshotDnD/Locations/Old Town.md",
     "SlingshotDnD/Locations/Clearplace.md",
     "TyrannyOfDragons/Plot.md",
     "TyrannyOfDragons/Monsters/Trolls.md",
@@ -186,9 +179,7 @@
     "TyrannyOfDragons/MagicalArtifacts/illefarn.md",
     "TyrannyOfDragons/Npcs/Galvan the blue.md",
     "TyrannyOfDragons/Npcs/Findar.md",
-    "TyrannyOfDragons/MagicalArtifacts/Draezir.md",
     "TyrannyOfDragons/MagicalArtifacts",
-    "TyrannyOfDragons/Npcs/craggnor.md",
     "WarOfThePlanes/_Assets",
     "WarOfThePlanes/Npc's",
     "WarOfThePlanes/_Assets/Pasted image 20240114162948.png",
@@ -200,7 +191,6 @@
     "WarOfThePlanes/Players",
     "WarOfThePlanes",
     "TheRoleplayCampaign/Deities/Untitled",
-    "SlingshotDnD/forsonne.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230253.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20230806230736.png",
     "BeyondTheMournlords/_assets/images/Pasted image 20231007193238.png",
