@@ -11,8 +11,12 @@
             "id": "e7987e747fd0c9a1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TheRoleplayCampaign/lumitale.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TheRoleplayCampaign/lumitale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TheRoleplayCampaign/lumitale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TheRoleplayCampaign/lumitale.md"
+              }
             }
           },
           {
@@ -176,6 +184,13 @@
   },
   "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Places/Luntalaksoosa.md",
+    "TheRoleplayCampaign/Npc's/Padür.md",
+    "TheRoleplayCampaign/Npc's/sam.md",
+    "TheRoleplayCampaign/Places/small rose.md",
+    "TheRoleplayCampaign/Players/FakeNames/Endor.md",
+    "TheRoleplayCampaign/Players/FakeNames/Ruben.md",
+    "TheRoleplayCampaign/Players/FakeNames/Varlaam.md",
     "SlingshotDnD/Npc's/Neutrals/Pamela Toll.md",
     "TyrannyOfDragons/Sessions/2024-01-14.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
@@ -183,7 +198,6 @@
     "TheRoleplayCampaign/Sessions/2024-05-24.md",
     "TheRoleplayCampaign/Npc's/yarresh.md",
     "TheRoleplayCampaign/Places/Azurov.md",
-    "TheRoleplayCampaign/sam.md",
     "TheRoleplayCampaign/Npc's/Alexander Owling.md",
     "TheRoleplayCampaign/Npc's/Pyeter Owling.md",
     "TheRoleplayCampaign/Npc's/Jeanus Owling.md",
@@ -192,16 +206,10 @@
     "conquest.md",
     "BeyondTheMournlords/throndir.md",
     "BeyondTheMournlords/Sessions/2024/2024-06-30.md",
-    "TheRoleplayCampaign/Padür.md",
     "TheRoleplayCampaign/Sessions/2024-04-03.md",
     "TyrannyOfDragons/mirsella.md",
     "TyrannyOfDragons/Sessions/2024-02-25.md",
     "TheRoleplayCampaign/lumitale.md",
-    "TyrannyOfDragons/Lodge.md",
-    "WarOfThePlanes/Iribeth.md",
-    "WarOfThePlanes/Sessions/2024-01-07.md",
-    "TyrannyOfDragons/illefarn.md",
-    "BeyondTheMournlords/Ferrastu.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
