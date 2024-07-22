@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-05-24.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md"
               }
             }
           },
@@ -183,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6801967763436295",
+  "active": "e7987e747fd0c9a1",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Sessions/2024-05-24.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
     "TheRoleplayCampaign/Sessions/2023-07-31.md",
     "TheRoleplayCampaign/Npc's/owling family.md",
@@ -210,7 +210,6 @@
     "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
     "BeyondTheMournlords/Npc's/friendlies/Vergil.md",
     "BeyondTheMournlords/Npc's/groups/varjan vagabond.md",
-    "BeyondTheMournlords/Npc's/groups/Viscus.md",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "BeyondTheMournlords/Sessions/2024",
