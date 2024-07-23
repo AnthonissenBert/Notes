@@ -23,8 +23,9 @@ all magical
 - undead
 # Plot
 ## Mingle around the other students and teachers
-### get to know the system
-### go to a class
+### get to know the system and go to class
+- use the magic in a defense class
+- teacher is someone lik
 ### hang out in the common rooms
 ### explore the grounds
 ## A feast at the grand hall
