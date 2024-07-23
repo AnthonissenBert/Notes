@@ -7,7 +7,9 @@ all magical
 - sorcerer
 - bard
 - wizard
-- arcane r
+- arcane trickster
+- wild magic barbarian
+- 
 # act 1: 
 
 # 
