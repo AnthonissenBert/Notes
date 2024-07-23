@@ -34,7 +34,7 @@ all magical
 - other students from different houses come in and go
 - other classes include
 	- astronomy
-	- fantastic beasts
+	- fantastic beasts and how to tame them
 ### hang out in the common rooms
 - if all party chooses one common room go with that
 - if they're from different houses have them hang in the gardens and the grounds
