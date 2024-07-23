@@ -28,6 +28,6 @@ all magical
 ### explore the grounds
 ## A feast at the grand hall
 ### eating and roleplaying
-### Mystery of a secret club in the forbidden forest
+### Mystery of something in the forbidden forest
 ### going to the forest at night
 - trying to hide from the ghosts
