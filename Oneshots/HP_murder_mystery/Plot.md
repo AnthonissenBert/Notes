@@ -9,7 +9,7 @@ all magical
 - wizard
 - arcane trickster
 - wild magic barbarian
-- 
+- warlock
 # act 1: 
 
 # 
