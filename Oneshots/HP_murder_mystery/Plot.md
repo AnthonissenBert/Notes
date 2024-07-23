@@ -15,6 +15,7 @@ all magical
 - arcane trickster
 - wild magic barbarian
 - warlock
+- ranger
 ## monsters to use
 - ogres
 - trolls
@@ -29,6 +30,9 @@ all magical
 - use the magic in a defense class against each other 
 - teacher is a combination of young Dumbledore and Gilderoy, charismatic but cunning
 - other students from different houses come in and go
+- other classes include
+	- astronomy
+	- 
 ### hang out in the common rooms
 ### explore the grounds
 ## A feast at the grand hall
