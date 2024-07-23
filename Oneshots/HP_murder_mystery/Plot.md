@@ -12,7 +12,10 @@ all magical
 - wild magic barbarian
 - warlock
 ## monsters to use
-- 
+- ogres
+- trolls
+- centaurs
+- giant aracjmods
 # act 1: 
 
 # 
