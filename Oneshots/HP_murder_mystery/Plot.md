@@ -50,7 +50,7 @@ all magical
 - the few students are giggling that they'll sneak out and go to a hidden spot in the forbidden forest
 ## Mystery of something in the forbidden forest
 - all npc's advise to go to the headmaster if you notice something forbidden
-- but if the party want
+- but if the party wants to go ham, go ham, they're last years. They're stubborn and hard to get to
 ### going to the forest at night
 - trying to hide from the ghosts and sentries at the castle
 - trying to avoid the guardians outside and at the perimeter of the forbidden forest
