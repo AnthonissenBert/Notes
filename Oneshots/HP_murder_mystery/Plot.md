@@ -40,6 +40,9 @@ all magical
 - if all party chooses one common room go with that
 - if they're from different houses have them hang in the gardens and the grounds
 ### explore the grounds
+- go to the greenhouse if they're planty
+- go to the quiddich pitch if they're sporty
+- sit in on oth
 ## A feast at the grand hall
 ### eating and roleplaying
 ## Mystery of something in the forbidden forest
