@@ -29,3 +29,5 @@ all magical
 ## A feast at the grand hall
 ### eating and roleplaying
 ### Mystery of a secret club in the forbidden forest
+### going to the forest at night
+- trying to hide from the ghosts
