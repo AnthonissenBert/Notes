@@ -2,6 +2,8 @@
 # session zero
 ## what year
 - last year AKA pretty high lvl oneshot
+# what house
+- do the HP house test
 ## races
 - anything
 ## classes
