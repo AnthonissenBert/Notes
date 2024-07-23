@@ -28,13 +28,13 @@ all magical
 - undead
 # Plot
 ## Mingle around the other students and teachers
-### get to know the system and go to class
+### get to know the system and go to summerclass
 - use the magic in a defense class against each other 
 - teacher is a combination of young Dumbledore and Gilderoy, charismatic but cunning
 - other students from different houses come in and go
 - other classes include
 	- astronomy
-	- fantastic beasts and how to tame them
+ 	- fantastic beasts and how to tame them
 ### hang out in the common rooms
 - if all party chooses one common room go with that
 - if they're from different houses have them hang in the gardens and the grounds
