@@ -56,6 +56,8 @@ all magical
 - trying to avoid the guardians outside and at the perimeter of the forbidden forest
 ## At the Forbidden Forest
 ### 4 paths into the forest
+1. secret paths through the cave systems
+	- this will trigger traps and encounters with underground creatures
 ### taking a guide or going in blindly
 ### finding stuff out
 ### Dealing with the stuff
