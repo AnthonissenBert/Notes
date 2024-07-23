@@ -55,6 +55,9 @@ all magical
 - trying to hide from the ghosts and sentries at the castle
 - trying to avoid the guardians outside and at the perimeter of the forbidden forest
 ## At the Forbidden Forest
+### taking a guide or going in blindly
+- go in with a party
+- trust one of the teachers/head of the house to guide you
 ### 4 paths into the forest
 1. secret paths through the cave systems
 	- this will trigger traps and encounters with underground creatures (maybe a giant cavern with a roper wink wink nudge nudge)
@@ -64,7 +67,6 @@ all magical
 	3. poachers and human enemies
 		- some necromancy
 		- if they take this route and spare the necromancer they get extra information
-### taking a guide or going in blindly
 ### finding stuff out
 ### Dealing with the stuff
 ## Epilogue ceremony
