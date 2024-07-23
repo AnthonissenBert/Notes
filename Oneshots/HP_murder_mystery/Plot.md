@@ -61,7 +61,9 @@ all magical
 2. above ground 3 paths
 	1. will have some centaurs and if you followed astronomy you'll have advantage on charisma (persuasion) checks
 	2. dark cemetery route
-	3. poachers and 
+	3. poachers and human enemies
+		- some necromancy
+		- if they take this route and spare the necromancer they get extra information
 ### taking a guide or going in blindly
 ### finding stuff out
 ### Dealing with the stuff
