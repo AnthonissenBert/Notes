@@ -29,5 +29,6 @@ all magical
 ## A feast at the grand hall
 ### eating and roleplaying
 ### Mystery of something in the forbidden forest
+- all npc's advise to go to the headmaster if you notice something forbidden
 ### going to the forest at night
 - trying to hide from the ghosts
