@@ -22,7 +22,8 @@ all magical
 - 
 # act 1: getting to know the setting
 ## mingle around the other students and teachers
+### get to know the system
 ### go to a class
 ### hang out in the common rooms
-
-# 
+### explore the grounds
+## 
