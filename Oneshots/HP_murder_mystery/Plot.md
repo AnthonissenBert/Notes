@@ -21,7 +21,8 @@ all magical
 - other magical users
 - constructs
 - undead
-## mingle around the other students and teachers
+# Plot
+## Mingle around the other students and teachers
 ### get to know the system
 ### go to a class
 ### hang out in the common rooms
@@ -38,4 +39,4 @@ all magical
 ### taking a guide or going in blindly
 ### finding stuff out
 ### Dealing with the stuff
-## epilogue ceremony
+## Epilogue ceremony
