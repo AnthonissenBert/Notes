@@ -46,7 +46,8 @@ all magical
 - go back to the common rooms if they're lazy and rest for the day
 ## A feast at the grand hall
 ### eating and roleplaying
-- this is where they hear about the mystery
+- this is where they hear about the mystery in the forbidden forest
+- the few students are giggling that they'll sneak out and go to a hidden spot in the forbidden forest
 ## Mystery of something in the forbidden forest
 - all npc's advise to go to the headmaster if you notice something forbidden
 ### going to the forest at night
