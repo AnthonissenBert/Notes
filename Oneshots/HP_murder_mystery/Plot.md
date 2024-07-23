@@ -26,8 +26,8 @@ all magical
 # Plot
 ## Mingle around the other students and teachers
 ### get to know the system and go to class
-- use the magic in a defense class
-- teacher is a combination of young Dumbledore and Gilderoy, charismatic but 
+- use the magic in a defense class against each other 
+- teacher is a combination of young Dumbledore and Gilderoy, charismatic but cunning
 ### hang out in the common rooms
 ### explore the grounds
 ## A feast at the grand hall
