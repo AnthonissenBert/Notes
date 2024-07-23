@@ -1,5 +1,7 @@
 # introduction
 # session zero
+## what year
+- last year AKA pretty high lvl oneshot
 ## races
 - anything
 ## classes
@@ -32,5 +34,8 @@ all magical
 - all npc's advise to go to the headmaster if you notice something forbidden
 ### going to the forest at night
 - trying to hide from the ghosts and sentries at the castle
-- trying to avoid the guardians outside
-## Forbidden forest
+- trying to avoid the guardians outside and at the perimeter of the forbidden forest
+## At the Forbidden Forest
+### 4 paths into the forest
+### taking a guide or going in blindly
+### 
