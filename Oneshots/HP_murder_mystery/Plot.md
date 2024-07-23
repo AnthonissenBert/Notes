@@ -15,7 +15,11 @@ all magical
 - ogres
 - trolls
 - centaurs
-- giant aracjmods
+- giant arachnids
+- other magical users
+- constructs
+- undead
+- 
 # act 1: 
 
 # 
