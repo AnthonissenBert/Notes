@@ -32,8 +32,10 @@ all magical
 - other students from different houses come in and go
 - other classes include
 	- astronomy
-	- 
+	- fantastic beasts
 ### hang out in the common rooms
+- if all party chooses one common room go with that
+- if they\
 ### explore the grounds
 ## A feast at the grand hall
 ### eating and roleplaying
