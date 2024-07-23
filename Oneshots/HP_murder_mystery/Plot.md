@@ -4,6 +4,7 @@
 - summer
 ## what year
 - last year AKA pretty high lvl oneshot
+## couple of magic items
 # what house
 - do the HP house test
 ## races
