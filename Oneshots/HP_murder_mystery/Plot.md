@@ -57,7 +57,9 @@ all magical
 ## At the Forbidden Forest
 ### 4 paths into the forest
 1. secret paths through the cave systems
-	- this will trigger traps and encounters with underground creatures
+	- this will trigger traps and encounters with underground creatures (maybe a giant cavern with a roper wink wink nudge nudge)
+2. above ground 3 paths
+	1. will have some centaurs 
 ### taking a guide or going in blindly
 ### finding stuff out
 ### Dealing with the stuff
