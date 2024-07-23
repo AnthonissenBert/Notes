@@ -26,4 +26,6 @@ all magical
 ### go to a class
 ### hang out in the common rooms
 ### explore the grounds
-## 
+## A feast at the grand hall
+### eating and roleplaying
+### Mystery of a s
