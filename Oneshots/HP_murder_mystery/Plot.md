@@ -1,5 +1,7 @@
 # introduction
 # session zero
+## what timeperiod
+- summer
 ## what year
 - last year AKA pretty high lvl oneshot
 # what house
@@ -35,7 +37,7 @@ all magical
 	- fantastic beasts
 ### hang out in the common rooms
 - if all party chooses one common room go with that
-- if they\
+- if they're from different houses have them hang in the gardens and the grounds
 ### explore the grounds
 ## A feast at the grand hall
 ### eating and roleplaying
