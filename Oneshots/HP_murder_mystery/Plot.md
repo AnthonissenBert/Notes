@@ -43,9 +43,10 @@ all magical
 - go to the greenhouse if they're planty
 - go to the quiddich pitch if they're sporty
 - sit in on other classes if they're smarty
-- 
+- go back to the common rooms if they're lazy and rest for the day
 ## A feast at the grand hall
 ### eating and roleplaying
+- this is where they hear about 
 ## Mystery of something in the forbidden forest
 - all npc's advise to go to the headmaster if you notice something forbidden
 ### going to the forest at night
