@@ -1,6 +1,7 @@
 # introduction
 # session zero
 ## races
+- anything
 ## classes
 all magical
 - eldritch knight
@@ -10,6 +11,8 @@ all magical
 - arcane trickster
 - wild magic barbarian
 - warlock
+## monsters to use
+- 
 # act 1: 
 
 # 
