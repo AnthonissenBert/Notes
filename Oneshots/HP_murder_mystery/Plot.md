@@ -31,4 +31,6 @@ all magical
 ### Mystery of something in the forbidden forest
 - all npc's advise to go to the headmaster if you notice something forbidden
 ### going to the forest at night
-- trying to hide from the ghosts
+- trying to hide from the ghosts and sentries at the castle
+- trying to avoid the guardians outside
+## Forbidden forest
