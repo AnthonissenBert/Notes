@@ -42,7 +42,8 @@ all magical
 ### explore the grounds
 - go to the greenhouse if they're planty
 - go to the quiddich pitch if they're sporty
-- sit in on oth
+- sit in on other classes if they're smarty
+- 
 ## A feast at the grand hall
 ### eating and roleplaying
 ## Mystery of something in the forbidden forest
