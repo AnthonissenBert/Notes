@@ -38,4 +38,4 @@ all magical
 ## At the Forbidden Forest
 ### 4 paths into the forest
 ### taking a guide or going in blindly
-### 
+### finding stuff out
