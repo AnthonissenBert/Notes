@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f8a5819fd389d9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oneshots/HP_murder_mystery/Plot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e2bdac55ba720c8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WarOfThePlanes/Sessions/2024-01-07.md",
+                "file": "BeyondTheMournlords/Sessions/2024/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oneshots/HP_murder_mystery/Plot.md",
+                "file": "BeyondTheMournlords/Sessions/2024/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oneshots/HP_murder_mystery/Plot.md",
+                "file": "BeyondTheMournlords/Sessions/2024/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oneshots/HP_murder_mystery/Plot.md"
+                "file": "BeyondTheMournlords/Sessions/2024/Untitled.md"
               }
             }
           },
@@ -170,12 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f8a5819fd389d9e",
+  "active": "e2bdac55ba720c8c",
   "lastOpenFiles": [
+    "WarOfThePlanes/Sessions/2024-01-07.md",
+    "BeyondTheMournlords/Sessions/2024/Untitled.md",
     "Oneshots/HP_murder_mystery/Plot.md",
     "Oneshots/HP_murder_mystery",
     "Oneshots",
-    "WarOfThePlanes/Sessions/2024-01-07.md",
     "BeyondTheMournlords/MagicalArtifacts/Bronze griffin statuette.md",
     "TheRoleplayCampaign/Players/FakeNames/Varlaam.md",
     "Seppe/Synopsis.md",
@@ -201,7 +190,6 @@
     "BeyondTheMournlords/Families/throndir.md",
     "BeyondTheMournlords/Npc's/Ferrastu.md",
     "BeyondTheMournlords/Npc's/Bazül.md",
-    "BeyondTheMournlords/Locations/banurall.md",
     "SlingshotDnD/_Assets/forsonne.png",
     "TyrannyOfDragons/Monsters",
     "TyrannyOfDragons/MagicalArtifacts",
