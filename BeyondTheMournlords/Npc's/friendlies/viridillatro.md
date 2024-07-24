@@ -8,3 +8,7 @@ Grass dragon
 Epiteth: Viridillatro the Vengeful
 
 Human Alias = [[Vergil]]
+
+---
+
+met him again in the Abyss as a Hostile creature
