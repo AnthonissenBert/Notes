@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
+                "file": "SlingshotDnD/Npc's/Monsters/Burned Man.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lost weapon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
+                "file": "SlingshotDnD/Npc's/Monsters/Burned Man.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
+                "file": "SlingshotDnD/Npc's/Monsters/Burned Man.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md"
+                "file": "SlingshotDnD/Npc's/Monsters/Burned Man.md"
               }
             }
           },
@@ -172,8 +173,8 @@
   },
   "active": "e2bdac55ba720c8c",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Deities/Garion.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
+    "BeyondTheMournlords/Deities/Garion.md",
     "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "WarOfThePlanes/Sessions/2024-01-07.md",
