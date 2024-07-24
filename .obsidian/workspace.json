@@ -30,33 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "435556976a53b9e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Deities/Garion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eab65866639e87a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Deities/Garion.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Deities/Garion.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Deities/Garion.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md"
               }
             }
           },
@@ -195,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfa9384a01c22a67",
+  "active": "e2bdac55ba720c8c",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
     "BeyondTheMournlords/Deities/Garion.md",
+    "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
     "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "WarOfThePlanes/Sessions/2024-01-07.md",
