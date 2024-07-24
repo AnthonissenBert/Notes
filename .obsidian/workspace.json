@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md"
               }
             }
           },
@@ -171,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eab65866639e87a7",
+  "active": "e2bdac55ba720c8c",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
     "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
+    "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "WarOfThePlanes/Sessions/2024-01-07.md",
     "Oneshots/HP_murder_mystery/Plot.md",
