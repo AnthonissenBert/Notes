@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c926d2d3bc5ef0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Npc's/Milrous.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -160,10 +172,11 @@
   },
   "active": "fc9cb674d143be1f",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Npc's/Milrous.md",
+    "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
     "BeyondTheMournlords/Deities/Garion.md",
     "Tables/Random encounters.md",
     "SlingshotDnD/Npc's/Monsters/Burned Man.md",
-    "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
     "BeyondTheMournlords/Npc's/friendlies/Viridillatro.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "WarOfThePlanes/Sessions/2024-01-07.md",
@@ -189,7 +202,6 @@
     "Seppe/Npc's/caphalor.md",
     "Seppe/MagicalArtifacts/brazier of worlds.md",
     "Seppe/MagicalArtifacts",
-    "Seppe/Npc's/Bavragor.md",
     "SlingshotDnD/_Assets/forsonne.png",
     "TyrannyOfDragons/Monsters",
     "TyrannyOfDragons/MagicalArtifacts",
