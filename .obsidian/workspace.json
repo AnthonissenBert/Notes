@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eirunn.md",
+                "file": "BeyondTheMournlords/Npc's/Eirunn.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T'kahl.md",
+                "file": "BeyondTheMournlords/Locations/T'kahl.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shields of Yore.md",
+                "file": "BeyondTheMournlords/Families/Shields of Yore.md",
                 "mode": "source",
                 "source": false
               }
@@ -243,17 +243,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad60d39c27877e57",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
     "BeyondTheMournlords/Npc's/enemies/Nerrot.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
-    "Eirunn.md",
-    "Shields of Yore.md",
+    "BeyondTheMournlords/Npc's/Eirunn.md",
+    "BeyondTheMournlords/Families/Shields of Yore.md",
     "BeyondTheMournlords/Families/Hjorg.md",
     "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
     "BeyondTheMournlords/Families/Hjorg Eptir.md",
-    "T'kahl.md",
-    "Fra'an.md",
+    "BeyondTheMournlords/Locations/T'kahl.md",
+    "BeyondTheMournlords/Npc's/Fra'an.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-13.md",
