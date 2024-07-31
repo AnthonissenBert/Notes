@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "88328d17cc4723de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "V'raan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5bf55150df2f6e73",
             "type": "leaf",
             "state": {
@@ -184,8 +196,9 @@
   },
   "active": "ad60d39c27877e57",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Families/Hjorg.md",
+    "V'raan.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
+    "BeyondTheMournlords/Families/Hjorg.md",
     "BeyondTheMournlords/Families/Hjorg Eptir.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
@@ -212,7 +225,6 @@
     "Seppe/Npc's/Mia.md",
     "Seppe/Npc's/Linn.md",
     "Seppe/Npc's/Garreth.md",
-    "Seppe/Npc's/Father Finly.md",
     "Seppe/MagicalArtifacts",
     "SlingshotDnD/_Assets/forsonne.png",
     "TyrannyOfDragons/Monsters",
