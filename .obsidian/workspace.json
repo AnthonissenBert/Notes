@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T'KAHL.md",
+                "file": "T'kahl.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "88328d17cc4723de",
+            "id": "f14c131fcc5c544c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fra'an.md",
+                "file": "Shields of Yore.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,6 +50,19 @@
               "type": "markdown",
               "state": {
                 "file": "BeyondTheMournlords/Families/Hjorg.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d21d353c056af060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "T'KAHL.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "T'KAHL.md",
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "T'KAHL.md"
+                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md"
               }
             }
           },
@@ -207,13 +220,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "725b94354ebda460",
+  "active": "d21d353c056af060",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
-    "T'KAHL.md",
-    "Fra'an.md",
     "BeyondTheMournlords/Families/Hjorg.md",
     "BeyondTheMournlords/Families/Hjorg Eptir.md",
+    "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
+    "Shields of Yore.md",
+    "T'kahl.md",
+    "Fra'an.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-13.md",
@@ -237,7 +251,6 @@
     "Seppe/Locations",
     "Seppe/MagicalArtifacts/orb of endless power.md",
     "Seppe/Npc's/Mia.md",
-    "Seppe/Npc's/Linn.md",
     "Seppe/MagicalArtifacts",
     "SlingshotDnD/_Assets/forsonne.png",
     "TyrannyOfDragons/Monsters",
