@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "deb4f6132ff8dba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eirunn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "725b94354ebda460",
             "type": "leaf",
             "state": {
@@ -208,11 +220,12 @@
   },
   "active": "ad60d39c27877e57",
   "lastOpenFiles": [
+    "Eirunn.md",
+    "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
     "Shields of Yore.md",
     "BeyondTheMournlords/Families/Hjorg.md",
     "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
     "BeyondTheMournlords/Families/Hjorg Eptir.md",
-    "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
     "T'kahl.md",
     "Fra'an.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
@@ -236,7 +249,6 @@
     "Seppe/Npc's/Sundra.md",
     "Seppe/Locations/slave port.md",
     "Seppe/Locations",
-    "Seppe/MagicalArtifacts/orb of endless power.md",
     "Seppe/MagicalArtifacts",
     "SlingshotDnD/_Assets/forsonne.png",
     "TyrannyOfDragons/Monsters",
