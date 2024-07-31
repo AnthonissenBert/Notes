@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-07-24.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-31.md"
               }
             }
           },
@@ -184,9 +184,10 @@
   },
   "active": "fc9cb674d143be1f",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
+    "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-13.md",
-    "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
     "BeyondTheMournlords/Npc's/Milroyce.md",
     "BeyondTheMournlords/Deities/Garion.md",
     "Tables/Random encounters.md",
@@ -212,7 +213,6 @@
     "Seppe/Npc's/Father Finly.md",
     "Seppe/Npc's/Eltia.md",
     "Seppe/Npc's/derinil 1.md",
-    "Seppe/Npc's/caphalor.md",
     "Seppe/MagicalArtifacts",
     "SlingshotDnD/_Assets/forsonne.png",
     "TyrannyOfDragons/Monsters",
