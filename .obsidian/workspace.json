@@ -44,19 +44,6 @@
             }
           },
           {
-            "id": "5bf55150df2f6e73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Families/Hjorg.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d21d353c056af060",
             "type": "leaf",
             "state": {
@@ -80,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2022/2022-02-26.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-07-31.md"
               }
             }
           },
@@ -220,12 +206,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d21d353c056af060",
+  "active": "ad60d39c27877e57",
   "lastOpenFiles": [
+    "Shields of Yore.md",
     "BeyondTheMournlords/Families/Hjorg.md",
+    "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
     "BeyondTheMournlords/Families/Hjorg Eptir.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
-    "Shields of Yore.md",
     "T'kahl.md",
     "Fra'an.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
@@ -250,7 +237,6 @@
     "Seppe/Locations/slave port.md",
     "Seppe/Locations",
     "Seppe/MagicalArtifacts/orb of endless power.md",
-    "Seppe/Npc's/Mia.md",
     "Seppe/MagicalArtifacts",
     "SlingshotDnD/_Assets/forsonne.png",
     "TyrannyOfDragons/Monsters",
