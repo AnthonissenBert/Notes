@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/Untitled.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-08-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/Untitled.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-08-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/Untitled.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-08-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/Untitled.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-08-06.md"
               }
             }
           },
@@ -256,10 +256,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5a46163cbb3e778",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
-    "TheRoleplayCampaign/Sessions/Untitled.md",
+    "TheRoleplayCampaign/Sessions/2024-08-06.md",
     "README.md",
     "BeyondTheMournlords/Locations/Silent Swamp.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
