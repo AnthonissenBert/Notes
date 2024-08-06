@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-08-06.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-08-06.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-08-06.md",
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-08-06.md"
+                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "a5a46163cbb3e778",
   "lastOpenFiles": [
-    "Jenora.md",
     "TheRoleplayCampaign/Sessions/2024-08-06.md",
+    "Jenora.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
     "README.md",
     "BeyondTheMournlords/Locations/Silent Swamp.md",
