@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "TheRoleplayCampaign/Sessions/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "TheRoleplayCampaign/Sessions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md",
+                "file": "TheRoleplayCampaign/Sessions/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheRoleplayCampaign/Sessions/2024-07-22.md"
+                "file": "TheRoleplayCampaign/Sessions/Untitled.md"
               }
             }
           },
@@ -258,6 +258,8 @@
   },
   "active": "a5a46163cbb3e778",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Sessions/2024-07-22.md",
+    "TheRoleplayCampaign/Sessions/Untitled.md",
     "README.md",
     "BeyondTheMournlords/Locations/Silent Swamp.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
@@ -284,8 +286,6 @@
     "BeyondTheMournlords/MagicalArtifacts/Bronze griffin statuette.md",
     "TheRoleplayCampaign/Players/FakeNames/Varlaam.md",
     "Seppe/Synopsis.md",
-    "Seppe/MagicalArtifacts/whip of binding.md",
-    "Seppe/Locations/the secret elven hideout.md",
     "Seppe/Locations",
     "Seppe/MagicalArtifacts",
     "SlingshotDnD/_Assets/forsonne.png",
