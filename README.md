@@ -16,4 +16,4 @@
 
 # improvements on [[Malynn]]s character sheet
 1. instrument of the bards uses it's own magical spells table
-2. 
+2. extra skill profiecency
