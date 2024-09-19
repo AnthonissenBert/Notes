@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "09cdef0b3f734e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adeline the Green.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c9fd4506d5a98ade",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
+                "file": "Adeline the Green.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
+                "file": "Adeline the Green.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md"
+                "file": "Adeline the Green.md"
               }
             }
           },
@@ -170,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c91aa3d44358ded4",
+  "active": "09cdef0b3f734e85",
   "lastOpenFiles": [
-    "Velin.md",
     "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
+    "Velin.md",
     "Calvert of Socrall.md",
     "Trevion of Evermere.md",
     "BeyondTheMournlords/Npc's/friendlies/Toryg.md",
