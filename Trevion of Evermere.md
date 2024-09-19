@@ -1,1 +1,1 @@
-Founder 
+Original founder of the [[Beyonders]] 

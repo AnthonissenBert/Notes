@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e0098051e06f982c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "of Sagal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5480f0d6535aefbc",
             "type": "leaf",
             "state": {
@@ -67,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trevion of Evermere.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trevion of Evermere.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trevion of Evermere.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md"
               }
             }
           },
@@ -207,8 +218,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5480f0d6535aefbc",
+  "active": "c91aa3d44358ded4",
   "lastOpenFiles": [
+    "of Sagal.md",
     "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
     "Trevion of Evermere.md",
     "Ingvar the Scurge.md",
@@ -234,7 +246,6 @@
     "BeyondTheMournlords/Sessions/2022/2022-02-26.md",
     "BeyondTheMournlords/Families/Hjorg Eptir.md",
     "BeyondTheMournlords/Locations/T'kahl.md",
-    "BeyondTheMournlords/Npc's/Fra'an.md",
     "Oneshots/HP_murder_mystery",
     "Oneshots",
     "Seppe/Locations",
