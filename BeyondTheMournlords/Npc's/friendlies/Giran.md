@@ -1,1 +1,1 @@
-The previous bayliff before [[Torrig]]
+The previous bayliff before [[Toryg]]

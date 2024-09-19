@@ -1,3 +1,3 @@
-Half elven scribe of [[Torrig]] in [[Bastion]]
+Half elven scribe of [[Toryg]] in [[Bastion]]
 
 has blond short hair

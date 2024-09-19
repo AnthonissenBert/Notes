@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a03386ee01165569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Npc's/friendlies/Toryg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e0098051e06f982c",
             "type": "leaf",
             "state": {
@@ -73,13 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Npc's/friendlies/Torrig.md",
+                "file": "BeyondTheMournlords/Npc's/friendlies/Toryg.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
+                "file": "Calvert of Sagal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
+                "file": "Calvert of Sagal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md"
+                "file": "Calvert of Sagal.md"
               }
             }
           },
@@ -218,14 +231,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c91aa3d44358ded4",
+  "active": "e0098051e06f982c",
   "lastOpenFiles": [
-    "Ingvar the Scurge.md",
+    "BeyondTheMournlords/Npc's/friendlies/Toryg.md",
     "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
+    "Ingvar the Scurge.md",
     "Calvert of Sagal.md",
     "Trevion of Evermere.md",
     "Adeline the Green.md",
-    "BeyondTheMournlords/Npc's/friendlies/Torrig.md",
     "BeyondTheMournlords/Sessions/2024/2024-08-13.md",
     "TheRoleplayCampaign/Jenora.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",

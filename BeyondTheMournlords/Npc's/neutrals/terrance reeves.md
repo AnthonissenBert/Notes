@@ -1,1 +1,1 @@
-replacement for captain of [[Torrig]]
+replacement for captain of [[Toryg]]
