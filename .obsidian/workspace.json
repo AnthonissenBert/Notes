@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adeline the Green.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adeline the Green.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adeline the Green.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md"
               }
             }
           },
@@ -183,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d1f6b448c2740b0",
+  "active": "c91aa3d44358ded4",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
     "Adeline the Green.md",
+    "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
     "BeyondTheMournlords/Npc's/friendlies/Torrig.md",
     "BeyondTheMournlords/Sessions/2024/2024-08-13.md",
     "TheRoleplayCampaign/Jenora.md",
