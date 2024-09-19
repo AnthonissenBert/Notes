@@ -1,4 +1,8 @@
-Former guildmaster of the [[Beyonders]]
+second guildmaster of the [[Beyonders]] guild
+
+a mercenary thrillseeker
+
+recruited by [[Trevion of Evermere]]
 
 Sorceress
 

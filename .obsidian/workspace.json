@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adeline the Green.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adeline the Green.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adeline the Green.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md"
               }
             }
           },
@@ -183,15 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09cdef0b3f734e85",
+  "active": "c91aa3d44358ded4",
   "lastOpenFiles": [
+    "Adeline the Green.md",
     "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
     "Velin.md",
     "Calvert of Socrall.md",
     "Trevion of Evermere.md",
     "BeyondTheMournlords/Npc's/friendlies/Toryg.md",
     "Ingvar the Scurge.md",
-    "Adeline the Green.md",
     "BeyondTheMournlords/Sessions/2024/2024-08-13.md",
     "TheRoleplayCampaign/Jenora.md",
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
