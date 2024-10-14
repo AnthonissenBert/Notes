@@ -2,7 +2,7 @@
 
 ## Campaigns
 
-- Beyond the mournlords
+- Beyond the mournlords [main campaign]
 - The Roleplaying Campaign
 - Tiranny of Dragons
 - Apocalyptic Summer Boys

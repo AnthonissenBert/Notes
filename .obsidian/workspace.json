@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "BeyondTheMournlords/Npc's/Adeline the Green.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "BeyondTheMournlords/Npc's/Adeline the Green.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "BeyondTheMournlords/Npc's/Adeline the Green.md"
               }
             }
           },
@@ -170,15 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c91aa3d44358ded4",
+  "active": "eadf454b82257be7",
   "lastOpenFiles": [
+    "README.md",
     "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
     "BeyondTheMournlords/Npc's/Adeline the Green.md",
     "BeyondTheMournlords/Npc's/Rylandone.md",
     "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
     "BeyondTheMournlords/Npc's/Velin.md",
     "BeyondTheMournlords/Npc's/Trevion of Evermere.md",
-    "README.md",
     "BeyondTheMournlords/Npc's/Ingvar the Scurge.md",
     "BeyondTheMournlords/Npc's/Fangorn.md",
     "BeyondTheMournlords/Npc's/Calvert of Socrall.md",
