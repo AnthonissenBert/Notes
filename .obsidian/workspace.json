@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Players/Volgrim.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Players/Volgrim.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Players/Volgrim.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-10-14.md"
               }
             }
           },
@@ -171,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fe96bb5188d72ec",
+  "active": "eadf454b82257be7",
   "lastOpenFiles": [
+    "BeyondTheMournlords/Players/Volgrim.md",
     "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
     "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
     "BeyondTheMournlords/Quest Log.md",
@@ -198,7 +198,6 @@
     "BeyondTheMournlords/Sessions/2024/2024-07-15.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-24.md",
     "BeyondTheMournlords/Sessions/2024/2024-07-31.md",
-    "BeyondTheMournlords/Npc's/enemies/Nerrot.md",
     "Oneshots/HP_murder_mystery",
     "Oneshots",
     "Seppe/Locations",
