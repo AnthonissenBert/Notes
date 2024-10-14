@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "9ba570bf3d9a37ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Npc's/Romac Cinderfist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2f1cd7777646b34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fe96bb5188d72ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeyondTheMournlords/Players/Volgrim.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,10 +172,10 @@
   },
   "active": "eadf454b82257be7",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Npc's/Romac Cinderfist.md",
-    "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
-    "BeyondTheMournlords/Players/Volgrim.md",
     "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
+    "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
+    "BeyondTheMournlords/Npc's/Romac Cinderfist.md",
+    "BeyondTheMournlords/Players/Volgrim.md",
     "BeyondTheMournlords/Quest Log.md",
     "BeyondTheMournlords/Npc's/Velin.md",
     "BeyondTheMournlords/Npc's/Fangorn.md",
