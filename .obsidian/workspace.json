@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3fd862d15afbc162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeyondTheMournlords/Players/Abill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b8aaea35160600c6",
             "type": "leaf",
             "state": {
@@ -196,8 +208,9 @@
   },
   "active": "af52c027bc7f4cd2",
   "lastOpenFiles": [
-    "the raised isles.md",
+    "BeyondTheMournlords/Players/Abill.md",
     "BeyondTheMournlords/Sessions/2024/2024-10-28.md",
+    "the raised isles.md",
     "BeyondTheMournlords/Deities/skarik.md",
     "the tangle wood.md",
     "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
@@ -221,7 +234,6 @@
     "TheRoleplayCampaign/Sessions/2024-08-06.md",
     "TheRoleplayCampaign/Sessions/2024-04-03.md",
     "TheRoleplayCampaign/Sessions/2023-02-12.md",
-    "TheRoleplayCampaign/Sessions/2023-01-28.md",
     "Oneshots/HP_murder_mystery",
     "Oneshots",
     "Seppe/Locations",
