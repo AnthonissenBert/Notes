@@ -49,7 +49,8 @@
               "title": "2024-11-18"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-11-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-14"
+              "title": "Backlinks for 2024-11-18"
             }
           },
           {
@@ -140,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-11-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-14"
+              "title": "Outgoing links from 2024-11-18"
             }
           },
           {
@@ -167,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-10-14.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-11-18.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-14"
+              "title": "Outline of 2024-11-18"
             }
           },
           {
@@ -204,10 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a74387e2607e0f9",
+  "active": "bd37f54feeac1c45",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Sessions/2024/2024-10-28.md",
     "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
+    "BeyondTheMournlords/Sessions/2024/2024-10-28.md",
     "BeyondTheMournlords/Sessions/2024/2024-11-18.md",
     "BeyondTheMournlords/Players/Galdan.md",
     "BeyondTheMournlords/Players/Abill.md",
