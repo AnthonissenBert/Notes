@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2eb1c92a0483a3ec",
+        "id": "40f552f391f057c1",
         "type": "tabs",
         "children": [
           {
-            "id": "2dfb0a28fe67889e",
+            "id": "bd37f54feeac1c45",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dfb0a28fe67889e",
+  "active": "bd37f54feeac1c45",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2024/2024-10-28.md",
     "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
