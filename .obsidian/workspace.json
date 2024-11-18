@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-10-28.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-11-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-28"
+              "title": "2024-11-18"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-10-28.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-11-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-28"
+              "title": "Backlinks for 2024-11-18"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-10-28.md",
+                "file": "BeyondTheMournlords/Sessions/2024/2024-11-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-28"
+              "title": "Outgoing links from 2024-11-18"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeyondTheMournlords/Sessions/2024/2024-10-28.md"
+                "file": "BeyondTheMournlords/Sessions/2024/2024-11-18.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-28"
+              "title": "Outline of 2024-11-18"
             }
           },
           {
@@ -179,6 +179,7 @@
   "active": "bd37f54feeac1c45",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2024/2024-10-28.md",
+    "BeyondTheMournlords/Sessions/2024/2024-11-18.md",
     "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
     "BeyondTheMournlords/Players/Abill.md",
     "the raised isles.md",
@@ -203,7 +204,6 @@
     "TheRoleplayCampaign/Sessions/2024-07-22.md",
     "TheRoleplayCampaign/Sessions/2024-08-06.md",
     "TheRoleplayCampaign/Sessions/2024-04-03.md",
-    "TheRoleplayCampaign/Sessions/2023-02-12.md",
     "Oneshots/HP_murder_mystery",
     "Oneshots",
     "Seppe/Locations",
