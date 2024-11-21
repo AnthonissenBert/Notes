@@ -11,10 +11,14 @@
             "id": "3cad7ac31be06a4d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "TheRoleplayCampaign/Sessions/2023-07-31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2023-07-31"
             }
           },
           {
@@ -216,6 +220,9 @@
   },
   "active": "3cad7ac31be06a4d",
   "lastOpenFiles": [
+    "TheRoleplayCampaign/Sessions/2023-04-...md",
+    "TheRoleplayCampaign/Sessions/2023-02-12.md",
+    "TheRoleplayCampaign/Sessions/2023-07-31.md",
     "TheRoleplayCampaign/Places/The old Chariot.md",
     "TheRoleplayCampaign/Plot/Ivy syndicate.md",
     "TheRoleplayCampaign/Players/Etlir.md",
@@ -239,9 +246,6 @@
     "BeyondTheMournlords/Npc's/Adeline the Green.md",
     "README.md",
     "BeyondTheMournlords/Npc's/Rylandone.md",
-    "BeyondTheMournlords/Npc's/Trevion of Evermere.md",
-    "BeyondTheMournlords/Npc's/Ingvar the Scurge.md",
-    "BeyondTheMournlords/Npc's/Calvert of Socrall.md",
     "Oneshots/HP_murder_mystery",
     "Oneshots",
     "Seppe/Locations",
