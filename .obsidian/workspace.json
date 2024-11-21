@@ -11,10 +11,10 @@
             "id": "3cad7ac31be06a4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -172,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "3cad7ac31be06a4d",
   "lastOpenFiles": [
     "BeyondTheMournlords/Sessions/2024/2024-11-18.md",
     "BeyondTheMournlords/Sessions/2024/2024-10-14.md",
