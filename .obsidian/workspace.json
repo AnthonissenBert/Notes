@@ -49,7 +49,8 @@
               "title": "Buzwick"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,11 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a87ac504ccd44806",
+  "active": "c6e57ccfd832940c",
   "lastOpenFiles": [
-    "BeyondTheMournlords/Locations/Districts/Buzwick.md",
-    "Thane.md",
     "BeyondTheMournlords/Sessions/2024/2024-11-18.md",
+    "Thane.md",
+    "BeyondTheMournlords/Locations/Districts/Buzwick.md",
     "the raised isles.md",
     "BeyondTheMournlords/Sessions/2024/2024-11-23.md",
     "TheRoleplayCampaign/Players/Etlir.md",
