@@ -35,8 +35,7 @@
               "title": "the raised isles"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,8 +190,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2851188088b72b8d",
+  "active": "a87ac504ccd44806",
   "lastOpenFiles": [
+    "the raised isles.md",
     "BeyondTheMournlords/Sessions/2024/2024-11-18.md",
     "BeyondTheMournlords/Sessions/2024/2024-11-23.md",
     "TheRoleplayCampaign/Players/Etlir.md",
@@ -208,7 +208,6 @@
     "BeyondTheMournlords/Sessions/2024/2024-10-28.md",
     "BeyondTheMournlords/Players/Galdan.md",
     "BeyondTheMournlords/Players/Abill.md",
-    "the raised isles.md",
     "BeyondTheMournlords/Deities/skarik.md",
     "the tangle wood.md",
     "BeyondTheMournlords/Sessions/2024/2024-09-19.md",
