@@ -21,4 +21,10 @@
 
 ---
 
-# zijn emoties beheersen en goede attitude aannemen
+- zijn emoties beheersen en goede attitude aannemen
+
+---
+
+- zorgrelatie oppbouwen met het slachtoffer
+	- patienten rechten kennen
+	- gunstig klim
