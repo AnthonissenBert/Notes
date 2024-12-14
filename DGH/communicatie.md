@@ -27,4 +27,6 @@
 
 - zorgrelatie oppbouwen met het slachtoffer
 	- patienten rechten kennen
-	- gunstig klim
+	- gunstig klimaat opbouwen
+	- open houding aannemen
+	- 
