@@ -12,10 +12,20 @@ FIST = fire stress team
 
 ---
 
-3 vormen
-- physiek
+3 vormen van agressie
+- fysiek
+	- gespugd
+	- schoppen
+	- duwen
+	- ...
 - verbale
 	- fel in discussie gaan
 	- discriminerende opmerkingen
 	- ...
-- psychi
+- psychische
+	- verbaal of schriftelijk bedrijgen
+	- chanteren
+	- vernederen
+
+---
+
