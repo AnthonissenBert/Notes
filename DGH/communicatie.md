@@ -40,3 +40,8 @@
 	- empathie
 	- respect
 	- goede, aangepaste communicatie
+
+---
+
+- keuze en ruis
+	- ontvanger onthoudt zelden de volledige boodschap
