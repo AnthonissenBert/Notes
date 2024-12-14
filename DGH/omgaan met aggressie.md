@@ -29,3 +29,11 @@ FIST = fire stress team
 
 ---
 
+triggers van aggressie
+- uniform
+- lichaamshouding
+- aggresiviteit
+- ...
+
+---
+
