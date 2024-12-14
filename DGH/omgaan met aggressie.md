@@ -12,3 +12,10 @@ FIST = fire stress team
 
 ---
 
+3 vormen
+- physiek
+- verbale
+	- fel in discussie gaan
+	- discriminerende opmerkingen
+	- ...
+- psychi
