@@ -1,0 +1,1 @@
+rune on the altar in the [[Silent Swamp]]

@@ -1,1 +1,0 @@
-The previous bayliff before [[Torrig]]

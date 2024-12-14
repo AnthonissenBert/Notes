@@ -1,0 +1,1 @@
+former guildmaster of the [[Beyonders]] guild

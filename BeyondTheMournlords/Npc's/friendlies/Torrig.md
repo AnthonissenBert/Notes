@@ -1,3 +1,0 @@
-The previous Bayliff
-
-DEAD

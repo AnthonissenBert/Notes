@@ -1,0 +1,1 @@
+member of the [[Citadel Knights]]
