@@ -21,4 +21,4 @@
 
 ---
 
-
+# zijn emoties beheersen en goede attitude aannemen
