@@ -29,4 +29,7 @@
 	- patienten rechten kennen
 	- gunstig klimaat opbouwen
 	- open houding aannemen
-	- 
+	- actief luisteren
+	- emoties
+	- rekening houden met noden van het slachtoffer
+	- slachtoffer betrekken bij de zorg
