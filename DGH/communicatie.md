@@ -33,3 +33,5 @@
 	- emoties
 	- rekening houden met noden van het slachtoffer
 	- slachtoffer betrekken bij de zorg
+
+- grondhouding voor de ambulanc
