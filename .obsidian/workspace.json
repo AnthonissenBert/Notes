@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DGH/communicatie.md",
+                "file": "DGH/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "communicatie"
+              "title": "Untitled"
             }
           }
         ],
@@ -194,9 +194,10 @@
   },
   "active": "604058e2591c599b",
   "lastOpenFiles": [
+    "DGH/communicatie.md",
+    "DGH/Untitled.md",
     "a.out",
     "conflict-files-obsidian-git.md",
-    "DGH/communicatie.md",
     "DGH",
     "DGH/basiscommunicatie.md",
     "DND/TyrannyOfDragons/sessions/2024-11-24.md",
@@ -232,7 +233,6 @@
     "DND/SlingshotDnD/_Assets/forsonne.png",
     "DND/SlingshotDnD/OwnOneshot",
     "DND/Seppe/MagicalArtifacts",
-    "DND/Seppe/Locations",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
     "Pasted image 20240114162948.png"
