@@ -11,4 +11,3 @@ FIST = fire stress team
 - niet meegaan in agressie
 
 ---
-
