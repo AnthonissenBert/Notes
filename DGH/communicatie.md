@@ -34,4 +34,9 @@
 	- rekening houden met noden van het slachtoffer
 	- slachtoffer betrekken bij de zorg
 
-- grondhouding voor de ambulanc
+- grondhouding voor de ambulancier
+	- echtheid
+	- onvoorwaardelijke positieve gezindheid
+	- empathie
+	- respect
+	- goede, aangepaste communicatie
