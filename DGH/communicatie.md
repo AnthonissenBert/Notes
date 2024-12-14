@@ -45,3 +45,13 @@
 
 - keuze en ruis
 	- ontvanger onthoudt zelden de volledige boodschap
+
+---
+
+- hoe effectief communiceren
+	1. stel jezelf voor
+	2. vertel wat je doet
+	3. wees eerlijk
+	4. wacht niet te lang
+	5. vraag om reactie
+	6. wees zo kort mogelijk
