@@ -3,3 +3,12 @@
 ---
 
 FIST = fire stress team
+
+---
+
+- BLIJF KALM
+- RUSTIG BLIJVEN
+- niet meegaan in agressie
+
+---
+
