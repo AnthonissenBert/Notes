@@ -20,6 +20,34 @@
               "icon": "lucide-file",
               "title": "2024-12-21"
             }
+          },
+          {
+            "id": "2ed5d2bc4cdb8347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Torkoma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Torkoma"
+            }
+          },
+          {
+            "id": "45b608386b5d8814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND/BeyondTheMournlords/Locations/Forests/Smaragd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Smaragd"
+            }
           }
         ]
       }
@@ -178,10 +206,12 @@
   },
   "active": "1c8e5aa3343dc556",
   "lastOpenFiles": [
+    "Torkoma.md",
+    "DND/BeyondTheMournlords/Locations/Forests/Smaragd.md",
+    "DND/BeyondTheMournlords/Sessions/2024/2024-12-21.md",
     "DND/BeyondTheMournlords/Npc's/monsters/merridnoris.md",
     "DND/BeyondTheMournlords/Npc's/monsters/demon queen of abbys.md",
     "DND/BeyondTheMournlords/Npc's/enemies/Elliazar.md",
-    "DND/BeyondTheMournlords/Sessions/2024/2024-12-21.md",
     "DND/BeyondTheMournlords/Sessions/2024/2024-11-23.md",
     "DND/TyrannyOfDragons/Bercy.md",
     "conflict-files-obsidian-git.md",
@@ -220,8 +250,6 @@
     "DND/SlingshotDnD/Quests/MurderMystery/Plot.md",
     "DND/SlingshotDnD/Quests/MurderMystery/combats",
     "DND/SlingshotDnD/Quests/date_night/Plot.md",
-    "DND/SlingshotDnD/Npc's/Neutrals/Zirne Bouldermane.md",
-    "DND/SlingshotDnD/Npc's/Neutrals/Ynos.md",
     "DND/BeyondTheMournlords/_assets/videos/H̵̨̤̫̭͔͔͖̜̥̘̖̫̒̒͛̈́͋̌̑͘̚e̴̛̠͋͌̈̕l̵̖̱͓̲̜͕̖͓̝͐͆̓̾̈́̾͜l̴̡̥̬͓̭̜͎͖̙̦̽̀̈́̒̎͐̍̏̉ờ̸͙̮͋͂̊̆̎͑̈́͒̽̿̓͝.mp4",
     "DND/TyrannyOfDragons/npcs/Monsters",
     "Untitled.canvas"
