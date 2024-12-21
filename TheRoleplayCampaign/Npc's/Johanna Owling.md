@@ -1,1 +1,0 @@
-current head of the [[Owling family]]

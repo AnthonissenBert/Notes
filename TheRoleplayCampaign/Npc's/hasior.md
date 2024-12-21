@@ -1,1 +1,0 @@
-cook of the [[Owling family]]
