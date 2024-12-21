@@ -1,3 +1,3 @@
-under the jurisdiction of the [[demon queen of abbiris]]
+under the jurisdiction of the [[demon queen of abbys]]
 
 prizes wisdom and intellect
