@@ -81,8 +81,7 @@
               "title": "Jenora"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,8 +237,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35cc56867e13822a",
+  "active": "6f1dc09c8189f3d8",
   "lastOpenFiles": [
+    "DND/TheRoleplayCampaign/Npc's/anna.md",
     "DND/TheRoleplayCampaign/Sessions/2024-12-22.md",
     "DND/TheRoleplayCampaign/Sessions/2024-07-22.md",
     "DND/TheRoleplayCampaign/Sessions/2024-08-06.md",
@@ -265,7 +265,6 @@
     "conflict-files-obsidian-git.md",
     "DND/TyrannyOfDragons/oyaviggaton.md",
     "DND/conflict-files-obsidian-git.md",
-    "DND/TyrannyOfDragons/sea of moving ice.md",
     "a.out",
     "DND/SlingshotDnD/_Assets/Tokens/wolf2.png",
     "DND/SlingshotDnD/_Assets/Tokens/token_5.png",
