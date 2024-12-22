@@ -66,8 +66,7 @@
               "title": "Jenora"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d1b994f139dbaa7",
+  "active": "6f1dc09c8189f3d8",
   "lastOpenFiles": [
+    "DND/TheRoleplayCampaign/Npc's/owling family.md",
     "DND/TheRoleplayCampaign/Sessions/2024-12-22.md",
     "drunken bitch.md",
     "DND/TheRoleplayCampaign/Sessions/2024-08-06.md",
@@ -251,7 +251,6 @@
     "DND/conflict-files-obsidian-git.md",
     "DND/TyrannyOfDragons/sea of moving ice.md",
     "DND/TyrannyOfDragons/Thagult Neverender.md",
-    "DND/TyrannyOfDragons/bonecarver.md",
     "a.out",
     "DND/SlingshotDnD/_Assets/Tokens/wolf2.png",
     "DND/SlingshotDnD/_Assets/Tokens/token_5.png",
