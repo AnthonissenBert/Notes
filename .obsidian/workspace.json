@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/BeyondTheMournlords/Locations/Forests/Smaragd.md",
+                "file": "DND/TheRoleplayCampaign/Sessions/2024-12-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Smaragd"
+              "title": "2024-12-22"
             }
           },
           {
@@ -212,8 +212,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -233,10 +233,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "6f1dc09c8189f3d8",
   "lastOpenFiles": [
-    "DND/BeyondTheMournlords/Npc's/Torkoma.md",
+    "DND/BeyondTheMournlords/Locations/the raised isles.md",
+    "DND/TheRoleplayCampaign/Sessions/2024-12-22.md",
+    "DND/BeyondTheMournlords/Locations/the tangle wood.md",
+    "DND/BeyondTheMournlords/Sessions/2024/2024-03-10.md",
+    "DND/BeyondTheMournlords/Sessions/2024/2024-02-24.md",
+    "DND/BeyondTheMournlords/Players/Hadrian.md",
+    "DND/BeyondTheMournlords/Npc's/Thagal.md",
+    "DND/BeyondTheMournlords/Sessions/2023/2023-12-10.md",
+    "DND/BeyondTheMournlords/Families/thronin.md",
     "DND/BeyondTheMournlords/Locations/Forests/Smaragd.md",
+    "DND/BeyondTheMournlords/Npc's/Torkoma.md",
     "DND/BeyondTheMournlords/Sessions/2024/2024-12-21.md",
     "DND/BeyondTheMournlords/Npc's/monsters/merridnoris.md",
     "DND/BeyondTheMournlords/Npc's/monsters/demon queen of abbys.md",
@@ -248,18 +257,11 @@
     "DND/conflict-files-obsidian-git.md",
     "DND/TyrannyOfDragons/sea of moving ice.md",
     "DND/TyrannyOfDragons/Thagult Neverender.md",
-    "DND/BeyondTheMournlords/the tangle wood.md",
     "DND/TyrannyOfDragons/bonecarver.md",
     "a.out",
     "Thane.md",
     "DND/SlingshotDnD/Quests/MurderMystery/combats/first cult combat.md",
     "DND/SlingshotDnD/Quests/MurderMystery/combats/bbeg combat.md",
-    "DND/TyrannyOfDragons/npcs/Monsters/black ooze.md",
-    "DND/TheRoleplayCampaign/Players/FakeNames/Varlaam.md",
-    "DND/TheRoleplayCampaign/Players/FakeNames/Ruben.md",
-    "DND/TheRoleplayCampaign/Players/FakeNames/Endor.md",
-    "DND/TheRoleplayCampaign/Players/FakeNames/Duncan.md",
-    "DND/TheRoleplayCampaign/Players/FakeNames/Bhirall.md",
     "DND/SlingshotDnD/_Assets/Tokens/wolf2.png",
     "DND/SlingshotDnD/_Assets/Tokens/token_5.png",
     "DND/SlingshotDnD/_Assets/Tokens/token_4.png",
@@ -276,9 +278,7 @@
     "DND/SlingshotDnD/_Assets/pdf/Mardai_Sorrow_lvl3.pdf",
     "DND/SlingshotDnD/_Assets/pdf/Gruuk.pdf",
     "DND/SlingshotDnD/_Assets/pdf/herangon_leader_of_bard_college.pdf",
-    "DND/SlingshotDnD/Quests/MurderMystery/Plot.md",
     "DND/SlingshotDnD/Quests/MurderMystery/combats",
-    "DND/SlingshotDnD/Quests/date_night/Plot.md",
     "DND/BeyondTheMournlords/_assets/videos/H̵̨̤̫̭͔͔͖̜̥̘̖̫̒̒͛̈́͋̌̑͘̚e̴̛̠͋͌̈̕l̵̖̱͓̲̜͕̖͓̝͐͆̓̾̈́̾͜l̴̡̥̬͓̭̜͎͖̙̦̽̀̈́̒̎͐̍̏̉ờ̸͙̮͋͂̊̆̎͑̈́͒̽̿̓͝.mp4",
     "DND/TyrannyOfDragons/npcs/Monsters",
     "Untitled.canvas"
