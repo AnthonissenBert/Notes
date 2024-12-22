@@ -1,4 +1,4 @@
 nickname: koning Philip
 
 
-probably [[]]
+probably from the [[shadow guild]]
