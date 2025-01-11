@@ -4,4 +4,5 @@ Lesgever:
 ---
 
 Wat is veerkracht
-- 
+- het proces waarin iemand zich op een positieve manier aanpast aan stress of tegenslag die hem of haar potentieel uit evenwicht brengt
+
