@@ -34,7 +34,10 @@ lesgever: Wim smets
 	- in / uitgangswonde
 	- letsel afhankelijk van type projectiel
 ## verband tussen ongeval en verwondingen
+## het gouden uur en de rol er van
+- type slachtoffer
+	- die onmiddelijk overleiden
+	- die na enkele minuten overleiden
 	- 
-# het gouden uur
 # borstkas letsels
 # buik letsels
