@@ -21,7 +21,7 @@ lesgever: Wim smets
 - hoofdwet pechanica
 - actie en reactie
 
-- 
+
 # het gouden uur
 # borstkas letsels
 # buik letsels
