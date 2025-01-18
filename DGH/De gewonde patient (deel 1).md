@@ -63,7 +63,8 @@ u mag saturatie meten ook op de fractuur
 - ribbreuk
 	- patienten gaat borst vasthouden / duwen op ribben
 - fladderthorax
-	- 
+	- 1 rib op een ribbenrooster op 2 verschillende plaatsen breken
+		- volledige flap
 - longkneuzing
 - pneumothorax
 	- spanningspneumothorax
