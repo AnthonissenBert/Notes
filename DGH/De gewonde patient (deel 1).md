@@ -67,7 +67,8 @@ u mag saturatie meten ook op de fractuur
 		- volledige flap
 	- paradoxaal = tegengestelde richting van de beweging van lucht
 - longkneuzing
-	- 
+	- bloed ophusten
+	- blauwe plek
 - pneumothorax
 	- spanningspneumothorax
 - hemothorax
