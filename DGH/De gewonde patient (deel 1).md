@@ -56,5 +56,6 @@ lesgever: Wim smets
 	- pijnbesrijding
 	- virje luchtweg
 	- invasieve ingrepen
+u mag saturatie meten ook op de fractuur
 # borstkas letsels
 # buik letsels
