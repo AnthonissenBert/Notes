@@ -40,6 +40,8 @@ lesgever: Wim smets
 	- die na enkele minuten overlijden
 	- die de eerste uren na het ongeval overlijden
 	- die ondanks goede zorgen, later overlijden
-	- mof = multi orgaan falen
+- mof = multi orgaan falen
+- treat first what kills first
+- 
 # borstkas letsels
 # buik letsels
