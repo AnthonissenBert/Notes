@@ -75,8 +75,12 @@ u mag saturatie meten ook op de fractuur
 - spanningspneumothorax
 	- 
 - hemothorax
-- hartkneuzing
-- harttamponade
+	- bloed in de longen / borstkas
+	- polypnoe
+- hartkneuzing / harttamponade
+	- kneuzing
+	- tamponade
+	- pericart = vlies rond hard
 - aortascheur
 - middenrifscheur
 
