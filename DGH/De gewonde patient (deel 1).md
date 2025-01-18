@@ -70,7 +70,10 @@ u mag saturatie meten ook op de fractuur
 	- bloed ophusten
 	- blauwe plek
 - pneumothorax
-	- spanningspneumothorax
+	- klaplong
+	- specifiek
+- spanningspneumothorax
+	- 
 - hemothorax
 - hartkneuzing
 - harttamponade
