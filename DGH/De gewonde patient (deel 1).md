@@ -30,7 +30,10 @@ lesgever: Wim smets
 	- vuurwerk
 	- aanslagen
 	- aardgas
-- 
+- shotwonden
+	- in / uitgangswonde
+	- letsel afhankelijk van type projectiel
+## 
 # het gouden uur
 # borstkas letsels
 # buik letsels
