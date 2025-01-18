@@ -25,7 +25,8 @@ lesgever: Wim smets
 	- 20/30 per uur
 	- gebruik verstand
 
-blast letsels
+## blast letsels
+- voorbeelden
 - vuurwerk
 - aanslagen
 - aardgas
