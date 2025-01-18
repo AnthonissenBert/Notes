@@ -20,8 +20,6 @@ lesgever: Wim smets
 - traagheid of inertie
 - hoofdwet pechanica
 - actie en reactie
-
-
 # het gouden uur
 # borstkas letsels
 # buik letsels
