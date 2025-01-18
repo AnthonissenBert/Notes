@@ -4,7 +4,6 @@ lesgever: Wim smets
 ---
 # parate kennis
 - ...
-
 ## wat is een ongeval
 - ladder ongeval
 - fiets / auto ongeval
@@ -12,11 +11,15 @@ lesgever: Wim smets
 ## verwondingen
 - open
 	- impact waardoor er een open wonde is
-	- deze kan ook van binnenuit ontstaan zijn
+	- deze kan ook van binnenuit ontstaan zijn (bot dat uit uw vel hangt)
 - gesloten
 	- stompe impact
 	- eventueel inwendig letsel
 	- uitwendig geen structuur schade
+## kinetische energie
+- traagheid of inertie
+- hoofdwet pechanica
+- actie en reactie
 
 # het gouden uur
 # borstkas letsels
