@@ -42,6 +42,14 @@ lesgever: Wim smets
 	- die ondanks goede zorgen, later overlijden
 - mof = multi orgaan falen
 - treat first what kills first
-- 
+## toegepast
+- teamwork makes the dream work
+- zuurstof
+- bloedingen stelpen
+- longaspiratie voorkomen
+- spalken
+- aligneren
+- pijn therapie
+- shock fooro
 # borstkas letsels
 # buik letsels
