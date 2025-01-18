@@ -65,6 +65,7 @@ u mag saturatie meten ook op de fractuur
 - fladderthorax
 	- 1 rib op een ribbenrooster op 2 verschillende plaatsen breken
 		- volledige flap
+	- paradoxaal = tegengestelde richting van de beweging van lucht
 - longkneuzing
 - pneumothorax
 	- spanningspneumothorax
