@@ -23,6 +23,12 @@ lesgever: Wim smets
 
 - hoog kinetisch energie
 	- 20/30 per uur
+	- gebruik verstand
+
+blast letsels
+- vuurwerk
+- aanslagen
+- aardgas
 # het gouden uur
 # borstkas letsels
 # buik letsels
