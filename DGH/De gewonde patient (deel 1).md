@@ -82,6 +82,7 @@ u mag saturatie meten ook op de fractuur
 	- kneuzing = bleodvat lekt, stapelt op tussen hardwand en hartvlies
 	- pericart = vlies rond hard
 - aortascheur
+	- 
 - middenrifscheur
 
 # buik letsels
