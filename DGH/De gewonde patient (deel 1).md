@@ -59,8 +59,10 @@ lesgever: Wim smets
 u mag saturatie meten ook op de fractuur
 ## borstkas letsels
 - borstbeenbreuk
-	- 
+	- sternum
 - ribbreuk
+	- patienten gaat borst vasthouden / duwen op ribben
+	- 
 - fladderthorax
 - longkneuzing
 - pneumothorax
