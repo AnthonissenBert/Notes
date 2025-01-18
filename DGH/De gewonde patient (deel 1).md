@@ -42,7 +42,7 @@ lesgever: Wim smets
 	- die ondanks goede zorgen, later overlijden
 - mof = multi orgaan falen
 - treat first what kills first
-## toegepast
+### toegepast
 - teamwork makes the dream work
 - zuurstof
 - bloedingen stelpen
@@ -57,5 +57,18 @@ lesgever: Wim smets
 	- virje luchtweg
 	- invasieve ingrepen
 u mag saturatie meten ook op de fractuur
-# borstkas letsels
+## borstkas letsels
+- borstbeenbreuk
+	- 
+- ribbreuk
+- fladderthorax
+- longkneuzing
+- pneumothorax
+	- spanningspneumothorax
+- hemothorax
+- hartkneuzing
+- harttamponade
+- aortascheur
+- middenrifscheur
+
 # buik letsels
