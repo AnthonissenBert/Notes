@@ -78,8 +78,8 @@ u mag saturatie meten ook op de fractuur
 	- bloed in de longen / borstkas
 	- polypnoe
 - hartkneuzing / harttamponade
-	- kneuzing
-	- tamponade
+	- tamponade = spier wordt naar binnen geduwd. bloed in hartvlies
+	- kneuzing = bleodvat lekt, stapelt op tussen hardwand en hartvlies
 	- pericart = vlies rond hard
 - aortascheur
 - middenrifscheur
