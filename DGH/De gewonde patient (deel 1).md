@@ -50,6 +50,11 @@ lesgever: Wim smets
 - spalken
 - aligneren
 - pijn therapie
-- shock fooro
+- shock voorkomen BLS
+- tijdig herkennen en erkennen van mug
+	- vochtreanimatie
+	- pijnbesrijding
+	- virje luchtweg
+	- invasieve ingrepen
 # borstkas letsels
 # buik letsels
