@@ -36,8 +36,9 @@ lesgever: Wim smets
 ## verband tussen ongeval en verwondingen
 ## het gouden uur en de rol er van
 - type slachtoffer
-	- die onmiddelijk overleiden
-	- die na enkele minuten overleiden
-	- 
+	- die onmiddelijk overlijden
+	- die na enkele minuten overlijden
+	- die de eerste uren na het ongeval overlijden
+	- die ondanks goede zorgen, later overlijden
 # borstkas letsels
 # buik letsels
