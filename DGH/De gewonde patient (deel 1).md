@@ -20,6 +20,9 @@ lesgever: Wim smets
 - traagheid of inertie
 - hoofdwet pechanica
 - actie en reactie
+
+- hoog kinetisch energie
+	- 20/30 per uur
 # het gouden uur
 # borstkas letsels
 # buik letsels
