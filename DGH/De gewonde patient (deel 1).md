@@ -33,7 +33,8 @@ lesgever: Wim smets
 - shotwonden
 	- in / uitgangswonde
 	- letsel afhankelijk van type projectiel
-## 
+## verband tussen ongeval en verwondingen
+- 
 # het gouden uur
 # borstkas letsels
 # buik letsels
