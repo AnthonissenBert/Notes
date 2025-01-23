@@ -4,3 +4,16 @@
 3. pc drops to 1hp = heeeeeeeeeeeeeeeelp
 ---
 # session start
+noble fey cloris is held accountable for admages to dustwall
+
+---
+# Chat Tips
+
+Type these chat commands into the text box below then press the **Enter** key.
+
+- Dice Rolls  
+    **/roll** 1d20 or **/r** 1d20  
+    **/gmroll** 2d6>5 or **/gr** 2d6>5
+- Whisper a Player or Character  
+    **/w** name message  
+    **/w gm** message
