@@ -6,6 +6,8 @@
 # session start
 noble fey cloris is held accountable for admages to dustwell
 
+people called upon action are turned within 
+
 ---
 # Chat Tips
 
