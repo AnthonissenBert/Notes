@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "abill",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e709c9033c12b6d7",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
     "DND/BeyondTheMournlords/Players/Abill.md",
     "DND/BeyondTheMournlords/Sessions/2023/2023-09-23.md",
