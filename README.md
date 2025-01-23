@@ -1,8 +1,10 @@
 # Welcome
 
-## Campaigns
+## Notes in the DGH course
 
-- Beyond the mournlords [main campaign]
+## DND Campaigns
+
+- Beyond the mournlords
 - The Roleplaying Campaign
 - Tiranny of Dragons
 - Apocalyptic Summer Boys
