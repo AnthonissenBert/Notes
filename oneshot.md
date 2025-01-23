@@ -6,7 +6,11 @@
 # session start
 noble fey cloris is held accountable for admages to dustwell
 
-people called upon action are turned within 
+people called upon action are turned within sugar
+- the people scooping it up are paralyzed?
+
+movements of winter court are being discussed
+
 
 ---
 # Chat Tips
