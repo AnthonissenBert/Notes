@@ -18,7 +18,9 @@ zeligraph
 - sent their agents upon the maelstrom
 - otherwise boreal coven will subdue the feywild
 
-prince rimelaan is seen as the archfey in charge of the gloaming cour
+prince rimelaan is seen as the archfey in charge of the gloaming court
+- he doesn't take responsibility though
+- released 
 
 ---
 # Chat Tips
