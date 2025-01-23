@@ -4,7 +4,7 @@
 3. pc drops to 1hp = heeeeeeeeeeeeeeeelp
 ---
 # session start
-noble fey cloris is held accountable for admages to dustwall
+noble fey cloris is held accountable for admages to dustwell
 
 ---
 # Chat Tips
