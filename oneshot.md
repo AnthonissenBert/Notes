@@ -12,6 +12,13 @@ people called upon action are turned within sugar
 movements of winter court are being discussed
 
 zeligraph
+- distraction of the truth
+- boreal coven harnesses the elements
+- brings back runes
+- sent their agents upon the maelstrom
+- otherwise boreal coven will subdue the feywild
+
+prince rimelaan is seen as the archfey in charge of the gloaming cour
 
 ---
 # Chat Tips
