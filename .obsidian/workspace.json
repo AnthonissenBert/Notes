@@ -15,7 +15,7 @@
               "state": {
                 "file": "oneshot.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
