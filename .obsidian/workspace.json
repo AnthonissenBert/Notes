@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "abill",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,6 +181,8 @@
   },
   "active": "e709c9033c12b6d7",
   "lastOpenFiles": [
+    "DND/BeyondTheMournlords/Players/Abill.md",
+    "DND/BeyondTheMournlords/Sessions/2023/2023-09-23.md",
     "oneshot.md",
     "DND/TheRoleplayCampaign/Sessions/2024-12-22.md",
     "DND/WarOfThePlanes/notes.md",
@@ -204,8 +207,6 @@
     "DND/BeyondTheMournlords/Sessions/2024/2024-03-10.md",
     "DND/BeyondTheMournlords/Sessions/2024/2024-02-24.md",
     "DND/BeyondTheMournlords/Players/Hadrian.md",
-    "DND/BeyondTheMournlords/Npc's/Thagal.md",
-    "DND/BeyondTheMournlords/Sessions/2023/2023-12-10.md",
     "a.out",
     "DND/SlingshotDnD/_Assets/Tokens/wolf2.png",
     "DND/SlingshotDnD/_Assets/Tokens/token_5.png",
