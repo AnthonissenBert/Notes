@@ -63,8 +63,7 @@
               "title": "2024-12-15"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,10 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff764e6281e536c0",
+  "active": "936085ecee040eae",
   "lastOpenFiles": [
-    "DND/TyrannyOfDragons/sessions/2025-01-26.md",
     "Leosin.md",
+    "DND/TyrannyOfDragons/sessions/2025-01-26.md",
     "the well.md",
     "DND/TyrannyOfDragons/sessions/2024-12-15.md",
     "DND/oneshot.md",
