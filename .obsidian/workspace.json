@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lord of waterdeep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "936085ecee040eae",
+  "active": "1d92b6cc6a9070aa",
   "lastOpenFiles": [
     "DND/TyrannyOfDragons/sessions/2024-12-15.md",
     "DND/TyrannyOfDragons/sessions/2025-01-26.md",
