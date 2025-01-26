@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "51b35fe6bb64fd11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mistral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mistral"
+            }
+          },
+          {
             "id": "f2f7fe3ae0c665eb",
             "type": "leaf",
             "state": {
@@ -263,8 +277,9 @@
   },
   "active": "936085ecee040eae",
   "lastOpenFiles": [
-    "Diderus.md",
+    "mistral.md",
     "DND/TyrannyOfDragons/sessions/2025-01-26.md",
+    "Diderus.md",
     "Varum the white.md",
     "the serpent hills.md",
     "Leosin.md",
@@ -288,7 +303,6 @@
     "DND/TyrannyOfDragons/Thagult Neverender.md",
     "DND/TyrannyOfDragons/Draakhorn.md",
     "DND/TyrannyOfDragons/Bercy.md",
-    "DND/TheRoleplayCampaign/Sessions/2024-12-22.md",
     "a.out",
     "DGH",
     "DGH",
