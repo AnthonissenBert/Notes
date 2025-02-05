@@ -1,4 +1,4 @@
-Ward: thiefling warlock
+Ward: thiefling warlock ()
 Kato: thiefling bard
 Quinto: drow elf rogue
 nina: high elf wizard
