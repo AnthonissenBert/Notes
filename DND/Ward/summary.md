@@ -1,7 +1,2 @@
-Ward: 
-Kato: 
-Quinto: 
-nina: 
-Jaro: protector aasimar monk
-ward: Dragonborn paladin
+ward: 
 Thijs: gnome barbarian
