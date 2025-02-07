@@ -1,1 +1,1 @@
-The party is tasked
+The party is tasked with infiltrating 
