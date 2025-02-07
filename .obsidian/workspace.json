@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Factions/The Conclave.md",
+                "file": "DND/Ward/Party/Quinto pc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Conclave"
+              "title": "Quinto pc"
             }
           },
           {
@@ -270,11 +270,11 @@
   },
   "active": "fd24726b125de5ea",
   "lastOpenFiles": [
-    "DND/Ward/Factions/The Collective.md",
+    "DND/Ward/Party/Jaro pc.md",
     "DND/Ward/Factions/The Conclave.md",
+    "DND/Ward/Factions/The Collective.md",
     "DND/Ward/Plot.md",
     "DND/Ward/Factions",
-    "DND/Ward/Party/Jaro pc.md",
     "DND/Ward/summary.md",
     "DND/Ward/Party/Kato pc.md",
     "DND/Ward/Party/Quinto pc.md",
