@@ -1,7 +1,7 @@
 Consists of:
 - [[Ward pc]]
 - [[Kato pc]]
-- [[Ward pc]]
+- [[Ward 2 pc]]
 - [[Thijs pc]]
 - [[Nina pc]]
 - [[Quinto pc]]
