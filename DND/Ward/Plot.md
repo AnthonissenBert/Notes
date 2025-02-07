@@ -10,4 +10,4 @@ The party is tasked via several ways
 
 to try to infiltrate an overgrown manor 
 
-Plot twist: 
+Plot twist: at the end of the manor it is revealed that this is the noble man own manor 
