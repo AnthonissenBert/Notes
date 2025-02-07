@@ -1,1 +1,1 @@
-The p
+The party is tasked

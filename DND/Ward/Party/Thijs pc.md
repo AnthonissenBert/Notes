@@ -1,4 +1,3 @@
-Thijs: gnome barbarian
 Race: Rock gnome
 Class: Barbarian
 Health: ...
