@@ -1,7 +1,7 @@
 Ward: 
-Kato: thiefling bard (10hp)
-Quinto: drow elf rogue (9hp)
-nina: high elf wizard (9hp)
+Kato: 
+Quinto: 
+nina: 
 Jaro: protector aasimar monk
 ward: Dragonborn paladin
 Thijs: gnome barbarian
