@@ -1,1 +1,1 @@
-The party is tasked with infiltrating 
+The party is tasked on several ways with infiltrating a lonesome 
