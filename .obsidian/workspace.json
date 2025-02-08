@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Plot.md",
+                "file": "DND/Ward/Locations/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plot"
+              "title": "Untitled"
             }
           }
         ]
@@ -178,11 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d34edea2307ec24",
+  "active": "e01be0f2d8859dd5",
   "lastOpenFiles": [
+    "DND/Ward/Locations/Abandonded manor.md",
+    "DND/Ward/Locations/Untitled.md",
+    "DND/Ward/Plot.md",
     "DND/Ward/Npc's",
     "DND/Ward/Party/summary.md",
-    "DND/Ward/Locations/Abandonded manor.md",
     "DND/Ward/Factions/The Lodge.md",
     "DND/Ward/Deities/Untitled.md",
     "DND/Ward/Factions/The Collective.md",
@@ -199,7 +201,6 @@
     "DND/Ward/Party/Maribella kathropa (Bells).md",
     "DND/Ward/Party/Jaro pc.md",
     "DND/Ward/Party/Drakarex Vezdaryon.md",
-    "DND/Ward/Plot.md",
     "DND/Ward/Locations",
     "Wetlands.md",
     "DND/BeyondTheMournlords/Players/Humphrey.md",
@@ -217,7 +218,6 @@
     "DND",
     "DND/WarOfThePlanes/_Assets/Pasted image 20240114162948.png",
     "DND/WarOfThePlanes/_Assets/Pasted image 20240107201657.png",
-    "DND/WarOfThePlanes/_Assets",
     "DND/SlingshotDnD/_Assets/forsonne.png",
     "WarOfThePlanes/Pasted image 20240114162948.png",
     "WarOfThePlanes/Pasted image 20240107201657.png",
