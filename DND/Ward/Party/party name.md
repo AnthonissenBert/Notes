@@ -1,5 +1,5 @@
 Consists of:
-- [[Ward pc]]
+- [[Vrangr]]
 - [[Kato pc]]
 - [[Drakarex Vezdaryon]]
 - [[Thijs pc]]
