@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Locations/Kingdom/Poldavia Kingdom.md",
+                "file": "DND/Ward/Locations/Kingdom/Everford Kingdom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poldavia Kingdom"
+              "title": "Everford Kingdom"
             }
           }
         ]
@@ -181,8 +181,8 @@
   "active": "e01be0f2d8859dd5",
   "lastOpenFiles": [
     "DND/Ward/Locations/Kingdom/Haster Kingdom.md",
-    "DND/Ward/Locations/Kingdom/Everford Kingdom.md",
     "DND/Ward/Locations/Kingdom/Poldavia Kingdom.md",
+    "DND/Ward/Locations/Kingdom/Everford Kingdom.md",
     "DND/Ward/Locations/Kingdom",
     "DND/Ward/Locations/Abandonded manor.md",
     "DND/Ward/Plot.md",
