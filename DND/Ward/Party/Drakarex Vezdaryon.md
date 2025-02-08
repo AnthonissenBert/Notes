@@ -2,6 +2,6 @@ Ward Ven PC
 
 Race: Bronze Dragonborn
 Class: Paladin
-Health: ...
+Health: 12hp
 AC: ...
 Deity: Bahamut
