@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Deities/Untitled.md",
+                "file": "DND/Ward/Factions/The Collective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "The Collective"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Locations/summary.md",
+                "file": "DND/Ward/Factions/The Collective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "summary"
+              "title": "The Collective"
             }
           }
         ]
@@ -198,9 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d34edea2307ec24",
+  "active": "e01be0f2d8859dd5",
   "lastOpenFiles": [
+    "DND/Ward/Factions/The Conclave.md",
     "DND/Ward/Deities/Untitled.md",
+    "DND/Ward/Factions/The Collective.md",
     "DND/Ward/Locations/summary.md",
     "DND/Ward/Deities/Loth.md",
     "DND/Ward/Deities/Mystra.md",
@@ -227,8 +229,6 @@
     "conflict-files-obsidian-git.md",
     "README.md",
     "DND/Ward/Party",
-    "DND/Ward/Factions/The Conclave.md",
-    "DND/Ward/Factions/The Collective.md",
     "DND/Ward/Factions",
     "DND/Ward",
     "a.out",
