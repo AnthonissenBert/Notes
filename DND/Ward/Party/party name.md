@@ -1,7 +1,7 @@
 Consists of:
 - [[Ward pc]]
 - [[Kato pc]]
-- [[Ward 2 pc]]
+- [[Drakarex Vezdaryon]]
 - [[Thijs pc]]
 - [[Nina pc]]
 - [[Quinto pc]]
