@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Party/Vrangr.md",
+                "file": "DND/Ward/Deities/Mystra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vrangr"
+              "title": "Mystra"
             }
           }
         ]
@@ -200,6 +200,10 @@
   },
   "active": "e01be0f2d8859dd5",
   "lastOpenFiles": [
+    "DND/Ward/Deities/Loth.md",
+    "DND/Ward/Deities/Mystra.md",
+    "DND/Ward/Deities/Tiamat.md",
+    "DND/Ward/Party/Vrangr.md",
     "DND/Ward/Party/Snatchy.md",
     "DND/Ward/Party/Quinto pc.md",
     "DND/Ward/Party/party name.md",
@@ -207,7 +211,6 @@
     "DND/Ward/Party/Maribella kathropa (Bells).md",
     "DND/Ward/Party/Jaro pc.md",
     "DND/Ward/Party/Drakarex Vezdaryon.md",
-    "DND/Ward/Party/Vrangr.md",
     "DND/Ward/summary.md",
     "DND/Ward/Plot.md",
     "DND/Ward/Locations/Abandonded manor.md",
@@ -227,9 +230,6 @@
     "DND/Ward/Factions/The Collective.md",
     "DND/Ward/Factions",
     "DND/TyrannyOfDragons/sessions/2025-01-26.md",
-    "mistral.md",
-    "Diderus.md",
-    "Varum the white.md",
     "DND/Ward",
     "a.out",
     "DGH",
