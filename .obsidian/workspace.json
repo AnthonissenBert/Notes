@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Locations/Poldavia Kingdom.md",
+                "file": "DND/Ward/Locations/Kingdom/Everford Kingdom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poldavia Kingdom"
+              "title": "Everford Kingdom"
             }
           }
         ]
@@ -178,11 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e01be0f2d8859dd5",
+  "active": "4d34edea2307ec24",
   "lastOpenFiles": [
-    "DND/Ward/Locations/Haster Kingdom.md",
-    "DND/Ward/Locations/Poldavia Kingdom.md",
-    "DND/Ward/Locations/Everford Kingdom.md",
+    "DND/Ward/Locations/Kingdom/Poldavia Kingdom.md",
+    "DND/Ward/Locations/Kingdom",
+    "DND/Ward/Locations/Kingdom/Haster Kingdom.md",
+    "DND/Ward/Locations/Kingdom/Everford Kingdom.md",
     "DND/Ward/Locations/Abandonded manor.md",
     "DND/Ward/Plot.md",
     "DND/Ward/Npc's",
@@ -207,7 +208,6 @@
     "Wetlands.md",
     "DND/BeyondTheMournlords/Players/Humphrey.md",
     "DND/BeyondTheMournlords/Players/Gragarak.md",
-    "DND/BeyondTheMournlords/Players/Dented steel.md",
     "DND/Ward/Deities",
     "DND/Ward/Party",
     "DND/Ward/Factions",
@@ -215,7 +215,6 @@
     "a.out",
     "DGH",
     "DGH",
-    "DND",
     "DND/WarOfThePlanes/_Assets/Pasted image 20240114162948.png",
     "DND/WarOfThePlanes/_Assets/Pasted image 20240107201657.png",
     "DND/SlingshotDnD/_Assets/forsonne.png",
