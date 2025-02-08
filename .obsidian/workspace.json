@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Factions/The Collective.md",
+                "file": "DND/Ward/Factions/The Lodge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Collective"
+              "title": "The Lodge"
             }
           }
         ]
@@ -201,8 +201,9 @@
   "active": "e01be0f2d8859dd5",
   "lastOpenFiles": [
     "DND/Ward/Factions/The Conclave.md",
-    "DND/Ward/Deities/Untitled.md",
+    "DND/Ward/Factions/The Lodge.md",
     "DND/Ward/Factions/The Collective.md",
+    "DND/Ward/Deities/Untitled.md",
     "DND/Ward/Locations/summary.md",
     "DND/Ward/Deities/Loth.md",
     "DND/Ward/Deities/Mystra.md",
@@ -227,7 +228,6 @@
     "DND/BeyondTheMournlords/Players/Abill.md",
     "DND/Ward/Deities",
     "conflict-files-obsidian-git.md",
-    "README.md",
     "DND/Ward/Party",
     "DND/Ward/Factions",
     "DND/Ward",
