@@ -1,8 +1,8 @@
 Consists of:
 - [[Vrangr]]
-- [[Kato pc]]
+- [[Maribella kathropa (Bells)]]
 - [[Drakarex Vezdaryon]]
-- [[Thijs pc]]
+- [[Snatchy]]
 - [[Nina pc]]
 - [[Quinto pc]]
 - [[Jaro pc]]
