@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "94e012f985c52849",
+        "id": "37b3928f10acc8c1",
         "type": "tabs",
         "children": [
           {
-            "id": "03bac079775adf75",
+            "id": "718cfe877ebe68f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Plot.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Plot"
+              "title": "New tab"
             }
           }
         ]
@@ -178,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03bac079775adf75",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
     "DND/Ward/Party/Thijs pc.md",
     "DND/Ward/Party/Kato pc.md",
