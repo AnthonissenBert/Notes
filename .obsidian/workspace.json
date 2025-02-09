@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Factions/The Companions.md",
+                "file": "DND/Ward/Locations/Noteworthy/Abandonded manor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Companions"
+              "title": "Abandonded manor"
             }
           }
         ]
@@ -188,23 +188,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddac4fcb83bbee78",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "DND/Ward/Locations/Noteworthy",
+    "DND/Ward/Factions/The Lodge.md",
+    "DND/Ward/Factions/The Conclave.md",
     "DND/Ward/Factions/The Companions.md",
+    "DND/Ward/Factions/The Collective.md",
+    "conflict-files-obsidian-git.md",
     "Wetlands.md",
     "DND/Ward/Party/summary.md",
     "DND/Ward/Party/Vrangr.md",
     "DND/Ward/Party/Snatchy.md",
     "DND/Ward/Party/Maribella kathropa (Bells).md",
     "DND/Ward/Party/Drakarex Vezdaryon.md",
-    "DND/Ward/Locations/Kingdom/Poldavia Kingdom.md",
-    "DND/Ward/Locations/Kingdom/Haster Kingdom.md",
-    "DND/Ward/Locations/Kingdom/Everford Kingdom.md",
-    "DND/Ward/Locations/Kingdom",
-    "DND/Ward/Locations/Abandonded manor.md",
+    "DND/Ward/Locations/Kingdoms/Poldavia.md",
+    "DND/Ward/Locations/Kingdoms/Haster.md",
+    "DND/Ward/Locations/Kingdoms/Everford.md",
+    "DND/Ward/Locations/Kingdoms",
+    "DND/Ward/Locations/Noteworthy/Abandonded manor.md",
     "DND/Ward/Locations",
-    "DND/Ward/Factions/The Lodge.md",
     "DND/Ward/Deities/Tiamat.md",
     "DND/Ward/Deities/Mystra.md",
     "DND/Ward/Deities/Loth.md",
@@ -216,9 +219,6 @@
     "DND/Ward/Party/Ward 2 pc.md",
     "DND/Ward/Party/Quinto pc.md",
     "DND/Ward/Party/Jaro pc.md",
-    "DND/Ward/Factions/The Conclave.md",
-    "DND/Ward/Factions/The Collective.md",
-    "DND/Ward/Plot.md",
     "DND/Ward/Factions",
     "DND/Ward/Party",
     "DND/Ward",
