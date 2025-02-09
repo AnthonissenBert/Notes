@@ -1,1 +1,1 @@
-place where [[Tiamat]] is being summonned
+place where [[DND/TyrannyOfDragons/npcs/Tiamat]] is being summonned

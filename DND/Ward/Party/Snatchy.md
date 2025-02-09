@@ -1,4 +1,6 @@
+Thijs PC
+
 Race: Rock gnome
 Class: Barbarian
-Health: ...
+Health: 14hp
 AC: ...
