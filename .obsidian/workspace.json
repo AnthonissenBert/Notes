@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "The Companions"
             }
-          },
-          {
-            "id": "458446d4e84c3933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "458446d4e84c3933",
+  "active": "ddac4fcb83bbee78",
   "lastOpenFiles": [
-    "DND/Ward/Factions/The Companions.md",
     "conflict-files-obsidian-git.md",
+    "DND/Ward/Factions/The Companions.md",
     "Wetlands.md",
     "DND/Ward/Party/summary.md",
     "DND/Ward/Party/Vrangr.md",
