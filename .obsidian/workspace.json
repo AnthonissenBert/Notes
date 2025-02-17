@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Locations/Noteworthy/Abandonded manor.md",
+                "file": "DND/Ward/Factions/The Conclave.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Abandonded manor"
+              "title": "The Conclave"
             }
           }
         ]
@@ -188,10 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "ddac4fcb83bbee78",
   "lastOpenFiles": [
-    "DND/Ward/Locations/Noteworthy",
     "DND/Ward/Factions/The Lodge.md",
+    "DND/Ward/Locations/Noteworthy/Abandonded manor.md",
+    "DND/Ward/Locations/Noteworthy",
     "DND/Ward/Factions/The Conclave.md",
     "DND/Ward/Factions/The Companions.md",
     "DND/Ward/Factions/The Collective.md",
@@ -206,7 +207,6 @@
     "DND/Ward/Locations/Kingdoms/Haster.md",
     "DND/Ward/Locations/Kingdoms/Everford.md",
     "DND/Ward/Locations/Kingdoms",
-    "DND/Ward/Locations/Noteworthy/Abandonded manor.md",
     "DND/Ward/Locations",
     "DND/Ward/Deities/Tiamat.md",
     "DND/Ward/Deities/Mystra.md",
@@ -235,7 +235,6 @@
     "DND/SlingshotDnD/_Assets/Tokens/LordLurken.png",
     "DND/SlingshotDnD/_Assets/pdf/vauralok.pdf",
     "DND/SlingshotDnD/_Assets/pdf/sudo_Bram.pdf",
-    "DND/SlingshotDnD/_Assets/pdf/Monom.pdf",
     "Untitled.canvas"
   ]
 }
