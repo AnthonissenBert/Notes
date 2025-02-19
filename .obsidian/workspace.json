@@ -11,10 +11,24 @@
             "id": "ddac4fcb83bbee78",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DND/BeyondTheMournlords/Sessions/2024/2024-12-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-21"
             }
           }
         ]
@@ -176,6 +190,10 @@
   },
   "active": "ddac4fcb83bbee78",
   "lastOpenFiles": [
+    "DND/BeyondTheMournlords/Sessions/2024/2024-03-25.md",
+    "DND/BeyondTheMournlords/Sessions/2024/2024-10-28.md",
+    "DND/BeyondTheMournlords/Sessions/2024/test.md",
+    "DND/SlingshotDnD/Npc's/Neutrals/Victor Duskmire.md",
     "DND/Ward/Factions/The Conclave.md",
     "DND/Ward/Factions/The Lodge.md",
     "DND/Ward/Locations/Noteworthy/Abandonded manor.md",
@@ -202,9 +220,6 @@
     "DND/Ward/Party/Thijs pc.md",
     "DND/Ward/Party/Kato pc.md",
     "DND/Ward/Party/Ward pc.md",
-    "DND/Ward/Party/Ward 2 pc.md",
-    "DND/Ward/Party/Quinto pc.md",
-    "DND/Ward/Party/Jaro pc.md",
     "DND/Ward/Factions",
     "DND/Ward/Party",
     "DND/Ward",
