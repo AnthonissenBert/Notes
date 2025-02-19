@@ -11,24 +11,10 @@
             "id": "ddac4fcb83bbee78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Factions/The Conclave.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Conclave"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -190,10 +176,10 @@
   },
   "active": "ddac4fcb83bbee78",
   "lastOpenFiles": [
+    "DND/Ward/Factions/The Conclave.md",
     "DND/Ward/Factions/The Lodge.md",
     "DND/Ward/Locations/Noteworthy/Abandonded manor.md",
     "DND/Ward/Locations/Noteworthy",
-    "DND/Ward/Factions/The Conclave.md",
     "DND/Ward/Factions/The Companions.md",
     "DND/Ward/Factions/The Collective.md",
     "conflict-files-obsidian-git.md",
