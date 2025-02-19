@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/BeyondTheMournlords/Sessions/2024/2024-12-21.md",
+                "file": "DND/Templates/location.template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2024-12-21"
+              "title": "location.template"
             }
           }
         ]
@@ -190,6 +190,9 @@
   },
   "active": "ddac4fcb83bbee78",
   "lastOpenFiles": [
+    "DND/Templates/combat.template.md",
+    "DND/Templates/character-sheet-combat.template.md",
+    "DND/BeyondTheMournlords/Sessions/2024/2024-12-21.md",
     "DND/BeyondTheMournlords/Sessions/2024/2024-03-25.md",
     "DND/BeyondTheMournlords/Sessions/2024/2024-10-28.md",
     "DND/BeyondTheMournlords/Sessions/2024/test.md",
@@ -217,9 +220,6 @@
     "DND/Ward/Deities/Loth.md",
     "DND/Ward/Deities/Bahamut.md",
     "DND/Ward/Deities",
-    "DND/Ward/Party/Thijs pc.md",
-    "DND/Ward/Party/Kato pc.md",
-    "DND/Ward/Party/Ward pc.md",
     "DND/Ward/Factions",
     "DND/Ward/Party",
     "DND/Ward",
