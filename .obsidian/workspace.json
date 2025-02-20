@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "2198a7e08963ed27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Duskwarden smithy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Duskwarden smithy"
+            }
+          },
+          {
+            "id": "d41d0c2ef8ebcb06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Veilmarket.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Veilmarket"
+            }
+          },
+          {
             "id": "56f5ab1d588aa441",
             "type": "leaf",
             "state": {
@@ -285,10 +333,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f5ab1d588aa441",
+  "active": "2198a7e08963ed27",
   "lastOpenFiles": [
-    "The Hollow Crown Tavern.md",
+    "Duskwarden smithy.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
+    "The Veilmarket.md",
+    "The Hollow Crown Tavern.md",
     "DND/Ward/Locations/Forests/Everglade forest.md",
     "Diderus.md",
     "Leosin.md",
@@ -315,8 +365,6 @@
     "DND/BeyondTheMournlords/Sessions/2024/2024-03-25.md",
     "DND/BeyondTheMournlords/Sessions/2024/2024-10-28.md",
     "DND/BeyondTheMournlords/Sessions/2024/test.md",
-    "DND/SlingshotDnD/Npc's/Neutrals/Victor Duskmire.md",
-    "DND/Ward/Factions/The Conclave.md",
     "DND/Ward/Locations/Noteworthy",
     "DND/Ward/Locations/Kingdoms",
     "DND/Ward/Locations",
