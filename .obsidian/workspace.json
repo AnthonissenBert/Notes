@@ -11,10 +11,24 @@
             "id": "f1311d62639fa9f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DND/SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Everburning Coal"
             }
           }
         ]
@@ -176,6 +190,11 @@
   },
   "active": "f1311d62639fa9f0",
   "lastOpenFiles": [
+    "DND/SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
+    "DND/SlingshotDnD/Deities/Yuria.md",
+    "DND/SlingshotDnD/Deities/Vaestus.md",
+    "DND/SlingshotDnD/Deities/Magnus.md",
+    "DND/SlingshotDnD/Deities/Hircine.md",
     "DND/Templates/location.template.md",
     "DND/Templates/combat.template.md",
     "DND/Templates/character-sheet-combat.template.md",
@@ -198,13 +217,8 @@
     "DND/Ward/Party/Maribella kathropa (Bells).md",
     "DND/Ward/Party/Drakarex Vezdaryon.md",
     "DND/Ward/Locations/Kingdoms/Poldavia.md",
-    "DND/Ward/Locations/Kingdoms/Haster.md",
-    "DND/Ward/Locations/Kingdoms/Everford.md",
     "DND/Ward/Locations/Kingdoms",
     "DND/Ward/Locations",
-    "DND/Ward/Deities/Tiamat.md",
-    "DND/Ward/Deities/Mystra.md",
-    "DND/Ward/Deities/Loth.md",
     "DND/Ward/Deities",
     "DND/Ward/Factions",
     "DND/Ward/Party",
