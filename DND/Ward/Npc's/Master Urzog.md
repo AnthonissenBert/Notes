@@ -4,7 +4,7 @@ In charge of: the [[Abandonded manor]]
 
 ---
 
-This old orc sprouts glasses, nice clothes and 
+This old orc sprouts glasses, nice clothes and a trimmed long beard
 
 ---
 
