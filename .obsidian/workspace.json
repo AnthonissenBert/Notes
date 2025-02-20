@@ -55,8 +55,7 @@
               "title": "ancient red dragon"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +212,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "053e130cda730f95",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
-    "DND/Ward/Npc's/Master Urzog.md",
+    "DND/Ward/Locations/Cities",
+    "DND/Ward/Locations/Towns",
     "ancient red dragon.md",
+    "DND/Ward/Npc's/Master Urzog.md",
     "DND/SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
     "DND/Ward/Npc's",
     "DND/SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
@@ -242,7 +243,6 @@
     "Wetlands.md",
     "DND/Ward/Party/summary.md",
     "DND/Ward/Party/Vrangr.md",
-    "DND/Ward/Party/Snatchy.md",
     "DND/Ward/Locations/Kingdoms",
     "DND/Ward/Locations",
     "DND/Ward/Deities",
@@ -260,7 +260,6 @@
     "DND/SlingshotDnD/_Assets/Tokens/MiningGuildLeader.png",
     "DND/SlingshotDnD/_Assets/Tokens/MerchantHallLeader.png",
     "DND/SlingshotDnD/_Assets/Tokens/LordLurken.png",
-    "DND/SlingshotDnD/_Assets/pdf/vauralok.pdf",
     "Untitled.canvas"
   ]
 }
