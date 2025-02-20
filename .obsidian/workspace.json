@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Npc's/Master Urzog.md",
+                "file": "DND/Ward/Locations/Towns/Bonmore.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Master Urzog"
+              "title": "Bonmore"
             }
           },
           {
@@ -212,12 +212,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "f1311d62639fa9f0",
   "lastOpenFiles": [
+    "DND/Ward/Locations/Forests",
+    "DND/Ward/Npc's/Master Urzog.md",
+    "DND/Ward/Locations/Towns/Bonmore.md",
     "DND/Ward/Locations/Cities",
     "DND/Ward/Locations/Towns",
     "ancient red dragon.md",
-    "DND/Ward/Npc's/Master Urzog.md",
     "DND/SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
     "DND/Ward/Npc's",
     "DND/SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
@@ -242,14 +244,12 @@
     "conflict-files-obsidian-git.md",
     "Wetlands.md",
     "DND/Ward/Party/summary.md",
-    "DND/Ward/Party/Vrangr.md",
     "DND/Ward/Locations/Kingdoms",
     "DND/Ward/Locations",
     "DND/Ward/Deities",
     "DND/Ward/Factions",
     "DND/Ward/Party",
     "DND/Ward",
-    "a.out",
     "DND/SlingshotDnD/_Assets/Tokens/wolf2.png",
     "DND/SlingshotDnD/_Assets/Tokens/token_5.png",
     "DND/SlingshotDnD/_Assets/Tokens/token_4.png",
