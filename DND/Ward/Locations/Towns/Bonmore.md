@@ -7,7 +7,7 @@
 	- [[Everglade forest]]
 ---
 # Description
-Nestled in the [[Vale of Eldrin]] lies the town of [[Bonmore]]. A small quiet town 
+Nestled in the [[Vale of Eldrin]] lies the town of [[Bonmore]]. A small quiet town that is built around the fertile lands it sits upon
 # Shops
 - tavern
 - Blacksmith
