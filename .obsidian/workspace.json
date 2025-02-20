@@ -199,8 +199,7 @@
               "title": "ancient red dragon"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -357,7 +356,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49fbe36cf448897a",
+  "active": "f1311d62639fa9f0",
   "lastOpenFiles": [
     "Whitemane forge.md",
     "Duskwarden smith.md",
