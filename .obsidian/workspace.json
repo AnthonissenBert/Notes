@@ -55,7 +55,8 @@
               "title": "ancient red dragon"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1311d62639fa9f0",
+  "active": "053e130cda730f95",
   "lastOpenFiles": [
-    "ancient red dragon.md",
     "DND/Ward/Npc's/Master Urzog.md",
+    "ancient red dragon.md",
     "DND/SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
     "DND/Ward/Npc's",
     "DND/SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
