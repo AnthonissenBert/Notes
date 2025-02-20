@@ -23,6 +23,5 @@ Nestled in the [[Vale of Eldrin]] lies the town of [[Bonmore]]. A small quiet to
 - [[Millary]]
 # Housing
 - every family has it's own house
-
 # Map
 ![[bonmore_town_map.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Locations/Towns/Bonmore.md",
+                "file": "DND/Templates/town.template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,323 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bonmore"
-            }
-          },
-          {
-            "id": "f927947dcbf24bf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Locations/POI's/Duskwarden smith.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Duskwarden smith"
-            }
-          },
-          {
-            "id": "4bfd348163ef653c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Locations/POI's/Millary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Millary"
-            }
-          },
-          {
-            "id": "341560441a504fab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Locations/POI's/The Veilmarket.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Veilmarket"
-            }
-          },
-          {
-            "id": "422c07f0ab54fe02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Locations/POI's/Duskwarden smith.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Duskwarden smith"
-            }
-          },
-          {
-            "id": "59439d3cf3ce998d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Locations/POI's/The Hollow Crown Tavern.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Hollow Crown Tavern"
-            }
-          },
-          {
-            "id": "f4ad0e32763759ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Locations/POI's/Duskwarden smith.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Duskwarden smith"
-            }
-          },
-          {
-            "id": "2198a7e08963ed27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Locations/POI's/Duskwarden smith.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Duskwarden smith"
-            }
-          },
-          {
-            "id": "49fbe36cf448897a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Locations/POI's/Whitemane forge.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Whitemane forge"
-            }
-          },
-          {
-            "id": "d41d0c2ef8ebcb06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Locations/POI's/The Veilmarket.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Veilmarket"
-            }
-          },
-          {
-            "id": "56f5ab1d588aa441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Locations/POI's/The Hollow Crown Tavern.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Hollow Crown Tavern"
-            }
-          },
-          {
-            "id": "0934fa52721c04b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Locations/Forests/Everglade forest.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Everglade forest"
-            }
-          },
-          {
-            "id": "3b1adf98cb4db438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/TyrannyOfDragons/Diderus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Diderus"
-            }
-          },
-          {
-            "id": "053e130cda730f95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Npc's/ancient red dragon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ancient red dragon"
+              "title": "town.template"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -501,10 +188,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bfd348163ef653c",
+  "active": "f1311d62639fa9f0",
   "lastOpenFiles": [
-    "DND/Ward/Locations/POI's/Duskwarden smith.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
+    "DND/Templates/town.template.md",
+    "DND/Templates/village.template.md",
+    "DND/Ward/Locations/POI's/Duskwarden smith.md",
     "DND/Ward/Locations/POI's/Millary.md",
     "DND/Ward/Plot.md",
     "DND/Ward/Locations/POI's/Abandonded manor.md",
@@ -524,7 +213,7 @@
     "DND/Ward/Locations/POI's/The Veilmarket.md",
     "DND/Ward/Locations/POI's",
     "DND/Ward/Locations/Forests/Everglade forest.md",
-    "DND/Ward/Locations/Vale of Eldrin.md",
+    "DND/Ward/Locations/POI's/Vale of Eldrin.md",
     "DND/Ward/Locations/Forests",
     "DND/Ward/Npc's/Master Urzog.md",
     "DND/Ward/Locations/Cities",
@@ -534,8 +223,6 @@
     "DND/Ward/Npc's",
     "DND/SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
     "DND/SlingshotDnD/Deities/Yuria.md",
-    "DND/SlingshotDnD/Deities/Vaestus.md",
-    "DND/SlingshotDnD/Deities/Magnus.md",
     "DND/Ward/Locations/Noteworthy",
     "DND/Ward/Locations/Kingdoms",
     "DND/Ward/Locations",
