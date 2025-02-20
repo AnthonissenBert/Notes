@@ -1,7 +1,6 @@
 The party knows each other already.
 
-They are wheeled in to  
-
+They are wheeled in to [[Bonmore]] by cart. 
 
 The party is tasked via several ways
 

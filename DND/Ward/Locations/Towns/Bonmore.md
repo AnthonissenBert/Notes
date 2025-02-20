@@ -20,6 +20,7 @@ Nestled in the [[Vale of Eldrin]] lies the town of [[Bonmore]]. A small quiet to
 - [[The Hollow Crown Tavern]]
 - [[Duskwarden smith]]
 - [[The Veilmarket]]
+- [[Millary]]
 # Housing
 - every family has it's own house
 
