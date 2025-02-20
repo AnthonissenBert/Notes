@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Duskwarden smithy.md",
+                "file": "Duskwarden smith.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Duskwarden smithy"
+              "title": "Duskwarden smith"
+            }
+          },
+          {
+            "id": "49fbe36cf448897a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Whitemane forge.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Whitemane forge"
             }
           },
           {
@@ -176,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -333,9 +357,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2198a7e08963ed27",
+  "active": "49fbe36cf448897a",
   "lastOpenFiles": [
-    "Duskwarden smithy.md",
+    "Whitemane forge.md",
+    "Duskwarden smith.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
     "The Veilmarket.md",
     "The Hollow Crown Tavern.md",
@@ -364,7 +389,6 @@
     "DND/BeyondTheMournlords/Sessions/2024/2024-12-21.md",
     "DND/BeyondTheMournlords/Sessions/2024/2024-03-25.md",
     "DND/BeyondTheMournlords/Sessions/2024/2024-10-28.md",
-    "DND/BeyondTheMournlords/Sessions/2024/test.md",
     "DND/Ward/Locations/Noteworthy",
     "DND/Ward/Locations/Kingdoms",
     "DND/Ward/Locations",
