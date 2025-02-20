@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/TyrannyOfDragons/the serpent hills.md",
+                "file": "DND/Ward/Plot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "the serpent hills"
+              "title": "Plot"
             }
           },
           {
@@ -452,19 +452,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "f1311d62639fa9f0",
   "lastOpenFiles": [
+    "DND/Ward/Locations/Towns/Bonmore.md",
+    "DND/Ward/Locations/POI's/Abandonded manor.md",
+    "DND/SlingshotDnD/oneshot.md",
+    "DND/TyrannyOfDragons/the well.md",
+    "DND/TyrannyOfDragons/the serpent hills.md",
     "README.md",
     "DND/TyrannyOfDragons/mistral.md",
     "DND/TyrannyOfDragons/Leosin.md",
     "DND/TyrannyOfDragons/Diderus.md",
-    "DND/Ward/Locations/Towns/Bonmore.md",
     "DND/Ward/_assets",
     "DND/Ward/_assets/bonmore_town_map.png",
     "DND/Ward/Locations/POI's/Whitemane forge.md",
-    "Wetlands.md",
+    "DND/TyrannyOfDragons/Wetlands.md",
     "DND/TyrannyOfDragons/Varum the white.md",
-    "the well.md",
     "DND/Ward/Locations/POI's/The Hollow Crown Tavern.md",
     "DND/Ward/Locations/POI's/Duskwarden smith.md",
     "DND/Ward/Locations/POI's/The Veilmarket.md",
@@ -484,9 +487,6 @@
     "DND/SlingshotDnD/Deities/Magnus.md",
     "DND/SlingshotDnD/Deities/Hircine.md",
     "DND/Templates/location.template.md",
-    "DND/Templates/combat.template.md",
-    "DND/Templates/character-sheet-combat.template.md",
-    "DND/BeyondTheMournlords/Sessions/2024/2024-12-21.md",
     "DND/Ward/Locations/Noteworthy",
     "DND/Ward/Locations/Kingdoms",
     "DND/Ward/Locations",

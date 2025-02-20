@@ -1,3 +1,8 @@
+The party knows each other already.
+
+They are wheeled in to  
+
+
 The party is tasked via several ways
 
 - notice board
