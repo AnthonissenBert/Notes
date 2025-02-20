@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "56f5ab1d588aa441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Hollow Crown Tavern.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Hollow Crown Tavern"
+            }
+          },
+          {
             "id": "0934fa52721c04b9",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "ancient red dragon"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,10 +285,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1311d62639fa9f0",
+  "active": "56f5ab1d588aa441",
   "lastOpenFiles": [
-    "DND/Ward/Locations/Forests/Everglade forest.md",
+    "The Hollow Crown Tavern.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
+    "DND/Ward/Locations/Forests/Everglade forest.md",
     "Diderus.md",
     "Leosin.md",
     "mistral.md",
@@ -291,7 +317,6 @@
     "DND/BeyondTheMournlords/Sessions/2024/test.md",
     "DND/SlingshotDnD/Npc's/Neutrals/Victor Duskmire.md",
     "DND/Ward/Factions/The Conclave.md",
-    "DND/Ward/Factions/The Lodge.md",
     "DND/Ward/Locations/Noteworthy",
     "DND/Ward/Locations/Kingdoms",
     "DND/Ward/Locations",
