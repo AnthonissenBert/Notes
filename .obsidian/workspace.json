@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
+                "file": "DND/Ward/Npc's/Master Urzog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Everburning Coal"
+              "title": "Master Urzog"
             }
           }
         ]
@@ -190,6 +190,9 @@
   },
   "active": "f1311d62639fa9f0",
   "lastOpenFiles": [
+    "DND/SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
+    "DND/Ward/Npc's/Master Urzog.md",
+    "DND/Ward/Npc's",
     "DND/SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
     "DND/SlingshotDnD/Deities/Yuria.md",
     "DND/SlingshotDnD/Deities/Vaestus.md",
@@ -215,8 +218,6 @@
     "DND/Ward/Party/Vrangr.md",
     "DND/Ward/Party/Snatchy.md",
     "DND/Ward/Party/Maribella kathropa (Bells).md",
-    "DND/Ward/Party/Drakarex Vezdaryon.md",
-    "DND/Ward/Locations/Kingdoms/Poldavia.md",
     "DND/Ward/Locations/Kingdoms",
     "DND/Ward/Locations",
     "DND/Ward/Deities",
@@ -235,7 +236,6 @@
     "DND/SlingshotDnD/_Assets/Tokens/MerchantHallLeader.png",
     "DND/SlingshotDnD/_Assets/Tokens/LordLurken.png",
     "DND/SlingshotDnD/_Assets/pdf/vauralok.pdf",
-    "DND/SlingshotDnD/_Assets/pdf/sudo_Bram.pdf",
     "Untitled.canvas"
   ]
 }
