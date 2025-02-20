@@ -5,6 +5,7 @@
 - nearby points of interest
 	- [[Abandonded manor]]
 	- [[Everglade forest]]
+---
 # Description
 
 # Shops
@@ -12,3 +13,4 @@
 - Blacksmith
 - general store
 # Housing
+- every family has it's own house
