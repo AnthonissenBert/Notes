@@ -1,5 +1,6 @@
 # general
 - population
+	- 50
 	- Human (65%)
 	- Halfling (11%)
 	- Dwarf (8%)

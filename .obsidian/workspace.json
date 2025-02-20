@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Veilmarket.md",
+                "file": "DND/Ward/Locations/POI's/The Veilmarket.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Duskwarden smith.md",
+                "file": "DND/Ward/Locations/POI's/Duskwarden smith.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Hollow Crown Tavern.md",
+                "file": "DND/Ward/Locations/POI's/The Hollow Crown Tavern.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Duskwarden smith.md",
+                "file": "DND/Ward/Locations/POI's/Duskwarden smith.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Duskwarden smith.md",
+                "file": "DND/Ward/Locations/POI's/Duskwarden smith.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Whitemane forge.md",
+                "file": "DND/Ward/Locations/POI's/Whitemane forge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Veilmarket.md",
+                "file": "DND/Ward/Locations/POI's/The Veilmarket.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Hollow Crown Tavern.md",
+                "file": "DND/Ward/Locations/POI's/The Hollow Crown Tavern.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -454,18 +454,19 @@
   },
   "active": "f1311d62639fa9f0",
   "lastOpenFiles": [
-    "The Hollow Crown Tavern.md",
-    "Duskwarden smith.md",
-    "The Veilmarket.md",
+    "DND/Ward/Locations/POI's/Whitemane forge.md",
+    "Wetlands.md",
+    "Varum the white.md",
+    "the well.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
+    "DND/Ward/Locations/POI's/The Hollow Crown Tavern.md",
+    "DND/Ward/Locations/POI's/Duskwarden smith.md",
+    "DND/Ward/Locations/POI's/The Veilmarket.md",
     "Leosin.md",
     "mistral.md",
     "DND/Ward/Locations/POI's",
-    "Whitemane forge.md",
     "DND/Ward/Locations/Forests/Everglade forest.md",
     "Diderus.md",
-    "Wetlands.md",
-    "Varum the white.md",
     "DND/Ward/Locations/Vale of Eldrin.md",
     "DND/Ward/Locations/Forests",
     "DND/Ward/Npc's/Master Urzog.md",
