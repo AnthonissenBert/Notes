@@ -8,6 +8,7 @@
 	- watchtower
 - wealth
 	- 1000gp
+	- the workable fields
 - nearby points of interest
 	- [[Abandonded manor]]
 	- [[Everglade forest]]
