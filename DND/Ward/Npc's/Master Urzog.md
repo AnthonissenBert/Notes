@@ -4,8 +4,9 @@ In charge of: the [[Abandonded manor]]
 
 ---
 
-This old orc shows signs of 
+This old orc sprouts glasses, nice clothes and 
 
 ---
 
-noteworth
+noteworthy:
+is actually an [[ancient red dragon]]
