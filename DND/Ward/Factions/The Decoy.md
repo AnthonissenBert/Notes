@@ -8,7 +8,7 @@ The adventurers guild
 
 ...
 #### Goals and Ambitions
-Work together with
+Work together with every kingdom to help kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 #### Methods and Strategies 
 
 ...
