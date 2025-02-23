@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Npc's/Alexus.md",
+                "file": "DND/Ward/Npc's/Maumak Nalakiaga.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Alexus"
+              "title": "Maumak Nalakiaga"
             }
           },
           {
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "dcf07cddeef5719f",
+            "id": "3d70373b6048d2c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mozzim.md",
+                "file": "DND/Ward/Npc's/Jithy Kalukaga.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mozzim"
+              "title": "Jithy Kalukaga"
             }
           },
           {
-            "id": "aee74e8d32a9f0fc",
+            "id": "e164e22e9f5dd8c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Factions/The Decoy.md",
+                "file": "DND/Ward/Npc's/Zai.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,79 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Decoy"
-            }
-          },
-          {
-            "id": "247652d36079ce6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maumak Nalakiaga.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Maumak Nalakiaga"
-            }
-          },
-          {
-            "id": "2cd66a2db8d88218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Locations/Towns/Bonmore.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bonmore"
-            }
-          },
-          {
-            "id": "75f9f34e04478f17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Plot.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Plot"
+              "title": "Zai"
             }
           },
           {
@@ -181,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beiran.md",
+                "file": "DND/Ward/Party/Beiran.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -229,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kaya.md",
+                "file": "DND/Ward/Npc's/Kaya.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -253,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zai.md",
+                "file": "DND/Ward/Npc's/Zai.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -271,7 +199,8 @@
               "title": "Zai"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -428,22 +357,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "e164e22e9f5dd8c8",
   "lastOpenFiles": [
-    "DND/Ward/Plot.md",
-    "Mozzim.md",
-    "DND/Ward/Factions/The Lodge.md",
+    "DND/Ward/Npc's/Zai.md",
+    "DND/Ward/Npc's/Oskas.md",
+    "DND/Ward/Npc's/Mozzim.md",
+    "DND/Ward/Npc's/Maumak Nalakiaga.md",
+    "DND/Ward/Npc's/Jithy Kalukaga.md",
     "DND/Ward/Factions/The Decoy.md",
-    "Maumak Nalakiaga.md",
+    "DND/Ward/Factions/The Lodge.md",
+    "DND/Ward/Npc's/Marmorn.md",
+    "DND/Ward/Npc's/Alexus.md",
+    "DND/Ward/Plot.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
     "DND/Templates/faction.template.md",
-    "Beiran.md",
-    "DND/Ward/Npc's/Alexus.md",
-    "Kaya.md",
-    "Zai.md",
-    "Marmorn.md",
+    "DND/Ward/Party/Beiran.md",
+    "DND/Ward/Npc's/Kaya.md",
     "DND/Ward/Npc's/Hangrulir Ratsmith.md",
-    "Oskas.md",
     "DND/Ward/Npc's/Ian.md",
     "[Hangrulir Kragfall.md",
     "[Hangrulir Ratsmith.md",
@@ -455,7 +385,6 @@
     "DND/Ward/Locations/POI's/Abandonded manor.md",
     "DND/SlingshotDnD/oneshot.md",
     "DND/TyrannyOfDragons/the well.md",
-    "DND/TyrannyOfDragons/the serpent hills.md",
     "DND/Ward/_assets",
     "DND/Ward/_assets/bonmore_town_map.png",
     "DND/Ward/Locations/POI's",
