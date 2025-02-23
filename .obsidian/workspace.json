@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Plot.md",
+                "file": "DND/Ward/Factions/The Decoy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plot"
+              "title": "The Decoy"
             }
           },
           {
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "ebcfd99fd41e81f0",
+            "id": "44c01a6ee85a2891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zai Sian.md",
+                "file": "Alexus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,58 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zai Sian"
+              "title": "Alexus"
+            }
+          },
+          {
+            "id": "0618eeb23dd12487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kaya.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kaya"
+            }
+          },
+          {
+            "id": "ebcfd99fd41e81f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zai.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zai"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,12 +308,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9fa636bea5e11ed",
+  "active": "5ca7d542be47a24c",
   "lastOpenFiles": [
-    "Zai Sian.md",
-    "Beiran.md",
-    "DND/Ward/Locations/Towns/Bonmore.md",
     "DND/Ward/Plot.md",
+    "DND/Ward/Factions/The Decoy.md",
+    "DND/Ward/Locations/Towns/Bonmore.md",
+    "Beiran.md",
+    "Alexus.md",
+    "Kaya.md",
+    "Zai.md",
     "Marmorn.md",
     "Hangrulir Ratsmith.md",
     "Oskas.md",
@@ -286,11 +336,8 @@
     "README.md",
     "DND/TyrannyOfDragons/mistral.md",
     "DND/TyrannyOfDragons/Leosin.md",
-    "DND/TyrannyOfDragons/Diderus.md",
     "DND/Ward/_assets",
     "DND/Ward/_assets/bonmore_town_map.png",
-    "DND/Ward/Locations/POI's/Whitemane forge.md",
-    "DND/TyrannyOfDragons/Wetlands.md",
     "DND/Ward/Locations/POI's",
     "DND/Ward/Locations/Forests",
     "DND/Ward/Locations/Cities",

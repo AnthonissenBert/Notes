@@ -9,6 +9,7 @@ He is a small man, but exceptionally fit and toned. He wears workers overalls an
 ---
 ## family
 
-married to: [[Zai Sian]]
+married to: [[Zai]]
 2 children:
-- 
+- [[Kaya]]
+- [[Alexus]]
