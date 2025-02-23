@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "Plot"
             }
-          },
-          {
-            "id": "890bfa8e3cf563be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Factions/The Lodge.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Lodge"
-            }
-          },
-          {
-            "id": "57d2b5f429328f98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hangrulir Ratsmith.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hangrulir Ratsmith"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,11 +188,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "890bfa8e3cf563be",
+  "active": "5ca7d542be47a24c",
   "lastOpenFiles": [
+    "Marmorn.md",
     "Hangrulir Ratsmith.md",
-    "[Hangrulir Kragfall.md",
+    "Oskas.md",
+    "Ian.md",
     "DND/Ward/Factions/The Lodge.md",
+    "[Hangrulir Kragfall.md",
     "[Hangrulir Ratsmith.md",
     "DND/Ward/Plot.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
@@ -264,10 +218,7 @@
     "DND/TyrannyOfDragons/Wetlands.md",
     "DND/TyrannyOfDragons/Varum the white.md",
     "DND/Ward/Locations/POI's/The Hollow Crown Tavern.md",
-    "DND/Ward/Locations/POI's/The Veilmarket.md",
     "DND/Ward/Locations/POI's",
-    "DND/Ward/Locations/Forests/Everglade forest.md",
-    "DND/Ward/Locations/POI's/Vale of Eldrin.md",
     "DND/Ward/Locations/Forests",
     "DND/Ward/Locations/Cities",
     "DND/Ward/Locations/Towns",

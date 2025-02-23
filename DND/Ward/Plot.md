@@ -1,7 +1,7 @@
 The party knows each other already.
 
 They are wheeled in to [[Bonmore]] by cart. 
-- they've 
+- they've been assigned to look at what's happening at [[Bonmore]] by the big city guild leader
 
 The party is tasked via several ways
 
