@@ -223,8 +223,7 @@
               "title": "Zai"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -381,10 +380,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aee74e8d32a9f0fc",
+  "active": "5ca7d542be47a24c",
   "lastOpenFiles": [
-    "DND/Ward/Factions/The Lodge.md",
     "DND/Ward/Factions/The Decoy.md",
+    "DND/Ward/Factions/The Lodge.md",
     "DND/Ward/Plot.md",
     "Maumak Nalakiaga.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
