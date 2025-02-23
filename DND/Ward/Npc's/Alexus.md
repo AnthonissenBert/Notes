@@ -1,1 +1,0 @@
-Son of [[Beiran]] and [[Zai]]

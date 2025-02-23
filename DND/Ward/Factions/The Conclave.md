@@ -1,1 +1,0 @@
-Wizards / smarty pants guild

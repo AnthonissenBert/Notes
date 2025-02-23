@@ -1,1 +1,0 @@
-Officer of the [[The Decoy]]

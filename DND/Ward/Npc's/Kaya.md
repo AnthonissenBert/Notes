@@ -1,1 +1,0 @@
-Daughter of [[Beiran]] and [[Zai]]
