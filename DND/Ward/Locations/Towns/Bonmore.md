@@ -15,13 +15,13 @@
 	- [[Everglade forest]]
 ---
 # Description
-Nestled in the [[Vale of Eldrin]] lies the town of [[Bonmore]]. A small quiet town that is built around the fertile lands it sits upon. the Town center is rather small but if you study the map thoroughly enough, you see the lands [[Bonmore]] possesses are quite large. Meaning this town, is a farm town. This town is also the location of one of the outposts of t 
+Nestled in the [[Vale of Eldrin]] lies the town of [[Bonmore]]. A small quiet town that is built around the fertile lands it sits upon. the Town center is rather small but if you study the map thoroughly enough, you see the lands [[Bonmore]] possesses are quite large. Meaning this town, is a farm town. This town is also the location of one of the outposts of [[The Lodge]]. The hunters guild active in [[Vale of Eldrin]] and the surrounding forests 
 # Locations
 - [[The Hollow Crown Tavern]]
 - [[Duskwarden smith]]
 - [[The Veilmarket]]
 - [[Millary]]
-- outpost of [[The Lodge]]
+- outpost for [[The Lodge]]
 # Housing
 - every family has it's own house
 # Map
