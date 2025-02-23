@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ca7d542be47a24c",
+            "id": "90bf77db2a8656df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Npc's/Maumak Nalakiaga.md",
+                "file": "DND/Ward/Plot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Maumak Nalakiaga"
+              "title": "Plot"
             }
           },
           {
-            "id": "b21868697d5207c3",
+            "id": "0955c7b4653100e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Factions/The Lodge.md",
+                "file": "DND/Ward/Locations/POI's/Abandonded manor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,155 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Lodge"
-            }
-          },
-          {
-            "id": "3d70373b6048d2c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Npc's/Jithy Kalukaga.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Jithy Kalukaga"
-            }
-          },
-          {
-            "id": "e164e22e9f5dd8c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Npc's/Zai.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Zai"
-            }
-          },
-          {
-            "id": "f9fa636bea5e11ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Party/Beiran.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Beiran"
-            }
-          },
-          {
-            "id": "44c01a6ee85a2891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Npc's/Alexus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Alexus"
-            }
-          },
-          {
-            "id": "0618eeb23dd12487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Npc's/Kaya.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kaya"
-            }
-          },
-          {
-            "id": "ebcfd99fd41e81f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Ward/Npc's/Zai.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Zai"
+              "title": "Abandonded manor"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -357,18 +212,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e164e22e9f5dd8c8",
+  "active": "90bf77db2a8656df",
   "lastOpenFiles": [
+    "DND/Ward/Locations/POI's/Abandonded manor.md",
+    "DND/Ward/Plot.md",
+    "DND/Ward/Npc's/Maumak Nalakiaga.md",
+    "DND/Ward/Factions/The Lodge.md",
+    "DND/Ward/Npc's/Jithy Kalukaga.md",
     "DND/Ward/Npc's/Zai.md",
     "DND/Ward/Npc's/Oskas.md",
     "DND/Ward/Npc's/Mozzim.md",
-    "DND/Ward/Npc's/Maumak Nalakiaga.md",
-    "DND/Ward/Npc's/Jithy Kalukaga.md",
     "DND/Ward/Factions/The Decoy.md",
-    "DND/Ward/Factions/The Lodge.md",
     "DND/Ward/Npc's/Marmorn.md",
     "DND/Ward/Npc's/Alexus.md",
-    "DND/Ward/Plot.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
     "DND/Templates/faction.template.md",
     "DND/Ward/Party/Beiran.md",
@@ -382,7 +238,6 @@
     "DND/Templates/village.template.md",
     "DND/Ward/Locations/POI's/Duskwarden smith.md",
     "DND/Ward/Locations/POI's/Millary.md",
-    "DND/Ward/Locations/POI's/Abandonded manor.md",
     "DND/SlingshotDnD/oneshot.md",
     "DND/TyrannyOfDragons/the well.md",
     "DND/Ward/_assets",
