@@ -4,9 +4,11 @@ This is the main hunters guild active in the [[Vale of Eldrin]] and the surround
 ## Leader
 [[Hangrulir Ratsmith]]
 ## Officers
-#
-...
-#### Goals and Ambitions
+- [[Marmorn]]
+- [[Ian]]
+- [[Oskas]]
+
+# Goals and Ambitions
 
 to hunt every exotic animal in the land
 #### Methods and Strategies 
