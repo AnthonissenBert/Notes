@@ -1,19 +1,7 @@
-short description
+# Description
 
 ---
-#### Leader
-
-...
-#### Officers
-
-...
-#### Goals and Ambitions
-
-...
-#### Methods and Strategies 
-
-...
-#### Enemies and Opposition 
-
-...
-#### Flaws
+# Organogram
+## Leader
+## Officers
+# Goals and Ambitions

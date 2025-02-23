@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Factions/The Decoy.md",
+                "file": "DND/Templates/faction.template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Decoy"
+              "title": "faction.template"
             }
           },
           {
@@ -334,9 +334,9 @@
   },
   "active": "5ca7d542be47a24c",
   "lastOpenFiles": [
+    "DND/Ward/Factions/The Decoy.md",
     "DND/Ward/Plot.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
-    "DND/Ward/Factions/The Decoy.md",
     "Beiran.md",
     "Alexus.md",
     "Kaya.md",
