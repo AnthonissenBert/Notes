@@ -54,6 +54,30 @@
               "icon": "lucide-file",
               "title": "Bonmore"
             }
+          },
+          {
+            "id": "890bfa8e3cf563be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND/Ward/Factions/The Lodge.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Lodge"
+            }
           }
         ],
         "currentTab": 1
@@ -215,8 +239,9 @@
   },
   "active": "0034ed859cc68e04",
   "lastOpenFiles": [
-    "DND/Ward/Plot.md",
+    "DND/Ward/Factions/The Lodge.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
+    "DND/Ward/Plot.md",
     "DND/Ward/Locations/Towns/Untitled.md",
     "DND/Templates/town.template.md",
     "DND/Templates/village.template.md",
@@ -247,7 +272,6 @@
     "DND/Ward/Npc's/ancient red dragon.md",
     "DND/SlingshotDnD/MagicalArtifacts/Everburning Coal.md",
     "DND/Ward/Npc's",
-    "DND/SlingshotDnD/MagicalArtifacts/Crystal of Purification.md",
     "DND/Ward/Locations/Noteworthy",
     "DND/Ward/Locations/Kingdoms",
     "DND/Ward/Locations",
