@@ -22,7 +22,7 @@ Nestled in the [[Vale of Eldrin]] lies the town of [[Bonmore]]. A small quiet to
 - [[Duskwarden smith]]
 - [[The Veilmarket]]
 - [[Millary]]
-- outpost for [[The Lodge]]
+- Outpost for [[The Lodge]]
 # Housing
 - every family has it's own house
 # Map
