@@ -15,7 +15,7 @@
 	- [[Everglade forest]]
 ---
 # Description
-Nestled in the [[Vale of Eldrin]] lies the town of [[Bonmore]]. A small quiet town that is built around the fertile lands it sits upon. the Town center is rather small but if you study the map thoroughly enough, you see the lands [[Bonmore]] possesses are quite large. Meaning this town, is a farm town. This town is also posse
+Nestled in the [[Vale of Eldrin]] lies the town of [[Bonmore]]. A small quiet town that is built around the fertile lands it sits upon. the Town center is rather small but if you study the map thoroughly enough, you see the lands [[Bonmore]] possesses are quite large. Meaning this town, is a farm town. This town is also the location of one of the outposts of t 
 # Locations
 - [[The Hollow Crown Tavern]]
 - [[Duskwarden smith]]
