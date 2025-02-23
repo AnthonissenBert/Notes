@@ -55,7 +55,8 @@
               "title": "Abandonded manor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90bf77db2a8656df",
+  "active": "0955c7b4653100e8",
   "lastOpenFiles": [
-    "DND/Ward/Locations/POI's/Abandonded manor.md",
     "DND/Ward/Plot.md",
+    "DND/Ward/Locations/POI's/Abandonded manor.md",
     "DND/Ward/Npc's/Maumak Nalakiaga.md",
     "DND/Ward/Factions/The Lodge.md",
     "DND/Ward/Npc's/Jithy Kalukaga.md",
