@@ -2,8 +2,7 @@ This is the main hunters guild active in the [[Vale of Eldrin]] and the surround
 
 ---
 #### Leader
-
-...
+[[[Hangrulir Kragfall]]
 #### Officers
 
 ...
@@ -14,6 +13,6 @@ to hunt every exotic animal in the land
 - long range arrows
 - long range attacks
 - trapping
-- 
+- tracking for long days
 #### Enemies and Opposition 
 #### Flaws
