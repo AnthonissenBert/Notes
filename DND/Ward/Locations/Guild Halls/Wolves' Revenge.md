@@ -6,7 +6,7 @@ This is the
 ## Leader
 [[Mozzim]]
 ## members
-- [[VilMember of [[Wolves' Revenge]]letta]]
+- [[Villetta]]
 - [[Gitte]]
 - [[Woodrow]]
 - [[Geppert]]

@@ -1,2 +1,2 @@
 Member of [[Wolves' Revenge]]
-Race: 
+Race: Dwarf
