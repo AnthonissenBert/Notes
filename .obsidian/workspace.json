@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Templates/faction.template.md",
+                "file": "DND/Ward/Plot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "faction.template"
+              "title": "Plot"
+            }
+          },
+          {
+            "id": "aee74e8d32a9f0fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND/Ward/Factions/The Decoy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Decoy"
+            }
+          },
+          {
+            "id": "247652d36079ce6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maumak Nalakiaga.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Maumak Nalakiaga"
             }
           },
           {
@@ -175,7 +223,8 @@
               "title": "Zai"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -332,11 +381,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ca7d542be47a24c",
+  "active": "aee74e8d32a9f0fc",
   "lastOpenFiles": [
-    "DND/Ward/Factions/The Decoy.md",
     "DND/Ward/Plot.md",
+    "DND/Ward/Factions/The Decoy.md",
+    "Maumak Nalakiaga.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
+    "DND/Templates/faction.template.md",
     "Beiran.md",
     "Alexus.md",
     "Kaya.md",
@@ -358,8 +409,6 @@
     "DND/TyrannyOfDragons/the well.md",
     "DND/TyrannyOfDragons/the serpent hills.md",
     "README.md",
-    "DND/TyrannyOfDragons/mistral.md",
-    "DND/TyrannyOfDragons/Leosin.md",
     "DND/Ward/_assets",
     "DND/Ward/_assets/bonmore_town_map.png",
     "DND/Ward/Locations/POI's",
