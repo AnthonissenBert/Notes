@@ -11,13 +11,52 @@
             "id": "5ca7d542be47a24c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DND/Ward/Plot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Plot"
+            }
+          },
+          {
+            "id": "0034ed859cc68e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND/Ward/Locations/Towns/Bonmore.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bonmore"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,15 +213,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ca7d542be47a24c",
+  "active": "0034ed859cc68e04",
   "lastOpenFiles": [
+    "DND/Ward/Plot.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
     "DND/Ward/Locations/Towns/Untitled.md",
     "DND/Templates/town.template.md",
     "DND/Templates/village.template.md",
     "DND/Ward/Locations/POI's/Duskwarden smith.md",
     "DND/Ward/Locations/POI's/Millary.md",
-    "DND/Ward/Plot.md",
     "DND/Ward/Locations/POI's/Abandonded manor.md",
     "DND/SlingshotDnD/oneshot.md",
     "DND/TyrannyOfDragons/the well.md",
