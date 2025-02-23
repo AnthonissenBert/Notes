@@ -271,8 +271,7 @@
               "title": "Zai"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -429,7 +428,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcf07cddeef5719f",
+  "active": "5ca7d542be47a24c",
   "lastOpenFiles": [
     "Mozzim.md",
     "DND/Ward/Factions/The Lodge.md",
