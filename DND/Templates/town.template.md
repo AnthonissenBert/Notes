@@ -9,6 +9,4 @@
 # Locations
 - 
 # Housing
-- every family has it's own house
 # Map
-![[bonmore_town_map.png]]
