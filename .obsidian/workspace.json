@@ -78,6 +78,30 @@
               "icon": "lucide-file",
               "title": "Beiran"
             }
+          },
+          {
+            "id": "ebcfd99fd41e81f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zai Sian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zai Sian"
+            }
           }
         ],
         "currentTab": 2
@@ -239,6 +263,7 @@
   },
   "active": "f9fa636bea5e11ed",
   "lastOpenFiles": [
+    "Zai Sian.md",
     "Beiran.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
     "DND/Ward/Plot.md",
@@ -266,7 +291,6 @@
     "DND/Ward/_assets/bonmore_town_map.png",
     "DND/Ward/Locations/POI's/Whitemane forge.md",
     "DND/TyrannyOfDragons/Wetlands.md",
-    "DND/TyrannyOfDragons/Varum the white.md",
     "DND/Ward/Locations/POI's",
     "DND/Ward/Locations/Forests",
     "DND/Ward/Locations/Cities",
