@@ -8,7 +8,7 @@ The adventurers guild
 
 ...
 #### Goals and Ambitions
-Work together with every kingdom to help kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+Work together with every kingdom in the realm root out crime 
 #### Methods and Strategies 
 
 ...

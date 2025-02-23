@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "75f9f34e04478f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND/Ward/Plot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Plot"
+            }
+          },
+          {
             "id": "f9fa636bea5e11ed",
             "type": "leaf",
             "state": {
@@ -311,8 +335,8 @@
   "active": "5ca7d542be47a24c",
   "lastOpenFiles": [
     "DND/Ward/Plot.md",
-    "DND/Ward/Factions/The Decoy.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
+    "DND/Ward/Factions/The Decoy.md",
     "Beiran.md",
     "Alexus.md",
     "Kaya.md",
