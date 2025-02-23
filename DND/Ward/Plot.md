@@ -1,7 +1,7 @@
 The party knows each other already.
 
 They are wheeled in to [[Bonmore]] by cart. 
-- they've been assigned to look at what's happening at [[Bonmore]] by the big city guild leader
+- they've been assigned to look at what's happening at [[Bonmore]] by the big city guild leader to investigate the raven they got from [[Bonmore]]'s leader: 
 
 The party is tasked via several ways
 
@@ -15,4 +15,4 @@ The party is tasked via several ways
 
 to try to infiltrate an overgrown manor 
 
-Plot twist: at the end of the manor it is revealed that this is the noble man own manor 
+Plot twist: at the end of the manor (dungeon) it is revealed that the owner of the  
