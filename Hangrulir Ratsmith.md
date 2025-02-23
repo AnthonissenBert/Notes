@@ -1,19 +1,13 @@
-### general
-
+# general
 Name: [[Hangrulir Ratsmith]]
 Race: Mountain Dwarf
 Class: Hunter Ranger 13, Druid 1, Fighter 4
 Alignment: 
-
----
-### key information
-
+# key information
 Armor Class: 17
 Hit Points: 127
 Speed 35 ft.
-
----
-### ability scores
+# ability scores
 
 | Ability score | Value | Modifier |
 | ------------- | ----- | -------- |
@@ -23,9 +17,7 @@ Speed 35 ft.
 | Intelligence  | 10    | 0        |
 | Wisdom        | 14    | 2        |
 | Charisma      | 8     | -1       |
-
----
-### proficiencies / languages / saving throws / skills
+# proficiencies / languages / saving throws / skills
 
 **Saving Throws**
 **Skills** 

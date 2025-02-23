@@ -1,10 +1,10 @@
+# Description
 This is the main hunters guild active in the [[Vale of Eldrin]] and the surrounding 
-
----
-#### Leader
+# Organogram
+## Leader
 [[Hangrulir Ratsmith]]
-#### Officers
-
+## Officers
+#
 ...
 #### Goals and Ambitions
 

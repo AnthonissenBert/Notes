@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,10 +237,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14976e19dc1323eb",
+  "active": "890bfa8e3cf563be",
   "lastOpenFiles": [
-    "[Hangrulir Kragfall.md",
     "Hangrulir Ratsmith.md",
+    "[Hangrulir Kragfall.md",
     "DND/Ward/Factions/The Lodge.md",
     "[Hangrulir Ratsmith.md",
     "DND/Ward/Plot.md",
