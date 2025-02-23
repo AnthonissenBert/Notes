@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Ward/Plot.md",
+                "file": "DND/Ward/Npc's/Alexus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plot"
+              "title": "Alexus"
             }
           },
           {
@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alexus.md",
+                "file": "DND/Ward/Npc's/Alexus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -428,23 +428,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ca7d542be47a24c",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "DND/Ward/Plot.md",
     "Mozzim.md",
     "DND/Ward/Factions/The Lodge.md",
-    "DND/Ward/Plot.md",
     "DND/Ward/Factions/The Decoy.md",
     "Maumak Nalakiaga.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
     "DND/Templates/faction.template.md",
     "Beiran.md",
-    "Alexus.md",
+    "DND/Ward/Npc's/Alexus.md",
     "Kaya.md",
     "Zai.md",
     "Marmorn.md",
-    "Hangrulir Ratsmith.md",
+    "DND/Ward/Npc's/Hangrulir Ratsmith.md",
     "Oskas.md",
-    "Ian.md",
+    "DND/Ward/Npc's/Ian.md",
     "[Hangrulir Kragfall.md",
     "[Hangrulir Ratsmith.md",
     "DND/Ward/Locations/Towns/Untitled.md",
