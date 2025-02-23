@@ -3,10 +3,13 @@ This is the main hunters guild active in the [[Vale of Eldrin]] and the surround
 # Organogram
 ## Leader
 [[Hangrulir Ratsmith]]
-## Officers
+## Upper officers
 - [[Marmorn]]
 - [[Ian]]
 - [[Oskas]]
+## Middle officers
+## lowest officers
+- [[Mozzim]]
 
 # Goals and Ambitions
 

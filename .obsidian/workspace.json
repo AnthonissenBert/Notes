@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "b21868697d5207c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND/Ward/Factions/The Lodge.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Lodge"
+            }
+          },
+          {
+            "id": "dcf07cddeef5719f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mozzim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mozzim"
+            }
+          },
+          {
             "id": "aee74e8d32a9f0fc",
             "type": "leaf",
             "state": {
@@ -223,7 +271,8 @@
               "title": "Zai"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -380,11 +429,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ca7d542be47a24c",
+  "active": "dcf07cddeef5719f",
   "lastOpenFiles": [
-    "DND/Ward/Factions/The Decoy.md",
+    "Mozzim.md",
     "DND/Ward/Factions/The Lodge.md",
     "DND/Ward/Plot.md",
+    "DND/Ward/Factions/The Decoy.md",
     "Maumak Nalakiaga.md",
     "DND/Ward/Locations/Towns/Bonmore.md",
     "DND/Templates/faction.template.md",
@@ -407,7 +457,6 @@
     "DND/SlingshotDnD/oneshot.md",
     "DND/TyrannyOfDragons/the well.md",
     "DND/TyrannyOfDragons/the serpent hills.md",
-    "README.md",
     "DND/Ward/_assets",
     "DND/Ward/_assets/bonmore_town_map.png",
     "DND/Ward/Locations/POI's",
