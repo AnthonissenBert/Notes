@@ -1,5 +1,5 @@
 # Description
-The 
+The Adventuring guild in The big city
 
 ---
 # Organogram
@@ -8,3 +8,4 @@ The
 - [[Maumak Nalakiaga]]
 - [[Jithy Kalukaga]]
 # Goals and Ambitions
+To employ the less unfortunate and make more opportunities for everything
