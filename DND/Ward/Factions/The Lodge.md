@@ -2,7 +2,7 @@ This is the main hunters guild active in the [[Vale of Eldrin]] and the surround
 
 ---
 #### Leader
-[[[Hangrulir Kragfall]]
+[[Hangrulir Ratsmith]]
 #### Officers
 
 ...
