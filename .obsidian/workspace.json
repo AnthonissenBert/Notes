@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Tables/Random encounters.md",
+                "file": "DGH/proefexamen poging 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Random encounters"
+              "title": "proefexamen poging 1"
             }
           }
         ]
@@ -188,8 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd4777a4ae13a3f9",
+  "active": "14976e19dc1323eb",
   "lastOpenFiles": [
+    "Pasted image 20250405113926.png",
+    "DND/Tables/Random encounters.md",
+    "DGH/proefexamen poging 1.md",
     "DND/Ward/Plot.md",
     "DND/Ward/Locations/Legends",
     "DND/Ward/Locations/Guild Halls/Wolves' Revenge.md",
@@ -215,8 +218,6 @@
     "DND/Templates/faction.template.md",
     "DND/Ward/Party/Beiran.md",
     "DND/Ward/Npc's/Kaya.md",
-    "DND/Ward/Npc's/Hangrulir Ratsmith.md",
-    "DND/Ward/Npc's/Ian.md",
     "DND/Ward/_assets",
     "DND/Ward/_assets/bonmore_town_map.png",
     "DND/Ward/Locations/POI's",
