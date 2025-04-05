@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16fad108ed5a1557",
+        "id": "64ad33c52f9b8398",
         "type": "tabs",
         "children": [
           {
-            "id": "bd4777a4ae13a3f9",
+            "id": "9de2f0c032fe7bbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,21 +188,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd4777a4ae13a3f9",
+  "active": "9de2f0c032fe7bbd",
   "lastOpenFiles": [
-    "Pasted image 20250405114719.png",
-    "Pasted image 20250405114652.png",
-    "Pasted image 20250405114633.png",
-    "Pasted image 20250405114620.png",
-    "Pasted image 20250405114610.png",
-    "Pasted image 20250405114558.png",
-    "Pasted image 20250405114540.png",
-    "Pasted image 20250405114526.png",
-    "Pasted image 20250405114512.png",
-    "Pasted image 20250405114429.png",
-    "Pasted image 20250405113926.png",
-    "DND/Tables/Random encounters.md",
+    "DGH/De gewonde patient (deel 1).md",
+    "_assets/Pasted image 20250405114540.png",
+    "_assets/Pasted image 20250405114526.png",
+    "_assets/Pasted image 20250405114512.png",
+    "_assets/Pasted image 20250405113926.png",
     "DGH/proefexamen poging 1.md",
+    "_assets",
+    "_assets/Pasted image 20250405114719.png",
+    "_assets/Pasted image 20250405114652.png",
+    "_assets/Pasted image 20250405114633.png",
+    "_assets/Pasted image 20250405114620.png",
+    "_assets/Pasted image 20250405114610.png",
+    "_assets/Pasted image 20250405114558.png",
+    "DND/Tables/Random encounters.md",
     "DND/Ward/Plot.md",
     "DND/Ward/Locations/Legends",
     "DND/Ward/Locations/Guild Halls/Wolves' Revenge.md",
@@ -235,7 +236,6 @@
     "DND/Ward/Locations/Towns",
     "DND/Ward/Npc's",
     "DND/Ward/Locations/Noteworthy",
-    "DND/Ward/Locations/Kingdoms",
     "Untitled.canvas"
   ]
 }
