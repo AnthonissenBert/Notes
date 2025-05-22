@@ -11,10 +11,24 @@
             "id": "ce5badba13897d19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DGH/woordenlijst.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "woordenlijst"
             }
           }
         ]
@@ -176,6 +190,7 @@
   },
   "active": "ce5badba13897d19",
   "lastOpenFiles": [
+    "DGH/woordenlijst.md",
     "DGH/proefexamen poging 1.md",
     "DGH/De gewonde patient (deel 1).md",
     "_assets/Pasted image 20250405114540.png",
@@ -214,7 +229,6 @@
     "DND/Ward/Npc's/Alexus.md",
     "DND/Templates/faction.template.md",
     "DND/Ward/Party/Beiran.md",
-    "DND/Ward/Npc's/Kaya.md",
     "DND/Ward/_assets",
     "DND/Ward/Locations/POI's",
     "DND/Ward/Locations/Forests",
