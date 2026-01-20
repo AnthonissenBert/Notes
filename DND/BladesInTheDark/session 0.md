@@ -15,3 +15,7 @@
 - AC Syndicate
 # character
 Rob: Hound
+- ferret familiar
+- background: Skovlan Soldier
+- vice: faith
+Xander: 
