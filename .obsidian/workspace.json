@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Seppe/Sessions/2024-04-15.md",
+                "file": "DND/SlingshotDnD/oneshot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-04-15"
+              "title": "oneshot"
             }
           }
         ]
@@ -183,6 +183,8 @@
   },
   "active": "7552ef993dfbea72",
   "lastOpenFiles": [
+    "DND/Seppe/Sessions/2024-03-04.md",
+    "DND/Seppe/Sessions/2024-04-15.md",
     "DND/Oneshots/HP_murder_mystery/Plot.md",
     "DND/BeyondTheMournlords/Deities/Tyr.md",
     "DND/BeyondTheMournlords/Deities/skarik.md",
@@ -226,8 +228,6 @@
     "DND/TyrannyOfDragons/sessions/2024-01-14.md",
     "DND/TyrannyOfDragons/sessions/2023-12-03.md",
     "DND/TyrannyOfDragons/npcs/wiglof.md",
-    "DND/TyrannyOfDragons/npcs/voaraghamanthar.md",
-    "DND/TyrannyOfDragons/npcs/snapjaw.md",
     "DND/TyrannyOfDragons/npcs/Monsters",
     "Untitled.canvas"
   ]
