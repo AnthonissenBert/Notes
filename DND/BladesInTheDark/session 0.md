@@ -22,7 +22,3 @@ Xander: Leech
 - background: Tycheros Laborer
 - vice: pleasure
 Bert: 
-
-
-brute ghengis khan from severos
-pell from Iruvia
