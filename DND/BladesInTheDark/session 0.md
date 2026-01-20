@@ -18,4 +18,7 @@ Rob: Hound
 - ferret familiar
 - background: Skovlan Soldier
 - vice: faith
-Xander: 
+Xander: Leech
+- background: Tycheros Laborer
+- vice: pleasure
+Bert: 
