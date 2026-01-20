@@ -21,4 +21,5 @@ Rob: Hound
 Xander: Leech
 - background: Tycheros Laborer
 - vice: pleasure
-Bert: 
+Bert: Cutter
+- background: Sorovos 
