@@ -22,4 +22,5 @@ Xander: Leech
 - background: Tycheros Laborer
 - vice: pleasure
 Bert: Cutter
-- background: Sorovos 
+- background: Sorovos Laborer
+- vice: gambling
