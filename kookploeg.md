@@ -7,7 +7,7 @@
 - [ ] avond
 - aankomst (niet in thema)
 	- quesidilla
-- nachtspel
+- [ ] nachtspel
 	- warme drank (chocomelk)
 	- zoete versnapering
 ## zaterdag
@@ -29,6 +29,7 @@
 - [ ] middag
 	- [ ] restjes
 # drinken
+- [ ] ...
 # Allergieen
 - [ ] noten
 - [ ] bonen / erwtjes
