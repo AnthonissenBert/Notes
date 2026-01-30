@@ -12,9 +12,10 @@
 	- zoete versnapering
 ## zaterdag
 - [ ] ochtend
+	- [ ] 
 - [ ] middag
 - [ ] avond
-- [ ]  stoofvlees
+	- [ ]  stoofvlees met frietjes
 ## zondag
 # Allergieen
 - [ ] noten
