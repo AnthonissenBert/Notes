@@ -3,17 +3,19 @@
 - [ ] Bert
 - [ ] Joaquin
 # Menu
-# vrijdag
+## vrijdag
 - aankomst (niet in thema)
 	- 
 - nachtspel
 	- warme drank (chocomelk)
 	- zoete versnapering
-# zaterdag
-# zondag
+## zaterdag
+- [ ]  stoofvlees
+## zondag
 # Allergieen
 - [ ] noten
-- [ ] b
+- [ ] bonen / erwtjes
+- [ ] schaaldieren 
 # inventaris
 - [ ] toespijs
 - [ ] heksenkaas
