@@ -10,3 +10,7 @@
 	- zoete versnapering
 # zaterdag
 # zondag
+# inventaris
+- [ ] toespijs
+- [ ] heksenkaas
+- [ ] hummus (naturel)
