@@ -2,6 +2,7 @@
 - [ ] Raven
 - [ ] Bert
 - [ ] Joaquin
+# Menu
 # vrijdag
 - aankomst (niet in thema)
 	- 
@@ -10,6 +11,9 @@
 	- zoete versnapering
 # zaterdag
 # zondag
+# Allergieen
+- [ ] noten
+- [ ] b
 # inventaris
 - [ ] toespijs
 - [ ] heksenkaas
