@@ -21,11 +21,13 @@
 - [ ] avond
 	- [ ]  stoofvlees met frietjes
 - [ ] tijdens cantus
-	- [ ] snacks voor tijdens de cnat
+	- [ ] snacks voor tijdens de cantus
+		- frituursnacks
 ## zondag
 - [ ] ochtend
 	- [ ] wentelteefjes
 - [ ] middag
+	- [ ] restjes
 # drinken
 # Allergieen
 - [ ] noten
