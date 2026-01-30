@@ -12,7 +12,7 @@
 ## zaterdag
 - [ ] ochtend
 	- [ ] broodmaaltijd + cornflakes
-		- standaard 
+		- standaard chiro ochtend
 - [ ] middag
 	- [ ] **verse** soep met brood
 - [ ] 4 uurtje
