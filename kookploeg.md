@@ -1,7 +1,7 @@
 # wie
 - [ ] Raven
 - [ ] Bert
-- [ ] 
+- [ ] Joaquin
 # vrijdag
 - aankomst (niet in thema)
 	- 
