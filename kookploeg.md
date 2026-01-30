@@ -8,7 +8,7 @@
 	- [ ] quesidilla
 - [ ] nachtspel
 	- [ ] warme drank (chocomelk)
-	- zoete versnapering
+	- [ ] zoete versnapering
 ## zaterdag
 - [ ] ochtend
 	- [ ] broodmaaltijd + cornflakes
