@@ -13,12 +13,14 @@
 ## zaterdag
 - [ ] ochtend
 	- [ ] broodmaaltijd + cornflakes
-	- [ ] 
+		- standaard 
 - [ ] middag
+	- [ ] **verse** soep
 - [ ] avond
 	- [ ]  stoofvlees met frietjes
 ## zondag
 - [ ] wentelteefjes
+# drinken
 # Allergieen
 - [ ] noten
 - [ ] bonen / erwtjes
