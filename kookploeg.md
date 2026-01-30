@@ -3,7 +3,10 @@
 - [ ] Bert
 - [ ] 
 # vrijdag
+- aankomst (niet in thema)
+	- 
 - nachtspel
-	- warme drank
+	- warme drank (chocomelk)
+	- zoete versnapering
 # zaterdag
 # zondag
