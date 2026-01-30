@@ -5,10 +5,9 @@
 # Menu
 ## vrijdag
 - [ ] avond
-- aankomst (niet in thema)
-	- quesidilla
+	- [ ] quesidilla
 - [ ] nachtspel
-	- warme drank (chocomelk)
+	- [ ] warme drank (chocomelk)
 	- zoete versnapering
 ## zaterdag
 - [ ] ochtend
@@ -29,7 +28,7 @@
 - [ ] middag
 	- [ ] restjes
 # drinken
-- [ ] ...
+- [ ] piedboeff ipv water
 # Allergieen
 - [ ] noten
 - [ ] bonen / erwtjes
