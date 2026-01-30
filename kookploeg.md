@@ -33,7 +33,9 @@
 - [ ] noten
 - [ ] bonen / erwtjes
 - [ ] schaaldieren 
+- [ ] ...
 # inventaris
 - [ ] toespijs
 - [ ] heksenkaas
 - [ ] hummus (naturel)
+- [ ] ...
