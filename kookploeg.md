@@ -17,11 +17,15 @@
 - [ ] middag
 	- [ ] **verse** soep met brood
 - [ ] 4 uurtje
-	- [ ] verschillende 4 uurtjes met een dobbelsteen roll
+	- [ ] verschillende 4 uurtjes met een dobbelsteen roll, max d20
 - [ ] avond
 	- [ ]  stoofvlees met frietjes
+- [ ] tijdens cantus
+	- [ ] snacks voor tijdens de cnat
 ## zondag
-- [ ] wentelteefjes
+- [ ] ochtend
+	- [ ] wentelteefjes
+- [ ] middag
 # drinken
 # Allergieen
 - [ ] noten
