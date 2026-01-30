@@ -12,11 +12,13 @@
 	- zoete versnapering
 ## zaterdag
 - [ ] ochtend
+	- [ ] broodmaaltijd + cornflakes
 	- [ ] 
 - [ ] middag
 - [ ] avond
 	- [ ]  stoofvlees met frietjes
 ## zondag
+- [ ] wentelteefjes
 # Allergieen
 - [ ] noten
 - [ ] bonen / erwtjes
