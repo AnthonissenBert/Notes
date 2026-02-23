@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "kookploeg"
             }
+          },
+          {
+            "id": "e9b99fa2d81715a6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7552ef993dfbea72",
+  "active": "e9b99fa2d81715a6",
   "lastOpenFiles": [
     "DND/BladesInTheDark/session 0.md",
     "kookploeg.md",
