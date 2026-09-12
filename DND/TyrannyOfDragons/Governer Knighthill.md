@@ -1,0 +1,1 @@
+governer of [[Greenest]] and appointed as speaker of the south for the [[Metallic Conclave]]
