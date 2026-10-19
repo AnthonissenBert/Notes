@@ -1,0 +1,1 @@
+weapon with ancient black dragon trapped inside
