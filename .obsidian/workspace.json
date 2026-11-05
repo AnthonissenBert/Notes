@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "AZ-104"
             }
+          },
+          {
+            "id": "2441a8c38196f1e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7552ef993dfbea72",
+  "active": "2441a8c38196f1e4",
   "lastOpenFiles": [
     "kookploeg.md",
     "CERTIFICATIONS/AZ-104.md",
